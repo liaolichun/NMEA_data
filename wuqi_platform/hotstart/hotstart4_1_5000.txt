@@ -1,0 +1,3172 @@
+FlashID=0x1 0x20 0x18
+BBram_blkflag1: 3df4: c20b
+FW Ver: 1.30  
+GPS00 Init Dop:   5000, 40
+GPS01 Init Dop:   5000, 40
+GPS02 Init Dop:   5000, 40
+GPS03 Init Dop:   5000, 40
+GPS04 Init Dop:   5000, 40
+GPS05 Init Dop:   5000, 40
+GPS06 Init Dop:   5000, 40
+GPS07 Init Dop:   5000, 40
+GPS08 Init Dop:   5000, 40
+GPS09 Init Dop:   5000, 40
+GPS10 Init Dop:   5000, 40
+GPS11 Init Dop:   5000, 40
+GPS12 Init Dop:   5000, 40
+GPS13 Init Dop:   5000, 40
+GPS14 Init Dop:   5000, 40
+GPS15 Init Dop:   5000, 40
+GPS16 Init Dop:   5000, 40
+GPS17 Init Dop:   5000, 40
+GPS18 Init Dop:   5000, 40
+GPS19 Init Dop:   5000, 40
+GPS20 Init Dop:   5000, 40
+GPS21 Init Dop:   5000, 40
+GPS22 Init Dop:   5000, 40
+GPS23 Init Dop:   5000, 40
+GPS24 Init Dop:   5000, 40
+GPS25 Init Dop:   5000, 40
+GPS26 Init Dop:   5000, 40
+GPS27 Init Dop:   5000, 40
+GPS28 Init Dop:   5000, 40
+GPS29 Init Dop:   5000, 40
+GPS30 Init Dop:   5000, 40
+GPS31 Init Dop:   5000, 40
+BDS00 Init Dop:   5000, 40
+BDS01 Init Dop:   5000, 40
+BDS02 Init Dop:   5000, 40
+BDS03 Init Dop:   5000, 40
+BDS04 Init Dop:   5000, 40
+BDS05 Init Dop:   5000, 40
+BDS06 Init Dop:   5000, 40
+BDS07 Init Dop:   5000, 40
+BDS08 Init Dop:   5000, 40
+BDS09 Init Dop:   5000, 40
+BDS10 Init Dop:   5000, 40
+BDS11 Init Dop:   5000, 40
+BDS12 Init Dop:   5000, 40
+BDS13 Init Dop:   5000, 40
+BDS14 Init Dop:   5000, 40
+BDS15 Init Dop:   5000, 40
+BDS16 Init Dop:   5000, 40
+BDS17 Init Dop:   5000, 40
+BDS18 Init Dop:   5000, 40
+BDS19 Init Dop:   5000, 40
+BDS20 Init Dop:   5000, 40
+BDS21 Init Dop:   5000, 40
+BDS22 Init Dop:   5000, 40
+BDS23 Init Dop:   5000, 40
+BDS24 Init Dop:   5000, 40
+BDS25 Init Dop:   5000, 40
+BDS26 Init Dop:   5000, 40
+BDS27 Init Dop:   5000, 40
+BDS28 Init Dop:   5000, 40
+BDS29 Init Dop:   5000, 40
+BDS30 Init Dop:   5000, 40
+BDS31 Init Dop:   5000, 40
+GPS acq_max:1275
+GPS acq_max:1194
+GPS acq_max:1207
+GPS acq_max:1150
+GPS acq_max:1252
+GPS acq_max:1255
+GPS acq_max:1157
+GPS acq_max:1132
+SatID=0
+GPS acq_max:1124
+GPS acq_max:1219
+GPS acq_max:1230
+GPS acq_max:1234
+GPS acq_max:1187
+GPS acq_max:1152
+GPS acq_max:1097
+GPS acq_max:1134
+SatID=0
+GPS acq_max:3050
+GPS acq_max:3556
+GPS acq_max:3066
+GPS acq_max:3049
+GPS acq_max:3089
+GPS acq_max:3101
+GPS acq_max:2937
+GPS acq_max:3249
+SatID=0
+GPS acq_max:4253
+GPS acq_max:4111
+GPS acq_max:4114
+GPS acq_max:3916
+GPS acq_max:4116
+GPS acq_max:6831
+GPS acq_max:7172
+GPS acq_max:5385
+SatID=0
+GPS acq_max:4055
+GPS acq_max:4149
+GPS acq_max:3978
+GPS acq_max:4681
+GPS acq_max:4366
+GPS acq_max:4193
+GPS acq_max:4193
+GPS acq_max:4395
+SatID=0
+sat0 = 7172 798 1379 -2500
+ch0 satid=0,max_freq = -2500,max_mean = 1379,max_phase = 798,max_value = 7172,acq ok1!
+acq ok1 timeH = 0,timeL = 1498953,freq_stage = 4
+GPS acq_max:4274
+GPS acq_max:4106
+GPS acq_max:4035
+GPS acq_max:3659
+GPS acq_max:4057
+GPS acq_max:3963
+GPS acq_max:4150
+GPS acq_max:4118
+SatID=1
+GPS acq_max:4185
+GPS acq_max:4424
+GPS acq_max:4694
+GPS acq_max:5916
+GPS acq_max:5807
+GPS acq_max:5444
+GPS acq_max:4690
+GPS acq_max:4313
+SatID=1
+GPS acq_max:4653
+GPS acq_max:4413
+GPS acq_max:3615
+GPS acq_max:3745
+GPS acq_max:4170
+GPS acq_max:4016
+GPS acq_max:4031
+GPS acq_max:4684
+SatID=1
+GPS acq_max:4002
+GPS acq_max:4169
+GPS acq_max:3939
+GPS acq_max:3981
+GPS acq_max:5009
+GPS acq_max:4209
+GPS acq_max:4066
+GPS acq_max:3957
+SatID=1
+GPS acq_max:4439
+GPS acq_max:4389
+GPS acq_max:4247
+GPS acq_max:4150
+GPS acq_max:4354
+GPS acq_max:4220
+GPS acq_max:4306
+GPS acq_max:3991
+SatID=1
+sat1 = 5916 482 2095 2250
+GPS acq_max:4162
+GPS acq_max:4050
+GPS acq_max:4341
+GPS acq_max:4463
+GPS acq_max:3920
+GPS acq_max:3975
+GPS acq_max:4114
+GPS acq_max:4544
+SatID=2
+GPS acq_max:4458
+GPS acq_max:4674
+GPS acq_max:4246
+GPS acq_max:4284
+GPS acq_max:4340
+GPS acq_max:4705
+GPS acq_max:4285
+GPS acq_max:3950
+SatID=2
+GPS acq_max:4348
+GPS acq_max:3753
+GPS acq_max:3727
+GPS acq_max:3945
+GPS acq_max:4056
+GPS acq_max:4187
+GPS acq_max:4243
+GPS acq_max:4054
+SatID=2
+GPS acq_max:4223
+GPS acq_max:4154
+GPS acq_max:4210
+GPS acq_max:4272
+GPS acq_max:11961
+GPS acq_max:23969
+GPS acq_max:29553
+GPS acq_max:26508
+SatID=2
+GPS acq_max:13624
+GPS acq_max:5727
+GPS acq_max:4553
+GPS acq_max:3868
+GPS acq_max:4479
+GPS acq_max:4112
+GPS acq_max:3896
+GPS acq_max:4027
+SatID=2
+sat2 = 29553 850 2122 -2500
+ch1 satid=2,max_freq = -2500,max_mean = 2122,max_phase = 850,max_value = 29553,acq ok1!
+acq ok1 timeH = 0,timeL = 6044844,freq_stage = 4
+GPS acq_max:3876
+GPS acq_max:3827
+GPS acq_max:3811
+GPS acq_max:4322
+GPS acq_max:3994
+GPS acq_max:3756
+GPS acq_max:3809
+GPS acq_max:3837
+SatID=3
+GPS acq_max:4379
+GPS acq_max:4001
+GPS acq_max:3976
+GPS acq_max:4784
+GPS acq_max:4521
+GPS acq_max:4364
+GPS acq_max:4238
+GPS acq_max:4142
+SatID=3
+GPS acq_max:4164
+GPS acq_max:4294
+GPS acq_max:4205
+GPS acq_max:3930
+GPS acq_max:4277
+GPS acq_max:4196
+GPS acq_max:4428
+GPS acq_max:4472
+SatID=3
+GPS acq_max:4127
+GPS acq_max:4016
+GPS acq_max:3938
+GPS acq_max:4215
+GPS acq_max:4024
+GPS acq_max:3917
+GPS acq_max:4526
+GPS acq_max:4191
+SatID=3
+GPS acq_max:4251
+GPS acq_max:4074
+GPS acq_max:3916
+GPS acq_max:3921
+GPS acq_max:4155
+GPS acq_max:4111
+GPS acq_max:4125
+GPS acq_max:4120
+SatID=3
+sat3 = 4784 1250 2091 2250
+GPS acq_max:3809
+GPS acq_max:4715
+GPS acq_max:4222
+GPS acq_max:4213
+GPS acq_max:3979
+GPS acq_max:3821
+GPS acq_max:4168
+GPS acq_max:3943
+SatID=4
+GPS acq_max:4505
+GPS acq_max:4155
+GPS acq_max:4128
+GPS acq_max:4303
+GPS acq_max:3872
+GPS acq_max:3954
+GPS acq_max:4149
+GPS acq_max:4118
+SatID=4
+GPS acq_max:4082
+GPS acq_max:4577
+GPS acq_max:4389
+GPS acq_max:4368
+GPS acq_max:4338
+GPS acq_max:4655
+GPS acq_max:4323
+GPS acq_max:4067
+SatID=4
+GPS acq_max:4031
+GPS acq_max:4589
+GPS acq_max:4380
+GPS acq_max:4225
+GPS acq_max:3839
+GPS acq_max:4691
+GPS acq_max:4463
+GPS acq_max:4086
+SatID=4
+GPS acq_max:4205
+GPS acq_max:4074
+GPS acq_max:4216
+GPS acq_max:4199
+GPS acq_max:4848
+GPS acq_max:4004
+GPS acq_max:4086
+GPS acq_max:3909
+SatID=4
+sat4 = 4848 154 2101 -4000
+GPS acq_max:4043
+GPS acq_max:4293
+GPS acq_max:4440
+GPS acq_max:4325
+GPS acq_max:4325
+GPS acq_max:4076
+GPS acq_max:4258
+GPS acq_max:4233
+SatID=5
+GPS acq_max:3851
+GPS acq_max:4121
+GPS acq_max:4163
+GPS acq_max:3915
+GPS acq_max:11260
+GPS acq_max:30594
+GPS acq_max:51576
+GPS acq_max:56376
+SatID=5
+GPS acq_max:38593
+GPS acq_max:15725
+GPS acq_max:4392
+GPS acq_max:3854
+GPS acq_max:4339
+GPS acq_max:4577
+GPS acq_max:3841
+GPS acq_max:3945
+SatID=5
+GPS acq_max:4021
+GPS acq_max:4709
+GPS acq_max:4600
+GPS acq_max:4861
+GPS acq_max:3958
+GPS acq_max:3864
+GPS acq_max:4007
+GPS acq_max:4089
+SatID=5
+GPS acq_max:4138
+GPS acq_max:3968
+GPS acq_max:4214
+GPS acq_max:4113
+GPS acq_max:3858
+GPS acq_max:3848
+GPS acq_max:4168
+GPS acq_max:3946
+SatID=5
+sat5 = 56376 1706 2097 1250
+ch2 satid=5,max_freq = 1250,max_mean = 2097,max_phase = 1706,max_value = 56376,acq ok1!
+acq ok1 timeH = 0,timeL = 11962166,freq_stage = 2
+GPS acq_max:3943
+GPS acq_max:4261
+GPS acq_max:4148
+GPS acq_max:3963
+GPS acq_max:4391
+GPS acq_max:4020
+GPS acq_max:3873
+GPS acq_max:3891
+SatID=6
+GPS acq_max:4015
+GPS acq_max:3896
+GPS acq_max:4178
+GPS acq_max:4107
+GPS acq_max:4013
+GPS acq_max:4011
+GPS acq_max:4709
+GPS acq_max:4424
+SatID=6
+GPS acq_max:4604
+GPS acq_max:4174
+GPS acq_max:4328
+GPS acq_max:3894
+GPS acq_max:4364
+GPS acq_max:4360
+GPS acq_max:4232
+GPS acq_max:3970
+SatID=6
+GPS acq_max:4012
+GPS acq_max:4518
+GPS acq_max:4066
+GPS acq_max:4001
+GPS acq_max:4135
+GPS acq_max:4204
+GPS acq_max:4135
+GPS acq_max:4446
+SatID=6
+GPS acq_max:4668
+GPS acq_max:3848
+GPS acq_max:4231
+GPS acq_max:3951
+GPS acq_max:4264
+GPS acq_max:4755
+GPS acq_max:4226
+GPS acq_max:4509
+SatID=6
+sat6 = 4755 632 2128 -4250
+GPS acq_max:3958
+GPS acq_max:4344
+GPS acq_max:4247
+GPS acq_max:3915
+GPS acq_max:3949
+GPS acq_max:4030
+GPS acq_max:4371
+GPS acq_max:3936
+SatID=7
+GPS acq_max:4024
+GPS acq_max:4286
+GPS acq_max:4149
+GPS acq_max:4176
+GPS acq_max:3855
+GPS acq_max:3801
+GPS acq_max:4382
+GPS acq_max:4133
+SatID=7
+GPS acq_max:4221
+GPS acq_max:3994
+GPS acq_max:3872
+GPS acq_max:4035
+GPS acq_max:4136
+GPS acq_max:3860
+GPS acq_max:3741
+GPS acq_max:3882
+SatID=7
+GPS acq_max:3887
+GPS acq_max:3720
+GPS acq_max:3823
+GPS acq_max:4012
+GPS acq_max:3998
+GPS acq_max:4712
+GPS acq_max:3833
+GPS acq_max:4065
+SatID=7
+GPS acq_max:4059
+GPS acq_max:3837
+GPS acq_max:3842
+GPS acq_max:3845
+GPS acq_max:3976
+GPS acq_max:3852
+GPS acq_max:3708
+GPS acq_max:4022
+SatID=7
+sat7 = 4712 350 2043 -2250
+GPS acq_max:3899
+GPS acq_max:3861
+GPS acq_max:3895
+GPS acq_max:3782
+GPS acq_max:3934
+GPS acq_max:3887
+GPS acq_max:4052
+GPS acq_max:3750
+SatID=8
+---00000001--- Acq_st=3 2019-5-25 09:07:17 
+[00]  G01  1  7   2495.3 2045997.7  0.0  0.0  1  0         0
+[01]  G03  1 25   2542.8 2045997.4 -0.0  0.0  1  0         0
+[02]  G06  1  7  -1285.7 2046003.4  0.0  0.0  1  0         0
+GPS acq_max:3825
+GPS acq_max:3796
+GPS acq_max:3990
+GPS acq_max:4465
+GPS acq_max:4183
+GPS acq_max:4122
+GPS acq_max:4015
+GPS acq_max:3875
+SatID=8
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+GPS acq_max:4080
+GPS acq_max:4189
+GPS acq_max:4217
+GPS acq_max:3943
+GPS acq_max:3947
+GPS acq_max:3944
+GPS acq_max:4347
+GPS acq_max:3852
+SatID=8
+GPS acq_max:3845
+GPS acq_max:3790
+GPS acq_max:3713
+GPS acq_max:3780
+GPS acq_max:3970
+GPS acq_max:3968
+GPS acq_max:3876
+GPS acq_max:3910
+SatID=8
+GPS acq_max:4307
+GPS acq_max:3929
+GPS acq_max:3807
+GPS acq_max:3643
+GPS acq_max:4188
+GPS acq_max:4198
+GPS acq_max:4395
+GPS acq_max:4783
+SatID=8
+sat8 = 4783 1544 2043 -4750
+GPS acq_max:4047
+GPS acq_max:4206
+GPS acq_max:4403
+GPS acq_max:4056
+GPS acq_max:3917
+GPS acq_max:3962
+GPS acq_max:4511
+GPS acq_max:4842
+SatID=9
+GPS acq_max:4554
+GPS acq_max:3812
+GPS acq_max:3825
+GPS acq_max:4342
+GPS acq_max:4003
+GPS acq_max:4300
+GPS acq_max:3939
+GPS acq_max:4331
+SatID=9
+GPS acq_max:3838
+GPS acq_max:4202
+GPS acq_max:3989
+GPS acq_max:3867
+GPS acq_max:3972
+GPS acq_max:4307
+GPS acq_max:3892
+GPS acq_max:3820
+SatID=9
+GPS acq_max:3950
+GPS acq_max:3802
+GPS acq_max:4171
+GPS acq_max:4461
+GPS acq_max:4221
+GPS acq_max:3843
+GPS acq_max:4144
+GPS acq_max:3900
+SatID=9
+GPS acq_max:3888
+GPS acq_max:3873
+GPS acq_max:3733
+GPS acq_max:4087
+GPS acq_max:4361
+GPS acq_max:4380
+GPS acq_max:4112
+GPS acq_max:4399
+SatID=9
+sat9 = 4842 1117 2086 3250
+GPS acq_max:3968
+GPS acq_max:4122
+GPS acq_max:4634
+GPS acq_max:3984
+GPS acq_max:4610
+GPS acq_max:3948
+GPS acq_max:4153
+GPS acq_max:3920
+SatID=10
+GPS acq_max:4730
+GPS acq_max:4119
+GPS acq_max:3943
+GPS acq_max:4181
+GPS acq_max:4248
+GPS acq_max:3905
+GPS acq_max:4190
+GPS acq_max:4017
+SatID=10
+GPS acq_max:4424
+GPS acq_max:4429
+GPS acq_max:4245
+GPS acq_max:3788
+GPS acq_max:3970
+GPS acq_max:3792
+GPS acq_max:4153
+GPS acq_max:4492
+SatID=10
+GPS acq_max:4205
+GPS acq_max:4139
+GPS acq_max:4104
+GPS acq_max:3850
+GPS acq_max:3766
+GPS acq_max:4291
+GPS acq_max:4190
+GPS acq_max:4309
+SatID=10
+GPS acq_max:4067
+GPS acq_max:3800
+GPS acq_max:3823
+GPS acq_max:4072
+GPS acq_max:3773
+GPS acq_max:4423
+GPS acq_max:3833
+GPS acq_max:4040
+SatID=10
+sat10 = 4730 207 2081 3000
+GPS acq_max:4333
+GPS acq_max:4059
+GPS acq_max:3999
+GPS acq_max:9720
+GPS acq_max:18167
+GPS acq_max:22877
+GPS acq_max:19418
+GPS acq_max:9990
+SatID=11
+GPS acq_max:3886
+GPS acq_max:4139
+GPS acq_max:3867
+GPS acq_max:4061
+GPS acq_max:4065
+GPS acq_max:3760
+GPS acq_max:3897
+GPS acq_max:4264
+SatID=11
+GPS acq_max:4137
+GPS acq_max:4063
+GPS acq_max:3978
+GPS acq_max:4183
+GPS acq_max:3850
+GPS acq_max:4194
+GPS acq_max:4156
+GPS acq_max:3966
+SatID=11
+GPS acq_max:4058
+GPS acq_max:4054
+GPS acq_max:3888
+GPS acq_max:4262
+GPS acq_max:3812
+GPS acq_max:3932
+GPS acq_max:3988
+GPS acq_max:4085
+SatID=11
+GPS acq_max:4098
+GPS acq_max:4193
+GPS acq_max:4348
+GPS acq_max:4282
+GPS acq_max:4011
+GPS acq_max:4310
+GPS acq_max:4049
+GPS acq_max:4171
+SatID=11
+sat11 = 22877 1259 2060 3750
+ch3 satid=11,max_freq = 3750,max_mean = 2060,max_phase = 1259,max_value = 22877,acq ok1!
+acq ok1 timeH = 0,timeL = 25147994,freq_stage = 1
+GPS acq_max:3888
+GPS acq_max:4082
+GPS acq_max:4101
+GPS acq_max:3630
+GPS acq_max:4268
+GPS acq_max:4088
+GPS acq_max:4003
+GPS acq_max:3879
+SatID=12
+GPS acq_max:3925
+GPS acq_max:3982
+GPS acq_max:3956
+GPS acq_max:3949
+GPS acq_max:4689
+GPS acq_max:4035
+GPS acq_max:3928
+GPS acq_max:4437
+SatID=12
+GPS acq_max:4076
+GPS acq_max:4123
+GPS acq_max:3958
+GPS acq_max:3961
+GPS acq_max:3938
+GPS acq_max:3883
+GPS acq_max:4134
+GPS acq_max:4057
+SatID=12
+GPS acq_max:4406
+GPS acq_max:3813
+GPS acq_max:4088
+GPS acq_max:4229
+GPS acq_max:3860
+GPS acq_max:4075
+GPS acq_max:4086
+GPS acq_max:3880
+SatID=12
+GPS acq_max:4112
+GPS acq_max:3856
+GPS acq_max:4238
+GPS acq_max:3967
+GPS acq_max:3634
+GPS acq_max:3806
+GPS acq_max:4198
+GPS acq_max:3960
+SatID=12
+sat12 = 4689 920 2064 2000
+GPS acq_max:3894
+GPS acq_max:4053
+GPS acq_max:4157
+GPS acq_max:4179
+GPS acq_max:3929
+GPS acq_max:3964
+GPS acq_max:4252
+GPS acq_max:4363
+SatID=13
+GPS acq_max:4058
+GPS acq_max:4016
+GPS acq_max:4356
+GPS acq_max:4110
+GPS acq_max:3955
+GPS acq_max:4099
+GPS acq_max:3985
+GPS acq_max:4395
+SatID=13
+GPS acq_max:3946
+GPS acq_max:4233
+GPS acq_max:4431
+GPS acq_max:4056
+GPS acq_max:3769
+GPS acq_max:3811
+GPS acq_max:4107
+GPS acq_max:3905
+SatID=13
+GPS acq_max:3853
+GPS acq_max:3732
+GPS acq_max:4019
+GPS acq_max:4086
+GPS acq_max:4156
+GPS acq_max:4042
+GPS acq_max:4169
+GPS acq_max:4526
+SatID=13
+GPS acq_max:4739
+GPS acq_max:3942
+GPS acq_max:3774
+GPS acq_max:3814
+GPS acq_max:4153
+GPS acq_max:4523
+GPS acq_max:4229
+GPS acq_max:3818
+SatID=13
+sat13 = 4739 1189 2057 -3000
+GPS acq_max:4098
+GPS acq_max:3791
+GPS acq_max:3953
+GPS acq_max:4427
+GPS acq_max:3811
+GPS acq_max:4235
+GPS acq_max:4213
+GPS acq_max:4059
+SatID=14
+GPS acq_max:3839
+GPS acq_max:4404
+GPS acq_max:4086
+GPS acq_max:4069
+GPS acq_max:3924
+GPS acq_max:3903
+GPS acq_max:4193
+GPS acq_max:4029
+SatID=14
+GPS acq_max:4281
+GPS acq_max:3869
+GPS acq_max:3868
+GPS acq_max:4522
+GPS acq_max:4021
+GPS acq_max:4295
+GPS acq_max:5264
+GPS acq_max:5349
+SatID=14
+GPS acq_max:3948
+GPS acq_max:4055
+GPS acq_max:4067
+GPS acq_max:4085
+GPS acq_max:3939
+GPS acq_max:4160
+GPS acq_max:4535
+GPS acq_max:3906
+SatID=14
+GPS acq_max:3888
+GPS acq_max:3846
+GPS acq_max:3809
+GPS acq_max:3824
+GPS acq_max:4058
+GPS acq_max:3873
+GPS acq_max:3818
+GPS acq_max:3829
+SatID=14
+sat14 = 5349 996 2059 -750
+GPS acq_max:3851
+GPS acq_max:4100
+GPS acq_max:4017
+GPS acq_max:3746
+GPS acq_max:3738
+GPS acq_max:4197
+GPS acq_max:4136
+GPS acq_max:3786
+SatID=15
+GPS acq_max:3804
+GPS acq_max:3943
+GPS acq_max:3752
+GPS acq_max:4204
+GPS acq_max:3843
+GPS acq_max:3994
+GPS acq_max:4210
+GPS acq_max:4616
+SatID=15
+GPS acq_max:4109
+GPS acq_max:3788
+GPS acq_max:3908
+GPS acq_max:3723
+GPS acq_max:4814
+GPS acq_max:4168
+GPS acq_max:3873
+GPS acq_max:3983
+SatID=15
+GPS acq_max:5030
+GPS acq_max:4243
+GPS acq_max:4607
+GPS acq_max:4149
+GPS acq_max:4183
+GPS acq_max:4896
+GPS acq_max:4730
+GPS acq_max:4242
+SatID=15
+GPS acq_max:4046
+GPS acq_max:4048
+GPS acq_max:3858
+GPS acq_max:4092
+GPS acq_max:3790
+GPS acq_max:4150
+GPS acq_max:4493
+GPS acq_max:4031
+SatID=15
+sat15 = 5030 3 2053 -1000
+GPS acq_max:3841
+GPS acq_max:4055
+GPS acq_max:4169
+GPS acq_max:3917
+GPS acq_max:3836
+GPS acq_max:4018
+GPS acq_max:3921
+GPS acq_max:4151
+SatID=16
+GPS acq_max:3882
+GPS acq_max:3770
+GPS acq_max:4259
+GPS acq_max:4587
+GPS acq_max:4315
+GPS acq_max:4731
+GPS acq_max:5491
+GPS acq_max:7598
+SatID=16
+GPS acq_max:9711
+GPS acq_max:7916
+GPS acq_max:4246
+GPS acq_max:4060
+GPS acq_max:3724
+GPS acq_max:3717
+GPS acq_max:3800
+GPS acq_max:4207
+SatID=16
+GPS acq_max:4234
+GPS acq_max:4436
+GPS acq_max:4096
+GPS acq_max:4182
+GPS acq_max:4053
+GPS acq_max:4329
+GPS acq_max:4182
+GPS acq_max:4600
+SatID=16
+---00000002--- Acq_st=3 2019-5-25 09:07:18 
+[00]  G01  7  7   2396.0 2045996.8 -0.1 -1.0 20  0        14
+[01]  G03  7 24   2540.3 2045996.6  0.4  0.0 20  0        17
+[02]  G06  1 32  -1311.0 2046002.0  0.1  0.0  1  0         1
+[03]  G12  1 27  -3758.0 2046006.1 -0.1  0.0  1  0         0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,1,1,01,03,00,000,24*4D
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+GPS acq_max:4103
+GPS acq_max:3984
+GPS acq_max:3975
+GPS acq_max:3732
+GPS acq_max:4017
+GPS acq_max:4017
+GPS acq_max:3883
+GPS acq_max:4526
+SatID=16
+sat16 = 9711 528 2030 1000
+ch4 satid=16,max_freq = 1000,max_mean = 2030,max_phase = 528,max_value = 9711,acq ok1!
+acq ok1 timeH = 0,timeL = 37415416,freq_stage = 3
+GPS acq_max:4460
+GPS acq_max:3589
+GPS acq_max:3825
+GPS acq_max:3795
+GPS acq_max:3967
+GPS acq_max:3830
+GPS acq_max:3792
+GPS acq_max:4216
+SatID=17
+GPS acq_max:3805
+GPS acq_max:3630
+GPS acq_max:3847
+GPS acq_max:3777
+GPS acq_max:3715
+GPS acq_max:4104
+GPS acq_max:4013
+GPS acq_max:3895
+SatID=17
+GPS acq_max:4065
+GPS acq_max:4056
+GPS acq_max:4256
+GPS acq_max:3759
+GPS acq_max:4011
+GPS acq_max:4353
+GPS acq_max:4393
+GPS acq_max:4109
+SatID=17
+GPS acq_max:3873
+GPS acq_max:4104
+GPS acq_max:3762
+GPS acq_max:3899
+GPS acq_max:3997
+GPS acq_max:3927
+GPS acq_max:4115
+GPS acq_max:4390
+SatID=17
+GPS acq_max:3776
+GPS acq_max:4390
+GPS acq_max:4263
+GPS acq_max:4110
+GPS acq_max:3986
+GPS acq_max:3996
+GPS acq_max:3859
+GPS acq_max:3863
+SatID=17
+sat17 = 4460 902 2043 5000
+GPS acq_max:3991
+GPS acq_max:5248
+GPS acq_max:4495
+GPS acq_max:4002
+GPS acq_max:4110
+GPS acq_max:3820
+GPS acq_max:4236
+GPS acq_max:3980
+SatID=18
+GPS acq_max:3781
+GPS acq_max:3820
+GPS acq_max:13278
+GPS acq_max:30582
+GPS acq_max:45729
+GPS acq_max:45145
+GPS acq_max:29628
+GPS acq_max:11149
+SatID=18
+GPS acq_max:4618
+GPS acq_max:4451
+GPS acq_max:4669
+GPS acq_max:4242
+GPS acq_max:4278
+GPS acq_max:4208
+GPS acq_max:4351
+GPS acq_max:4242
+SatID=18
+GPS acq_max:4875
+GPS acq_max:4075
+GPS acq_max:4361
+GPS acq_max:4301
+GPS acq_max:4124
+GPS acq_max:3778
+GPS acq_max:4516
+GPS acq_max:4415
+SatID=18
+GPS acq_max:3974
+GPS acq_max:4231
+GPS acq_max:4108
+GPS acq_max:3728
+GPS acq_max:4525
+GPS acq_max:4239
+GPS acq_max:3982
+GPS acq_max:4068
+SatID=18
+sat18 = 45729 620 2096 2000
+ch5 satid=18,max_freq = 2000,max_mean = 2096,max_phase = 620,max_value = 45729,acq ok1!
+acq ok1 timeH = 0,timeL = 41510560,freq_stage = 2
+GPS acq_max:4570
+GPS acq_max:4379
+GPS acq_max:4453
+GPS acq_max:3842
+GPS acq_max:4098
+GPS acq_max:3870
+GPS acq_max:3963
+GPS acq_max:3912
+SatID=19
+GPS acq_max:4514
+GPS acq_max:4372
+GPS acq_max:4718
+GPS acq_max:4408
+GPS acq_max:4333
+GPS acq_max:4446
+GPS acq_max:4610
+GPS acq_max:3979
+SatID=19
+GPS acq_max:3886
+GPS acq_max:4362
+GPS acq_max:3894
+GPS acq_max:3749
+GPS acq_max:4018
+GPS acq_max:3810
+GPS acq_max:4024
+GPS acq_max:3791
+SatID=19
+GPS acq_max:4244
+GPS acq_max:3790
+GPS acq_max:4108
+GPS acq_max:3852
+GPS acq_max:4472
+GPS acq_max:4619
+GPS acq_max:3688
+GPS acq_max:3750
+SatID=19
+GPS acq_max:3991
+GPS acq_max:4284
+GPS acq_max:4007
+GPS acq_max:3787
+GPS acq_max:4445
+GPS acq_max:4059
+GPS acq_max:4183
+GPS acq_max:3784
+SatID=19
+sat19 = 4718 1815 2082 2500
+GPS acq_max:3849
+GPS acq_max:4358
+GPS acq_max:3823
+GPS acq_max:3900
+GPS acq_max:4040
+GPS acq_max:4382
+GPS acq_max:3583
+GPS acq_max:4256
+SatID=20
+GPS acq_max:3952
+GPS acq_max:4129
+GPS acq_max:4108
+GPS acq_max:4024
+GPS acq_max:4560
+GPS acq_max:4679
+GPS acq_max:4693
+GPS acq_max:4362
+SatID=20
+GPS acq_max:3995
+GPS acq_max:4486
+GPS acq_max:4019
+GPS acq_max:4039
+GPS acq_max:4136
+GPS acq_max:4015
+GPS acq_max:4085
+GPS acq_max:4314
+SatID=20
+GPS acq_max:4134
+GPS acq_max:3842
+GPS acq_max:4644
+GPS acq_max:4184
+GPS acq_max:4522
+GPS acq_max:4831
+GPS acq_max:4066
+GPS acq_max:3917
+SatID=20
+GPS acq_max:4718
+GPS acq_max:4335
+GPS acq_max:4091
+GPS acq_max:4649
+GPS acq_max:4222
+GPS acq_max:4031
+GPS acq_max:3826
+GPS acq_max:4446
+SatID=20
+sat20 = 4831 1808 2079 -2250
+GPS acq_max:4030
+GPS acq_max:4092
+GPS acq_max:4839
+GPS acq_max:4476
+GPS acq_max:3880
+GPS acq_max:3961
+GPS acq_max:4014
+GPS acq_max:3875
+SatID=21
+GPS acq_max:4442
+GPS acq_max:4107
+GPS acq_max:3989
+GPS acq_max:4005
+GPS acq_max:4165
+GPS acq_max:3951
+GPS acq_max:4076
+GPS acq_max:3874
+SatID=21
+GPS acq_max:4079
+GPS acq_max:4044
+GPS acq_max:3976
+GPS acq_max:3908
+GPS acq_max:3814
+GPS acq_max:4142
+GPS acq_max:4560
+GPS acq_max:4463
+SatID=21
+GPS acq_max:3594
+GPS acq_max:4203
+GPS acq_max:4300
+GPS acq_max:4605
+GPS acq_max:4008
+GPS acq_max:3652
+GPS acq_max:6139
+GPS acq_max:10379
+SatID=21
+GPS acq_max:9825
+GPS acq_max:8363
+GPS acq_max:4984
+GPS acq_max:4292
+GPS acq_max:4301
+GPS acq_max:4425
+GPS acq_max:4197
+GPS acq_max:3928
+SatID=21
+sat21 = 10379 96 2087 -2750
+ch6 satid=21,max_freq = -2750,max_mean = 2087,max_phase = 96,max_value = 10379,acq ok1!
+acq ok1 timeH = 0,timeL = 49230909,freq_stage = 4
+GPS acq_max:3891
+GPS acq_max:4162
+GPS acq_max:4129
+GPS acq_max:3907
+GPS acq_max:3998
+GPS acq_max:3897
+GPS acq_max:4408
+GPS acq_max:4474
+SatID=22
+GPS acq_max:4054
+GPS acq_max:3728
+GPS acq_max:3936
+GPS acq_max:3842
+GPS acq_max:4290
+GPS acq_max:4611
+GPS acq_max:4755
+GPS acq_max:4089
+SatID=22
+GPS acq_max:4115
+GPS acq_max:4199
+GPS acq_max:4444
+GPS acq_max:4677
+GPS acq_max:4040
+GPS acq_max:4036
+GPS acq_max:4075
+GPS acq_max:3847
+SatID=22
+GPS acq_max:3929
+GPS acq_max:4014
+GPS acq_max:3730
+GPS acq_max:3744
+GPS acq_max:4340
+GPS acq_max:4093
+GPS acq_max:3975
+GPS acq_max:4006
+SatID=22
+GPS acq_max:3825
+GPS acq_max:3748
+GPS acq_max:3706
+GPS acq_max:4019
+GPS acq_max:4071
+GPS acq_max:4048
+GPS acq_max:3827
+GPS acq_max:3919
+SatID=22
+sat22 = 4755 913 2063 1500
+GPS acq_max:4098
+GPS acq_max:4194
+GPS acq_max:4388
+GPS acq_max:3834
+GPS acq_max:3993
+GPS acq_max:4333
+GPS acq_max:4353
+GPS acq_max:4650
+SatID=23
+GPS acq_max:3964
+GPS acq_max:4261
+GPS acq_max:3848
+GPS acq_max:4522
+GPS acq_max:3826
+GPS acq_max:3892
+GPS acq_max:4218
+GPS acq_max:4151
+SatID=23
+GPS acq_max:4264
+GPS acq_max:4312
+GPS acq_max:4194
+GPS acq_max:4208
+GPS acq_max:4135
+GPS acq_max:3868
+GPS acq_max:3625
+GPS acq_max:3827
+SatID=23
+GPS acq_max:3665
+GPS acq_max:4112
+GPS acq_max:4424
+GPS acq_max:4121
+GPS acq_max:3946
+GPS acq_max:4468
+GPS acq_max:4086
+GPS acq_max:4046
+SatID=23
+GPS acq_max:4222
+GPS acq_max:4257
+GPS acq_max:4214
+GPS acq_max:4052
+GPS acq_max:3942
+GPS acq_max:4260
+GPS acq_max:4175
+GPS acq_max:4231
+SatID=23
+sat23 = 4650 1936 2076 3250
+GPS acq_max:4184
+GPS acq_max:4296
+GPS acq_max:4727
+GPS acq_max:3681
+GPS acq_max:4275
+GPS acq_max:4253
+GPS acq_max:4329
+GPS acq_max:4140
+SatID=24
+GPS acq_max:4441
+GPS acq_max:3676
+GPS acq_max:3788
+GPS acq_max:3774
+GPS acq_max:3811
+GPS acq_max:3838
+GPS acq_max:3787
+GPS acq_max:4005
+SatID=24
+GPS acq_max:3745
+GPS acq_max:3962
+GPS acq_max:4188
+GPS acq_max:4130
+GPS acq_max:3706
+GPS acq_max:4000
+GPS acq_max:3688
+GPS acq_max:4277
+SatID=24
+GPS acq_max:3732
+GPS acq_max:4042
+GPS acq_max:4489
+GPS acq_max:4408
+GPS acq_max:4019
+GPS acq_max:4089
+GPS acq_max:4083
+GPS acq_max:3863
+SatID=24
+GPS acq_max:3930
+GPS acq_max:4253
+GPS acq_max:3957
+GPS acq_max:4206
+GPS acq_max:4058
+GPS acq_max:4086
+GPS acq_max:3763
+GPS acq_max:3952
+SatID=24
+sat24 = 4727 1273 2042 4500
+GPS acq_max:4362
+GPS acq_max:4046
+GPS acq_max:4234
+GPS acq_max:4079
+GPS acq_max:3937
+GPS acq_max:4327
+GPS acq_max:4038
+GPS acq_max:4220
+SatID=25
+---00000003--- Acq_st=3 2019-5-25 09:07:19 
+[00]  G01  7  7   2394.3 2045996.8  0.1 -1.0 20  0        12
+[01]  G03  7 40   2539.9 2045996.6  1.0  1.0  5  0         0
+[02]  G06  7 38  -1311.4 2046001.7  0.9  1.0  5  0         1
+[03]  G12  7 24  -3758.9 2046004.9 -0.0  0.0 20  0        11
+[04]  G17  1 20  -1089.0 2046002.3 -0.1  0.0  1  0         0
+[05]  G19  1 23  -1898.2 2046003.7 -0.1  0.0  1  0         0
+[06]  G22  1  7   2879.3 2045997.2 -0.0  0.0  1  0         0
+GPS acq_max:4205
+GPS acq_max:4656
+GPS acq_max:4172
+GPS acq_max:3812
+GPS acq_max:4042
+GPS acq_max:4672
+GPS acq_max:4253
+GPS acq_max:4130
+SatID=25
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,1,1,03,03,00,000,40,06,00,000,38,12,00,000,24*45
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+GPS acq_max:4539
+GPS acq_max:4370
+GPS acq_max:3873
+GPS acq_max:4072
+GPS acq_max:3914
+GPS acq_max:4008
+GPS acq_max:4169
+GPS acq_max:4130
+SatID=25
+GPS acq_max:4206
+GPS acq_max:4052
+GPS acq_max:4170
+GPS acq_max:3883
+GPS acq_max:4719
+GPS acq_max:4030
+GPS acq_max:3834
+GPS acq_max:3888
+SatID=25
+GPS acq_max:4271
+GPS acq_max:4434
+GPS acq_max:4373
+GPS acq_max:4299
+GPS acq_max:4026
+GPS acq_max:4172
+GPS acq_max:4415
+GPS acq_max:3791
+SatID=25
+sat25 = 4719 1843 2088 -2000
+GPS acq_max:4051
+GPS acq_max:3852
+GPS acq_max:4006
+GPS acq_max:4161
+GPS acq_max:4362
+GPS acq_max:4556
+GPS acq_max:3869
+GPS acq_max:4112
+SatID=26
+GPS acq_max:4109
+GPS acq_max:4413
+GPS acq_max:4141
+GPS acq_max:3949
+GPS acq_max:4095
+GPS acq_max:3932
+GPS acq_max:3774
+GPS acq_max:3820
+SatID=26
+GPS acq_max:4161
+GPS acq_max:3827
+GPS acq_max:3938
+GPS acq_max:3944
+GPS acq_max:3837
+GPS acq_max:3677
+GPS acq_max:4139
+GPS acq_max:4218
+SatID=26
+GPS acq_max:3901
+GPS acq_max:3962
+GPS acq_max:4791
+GPS acq_max:4406
+GPS acq_max:4461
+GPS acq_max:3910
+GPS acq_max:4074
+GPS acq_max:4117
+SatID=26
+GPS acq_max:4070
+GPS acq_max:4421
+GPS acq_max:4253
+GPS acq_max:4225
+GPS acq_max:4057
+GPS acq_max:3978
+GPS acq_max:3992
+GPS acq_max:3972
+SatID=26
+sat26 = 4791 636 2096 -1500
+GPS acq_max:4655
+GPS acq_max:4254
+GPS acq_max:4364
+GPS acq_max:3767
+GPS acq_max:3939
+GPS acq_max:4013
+GPS acq_max:4025
+GPS acq_max:4462
+SatID=27
+GPS acq_max:4081
+GPS acq_max:4078
+GPS acq_max:4332
+GPS acq_max:3881
+GPS acq_max:4228
+GPS acq_max:3788
+GPS acq_max:3809
+GPS acq_max:3931
+SatID=27
+GPS acq_max:3808
+GPS acq_max:4273
+GPS acq_max:4050
+GPS acq_max:4512
+GPS acq_max:4426
+GPS acq_max:4050
+GPS acq_max:3982
+GPS acq_max:3727
+SatID=27
+GPS acq_max:4184
+GPS acq_max:4636
+GPS acq_max:4065
+GPS acq_max:3806
+GPS acq_max:4077
+GPS acq_max:4289
+GPS acq_max:3948
+GPS acq_max:3980
+SatID=27
+GPS acq_max:4208
+GPS acq_max:4555
+GPS acq_max:4549
+GPS acq_max:4077
+GPS acq_max:4237
+GPS acq_max:4382
+GPS acq_max:4252
+GPS acq_max:3823
+SatID=27
+sat27 = 4655 194 2096 5000
+GPS acq_max:4819
+GPS acq_max:4774
+GPS acq_max:4342
+GPS acq_max:4713
+GPS acq_max:4073
+GPS acq_max:3999
+GPS acq_max:3975
+GPS acq_max:3958
+SatID=28
+GPS acq_max:4202
+GPS acq_max:4123
+GPS acq_max:4044
+GPS acq_max:4453
+GPS acq_max:4073
+GPS acq_max:4070
+GPS acq_max:4069
+GPS acq_max:3990
+SatID=28
+GPS acq_max:3805
+GPS acq_max:3972
+GPS acq_max:4192
+GPS acq_max:3864
+GPS acq_max:3949
+GPS acq_max:4002
+GPS acq_max:3992
+GPS acq_max:3888
+SatID=28
+GPS acq_max:3644
+GPS acq_max:3993
+GPS acq_max:4174
+GPS acq_max:3789
+GPS acq_max:4009
+GPS acq_max:4353
+GPS acq_max:3976
+GPS acq_max:4034
+SatID=28
+GPS acq_max:4105
+GPS acq_max:3681
+GPS acq_max:3777
+GPS acq_max:4070
+GPS acq_max:4177
+GPS acq_max:4269
+GPS acq_max:3812
+GPS acq_max:4622
+SatID=28
+sat28 = 4819 940 2083 5000
+GPS acq_max:3951
+GPS acq_max:3701
+GPS acq_max:3814
+GPS acq_max:3867
+GPS acq_max:4060
+GPS acq_max:3754
+GPS acq_max:3849
+GPS acq_max:3967
+SatID=29
+GPS acq_max:3741
+GPS acq_max:4225
+GPS acq_max:3987
+GPS acq_max:4063
+GPS acq_max:4107
+GPS acq_max:3956
+GPS acq_max:3922
+GPS acq_max:4225
+SatID=29
+GPS acq_max:3665
+GPS acq_max:3840
+GPS acq_max:4420
+GPS acq_max:4521
+GPS acq_max:3916
+GPS acq_max:4189
+GPS acq_max:3819
+GPS acq_max:3984
+SatID=29
+GPS acq_max:3966
+GPS acq_max:3784
+GPS acq_max:3924
+GPS acq_max:4043
+GPS acq_max:3970
+GPS acq_max:4084
+GPS acq_max:4231
+GPS acq_max:4083
+SatID=29
+GPS acq_max:4224
+GPS acq_max:3707
+GPS acq_max:3826
+GPS acq_max:3958
+GPS acq_max:3842
+GPS acq_max:3859
+GPS acq_max:3708
+GPS acq_max:3586
+SatID=29
+sat29 = 4521 1478 2055 250
+GPS acq_max:4702
+GPS acq_max:4197
+GPS acq_max:4377
+GPS acq_max:4424
+GPS acq_max:4115
+GPS acq_max:4193
+GPS acq_max:4270
+GPS acq_max:4247
+SatID=30
+GPS acq_max:3962
+GPS acq_max:3934
+GPS acq_max:3926
+GPS acq_max:4040
+GPS acq_max:3861
+GPS acq_max:3772
+GPS acq_max:4002
+GPS acq_max:3863
+SatID=30
+GPS acq_max:4141
+GPS acq_max:4284
+GPS acq_max:4397
+GPS acq_max:4127
+GPS acq_max:4022
+GPS acq_max:4319
+GPS acq_max:4182
+GPS acq_max:4161
+SatID=30
+GPS acq_max:4479
+GPS acq_max:4091
+GPS acq_max:4250
+GPS acq_max:4065
+GPS acq_max:4543
+GPS acq_max:4072
+GPS acq_max:4070
+GPS acq_max:4051
+SatID=30
+GPS acq_max:4130
+GPS acq_max:4023
+GPS acq_max:4405
+GPS acq_max:3959
+GPS acq_max:4033
+GPS acq_max:3833
+GPS acq_max:3701
+GPS acq_max:4126
+SatID=30
+sat30 = 4702 1731 2080 5000
+GPS acq_max:3961
+GPS acq_max:4032
+GPS acq_max:4172
+GPS acq_max:4483
+GPS acq_max:4087
+GPS acq_max:3661
+GPS acq_max:3944
+GPS acq_max:4534
+SatID=31
+GPS acq_max:3820
+GPS acq_max:4505
+GPS acq_max:4750
+GPS acq_max:4188
+GPS acq_max:4045
+GPS acq_max:4504
+GPS acq_max:3869
+GPS acq_max:4258
+SatID=31
+GPS acq_max:3929
+GPS acq_max:4141
+GPS acq_max:4009
+GPS acq_max:3843
+GPS acq_max:3964
+GPS acq_max:4525
+GPS acq_max:4271
+GPS acq_max:4239
+SatID=31
+GPS acq_max:3811
+GPS acq_max:3908
+GPS acq_max:4057
+GPS acq_max:3730
+GPS acq_max:4395
+GPS acq_max:4489
+GPS acq_max:4622
+GPS acq_max:3922
+SatID=31
+GPS acq_max:4457
+GPS acq_max:4561
+GPS acq_max:4071
+GPS acq_max:3894
+GPS acq_max:4046
+GPS acq_max:4013
+GPS acq_max:4004
+GPS acq_max:4132
+SatID=31
+sat31 = 4750 1530 2092 2500
+---00000004--- Acq_st=3 2019-5-25 09:07:20 
+[00]  G01  7  7   2394.3 2045996.7 -0.0 -1.0 20  0        12
+[01]  G03  7 40   2538.9 2045996.6  1.0  1.0  5  0         0
+[02]  G06  7 42  -1312.8 2046001.7  1.0  1.0  5  0         4
+[03]  G12  7 38  -3760.7 2046004.8  0.8  0.9  5  0        11
+[04]  G17  7 29  -1103.6 2046001.4 -0.0  1.0  5  0        19
+[05]  G19  7 27  -1896.3 2046002.4  0.3  0.0 20  0         3
+[06]  G22  7  7   2954.9 2045996.0  0.0  0.0 20  0         7
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,05,03,00,000,40,06,00,000,42,12,00,000,38,17,00,000,29*7D
+$GPGSV,2,2,05,19,00,000,27*41
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+sat37 = 1861 1955 800 1500
+sat38 = 1982 2611 832 4750
+sat39 = 1908 3491 802 3750
+sat40 = 2096 3152 816 1500
+---00000005--- Acq_st=3 2019-5-25 09:07:21 
+[00]  G01  7  7   2389.4 2045996.7  0.0 -0.9 20  0        12
+[01]  G03  7 40   2535.7 2045996.7  1.0  1.0  5  0         0
+[02]  G06  7 42  -1315.7 2046001.7  1.0  1.0  5  0         4
+[03]  G12  7 37  -3762.9 2046004.9  1.0  1.0  5  0        11
+[04]  G17  7 36  -1106.9 2046001.4  1.0  0.9  5  0         6
+[05]  G19  7 41  -1899.3 2046002.4  1.0  1.0  5  0         6
+[06]  G22  7 27   2941.0 2045996.0  0.1  0.0 10  0        12
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,06,03,00,000,40,06,00,000,42,12,00,000,37,17,00,000,36*7F
+$GPGSV,2,2,06,19,00,000,41,22,00,000,27*77
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+sat41 = 2146 2523 823 250
+sat42 = 1851 861 816 2000
+sat43 = 1920 939 790 1500
+sat44 = 12222 1303 811 0
+ch16 satid=44,max_freq = 0,max_mean = 811,max_phase = 1303,max_value = 12222,acq ok1!
+acq ok1 timeH = 0,timeL = 111156130,freq_stage = 3
+---00000006--- Acq_st=3 2019-5-25 09:07:22 
+[00]  G01  7  7   2389.2 2045996.7  0.1 -1.2 20  0        12
+[01]  G03  7 40   2533.8 2045996.7  1.0  1.0  5  0         0
+[02]  G06  7 42  -1317.5 2046001.7  1.0  1.0  5  0         4
+[03]  G12  7 38  -3765.1 2046004.8  1.0  1.0  5  0        11
+[04]  G17  7 35  -1109.7 2046001.5  1.0  0.9  5  0         6
+[05]  G19  7 42  -1902.1 2046002.5  1.0  1.0  5  0         6
+[06]  G22  7 26   2939.1 2045995.9  0.9  0.0 10  0        12
+[16]  B08  1  7    625.3 4091998.6  0.0  0.0  1  0         0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,06,03,00,000,40,06,00,000,42,12,00,000,38,17,00,000,35*73
+$GPGSV,2,2,06,19,00,000,42,22,00,000,26*75
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        1
+sat45 = 1879 3680 809 0
+sat46 = 2024 1512 814 -500
+sat47 = 1987 2777 797 -2000
+sat48 = 1959 882 808 1250
+---00000007--- Acq_st=3 2019-5-25 09:07:23 
+[00]  G01  7  7   2384.4 2045996.8 -0.2 -0.9 20  0        12
+[01]  G03  7 40   2533.1 2045996.7  1.0  1.0  5  0         0
+[02]  G06  7 42  -1319.1 2046001.7  1.0  1.0  5  0         4
+[03]  G12  7 37  -3767.1 2046004.9  1.0  1.0  5  0        11
+[04]  G17  7 36  -1110.9 2046001.4  1.0  1.0  5  0         6
+[05]  G19  7 41  -1903.1 2046002.4  1.0  1.0  5  0         6
+[06]  G22  7 26   2937.7 2045996.2  0.9  0.0 10  0        12
+[16]  B08  1  7   -149.8 4092000.1 -0.1  0.0  1  0        76
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,06,03,00,000,40,06,00,000,42,12,00,000,37,17,00,000,36*7F
+$GPGSV,2,2,06,19,00,000,41,22,00,000,26*76
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+sat49 = 10442 2159 820 250
+ch17 satid=49,max_freq = 250,max_mean = 820,max_phase = 2159,max_value = 10442,acq ok1!
+acq ok1 timeH = 0,timeL = 136158572,freq_stage = 3
+sat50 = 39567 3762 823 -1750
+ch18 satid=50,max_freq = -1750,max_mean = 823,max_phase = 3762,max_value = 39567,acq ok1!
+acq ok1 timeH = 0,timeL = 142277314,freq_stage = 4
+sat51 = 1764 2352 811 -2500
+---00000008--- Acq_st=3 2019-5-25 09:07:24 
+[00]  G01  7  7   2390.3 2045996.7  0.1 -0.8 20  0        12
+[01]  G03  7 40   2541.6 2045996.7  1.0  1.0  5  0         0
+[02]  G06  7 42  -1310.2 2046001.7  1.0  1.0  5  0         4
+[03]  G12  7 37  -3758.3 2046004.9  1.0  1.0  5  0        11
+[04]  G17  7 36  -1101.4 2046001.4  1.0  1.0  5  0         6
+[05]  G19  7 42  -1894.6 2046002.4  1.0  1.0  5  0         6
+[06]  G22  7 25   2941.8 2045996.1  0.5 -0.0 10  0        12
+[16]  B08  1  7   -141.4 4092000.5 -0.1  0.0  1  0      1076
+[17]  B13  1  7   -278.9 4092001.3  0.1  0.0  1  0         0
+[18]  B14  1  7   1663.0 4091995.2  0.0  0.0  1  0         0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,06,03,00,000,40,06,00,000,42,12,00,000,37,17,00,000,36*7F
+$GPGSV,2,2,06,19,00,000,42,22,00,000,25*76
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+sat52 = 1979 1788 830 -750
+sat53 = 1860 2648 813 -4000
+sat54 = 1980 3622 812 2250
+sat55 = 1894 1145 804 5000
+---00000009--- Acq_st=3 2019-5-25 09:07:25 
+[01]  G03  f 40   2545.6 2045996.7  1.0  1.0  5  0         0
+[02]  G06  f 42  -1306.8 2046001.7  1.0  1.0  5  0         4
+[03]  G12  f 37  -3754.7 2046004.9  1.0  1.0  5  0        11
+[04]  G17  f 35  -1098.1 2046001.5  1.0  1.0  5  0         6
+[05]  G19  f 42  -1891.1 2046002.4  1.0  1.0  5  0         6
+[06]  G22  7 25   2948.8 2045996.2  0.3 -0.1 10  0        12
+[16]  B08  1  7   -138.2 4092000.7  0.0  0.0  1  0      2076
+[17]  B13  1  7   -275.2 4092000.6  0.1  0.0  1  0       748
+[18]  B14  1  7   1652.6 4091995.6  0.0  0.0  1  0       482
+lsq: nits= 4
+$GNGGA,090725.976,3112.6703,N,12136.4505,E,1,04,5.9,52.0,M,,,,0000*2F
+$GNRMC,090725.976,A,3112.6703,N,12136.4505,E,0.14,0.00,250519,,*13
+$GPGSA,A,3,03,06,17,19,,,,,,,,,7.1,5.9,3.9*39
+$BDGSA,A,3,,,,,,,,,,,,,7.1,5.9,3.9*23
+$GPGSV,2,1,06,03,00,000,40,06,00,000,42,12,00,000,37,17,00,000,35*7C
+$GPGSV,2,2,06,19,00,000,42,22,00,000,25*76
+$LOGTIM,1,9156540.600142,0.000000,0.000000,0.000000,-63.044*18
+EndT:        0
+sat56 = 1868 1522 813 2250
+sat57 = 1862 860 797 1750
+sat58 = 1912 3116 794 -3000
+sat59 = 1878 1571 809 1000
+---00000010--- Acq_st=3 2019-5-25 09:07:26 
+[01]  G03  f 40   2546.1 2045996.7  1.0  1.0  5  0 551263900
+[02]  G06  f 42  -1305.6 2046001.7  1.0  1.0  5  0 551263904
+[03]  G12  f 37  -3754.1 2046004.9  1.0  0.9  5  0 551263891
+[04]  G17  f 35  -1097.4 2046001.5  1.0  1.0  5  0 551263906
+[05]  G19  f 42  -1890.1 2046002.5  1.0  1.0  5  0 551263906
+[06]  G22  7 25   2948.9 2045996.0  0.9  0.0 10  0        12
+[17]  B13  1  7   -274.3 4092000.6  0.0  0.0  1  0      1748
+[18]  B14  7 20   1653.7 4091995.7  0.3  0.0 20  0      1482
+lsq: nits= 4
+$GNGGA,090727.000,3112.6663,N,12136.4505,E,1,04,5.9,53.6,M,,,,0000*25
+$GNRMC,090727.000,A,3112.6663,N,12136.4505,E,0.31,0.00,250519,,*19
+$GPGSA,A,3,03,06,17,19,,,,,,,,,7.1,5.9,3.9*39
+$BDGSA,A,3,,,,,,,,,,,,,7.1,5.9,3.9*23
+$GPGSV,2,1,06,03,00,000,40,06,00,000,42,12,00,000,37,17,00,000,35*7C
+$GPGSV,2,2,06,19,00,000,42,22,00,000,25*76
+$BDGSV,1,1,01,14,00,000,20*5E
+$LOGTIM,1,-65.103942,0.000000,0.000000,0.000000,-62.977*08
+EndT:        0
+sat60 = 1877 3942 805 500
+sat61 = 1938 1480 799 4750
+sat62 = 1831 1433 806 4000
+sat63 = 5909 218 806 2500
+ch16 satid=63,max_freq = 2500,max_mean = 806,max_phase = 218,max_value = 5909,acq ok1!
+acq ok1 timeH = 0,timeL = 206572046,freq_stage = 2
+---00000011--- Acq_st=3 2019-5-25 09:07:27 
+[01]  G03  f 40   2548.6 2045996.7  1.0  1.0  5  0 551264924
+[02]  G06  f 42  -1303.9 2046001.7  1.0  1.0  5  0 551264928
+[03]  G12  f 36  -3750.8 2046004.9  1.0  0.9  5  0 551264915
+[04]  G17  f 35  -1095.5 2046001.5  1.0  0.9  5  0 551264930
+[05]  G19  f 42  -1887.7 2046002.4  1.0  1.0  5  0 551264930
+[06]  G22  7 25   2950.9 2045996.1  0.9 -0.1 10  0        16
+[16]  B27  1  7  -1086.0 4092006.0  0.0  0.0  1  0      3076
+[17]  B13  7 27   -272.8 4092000.7  0.3  0.0 20  0      2772
+[18]  B14  7 46   1655.9 4091995.6  1.0  1.0  5  0      2499
+lsq: nits= 4
+$GNGGA,090728.000,3112.6648,N,12136.4511,E,1,04,5.9,53.9,M,,,,0000*29
+$GNRMC,090728.000,A,3112.6648,N,12136.4511,E,0.76,0.00,250519,,*19
+$GPGSA,A,3,03,06,17,19,,,,,,,,,7.1,5.9,3.9*39
+$BDGSA,A,3,,,,,,,,,,,,,7.1,5.9,3.9*23
+$GPGSV,2,1,07,03,29,044,40,06,48,291,42,12,00,000,36,17,67,019,35*78
+$GPGSV,2,2,07,19,55,338,42,22,00,000,25,01,06,062,00*4C
+$BDGSV,2,1,05,13,46,293,27,14,28,049,46,08,59,337,00,27,16,300,00*61
+$BDGSV,2,2,05,28,58,345,00*58
+$LOGTIM,1,-128.482425,0.000000,0.000000,0.000000,-62.913*32
+EndT:        0
+sat64 = 36191 2262 824 1250
+ch19 satid=64,max_freq = 1250,max_mean = 824,max_phase = 2262,max_value = 36191,acq ok1!
+acq ok1 timeH = 0,timeL = 212182500,freq_stage = 2
+sat65 = 2002 4057 823 1000
+sat66 = 1873 3935 809 -500
+---00000012--- Acq_st=3 2019-5-25 09:07:28 
+[01]  G03  f 40   2547.7 2045996.7  1.0  1.0  5  0 551265924
+[02]  G06  f 42  -1304.5 2046001.7  1.0  1.0  5  0 551265928
+[03]  G12  f 37  -3752.0 2046004.9  1.0  0.9  5  0 551265915
+[04]  G17  f 35  -1095.2 2046001.4  1.0  1.0  5  0 551265930
+[05]  G19  f 42  -1889.0 2046002.5  1.0  1.0  5  0 551265930
+[06]  G22  7 26   2950.1 2045996.1  0.9  0.0 10  0        16
+[16]  B27  1  7  -2531.2 4092007.1  0.3  0.0  1  0        51
+[17]  B13  7 40   -273.8 4092000.7  0.9  1.0  5  0      3754
+[18]  B14  7 46   1655.3 4091995.7  1.0  1.0  5  0      3499
+[19]  B28  1 32  -1245.2 4092004.9  0.1  0.0  1  0         0
+lsq: nits= 4
+$GNGGA,090729.000,3112.6645,N,12136.4513,E,1,04,5.9,53.4,M,,,,0000*2A
+$GNRMC,090729.000,A,3112.6645,N,12136.4513,E,0.50,0.00,250519,,*13
+$GPGSA,A,3,03,06,17,19,,,,,,,,,7.1,5.9,3.9*39
+$BDGSA,A,3,,,,,,,,,,,,,7.1,5.9,3.9*23
+$GPGSV,2,1,07,03,29,044,40,06,48,291,42,12,00,000,37,17,67,019,35*79
+$GPGSV,2,2,07,19,55,338,42,22,00,000,26,01,06,062,00*4F
+$BDGSV,2,1,05,13,46,293,40,14,28,049,46,08,59,337,00,27,16,300,00*60
+$BDGSV,2,2,05,28,58,345,00*58
+$LOGTIM,1,-191.520233,0.000000,0.000000,0.000000,-62.943*3D
+EndT:        0
+sat67 = 1869 2243 807 500
+sat68 = 2090 2685 819 -2750
+---00000013--- Acq_st=7 2019-5-25 09:07:29 
+[01]  G03  f 40   2548.5 2045996.7  1.0  1.0  5  0 551266924
+[02]  G06  f 42  -1304.1 2046001.7  1.0  1.0  5  0 551266928
+[03]  G12  f 37  -3752.7 2046004.9  1.0  1.0  5  0 551266915
+[04]  G17  f 36  -1095.2 2046001.4  1.0  1.0  5  0 551266930
+[05]  G19  f 41  -1888.2 2046002.5  1.0  1.0  5  0 551266930
+[06]  G22  7 25   2950.5 2045996.2  0.9  0.0 10  0        16
+[16]  B27  7 31  -2530.5 4092006.6  0.8  1.0  5  0      1051
+[17]  B13  7 40   -273.6 4092000.7  1.0  1.0  5  0      4754
+[18]  B14  7 46   1656.1 4091995.7  1.0  1.0  5  0      4499
+[19]  B28  7 28  -1246.0 4092003.1  0.7  0.0 10  0       785
+GPS acq_max:3522
+GPS acq_max:4066
+GPS acq_max:4321
+GPS acq_max:4073
+GPS acq_max:4187
+GPS acq_max:4113
+GPS acq_max:4494
+GPS acq_max:4298
+SatID=0
+lsq: nits= 4
+$GNGGA,090730.000,3112.6643,N,12136.4511,E,1,04,5.9,53.2,M,,,,0000*20
+$GNRMC,090730.000,A,3112.6643,N,12136.4511,E,0.61,0.00,250519,,*1D
+$GPGSA,A,3,03,06,17,19,,,,,,,,,7.1,5.9,3.9*39
+$BDGSA,A,3,,,,,,,,,,,,,7.1,5.9,3.9*23
+$GPGSV,2,1,07,03,29,044,40,06,48,291,42,12,00,000,37,17,67,019,36*7A
+$GPGSV,2,2,07,19,55,338,41,22,00,000,25,01,06,062,00*4F
+$BDGSV,2,1,05,27,16,300,31,13,46,293,40,14,28,049,46,28,58,345,28*6E
+$BDGSV,2,2,05,08,59,337,00*5E
+$LOGTIM,1,-254.598350,0.000000,0.000000,0.000000,-62.943*30
+EndT:        0
+GPS acq_max:4410
+GPS acq_max:3814
+GPS acq_max:4375
+GPS acq_max:4169
+GPS acq_max:4062
+GPS acq_max:4029
+GPS acq_max:4183
+GPS acq_max:3894
+SatID=0
+GPS acq_max:4855
+GPS acq_max:3792
+GPS acq_max:4046
+GPS acq_max:3929
+GPS acq_max:3998
+GPS acq_max:4063
+GPS acq_max:3791
+GPS acq_max:4169
+SatID=0
+GPS acq_max:3862
+GPS acq_max:4346
+GPS acq_max:3700
+GPS acq_max:4521
+GPS acq_max:6781
+GPS acq_max:8606
+GPS acq_max:8749
+GPS acq_max:6685
+SatID=0
+GPS acq_max:5854
+GPS acq_max:3661
+GPS acq_max:3796
+GPS acq_max:3842
+GPS acq_max:3884
+GPS acq_max:4053
+GPS acq_max:3935
+GPS acq_max:4157
+SatID=0
+sat0 = 8749 387 2075 -2500
+ch0 satid=0,max_freq = -2500,max_mean = 2075,max_phase = 387,max_value = 8749,acq ok1!
+acq ok1 timeH = 0,timeL = 250602704,freq_stage = 4
+GPS acq_max:3950
+GPS acq_max:4524
+GPS acq_max:4132
+GPS acq_max:4085
+GPS acq_max:4483
+GPS acq_max:4285
+GPS acq_max:3722
+GPS acq_max:3881
+SatID=1
+GPS acq_max:4334
+GPS acq_max:3984
+GPS acq_max:3928
+GPS acq_max:4633
+GPS acq_max:5148
+GPS acq_max:4056
+GPS acq_max:4487
+GPS acq_max:4062
+SatID=1
+GPS acq_max:3951
+GPS acq_max:3977
+GPS acq_max:3866
+GPS acq_max:3905
+GPS acq_max:3816
+GPS acq_max:3749
+GPS acq_max:3634
+GPS acq_max:4553
+SatID=1
+GPS acq_max:4140
+GPS acq_max:3873
+GPS acq_max:3697
+GPS acq_max:3851
+GPS acq_max:4248
+GPS acq_max:4041
+GPS acq_max:3941
+GPS acq_max:3799
+SatID=1
+GPS acq_max:3894
+GPS acq_max:3939
+GPS acq_max:3936
+GPS acq_max:3802
+GPS acq_max:4025
+GPS acq_max:4209
+GPS acq_max:4767
+GPS acq_max:4223
+SatID=1
+sat1 = 5148 2041 2047 2000
+GPS acq_max:4196
+GPS acq_max:4941
+GPS acq_max:3864
+GPS acq_max:3916
+GPS acq_max:4664
+GPS acq_max:4915
+GPS acq_max:4135
+GPS acq_max:4218
+SatID=3
+GPS acq_max:4115
+GPS acq_max:4086
+GPS acq_max:4056
+GPS acq_max:3932
+GPS acq_max:4210
+GPS acq_max:4222
+GPS acq_max:4445
+GPS acq_max:4010
+SatID=3
+GPS acq_max:3613
+GPS acq_max:4064
+GPS acq_max:4137
+GPS acq_max:4532
+GPS acq_max:3765
+GPS acq_max:3769
+GPS acq_max:4047
+GPS acq_max:4385
+SatID=3
+GPS acq_max:4133
+GPS acq_max:4235
+GPS acq_max:3938
+GPS acq_max:4505
+GPS acq_max:4304
+GPS acq_max:3910
+GPS acq_max:3893
+GPS acq_max:4756
+SatID=3
+GPS acq_max:3986
+GPS acq_max:3782
+GPS acq_max:4034
+GPS acq_max:4269
+GPS acq_max:3918
+GPS acq_max:4355
+GPS acq_max:4346
+GPS acq_max:4310
+SatID=3
+sat3 = 4941 1832 2069 4750
+GPS acq_max:4264
+GPS acq_max:4169
+GPS acq_max:3926
+GPS acq_max:4221
+GPS acq_max:3936
+GPS acq_max:4224
+GPS acq_max:3916
+GPS acq_max:4447
+SatID=4
+GPS acq_max:3851
+GPS acq_max:4458
+GPS acq_max:4646
+GPS acq_max:4005
+GPS acq_max:3934
+GPS acq_max:3951
+GPS acq_max:4186
+GPS acq_max:3984
+SatID=4
+GPS acq_max:4188
+GPS acq_max:4064
+GPS acq_max:4010
+GPS acq_max:3934
+GPS acq_max:4276
+GPS acq_max:4533
+GPS acq_max:4019
+GPS acq_max:3827
+SatID=4
+GPS acq_max:3970
+GPS acq_max:4071
+GPS acq_max:4048
+GPS acq_max:4033
+GPS acq_max:4217
+GPS acq_max:3746
+GPS acq_max:3954
+GPS acq_max:3959
+SatID=4
+GPS acq_max:4279
+GPS acq_max:3973
+GPS acq_max:3948
+GPS acq_max:4484
+GPS acq_max:4179
+GPS acq_max:4849
+GPS acq_max:4406
+GPS acq_max:3784
+SatID=4
+sat4 = 4849 1994 2074 -4250
+GPS acq_max:3887
+GPS acq_max:4905
+GPS acq_max:4007
+GPS acq_max:3978
+GPS acq_max:3863
+GPS acq_max:4379
+GPS acq_max:4177
+GPS acq_max:3820
+SatID=6
+GPS acq_max:3942
+GPS acq_max:4180
+GPS acq_max:4137
+GPS acq_max:4223
+GPS acq_max:3991
+GPS acq_max:4367
+GPS acq_max:4938
+GPS acq_max:4050
+SatID=6
+GPS acq_max:4923
+GPS acq_max:4403
+GPS acq_max:4093
+GPS acq_max:4124
+GPS acq_max:3897
+GPS acq_max:4152
+GPS acq_max:3981
+GPS acq_max:3740
+SatID=6
+GPS acq_max:3944
+GPS acq_max:3827
+GPS acq_max:3745
+GPS acq_max:3926
+GPS acq_max:4244
+GPS acq_max:4275
+GPS acq_max:4808
+GPS acq_max:3940
+SatID=6
+GPS acq_max:4062
+GPS acq_max:3934
+GPS acq_max:4097
+GPS acq_max:4106
+GPS acq_max:4402
+GPS acq_max:4409
+GPS acq_max:4418
+GPS acq_max:4414
+SatID=6
+sat6 = 4938 740 2097 1500
+GPS acq_max:4820
+GPS acq_max:3846
+GPS acq_max:3940
+GPS acq_max:4289
+GPS acq_max:4298
+GPS acq_max:4322
+GPS acq_max:3697
+GPS acq_max:4308
+SatID=7
+GPS acq_max:4043
+GPS acq_max:4085
+GPS acq_max:5067
+GPS acq_max:4762
+GPS acq_max:4254
+GPS acq_max:4528
+GPS acq_max:4352
+GPS acq_max:4099
+SatID=7
+GPS acq_max:4096
+GPS acq_max:4079
+GPS acq_max:4088
+GPS acq_max:3992
+GPS acq_max:4653
+GPS acq_max:4222
+GPS acq_max:3776
+GPS acq_max:3819
+SatID=7
+GPS acq_max:3906
+GPS acq_max:3905
+GPS acq_max:4450
+GPS acq_max:4105
+GPS acq_max:4367
+GPS acq_max:3663
+GPS acq_max:3870
+GPS acq_max:3878
+SatID=7
+GPS acq_max:4069
+GPS acq_max:4576
+GPS acq_max:4808
+GPS acq_max:4363
+GPS acq_max:3933
+GPS acq_max:3598
+GPS acq_max:4333
+GPS acq_max:4690
+SatID=7
+sat7 = 5067 77 2074 2500
+GPS acq_max:4177
+GPS acq_max:4335
+GPS acq_max:3850
+GPS acq_max:4065
+GPS acq_max:4330
+GPS acq_max:4225
+GPS acq_max:4166
+GPS acq_max:4002
+SatID=8
+GPS acq_max:3937
+GPS acq_max:4127
+GPS acq_max:4105
+GPS acq_max:4146
+GPS acq_max:4048
+GPS acq_max:4305
+GPS acq_max:4148
+GPS acq_max:3954
+SatID=8
+GPS acq_max:4136
+GPS acq_max:3912
+GPS acq_max:3969
+GPS acq_max:4146
+GPS acq_max:3981
+GPS acq_max:4355
+GPS acq_max:3898
+GPS acq_max:4000
+SatID=8
+GPS acq_max:4699
+GPS acq_max:3980
+GPS acq_max:4247
+GPS acq_max:3770
+GPS acq_max:4766
+GPS acq_max:4238
+GPS acq_max:3854
+GPS acq_max:3624
+SatID=8
+GPS acq_max:4180
+GPS acq_max:5296
+GPS acq_max:4904
+GPS acq_max:4253
+GPS acq_max:3767
+GPS acq_max:4160
+GPS acq_max:4202
+GPS acq_max:3997
+SatID=8
+sat8 = 5296 967 2081 -3250
+GPS acq_max:3675
+GPS acq_max:4130
+GPS acq_max:4158
+GPS acq_max:4095
+GPS acq_max:4181
+GPS acq_max:4040
+GPS acq_max:4101
+GPS acq_max:3914
+SatID=9
+GPS acq_max:4160
+GPS acq_max:3901
+GPS acq_max:3788
+GPS acq_max:3764
+GPS acq_max:4242
+GPS acq_max:4281
+GPS acq_max:3907
+GPS acq_max:4234
+SatID=9
+GPS acq_max:3876
+GPS acq_max:3845
+GPS acq_max:3900
+GPS acq_max:3548
+GPS acq_max:3708
+GPS acq_max:4030
+GPS acq_max:4143
+GPS acq_max:4201
+SatID=9
+GPS acq_max:4007
+GPS acq_max:4209
+GPS acq_max:4666
+GPS acq_max:4798
+GPS acq_max:4560
+GPS acq_max:4243
+GPS acq_max:4344
+GPS acq_max:4333
+SatID=9
+GPS acq_max:3970
+GPS acq_max:4606
+GPS acq_max:4402
+GPS acq_max:3786
+GPS acq_max:3891
+GPS acq_max:4158
+GPS acq_max:4011
+GPS acq_max:3818
+SatID=9
+sat9 = 4798 1427 2058 -1750
+GPS acq_max:3914
+GPS acq_max:4106
+GPS acq_max:4283
+GPS acq_max:3962
+GPS acq_max:4237
+GPS acq_max:4406
+GPS acq_max:3947
+GPS acq_max:3980
+SatID=10
+GPS acq_max:4355
+GPS acq_max:4731
+GPS acq_max:4007
+GPS acq_max:4118
+GPS acq_max:4179
+GPS acq_max:3828
+GPS acq_max:3956
+GPS acq_max:3737
+SatID=10
+---00000014--- Acq_st=3 2019-5-25 09:07:30 
+[00]  G01  1 20   2468.3 2045998.0  0.1  0.0  1  0        12
+[01]  G03  f 40   2547.2 2045996.7  1.0  1.0  5  0 551267924
+[02]  G06  f 42  -1305.8 2046001.7  1.0  1.0  5  0 551267928
+[03]  G12  f 37  -3752.8 2046004.9  1.0  1.0  5  0 551267915
+[04]  G17  f 36  -1096.3 2046001.5  1.0  1.0  5  0 551267930
+[05]  G19  f 41  -1889.2 2046002.5  1.0  1.0  5  0 551267930
+[06]  G22  7 25   2949.0 2045996.1  0.8 -0.0 10  0        16
+[16]  B27  7 37  -2532.1 4092006.6  1.0  1.0  5  0      2035
+[17]  B13  7 40   -274.4 4092000.7  1.0  1.0  5  0      5754
+[18]  B14  7 45   1654.9 4091995.7  1.0  1.0  5  0      5499
+[19]  B28  7 45  -1247.4 4092003.2  1.0  1.0  5  0      1785
+GPS acq_max:4015
+GPS acq_max:3784
+GPS acq_max:4275
+GPS acq_max:4040
+GPS acq_max:3709
+GPS acq_max:4207
+GPS acq_max:4040
+GPS acq_max:3987
+SatID=10
+GPS acq_max:3880
+GPS acq_max:4424
+GPS acq_max:3874
+GPS acq_max:3878
+GPS acq_max:4525
+GPS acq_max:4016
+GPS acq_max:4385
+GPS acq_max:3812
+SatID=10
+lsq: nits= 4
+$GNGGA,090731.000,3112.6648,N,12136.4505,E,1,04,5.9,52.7,M,,,,0000*2B
+$GNRMC,090731.000,A,3112.6648,N,12136.4505,E,0.30,0.00,250519,,*16
+$GPGSA,A,3,03,06,17,19,,,,,,,,,7.1,5.9,3.9*39
+$BDGSA,A,3,,,,,,,,,,,,,7.1,5.9,3.9*23
+$GPGSV,2,1,07,03,29,044,40,06,48,291,42,12,00,000,37,17,67,019,36*7A
+$GPGSV,2,2,07,19,55,338,41,22,00,000,25,01,06,062,00*4F
+$BDGSV,2,1,05,27,16,300,37,13,46,293,40,14,28,049,45,28,58,345,45*60
+$BDGSV,2,2,05,08,59,337,00*5E
+$LOGTIM,1,-317.575117,0.000000,0.000000,0.000000,-63.044*3B
+EndT:        1
+GPS acq_max:4255
+GPS acq_max:4001
+GPS acq_max:3895
+GPS acq_max:3939
+GPS acq_max:4201
+GPS acq_max:4015
+GPS acq_max:4159
+GPS acq_max:3984
+SatID=10
+sat10 = 4731 511 2056 2750
+GPS acq_max:4302
+GPS acq_max:4240
+GPS acq_max:4298
+GPS acq_max:4357
+GPS acq_max:4319
+GPS acq_max:4046
+GPS acq_max:4047
+GPS acq_max:4596
+SatID=12
+GPS acq_max:4262
+GPS acq_max:4962
+GPS acq_max:4068
+GPS acq_max:3917
+GPS acq_max:4024
+GPS acq_max:4480
+GPS acq_max:3953
+GPS acq_max:4211
+SatID=12
+GPS acq_max:3629
+GPS acq_max:3925
+GPS acq_max:3859
+GPS acq_max:4019
+GPS acq_max:4161
+GPS acq_max:4435
+GPS acq_max:4069
+GPS acq_max:4220
+SatID=12
+GPS acq_max:3984
+GPS acq_max:4385
+GPS acq_max:3965
+GPS acq_max:4008
+GPS acq_max:4227
+GPS acq_max:4173
+GPS acq_max:3868
+GPS acq_max:4149
+SatID=12
+GPS acq_max:4007
+GPS acq_max:4519
+GPS acq_max:4260
+GPS acq_max:4539
+GPS acq_max:3953
+GPS acq_max:4279
+GPS acq_max:5801
+GPS acq_max:4498
+SatID=12
+sat12 = 5801 557 2083 -4500
+GPS acq_max:4655
+GPS acq_max:3929
+GPS acq_max:4265
+GPS acq_max:4754
+GPS acq_max:4021
+GPS acq_max:4085
+GPS acq_max:4644
+GPS acq_max:4211
+SatID=13
+GPS acq_max:4028
+GPS acq_max:4002
+GPS acq_max:3888
+GPS acq_max:4008
+GPS acq_max:3995
+GPS acq_max:4060
+GPS acq_max:4106
+GPS acq_max:3860
+SatID=13
+GPS acq_max:4145
+GPS acq_max:4598
+GPS acq_max:3876
+GPS acq_max:3838
+GPS acq_max:4176
+GPS acq_max:4194
+GPS acq_max:4306
+GPS acq_max:4354
+SatID=13
+GPS acq_max:4079
+GPS acq_max:3966
+GPS acq_max:4069
+GPS acq_max:3958
+GPS acq_max:4043
+GPS acq_max:3863
+GPS acq_max:4240
+GPS acq_max:3901
+SatID=13
+GPS acq_max:4179
+GPS acq_max:3989
+GPS acq_max:3897
+GPS acq_max:3786
+GPS acq_max:4717
+GPS acq_max:4418
+GPS acq_max:4224
+GPS acq_max:4176
+SatID=13
+sat13 = 4754 1917 2098 4250
+GPS acq_max:4040
+GPS acq_max:4210
+GPS acq_max:4304
+GPS acq_max:4156
+GPS acq_max:3797
+GPS acq_max:3975
+GPS acq_max:3974
+GPS acq_max:3987
+SatID=14
+GPS acq_max:4268
+GPS acq_max:4097
+GPS acq_max:3919
+GPS acq_max:3869
+GPS acq_max:3887
+GPS acq_max:3858
+GPS acq_max:3982
+GPS acq_max:4422
+SatID=14
+GPS acq_max:4000
+GPS acq_max:4337
+GPS acq_max:3895
+GPS acq_max:4129
+GPS acq_max:4186
+GPS acq_max:4134
+GPS acq_max:4267
+GPS acq_max:3769
+SatID=14
+GPS acq_max:4185
+GPS acq_max:4149
+GPS acq_max:3872
+GPS acq_max:4136
+GPS acq_max:4186
+GPS acq_max:4350
+GPS acq_max:4620
+GPS acq_max:4164
+SatID=14
+GPS acq_max:3914
+GPS acq_max:4133
+GPS acq_max:4110
+GPS acq_max:4047
+GPS acq_max:4007
+GPS acq_max:3928
+GPS acq_max:3965
+GPS acq_max:4034
+SatID=14
+sat14 = 4620 1817 2103 -2500
+GPS acq_max:4396
+GPS acq_max:3820
+GPS acq_max:4065
+GPS acq_max:4548
+GPS acq_max:4066
+GPS acq_max:4217
+GPS acq_max:3791
+GPS acq_max:4010
+SatID=15
+GPS acq_max:3848
+GPS acq_max:3997
+GPS acq_max:4275
+GPS acq_max:4199
+GPS acq_max:4310
+GPS acq_max:3979
+GPS acq_max:3976
+GPS acq_max:4320
+SatID=15
+GPS acq_max:4252
+GPS acq_max:4134
+GPS acq_max:3988
+GPS acq_max:4014
+GPS acq_max:4084
+GPS acq_max:4021
+GPS acq_max:3892
+GPS acq_max:3975
+SatID=15
+GPS acq_max:4078
+GPS acq_max:3911
+GPS acq_max:3878
+GPS acq_max:3992
+GPS acq_max:4341
+GPS acq_max:4132
+GPS acq_max:4100
+GPS acq_max:4059
+SatID=15
+GPS acq_max:3913
+GPS acq_max:3961
+GPS acq_max:4999
+GPS acq_max:4609
+GPS acq_max:4060
+GPS acq_max:3975
+GPS acq_max:3917
+GPS acq_max:4198
+SatID=15
+sat15 = 4999 188 2082 -3500
+GPS acq_max:4346
+GPS acq_max:4258
+GPS acq_max:3843
+GPS acq_max:4688
+GPS acq_max:5014
+GPS acq_max:4405
+GPS acq_max:3744
+GPS acq_max:4256
+SatID=17
+GPS acq_max:4011
+GPS acq_max:3958
+GPS acq_max:4131
+GPS acq_max:3921
+GPS acq_max:3854
+GPS acq_max:3830
+GPS acq_max:4696
+GPS acq_max:3923
+SatID=17
+GPS acq_max:3915
+GPS acq_max:4024
+GPS acq_max:3768
+GPS acq_max:4046
+GPS acq_max:3847
+GPS acq_max:3977
+GPS acq_max:3960
+GPS acq_max:4308
+SatID=17
+GPS acq_max:4110
+GPS acq_max:4551
+GPS acq_max:4172
+GPS acq_max:4580
+GPS acq_max:4533
+GPS acq_max:4292
+GPS acq_max:4272
+GPS acq_max:4552
+SatID=17
+GPS acq_max:4232
+GPS acq_max:4008
+GPS acq_max:4319
+GPS acq_max:4276
+GPS acq_max:4227
+GPS acq_max:4257
+GPS acq_max:4198
+GPS acq_max:4093
+SatID=17
+sat17 = 5014 95 2089 4000
+GPS acq_max:4115
+GPS acq_max:4117
+GPS acq_max:3959
+GPS acq_max:3869
+GPS acq_max:3975
+GPS acq_max:4084
+GPS acq_max:4026
+GPS acq_max:4314
+SatID=19
+GPS acq_max:4220
+GPS acq_max:4183
+GPS acq_max:3984
+GPS acq_max:3935
+GPS acq_max:4228
+GPS acq_max:4605
+GPS acq_max:4642
+GPS acq_max:4021
+SatID=19
+GPS acq_max:3875
+GPS acq_max:4469
+GPS acq_max:5090
+GPS acq_max:5228
+GPS acq_max:4458
+GPS acq_max:4241
+GPS acq_max:4826
+GPS acq_max:4302
+SatID=19
+GPS acq_max:4557
+GPS acq_max:4612
+GPS acq_max:3893
+GPS acq_max:4279
+GPS acq_max:4031
+GPS acq_max:4284
+GPS acq_max:4325
+GPS acq_max:4132
+SatID=19
+GPS acq_max:4281
+GPS acq_max:4172
+GPS acq_max:4094
+GPS acq_max:4112
+GPS acq_max:3848
+GPS acq_max:3911
+GPS acq_max:3808
+GPS acq_max:3801
+SatID=19
+sat19 = 5228 583 2089 250
+GPS acq_max:4121
+GPS acq_max:4154
+GPS acq_max:4108
+GPS acq_max:3945
+GPS acq_max:4004
+GPS acq_max:4058
+GPS acq_max:4323
+GPS acq_max:3858
+SatID=20
+GPS acq_max:4474
+GPS acq_max:4379
+GPS acq_max:4205
+GPS acq_max:4244
+GPS acq_max:4475
+GPS acq_max:4318
+GPS acq_max:4502
+GPS acq_max:4533
+SatID=20
+GPS acq_max:3996
+GPS acq_max:3854
+GPS acq_max:4102
+GPS acq_max:3777
+GPS acq_max:4000
+GPS acq_max:3850
+GPS acq_max:4060
+GPS acq_max:3948
+SatID=20
+GPS acq_max:3721
+GPS acq_max:3601
+GPS acq_max:4224
+GPS acq_max:4119
+GPS acq_max:4012
+GPS acq_max:3840
+GPS acq_max:4199
+GPS acq_max:4024
+SatID=20
+GPS acq_max:4451
+GPS acq_max:4420
+GPS acq_max:4085
+GPS acq_max:3845
+GPS acq_max:4293
+GPS acq_max:4236
+GPS acq_max:4129
+GPS acq_max:3904
+SatID=20
+sat20 = 4533 556 2068 1250
+GPS acq_max:4222
+GPS acq_max:4234
+GPS acq_max:4561
+GPS acq_max:4427
+GPS acq_max:4012
+GPS acq_max:4125
+GPS acq_max:4658
+GPS acq_max:4703
+SatID=22
+GPS acq_max:4069
+GPS acq_max:4215
+GPS acq_max:3933
+GPS acq_max:3810
+GPS acq_max:3790
+GPS acq_max:4212
+GPS acq_max:4249
+GPS acq_max:4496
+SatID=22
+GPS acq_max:4416
+GPS acq_max:3963
+GPS acq_max:4103
+GPS acq_max:4350
+GPS acq_max:4160
+GPS acq_max:4203
+GPS acq_max:3726
+GPS acq_max:3982
+SatID=22
+GPS acq_max:3926
+GPS acq_max:4597
+GPS acq_max:4214
+GPS acq_max:3925
+GPS acq_max:4079
+GPS acq_max:4322
+GPS acq_max:4255
+GPS acq_max:4054
+SatID=22
+---00000015--- Acq_st=3 2019-5-25 09:07:31 
+[00]  G01  7 27   2445.5 2045996.6 -0.1  0.9 10  0         3
+[01]  G03  f 40   2545.3 2045996.7  1.0  1.0  5  0 551268924
+[02]  G06  f 42  -1307.8 2046001.7  1.0  1.0  5  0 551268928
+[03]  G12  f 38  -3755.7 2046005.0  1.0  1.0  5  0 551268915
+[04]  G17  f 36  -1098.6 2046001.4  1.0  0.9  5  0 551268930
+[05]  G19  f 41  -1891.9 2046002.5  1.0  1.0  5  0 551268930
+[06]  G22  7 25   2947.8 2045996.1  0.8 -0.0 10  0        16
+[16]  B27  7 37  -2535.1 4092006.6  1.0  1.0  5  0      3035
+[17]  B13  7 40   -277.8 4092000.7  1.0  1.0  5  0      6754
+[18]  B14  7 45   1652.8 4091995.7  1.0  1.0  5  0      6499
+[19]  B28  7 46  -1249.8 4092003.2  1.0  1.0  5  0      2785
+GPS acq_max:4074
+GPS acq_max:4243
+GPS acq_max:3885
+GPS acq_max:4011
+GPS acq_max:3727
+GPS acq_max:3814
+GPS acq_max:3835
+GPS acq_max:4093
+SatID=22
+sat22 = 4703 372 2074 3250
+GPS acq_max:3978
+GPS acq_max:4143
+GPS acq_max:4545
+GPS acq_max:4040
+GPS acq_max:4371
+GPS acq_max:4390
+GPS acq_max:4523
+GPS acq_max:4526
+SatID=23
+lsq: nits= 4
+$GNGGA,090732.000,3112.6662,N,12136.4502,E,1,04,5.9,53.1,M,,,,0000*20
+$GNRMC,090732.000,A,3112.6662,N,12136.4502,E,0.42,0.00,250519,,*1F
+$GPGSA,A,3,03,06,17,19,,,,,,,,,7.1,5.9,3.9*39
+$BDGSA,A,3,,,,,,,,,,,,,7.1,5.9,3.9*23
+$GPGSV,2,1,07,01,06,062,27,03,29,044,40,06,48,291,42,12,00,000,38*79
+$GPGSV,2,2,07,17,67,019,36,19,55,338,41,22,00,000,25*46
+$BDGSV,2,1,05,27,16,300,37,13,46,293,40,14,28,049,45,28,58,345,46*63
+$BDGSV,2,2,05,08,59,337,00*5E
+$LOGTIM,1,-379.386165,0.000000,0.000000,0.000000,-63.085*31
+EndT:        0
+GPS acq_max:3966
+GPS acq_max:4248
+GPS acq_max:4604
+GPS acq_max:3963
+GPS acq_max:3984
+GPS acq_max:4070
+GPS acq_max:3835
+GPS acq_max:3827
+SatID=23
+GPS acq_max:4524
+GPS acq_max:4329
+GPS acq_max:4022
+GPS acq_max:4422
+GPS acq_max:4463
+GPS acq_max:3989
+GPS acq_max:3961
+GPS acq_max:3843
+SatID=23
+GPS acq_max:4001
+GPS acq_max:4092
+GPS acq_max:4473
+GPS acq_max:4101
+GPS acq_max:4093
+GPS acq_max:3970
+GPS acq_max:3814
+GPS acq_max:3878
+SatID=23
+GPS acq_max:4031
+GPS acq_max:4207
+GPS acq_max:4323
+GPS acq_max:4386
+GPS acq_max:4163
+GPS acq_max:4010
+GPS acq_max:4012
+GPS acq_max:3973
+SatID=23
+sat23 = 4604 1396 2081 2500
+GPS acq_max:3920
+GPS acq_max:4060
+GPS acq_max:4045
+GPS acq_max:4190
+GPS acq_max:4183
+GPS acq_max:4357
+GPS acq_max:4678
+GPS acq_max:4066
+SatID=24
+GPS acq_max:3615
+GPS acq_max:3765
+GPS acq_max:4333
+GPS acq_max:3847
+GPS acq_max:4131
+GPS acq_max:4150
+GPS acq_max:4610
+GPS acq_max:4127
+SatID=24
+GPS acq_max:3999
+GPS acq_max:3810
+GPS acq_max:3970
+GPS acq_max:4123
+GPS acq_max:4309
+GPS acq_max:4554
+GPS acq_max:4288
+GPS acq_max:3954
+SatID=24
+GPS acq_max:3983
+GPS acq_max:3957
+GPS acq_max:4410
+GPS acq_max:4124
+GPS acq_max:3808
+GPS acq_max:3901
+GPS acq_max:4164
+GPS acq_max:3996
+SatID=24
+GPS acq_max:4181
+GPS acq_max:4818
+GPS acq_max:4399
+GPS acq_max:4053
+GPS acq_max:4288
+GPS acq_max:3878
+GPS acq_max:4158
+GPS acq_max:4018
+SatID=24
+sat24 = 4818 402 2055 -3250
+GPS acq_max:4008
+GPS acq_max:3823
+GPS acq_max:4107
+GPS acq_max:3890
+GPS acq_max:3978
+GPS acq_max:4036
+GPS acq_max:4160
+GPS acq_max:4524
+SatID=25
+GPS acq_max:3873
+GPS acq_max:4163
+GPS acq_max:4474
+GPS acq_max:4134
+GPS acq_max:3710
+GPS acq_max:3786
+GPS acq_max:3744
+GPS acq_max:4344
+SatID=25
+GPS acq_max:4472
+GPS acq_max:4038
+GPS acq_max:4409
+GPS acq_max:4176
+GPS acq_max:3975
+GPS acq_max:4359
+GPS acq_max:4111
+GPS acq_max:4107
+SatID=25
+GPS acq_max:3604
+GPS acq_max:3742
+GPS acq_max:4809
+GPS acq_max:4120
+GPS acq_max:4098
+GPS acq_max:4105
+GPS acq_max:3954
+GPS acq_max:4286
+SatID=25
+GPS acq_max:4421
+GPS acq_max:4177
+GPS acq_max:3971
+GPS acq_max:4464
+GPS acq_max:4770
+GPS acq_max:3893
+GPS acq_max:3858
+GPS acq_max:3925
+SatID=25
+sat25 = 4809 1118 2084 -1500
+GPS acq_max:3920
+GPS acq_max:4000
+GPS acq_max:4483
+GPS acq_max:4368
+GPS acq_max:4179
+GPS acq_max:3959
+GPS acq_max:3842
+GPS acq_max:3899
+SatID=26
+GPS acq_max:4020
+GPS acq_max:3884
+GPS acq_max:3846
+GPS acq_max:4279
+GPS acq_max:4177
+GPS acq_max:4004
+GPS acq_max:3824
+GPS acq_max:4093
+SatID=26
+GPS acq_max:4259
+GPS acq_max:3855
+GPS acq_max:3817
+GPS acq_max:4127
+GPS acq_max:3886
+GPS acq_max:3756
+GPS acq_max:4097
+GPS acq_max:4046
+SatID=26
+GPS acq_max:3955
+GPS acq_max:3821
+GPS acq_max:3902
+GPS acq_max:3909
+GPS acq_max:4018
+GPS acq_max:4343
+GPS acq_max:4737
+GPS acq_max:3880
+SatID=26
+GPS acq_max:4209
+GPS acq_max:4257
+GPS acq_max:3907
+GPS acq_max:4153
+GPS acq_max:4139
+GPS acq_max:4246
+GPS acq_max:3808
+GPS acq_max:3916
+SatID=26
+sat26 = 4737 240 2111 -2500
+GPS acq_max:4079
+GPS acq_max:4308
+GPS acq_max:4624
+GPS acq_max:3826
+GPS acq_max:4108
+GPS acq_max:4271
+GPS acq_max:4502
+GPS acq_max:4019
+SatID=27
+GPS acq_max:3957
+GPS acq_max:4115
+GPS acq_max:4260
+GPS acq_max:4231
+GPS acq_max:4013
+GPS acq_max:4114
+GPS acq_max:4334
+GPS acq_max:4328
+SatID=27
+GPS acq_max:4156
+GPS acq_max:3762
+GPS acq_max:4225
+GPS acq_max:3994
+GPS acq_max:4184
+GPS acq_max:4194
+GPS acq_max:4379
+GPS acq_max:4174
+SatID=27
+GPS acq_max:4477
+GPS acq_max:4053
+GPS acq_max:4269
+GPS acq_max:4119
+GPS acq_max:3929
+GPS acq_max:4335
+GPS acq_max:4226
+GPS acq_max:3924
+SatID=27
+GPS acq_max:3941
+GPS acq_max:4121
+GPS acq_max:4186
+GPS acq_max:3992
+GPS acq_max:3993
+GPS acq_max:3747
+GPS acq_max:3848
+GPS acq_max:4142
+SatID=27
+sat27 = 4624 474 2080 4500
+GPS acq_max:4018
+GPS acq_max:4114
+GPS acq_max:3735
+GPS acq_max:3755
+GPS acq_max:4724
+GPS acq_max:4817
+GPS acq_max:4239
+GPS acq_max:4570
+SatID=28
+GPS acq_max:4061
+GPS acq_max:3985
+GPS acq_max:4004
+GPS acq_max:4029
+GPS acq_max:4286
+GPS acq_max:3714
+GPS acq_max:4152
+GPS acq_max:4085
+SatID=28
+GPS acq_max:4041
+GPS acq_max:4271
+GPS acq_max:4179
+GPS acq_max:4228
+GPS acq_max:4285
+GPS acq_max:3763
+GPS acq_max:4196
+GPS acq_max:4069
+SatID=28
+GPS acq_max:3807
+GPS acq_max:3930
+GPS acq_max:3801
+GPS acq_max:3926
+GPS acq_max:4330
+GPS acq_max:4860
+GPS acq_max:4051
+GPS acq_max:3930
+SatID=28
+GPS acq_max:3886
+GPS acq_max:4002
+GPS acq_max:4423
+GPS acq_max:4180
+GPS acq_max:4621
+GPS acq_max:4201
+GPS acq_max:4096
+GPS acq_max:4224
+SatID=28
+sat28 = 4860 1576 2069 -2250
+GPS acq_max:4254
+GPS acq_max:4237
+GPS acq_max:4084
+GPS acq_max:4460
+GPS acq_max:4142
+GPS acq_max:3877
+GPS acq_max:3959
+GPS acq_max:3897
+SatID=29
+GPS acq_max:4358
+GPS acq_max:4067
+GPS acq_max:4507
+GPS acq_max:4312
+GPS acq_max:3973
+GPS acq_max:4180
+GPS acq_max:4018
+GPS acq_max:4540
+SatID=29
+GPS acq_max:4177
+GPS acq_max:4195
+GPS acq_max:4130
+GPS acq_max:4067
+GPS acq_max:3999
+GPS acq_max:4049
+GPS acq_max:4343
+GPS acq_max:3756
+SatID=29
+GPS acq_max:4143
+GPS acq_max:3751
+GPS acq_max:3902
+GPS acq_max:3695
+GPS acq_max:4064
+GPS acq_max:4435
+GPS acq_max:4134
+GPS acq_max:4253
+SatID=29
+GPS acq_max:4056
+GPS acq_max:4143
+GPS acq_max:4059
+GPS acq_max:4495
+GPS acq_max:4324
+GPS acq_max:4205
+GPS acq_max:4057
+GPS acq_max:4259
+SatID=29
+sat29 = 4540 1952 2101 1250
+GPS acq_max:4133
+GPS acq_max:4221
+GPS acq_max:4031
+GPS acq_max:4297
+GPS acq_max:4311
+GPS acq_max:4533
+GPS acq_max:4722
+GPS acq_max:4553
+SatID=30
+GPS acq_max:4162
+GPS acq_max:3804
+GPS acq_max:3952
+GPS acq_max:4342
+GPS acq_max:4188
+GPS acq_max:4380
+GPS acq_max:4194
+GPS acq_max:3736
+SatID=30
+GPS acq_max:4063
+GPS acq_max:4252
+GPS acq_max:4191
+GPS acq_max:4092
+GPS acq_max:4112
+GPS acq_max:4231
+GPS acq_max:4001
+GPS acq_max:3879
+SatID=30
+GPS acq_max:4303
+GPS acq_max:3767
+GPS acq_max:3959
+GPS acq_max:4085
+GPS acq_max:3989
+GPS acq_max:3827
+GPS acq_max:4204
+GPS acq_max:3772
+SatID=30
+GPS acq_max:4135
+GPS acq_max:4533
+GPS acq_max:4200
+GPS acq_max:4015
+GPS acq_max:3835
+GPS acq_max:4085
+GPS acq_max:4175
+GPS acq_max:4099
+SatID=30
+sat30 = 4722 1685 2128 3500
+GPS acq_max:4117
+GPS acq_max:4322
+GPS acq_max:4677
+GPS acq_max:4664
+GPS acq_max:5222
+GPS acq_max:4328
+GPS acq_max:4279
+GPS acq_max:4525
+SatID=31
+---00000016--- Acq_st=3 2019-5-25 09:07:32 
+[00]  G01  7 32   2443.2 2045996.6  0.9  0.9  5  0        16
+[01]  G03  f 40   2544.5 2045996.7  1.0  1.0  5  0 551269924
+[02]  G06  f 42  -1308.6 2046001.7  1.0  1.0  5  0 551269928
+[03]  G12  f 38  -3756.4 2046004.9  1.0  1.0  5  0 551269915
+[04]  G17  f 36  -1099.8 2046001.4  1.0  1.0  5  0 551269930
+[05]  G19  f 41  -1892.8 2046002.5  1.0  1.0  5  0 551269930
+[06]  G22  7 25   2946.8 2045996.1  0.9  0.0 10  0        16
+[16]  B27  7 38  -2536.2 4092006.6  1.0  1.0  5  0      4035
+[17]  B13  7 40   -278.5 4092000.7  1.0  1.0  5  0      7754
+[18]  B14  7 45   1652.1 4091995.7  1.0  1.0  5  0      7499
+[19]  B28  7 46  -1250.7 4092003.3  1.0  1.0  5  0      3785
+GPS acq_max:4493
+GPS acq_max:4545
+GPS acq_max:3886
+GPS acq_max:4028
+GPS acq_max:4143
+GPS acq_max:3678
+GPS acq_max:4340
+GPS acq_max:4082
+SatID=31
+GPS acq_max:4183
+GPS acq_max:3992
+GPS acq_max:4324
+GPS acq_max:4303
+GPS acq_max:4469
+GPS acq_max:4174
+GPS acq_max:4195
+GPS acq_max:4212
+SatID=31
+lsq: nits= 4
+$GNGGA,090733.000,3112.6686,N,12136.4498,E,1,04,5.9,53.6,M,,,,0000*2E
+$GNRMC,090733.000,A,3112.6686,N,12136.4498,E,1.28,0.00,250519,,*1B
+$GPGSA,A,3,03,06,17,19,,,,,,,,,7.1,5.9,3.9*39
+$BDGSA,A,3,,,,,,,,,,,,,7.1,5.9,3.9*23
+$GPGSV,2,1,07,01,06,062,32,03,29,044,40,06,48,291,42,12,00,000,38*7D
+$GPGSV,2,2,07,17,67,019,36,19,55,338,41,22,00,000,25*46
+$BDGSV,2,1,05,27,16,300,38,13,46,293,40,14,28,049,45,28,58,345,46*6C
+$BDGSV,2,2,05,08,59,337,00*5E
+$LOGTIM,1,-440.576826,0.000000,0.000000,0.000000,-62.975*3C
+EndT:        0
+GPS acq_max:3954
+GPS acq_max:4380
+GPS acq_max:4229
+GPS acq_max:4234
+GPS acq_max:4275
+GPS acq_max:4280
+GPS acq_max:4651
+GPS acq_max:4630
+SatID=31
+GPS acq_max:4062
+GPS acq_max:3927
+GPS acq_max:4376
+GPS acq_max:4360
+GPS acq_max:3980
+GPS acq_max:3988
+GPS acq_max:4234
+GPS acq_max:3745
+SatID=31
+sat31 = 5222 1316 2120 4000
+sat37 = 1905 950 795 -2750
+sat38 = 1877 1980 829 -3750
+sat39 = 2045 126 803 1500
+---00000017--- Acq_st=3 2019-5-25 09:07:33 
+[00]  G01  7 33   2446.9 2045996.7  1.0  0.9  5  0        16
+[01]  G03  f 40   2547.9 2045996.7  1.0  1.0  5  0 551270924
+[02]  G06  f 43  -1304.8 2046001.7  1.0  1.0  5  0 551270928
+[03]  G12  f 40  -3753.0 2046004.9  1.0  1.0  5  0 551270915
+[04]  G17  f 36  -1095.8 2046001.5  1.0  1.0  5  0 551270930
+[05]  G19  f 40  -1888.9 2046002.5  1.0  1.0  5  0 551270930
+[06]  G22  7 25   2950.5 2045996.2  0.9  0.0 10  0        16
+[16]  B27 1f 37  -2532.5 4092006.6  1.0  1.0  5  0      5035
+[17]  B13 1f 40   -274.9 4092000.7  1.0  1.0  5  0      8754
+[18]  B14 1f 46   1656.0 4091995.7  1.0  1.0  5  0      8499
+[19]  B28 1f 46  -1247.1 4092003.2  1.0  1.0  5  0      4785
+lsq: nits= 4
+$GNGGA,090734.000,3112.6739,N,12136.4487,E,1,08,5.9,55.9,M,,,,0000*27
+$GNRMC,090734.000,A,3112.6739,N,12136.4487,E,2.54,99.46,250519,,*2D
+$GPGSA,A,3,03,06,17,19,,,,,,,,,7.1,5.9,3.9*39
+$BDGSA,A,3,13,14,27,28,,,,,,,,,7.1,5.9,3.9*2B
+$GPGSV,2,1,07,01,06,062,33,03,29,044,40,06,48,291,43,12,00,000,40*72
+$GPGSV,2,2,07,17,67,019,36,19,55,338,40,22,00,000,25*47
+$BDGSV,2,1,05,27,16,300,37,13,46,293,40,14,28,049,46,28,58,345,46*60
+$BDGSV,2,2,05,08,59,337,00*5E
+$LOGTIM,3,-498.140833,-646.003590,0.000000,0.000000,-62.240*15
+EndT:        0
+sat40 = 1937 2068 812 1750
+sat41 = 2137 396 826 3000
+sat42 = 1865 218 820 3500
+sat43 = 1952 2686 791 2500
+---00000018--- Acq_st=3 2019-5-25 09:07:34 
+[00]  G01  7 33   2448.8 2045996.8  1.0  0.9  5  0        16
+[01]  G03  f 40   2549.9 2045996.7  1.0  1.0  5  0 551271924
+[02]  G06  f 43  -1302.8 2046001.7  1.0  1.0  5  0 551271928
+[03]  G12  f 40  -3750.6 2046004.9  1.0  1.0  5  0 551271915
+[04]  G17  f 36  -1094.1 2046001.4  1.0  0.9  5  0 551271930
+[05]  G19  f 40  -1886.8 2046002.4  1.0  1.0  5  0 551271930
+[06]  G22  7 25   2952.4 2045995.9  0.9  0.0 10  0        16
+[16]  B27 1f 37  -2530.6 4092006.6  1.0  1.0  5  0 551257915
+[17]  B13 1f 40   -273.5 4092000.7  1.0  1.0  5  0 551257874
+[18]  B14 1f 46   1658.2 4091995.6  1.0  1.0  5  0 551257919
+[19]  B28 1f 45  -1245.2 4092003.2  1.0  1.0  5  0 551257925
+lsq: nits= 2
+$GNGGA,090735.000,3112.6847,N,12136.4425,E,1,08,1.9,43.1,M,,,,0000*23
+$GNRMC,090735.000,A,3112.6847,N,12136.4425,E,2.88,103.07,250519,,*14
+$GPGSA,A,3,03,06,17,19,,,,,,,,,2.3,1.9,1.4*35
+$BDGSA,A,3,13,14,27,28,,,,,,,,,2.3,1.9,1.4*27
+$GPGSV,2,1,07,01,06,062,33,03,29,044,40,06,48,291,43,12,00,000,40*72
+$GPGSV,2,2,07,17,67,019,36,19,55,338,40,22,00,000,25*47
+$BDGSV,2,1,05,27,16,300,37,13,46,293,40,14,28,049,46,28,58,345,45*63
+$BDGSV,2,2,05,08,59,337,00*5E
+$LOGTIM,3,-559.285376,-707.408670,0.000000,0.000000,-61.903*10
+EndT:        1
+sat44 = 9810 3568 813 250
+ch20 satid=44,max_freq = 250,max_mean = 813,max_phase = 3568,max_value = 9810,acq ok1!
+acq ok1 timeH = 0,timeL = 346113862,freq_stage = 3
+sat45 = 1945 1296 805 0
+sat46 = 2008 152 817 -1750
+---00000019--- Acq_st=3 2019-5-25 09:07:35 
+[00]  G01  7 33   2449.3 2045996.9  1.0  1.0  5  0        16
+[01]  G03  f 41   2552.1 2045996.7  1.0  1.0  5  0 551272924
+[02]  G06  f 43  -1300.8 2046001.7  1.0  1.0  5  0 551272928
+[03]  G12  f 41  -3749.2 2046004.9  1.0  1.0  5  0 551272915
+[04]  G17  f 36  -1091.6 2046001.4  1.0  1.0  5  0 551272930
+[05]  G19  f 40  -1885.4 2046002.5  1.0  1.0  5  0 551272930
+[06]  G22  7 26   2954.2 2045996.2  0.9  0.0 10  0        16
+[16]  B27 1f 37  -2528.7 4092006.5  1.0  1.0  5  0 551258915
+[17]  B13 1f 40   -271.8 4092000.7  1.0  1.0  5  0 551258874
+[18]  B14 1f 46   1660.2 4091995.7  1.0  1.0  5  0 551258919
+[19]  B28 1f 46  -1243.6 4092003.2  1.0  1.0  5  0 551258925
+[20]  B08  1  7   -134.4 4092000.4  0.1  0.0  1  0         0
+sat47 = 1923 402 800 4750
+lsq: nits= 2
+$GNGGA,090736.000,3112.6903,N,12136.4400,E,1,08,1.9,37.1,M,,,,0000*25
+$GNRMC,090736.000,A,3112.6903,N,12136.4400,E,2.66,102.69,250519,,*18
+$GPGSA,A,3,03,06,17,19,,,,,,,,,2.3,1.9,1.4*35
+$BDGSA,A,3,13,14,27,28,,,,,,,,,2.3,1.9,1.4*27
+$GPGSV,2,1,07,01,06,062,33,03,29,044,41,06,48,291,43,12,00,000,41*72
+$GPGSV,2,2,07,17,67,019,36,19,55,338,40,22,00,000,26*44
+$BDGSV,2,1,05,27,16,300,37,13,46,293,40,14,28,049,46,28,58,345,46*60
+$BDGSV,2,2,05,08,59,337,00*5E
+$LOGTIM,3,-620.604905,-768.667738,0.000000,0.000000,-61.720*1E
+EndT:        0
+sat48 = 2073 3208 812 -4250
+

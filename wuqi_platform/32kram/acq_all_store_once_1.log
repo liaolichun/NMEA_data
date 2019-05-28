@@ -1,0 +1,6070 @@
+FlashID=0x1 0x20 0x18
+
+BBram_blkflag1: 1c9a: e365
+
+FW Ver: 1.30  
+GPS00 Init Dop:  -5000, 41
+GPS01 Init Dop:  -5000, 41
+GPS02 Init Dop:  -5000, 41
+GPS03 Init Dop:  -5000, 41
+GPS04 Init Dop:  -5000, 41
+GPS05 Init Dop:  -5000, 41
+GPS06 Init Dop:  -5000, 41
+GPS07 Init Dop:  -5000, 41
+GPS08 Init Dop:  -5000, 41
+GPS09 Init Dop:  -5000, 41
+GPS10 Init Dop:  -5000, 41
+GPS11 Init Dop:  -5000, 41
+GPS12 Init Dop:  -5000, 41
+GPS13 Init Dop:  -5000, 41
+GPS14 Init Dop:  -5000, 41
+GPS15 Init Dop:  -5000, 41
+GPS16 Init Dop:  -5000, 41
+GPS17 Init Dop:  -5000, 41
+GPS18 Init Dop:  -5000, 41
+GPS19 Init Dop:  -5000, 41
+GPS20 Init Dop:  -5000, 41
+GPS21 Init Dop:  -5000, 41
+GPS22 Init Dop:  -5000, 41
+GPS23 Init Dop:  -5000, 41
+GPS24 Init Dop:  -5000, 41
+GPS25 Init Dop:  -5000, 41
+GPS26 Init Dop:  -5000, 41
+GPS27 Init Dop:  -5000, 41
+GPS28 Init Dop:  -5000, 41
+GPS29 Init Dop:  -5000, 41
+GPS30 Init Dop:  -5000, 41
+GPS31 Init Dop:  -5000, 41
+BDS00 Init Dop:  -5000, 41
+BDS01 Init Dop:  -5000, 41
+BDS02 Init Dop:  -5000, 41
+BDS03 Init Dop:  -5000, 41
+BDS04 Init Dop:  -5000, 41
+BDS05 Init Dop:  -5000, 41
+BDS06 Init Dop:  -5000, 41
+BDS07 Init Dop:  -5000, 41
+BDS08 Init Dop:  -5000, 41
+BDS09 Init Dop:  -5000, 41
+BDS10 Init Dop:  -5000, 41
+BDS11 Init Dop:  -5000, 41
+BDS12 Init Dop:  -5000, 41
+BDS13 Init Dop:  -5000, 41
+BDS14 Init Dop:  -5000, 41
+BDS15 Init Dop:  -5000, 41
+BDS16 Init Dop:  -5000, 41
+BDS17 Init Dop:  -5000, 41
+BDS18 Init Dop:  -5000, 41
+BDS19 Init Dop:  -5000, 41
+BDS20 Init Dop:  -5000, 41
+BDS21 Init Dop:  -5000, 41
+BDS22 Init Dop:  -5000, 41
+BDS23 Init Dop:  -5000, 41
+BDS24 Init Dop:  -5000, 41
+BDS25 Init Dop:  -5000, 41
+BDS26 Init Dop:  -5000, 41
+BDS27 Init Dop:  -5000, 41
+BDS28 Init Dop:  -5000, 41
+BDS29 Init Dop:  -5000, 41
+BDS30 Init Dop:  -5000, 41
+BDS31 Init Dop:  -5000, 41
+good luck!
+satid:0,acq_max[i]:3378,i:0
+satid:0,acq_max[i]:4556,i:1
+satid:0,acq_max[i]:4279,i:2
+satid:0,acq_max[i]:2615,i:3
+satid:0,acq_max[i]:2652,i:4
+satid:0,acq_max[i]:2696,i:5
+satid:0,acq_max[i]:3651,i:6
+satid:0,acq_max[i]:2631,i:7
+satid:0,acq_max[i]:2726,i:8
+satid:0,acq_max[i]:2901,i:9
+satid:0,acq_max[i]:2559,i:10
+satid:0,acq_max[i]:2742,i:11
+satid:0,acq_max[i]:2327,i:12
+satid:0,acq_max[i]:2252,i:13
+satid:0,acq_max[i]:2660,i:14
+satid:0,acq_max[i]:2381,i:15
+satid:0,acq_max[i]:2988,i:16
+satid:0,acq_max[i]:2687,i:17
+satid:0,acq_max[i]:1946,i:18
+satid:0,acq_max[i]:1824,i:19
+satid:0,acq_max[i]:1766,i:20
+satid:0,acq_max[i]:2734,i:21
+satid:0,acq_max[i]:1589,i:22
+satid:0,acq_max[i]:1966,i:23
+satid:0,acq_max[i]:2422,i:24
+satid:0,acq_max[i]:2729,i:25
+satid:0,acq_max[i]:2889,i:26
+satid:0,acq_max[i]:2920,i:27
+satid:0,acq_max[i]:2262,i:28
+satid:0,acq_max[i]:2841,i:29
+satid:0,acq_max[i]:2186,i:30
+satid:0,acq_max[i]:2695,i:31
+satid:0,acq_max[i]:2499,i:32
+satid:0,acq_max[i]:2662,i:33
+satid:0,acq_max[i]:2660,i:34
+satid:0,acq_max[i]:3091,i:35
+satid:0,acq_max[i]:2758,i:36
+satid:0,acq_max[i]:2460,i:37
+satid:0,acq_max[i]:2277,i:38
+satid:0,acq_max[i]:2640,i:39
+satid:0,acq_max[i]:3992,i:40
+sat0 = 4556 556 1232 -5250
+satid:0,acq_max[i]:3378,i:0
+satid:0,acq_max[i]:4781,i:1
+satid:0,acq_max[i]:4758,i:2
+satid:0,acq_max[i]:2848,i:3
+satid:0,acq_max[i]:2806,i:4
+satid:0,acq_max[i]:2810,i:5
+satid:0,acq_max[i]:3537,i:6
+satid:0,acq_max[i]:2753,i:7
+satid:0,acq_max[i]:2746,i:8
+satid:0,acq_max[i]:3106,i:9
+satid:0,acq_max[i]:2819,i:10
+satid:0,acq_max[i]:2374,i:11
+satid:0,acq_max[i]:2217,i:12
+satid:0,acq_max[i]:2256,i:13
+satid:0,acq_max[i]:2689,i:14
+satid:0,acq_max[i]:2658,i:15
+satid:0,acq_max[i]:2886,i:16
+satid:0,acq_max[i]:2624,i:17
+satid:0,acq_max[i]:2089,i:18
+satid:0,acq_max[i]:1828,i:19
+satid:0,acq_max[i]:1572,i:20
+satid:0,acq_max[i]:2378,i:21
+satid:0,acq_max[i]:1734,i:22
+satid:0,acq_max[i]:2542,i:23
+satid:0,acq_max[i]:2406,i:24
+satid:0,acq_max[i]:2942,i:25
+satid:0,acq_max[i]:2764,i:26
+satid:0,acq_max[i]:2782,i:27
+satid:0,acq_max[i]:2282,i:28
+satid:0,acq_max[i]:2494,i:29
+satid:0,acq_max[i]:2259,i:30
+satid:0,acq_max[i]:2623,i:31
+satid:0,acq_max[i]:2356,i:32
+satid:0,acq_max[i]:2640,i:33
+satid:0,acq_max[i]:2612,i:34
+satid:0,acq_max[i]:2742,i:35
+satid:0,acq_max[i]:2602,i:36
+satid:0,acq_max[i]:2649,i:37
+satid:0,acq_max[i]:2293,i:38
+satid:0,acq_max[i]:3000,i:39
+satid:0,acq_max[i]:3781,i:40
+sat0 = 4781 628 1231 -5250
+satid:1,acq_max[i]:3260,i:0
+satid:1,acq_max[i]:4465,i:1
+satid:1,acq_max[i]:5860,i:2
+satid:1,acq_max[i]:6552,i:3
+satid:1,acq_max[i]:5597,i:4
+satid:1,acq_max[i]:2971,i:5
+satid:1,acq_max[i]:2485,i:6
+satid:1,acq_max[i]:2816,i:7
+satid:1,acq_max[i]:2723,i:8
+satid:1,acq_max[i]:2347,i:9
+satid:1,acq_max[i]:2133,i:10
+satid:1,acq_max[i]:1948,i:11
+satid:1,acq_max[i]:2358,i:12
+satid:1,acq_max[i]:2114,i:13
+satid:1,acq_max[i]:3765,i:14
+satid:1,acq_max[i]:5057,i:15
+satid:1,acq_max[i]:6663,i:16
+satid:1,acq_max[i]:7110,i:17
+satid:1,acq_max[i]:6298,i:18
+satid:1,acq_max[i]:4362,i:19
+satid:1,acq_max[i]:2483,i:20
+satid:1,acq_max[i]:2525,i:21
+satid:1,acq_max[i]:3667,i:22
+satid:1,acq_max[i]:5488,i:23
+satid:1,acq_max[i]:6479,i:24
+satid:1,acq_max[i]:7160,i:25
+satid:1,acq_max[i]:5681,i:26
+satid:1,acq_max[i]:4487,i:27
+satid:1,acq_max[i]:2367,i:28
+satid:1,acq_max[i]:1639,i:29
+satid:1,acq_max[i]:2055,i:30
+satid:1,acq_max[i]:1946,i:31
+satid:1,acq_max[i]:2064,i:32
+satid:1,acq_max[i]:3055,i:33
+satid:1,acq_max[i]:2324,i:34
+satid:1,acq_max[i]:2258,i:35
+satid:1,acq_max[i]:2548,i:36
+satid:1,acq_max[i]:3748,i:37
+satid:1,acq_max[i]:5500,i:38
+satid:1,acq_max[i]:6034,i:39
+satid:1,acq_max[i]:5072,i:40
+sat1 = 7160 1922 1983 -11250
+satid:1,acq_max[i]:3260,i:0
+satid:1,acq_max[i]:4481,i:1
+satid:1,acq_max[i]:5894,i:2
+satid:1,acq_max[i]:6146,i:3
+satid:1,acq_max[i]:5013,i:4
+satid:1,acq_max[i]:2969,i:5
+satid:1,acq_max[i]:2540,i:6
+satid:1,acq_max[i]:2531,i:7
+satid:1,acq_max[i]:2793,i:8
+satid:1,acq_max[i]:2414,i:9
+satid:1,acq_max[i]:1936,i:10
+satid:1,acq_max[i]:1880,i:11
+satid:1,acq_max[i]:2052,i:12
+satid:1,acq_max[i]:2137,i:13
+satid:1,acq_max[i]:3710,i:14
+satid:1,acq_max[i]:4797,i:15
+satid:1,acq_max[i]:6961,i:16
+satid:1,acq_max[i]:6895,i:17
+satid:1,acq_max[i]:6793,i:18
+satid:1,acq_max[i]:4080,i:19
+satid:1,acq_max[i]:2301,i:20
+satid:1,acq_max[i]:2542,i:21
+satid:1,acq_max[i]:3550,i:22
+satid:1,acq_max[i]:5381,i:23
+satid:1,acq_max[i]:6553,i:24
+satid:1,acq_max[i]:7146,i:25
+satid:1,acq_max[i]:6016,i:26
+satid:1,acq_max[i]:4256,i:27
+satid:1,acq_max[i]:2452,i:28
+satid:1,acq_max[i]:1959,i:29
+satid:1,acq_max[i]:2073,i:30
+satid:1,acq_max[i]:1814,i:31
+satid:1,acq_max[i]:2124,i:32
+satid:1,acq_max[i]:2983,i:33
+satid:1,acq_max[i]:2447,i:34
+satid:1,acq_max[i]:2540,i:35
+satid:1,acq_max[i]:2360,i:36
+satid:1,acq_max[i]:3581,i:37
+satid:1,acq_max[i]:5497,i:38
+satid:1,acq_max[i]:6412,i:39
+satid:1,acq_max[i]:5156,i:40
+sat1 = 7146 70 1983 -11250
+satid:2,acq_max[i]:2066,i:0
+satid:2,acq_max[i]:2101,i:1
+satid:2,acq_max[i]:2529,i:2
+satid:2,acq_max[i]:2900,i:3
+satid:2,acq_max[i]:2928,i:4
+satid:2,acq_max[i]:3388,i:5
+satid:2,acq_max[i]:2922,i:6
+satid:2,acq_max[i]:3490,i:7
+satid:2,acq_max[i]:3317,i:8
+satid:2,acq_max[i]:2317,i:9
+satid:2,acq_max[i]:2303,i:10
+satid:2,acq_max[i]:3227,i:11
+satid:2,acq_max[i]:2711,i:12
+satid:2,acq_max[i]:1850,i:13
+satid:2,acq_max[i]:2253,i:14
+satid:2,acq_max[i]:3530,i:15
+satid:2,acq_max[i]:4923,i:16
+satid:2,acq_max[i]:4690,i:17
+satid:2,acq_max[i]:3893,i:18
+satid:2,acq_max[i]:2486,i:19
+satid:2,acq_max[i]:1870,i:20
+satid:2,acq_max[i]:1900,i:21
+satid:2,acq_max[i]:2142,i:22
+satid:2,acq_max[i]:2922,i:23
+satid:2,acq_max[i]:4311,i:24
+satid:2,acq_max[i]:5327,i:25
+satid:2,acq_max[i]:4902,i:26
+satid:2,acq_max[i]:3120,i:27
+satid:2,acq_max[i]:2379,i:28
+satid:2,acq_max[i]:2376,i:29
+satid:2,acq_max[i]:2644,i:30
+satid:2,acq_max[i]:2962,i:31
+satid:2,acq_max[i]:2768,i:32
+satid:2,acq_max[i]:2113,i:33
+satid:2,acq_max[i]:2764,i:34
+satid:2,acq_max[i]:3482,i:35
+satid:2,acq_max[i]:2903,i:36
+satid:2,acq_max[i]:3217,i:37
+satid:2,acq_max[i]:2874,i:38
+satid:2,acq_max[i]:2902,i:39
+satid:2,acq_max[i]:2121,i:40
+sat2 = 5327 1707 1374 -11250
+satid:2,acq_max[i]:2066,i:0
+satid:2,acq_max[i]:2099,i:1
+satid:2,acq_max[i]:2325,i:2
+satid:2,acq_max[i]:2806,i:3
+satid:2,acq_max[i]:2988,i:4
+satid:2,acq_max[i]:3784,i:5
+satid:2,acq_max[i]:2789,i:6
+satid:2,acq_max[i]:3426,i:7
+satid:2,acq_max[i]:2874,i:8
+satid:2,acq_max[i]:2088,i:9
+satid:2,acq_max[i]:2457,i:10
+satid:2,acq_max[i]:2991,i:11
+satid:2,acq_max[i]:2577,i:12
+satid:2,acq_max[i]:1897,i:13
+satid:2,acq_max[i]:2368,i:14
+satid:2,acq_max[i]:4266,i:15
+satid:2,acq_max[i]:5104,i:16
+satid:2,acq_max[i]:4807,i:17
+satid:2,acq_max[i]:3668,i:18
+satid:2,acq_max[i]:2374,i:19
+satid:2,acq_max[i]:1824,i:20
+satid:2,acq_max[i]:1989,i:21
+satid:2,acq_max[i]:2141,i:22
+satid:2,acq_max[i]:3108,i:23
+satid:2,acq_max[i]:4468,i:24
+satid:2,acq_max[i]:5038,i:25
+satid:2,acq_max[i]:4494,i:26
+satid:2,acq_max[i]:3498,i:27
+satid:2,acq_max[i]:2161,i:28
+satid:2,acq_max[i]:2538,i:29
+satid:2,acq_max[i]:2645,i:30
+satid:2,acq_max[i]:2679,i:31
+satid:2,acq_max[i]:2545,i:32
+satid:2,acq_max[i]:2116,i:33
+satid:2,acq_max[i]:2473,i:34
+satid:2,acq_max[i]:3091,i:35
+satid:2,acq_max[i]:3155,i:36
+satid:2,acq_max[i]:2932,i:37
+satid:2,acq_max[i]:2749,i:38
+satid:2,acq_max[i]:3542,i:39
+satid:2,acq_max[i]:1962,i:40
+sat2 = 5104 595 1375 -9000
+satid:3,acq_max[i]:5092,i:0
+satid:3,acq_max[i]:4229,i:1
+satid:3,acq_max[i]:2931,i:2
+satid:3,acq_max[i]:1705,i:3
+satid:3,acq_max[i]:1944,i:4
+satid:3,acq_max[i]:3400,i:5
+satid:3,acq_max[i]:3456,i:6
+satid:3,acq_max[i]:4067,i:7
+satid:3,acq_max[i]:3129,i:8
+satid:3,acq_max[i]:2181,i:9
+satid:3,acq_max[i]:1983,i:10
+satid:3,acq_max[i]:2500,i:11
+satid:3,acq_m
+ax[i]:3333,i:12
+satid:3,acq_max[i]:3230,i:13
+satid:3,acq_max[i]:3393,i:14
+satid:3,acq_max[i]:4231,i:15
+satid:3,acq_max[i]:5397,i:16
+satid:3,acq_max[i]:4562,i:17
+satid:3,acq_max[i]:3731,i:18
+satid:3,acq_max[i]:3101,i:19
+satid:3,acq_max[i]:2345,i:20
+satid:3,acq_max[i]:1815,i:21
+satid:3,acq_max[i]:2268,i:22
+satid:3,acq_max[i]:3244,i:23
+satid:3,acq_max[i]:4112,i:24
+satid:3,acq_max[i]:5127,i:25
+satid:3,acq_max[i]:4202,i:26
+satid:3,acq_max[i]:3850,i:27
+satid:3,acq_max[i]:3735,i:28
+satid:3,acq_max
+[i]:3697,i:29
+satid:3,acq_max[i]:3056,i:30
+satid:3,acq_max[i]:2564,i:31
+satid:3,acq_max[i]:2124,i:32
+satid:3,acq_max[i]:3320,i:33
+satid:3,acq_max[i]:3495,i:34
+satid:3,acq_max[i]:4295,i:35
+satid:3,acq_max[i]:3301,i:36
+satid:3,acq_max[i]:2317,i:37
+satid:3,acq_max[i]:1925,i:38
+satid:3,acq_max[i]:2401,i:39
+satid:3,acq_max[i]:3142,i:40
+sat3 = 5397 88 1614 -9000
+satid:3,acq_max[i]:5092,i:0
+satid:3,acq_max[i]:4361,i:1
+satid:3,acq_max[i]:2977,i:2
+cq_max[i]:2532,i:17
+satid:12,acq_max[i]:1864,i:18
+s
+atid:12,acq_max[i]:2014,i:19
+satid:12,acq_max[i]:2147,i:20
+satid:12,acq_max[i]:1841,i:21
+satid:12,acq_max[i]:2419,i:22
+satid:12,acq_max[i]:1720,i:23
+satid:12,acq_max[i]:1827,i:24
+satid:12,acq_max[i]:3107,i:25
+satid:12,acq_max[i]:5066,i:26
+satid:12,acq_max[i]:6090,i:27
+satid:12,acq_max[i]:5627,i:28
+satid:12,acq_max[i]:3750,i:29
+satid:12,acq_max[i]:2082,i:30
+satid:12,acq_max[i]:2018,i:31
+satid:12,acq_max[i]:2665,i:32
+satid:12,acq_max[i]:2825,i:33
+satid:12,acq_max[i]:2465,i:34
+satid:12,acq_max[
+i]:2570,i:35
+satid:12,acq_max[i]:3054,i:36
+satid:12,acq_max[i]:3470,i:37
+satid:12,acq_max[i]:3952,i:38
+satid:12,acq_max[i]:3917,i:39
+satid:12,acq_max[i]:4205,i:40
+sat12 = 6491 2001 1583 -8750
+ch4 satid=12 freq = -8750 acq ok1!
+satid:13,acq_max[i]:2011,i:0
+satid:13,acq_max[i]:1861,i:1
+satid:13,acq_max[i]:2192,i:2
+satid:13,acq_max[i]:3634,i:3
+satid:13,acq_max[i]:5624,i:4
+satid:13,acq_max[i]:6977,i:5
+satid:13,acq_max[i]:6338,i:6
+satid:13,acq_max[i]:3578,i:7
+satid:13,acq_max[i]:1942,i:8
+satid:1
+3,acq_max[i]:2368,i:9
+satid:13,acq_max[i]:3064,i:10
+satid:13,acq_max[i]:4241,i:11
+satid:13,acq_max[i]:6307,i:12
+satid:13,acq_max[i]:8206,i:13
+satid:13,acq_max[i]:8463,i:14
+satid:13,acq_max[i]:6255,i:15
+satid:13,acq_max[i]:3286,i:16
+satid:13,acq_max[i]:4701,i:17
+satid:13,acq_max[i]:6681,i:18
+satid:13,acq_max[i]:6124,i:19
+satid:13,acq_max[i]:3598,i:20
+satid:13,acq_max[i]:2653,i:21
+satid:13,acq_max[i]:4710,i:22
+satid:13,acq_max[i]:7170,i:23
+satid:13,acq_max[i]:6264,i:24
+satid:13,acq_max[i]:3261
+,i:25
+satid:13,acq_max[i]:4073,i:26
+satid:13,acq_max[i]:7417,i:27
+satid:13,acq_max[i]:8444,i:28
+satid:13,acq_max[i]:7491,i:29
+satid:13,acq_max[i]:4876,i:30
+satid:13,acq_max[i]:3681,i:31
+satid:13,acq_max[i]:2792,i:32
+satid:13,acq_max[i]:2185,i:33
+satid:13,acq_max[i]:2610,i:34
+satid:13,acq_max[i]:4502,i:35
+satid:13,acq_max[i]:6475,i:36
+satid:13,acq_max[i]:6596,i:37
+satid:13,acq_max[i]:5118,i:38
+satid:13,acq_max[i]:3127,i:39
+satid:13,acq_max[i]:1635,i:40
+sat13 = 8463 78 2475 -8500
+satid:13,acq
+_max[i]:2011,i:0
+satid:13,acq_max[i]:1782,i:1
+satid:13,acq_max[i]:2153,i:2
+satid:13,acq_max[i]:3782,i:3
+satid:13,acq_max[i]:5993,i:4
+satid:13,acq_max[i]:7152,i:5
+satid:13,acq_max[i]:5748,i:6
+satid:13,acq_max[i]:3575,i:7
+satid:13,acq_max[i]:2103,i:8
+satid:13,acq_max[i]:2276,i:9
+satid:13,acq_max[i]:2951,i:10
+satid:13,acq_max[i]:4376,i:11
+satid:13,acq_max[i]:6318,i:12
+satid:13,acq_max[i]:8020,i:13
+satid:13,acq_max[i]:8452,i:14
+satid:13,acq_max[i]:6402,i:15
+satid:13,acq_max[i]:3277,i:16
+satid:1
+3,acq_max[i]:4396,i:17
+satid:13,acq_max[i]:6579,i:18
+satid:13,acq_max[i]:6151,i:19
+satid:13,acq_max[i]:3857,i:20
+satid:13,acq_max[i]:2667,i:21
+satid:13,acq_max[i]:4972,i:22
+satid:13,acq_max[i]:7671,i:23
+satid:13,acq_max[i]:6121,i:24
+satid:13,acq_max[i]:3316,i:25
+satid:13,acq_max[i]:4007,i:26
+satid:13,acq_max[i]:7294,i:27
+satid:13,acq_max[i]:8959,i:28
+satid:13,acq_max[i]:7331,i:29
+satid:13,acq_max[i]:4886,i:30
+satid:13,acq_max[i]:4050,i:31
+satid:13,acq_max[i]:2755,i:32
+satid:13,acq_max[i]:231
+7,i:33
+satid:13,acq_max[i]:2818,i:34
+satid:13,acq_max[i]:4811,i:35
+satid:13,acq_max[i]:6546,i:36
+satid:13,acq_max[i]:6755,i:37
+satid:13,acq_max[i]:5747,i:38
+satid:13,acq_max[i]:3418,i:39
+satid:13,acq_max[i]:1637,i:40
+sat13 = 8959 59 2474 -12000
+satid:14,acq_max[i]:1862,i:0
+satid:14,acq_max[i]:2181,i:1
+satid:14,acq_max[i]:2116,i:2
+satid:14,acq_max[i]:2081,i:3
+satid:14,acq_max[i]:1733,i:4
+satid:14,acq_max[i]:2138,i:5
+satid:14,acq_max[i]:2379,i:6
+satid:14,acq_max[i]:2905,i:7
+satid:14,acq_max[i
+]:4446,i:8
+satid:14,acq_max[i]:5091,i:9
+satid:14,acq_max[i]:5489,i:10
+satid:14,acq_max[i]:4886,i:11
+satid:14,acq_max[i]:2500,i:12
+satid:14,acq_max[i]:2816,i:13
+satid:14,acq_max[i]:3398,i:14
+satid:14,acq_max[i]:4177,i:15
+satid:14,acq_max[i]:3885,i:16
+satid:14,acq_max[i]:3551,i:17
+satid:14,acq_max[i]:2996,i:18
+satid:14,acq_max[i]:1771,i:19
+satid:14,acq_max[i]:1945,i:20
+satid:14,acq_max[i]:2064,i:21
+satid:14,acq_max[i]:1769,i:22
+satid:14,acq_max[i]:2067,i:23
+satid:14,acq_max[i]:3143,i:24
+satid
+:14,acq_max[i]:3878,i:25
+satid:14,acq_max[i]:4418,i:26
+satid:14,acq_max[i]:4274,i:27
+satid:14,acq_max[i]:2740,i:28
+satid:14,acq_max[i]:2118,i:29
+satid:14,acq_max[i]:3587,i:30
+satid:14,acq_max[i]:4904,i:31
+satid:14,acq_max[i]:5334,i:32
+satid:14,acq_max[i]:5793,i:33
+satid:14,acq_max[i]:3893,i:34
+satid:14,acq_max[i]:2940,i:35
+satid:14,acq_max[i]:2135,i:36
+satid:14,acq_max[i]:1839,i:37
+satid:14,acq_max[i]:2072,i:38
+satid:14,acq_max[i]:2434,i:39
+satid:14,acq_max[i]:2125,i:40
+sat14 = 5793 11 1484 -13250
+satid:14,acq_max[i]:1862,i:0
+satid:14,acq_max[i]:2448,i:1
+satid:14,acq_max[i]:2255,i:2
+satid:14,acq_max[i]:1863,i:3
+satid:14,acq_max[i]:1920,i:4
+satid:14,acq_max[i]:1868,i:5
+satid:14,acq_max[i]:2777,i:6
+satid:14,acq_max[i]:3177,i:7
+satid:14,acq_max[i]:4669,i:8
+satid:14,acq_max[i]:5204,i:9
+satid:14,acq_max[i]:5475,i:10
+satid:14,acq_max[i]:4170,i:11
+satid:14,acq_max[i]:2500,i:12
+satid:14,acq_max[i]:2878,i:13
+satid:14,acq_max[i]:3626,i:14
+satid:14,acq_max[i]:4831,i:15
+satid:14,acq_max[i
+]:3872,i:16
+satid:14,acq_max[i]:3216,i:17
+satid:14,acq_max[i]:2812,i:18
+satid:14,acq_max[i]:1951,i:19
+satid:14,acq_max[i]:2159,i:20
+satid:14,acq_max[i]:1913,i:21
+satid:14,acq_max[i]:1968,i:22
+satid:14,acq_max[i]:1927,i:23
+satid:14,acq_max[i]:3238,i:24
+satid:14,acq_max[i]:4014,i:25
+satid:14,acq_max[i]:4597,i:26
+satid:14,acq_max[i]:4315,i:27
+satid:14,acq_max[i]:2712,i:28
+satid:14,acq_max[i]:2012,i:29
+satid:14,acq_max[i]:3619,i:30
+satid:14,acq_max[i]:4819,i:31
+satid:14,acq_max[i]:5302,i:32
+sat
+id:14,acq_max[i]:5422,i:33
+satid:14,acq_max[i]:3879,i:34
+satid:14,acq_max[i]:2899,i:35
+satid:14,acq_max[i]:2163,i:36
+satid:14,acq_max[i]:1857,i:37
+satid:14,acq_max[i]:1949,i:38
+satid:14,acq_max[i]:2319,i:39
+satid:14,acq_max[i]:2173,i:40
+sat14 = 5475 624 1486 -7500
+satid:15,acq_max[i]:5339,i:0
+satid:15,acq_max[i]:4422,i:1
+satid:15,acq_max[i]:3030,i:2
+satid:15,acq_max[i]:1935,i:3
+satid:15,acq_max[i]:2781,i:4
+satid:15,acq_max[i]:3539,i:5
+satid:15,acq_max[i]:3242,i:6
+satid:15,acq_max[i]:2628,i:7
+
+satid:15,acq_max[i]:1964,i:8
+satid:15,acq_max[i]:3232,i:9
+satid:15,acq_max[i]:4059,i:10
+satid:15,acq_max[i]:4391,i:11
+satid:15,acq_max[i]:5374,i:12
+satid:15,acq_max[i]:7439,i:13
+satid:15,acq_max[i]:9622,i:14
+satid:15,acq_max[i]:9711,i:15
+satid:15,acq_max[i]:7941,i:16
+satid:15,acq_max[i]:5512,i:17
+satid:15,acq_max[i]:3357,i:18
+satid:15,acq_max[i]:2937,i:19
+satid:15,acq_max[i]:2008,i:20
+satid:15,acq_max[i]:1912,i:21
+satid:15,acq_max[i]:2325,i:22
+satid:15,acq_max[i]:2567,i:23
+satid:15,acq_max
+[i]:4249,i:24
+satid:15,acq_max[i]:6226,i:25
+satid:15,acq_max[i]:8700,i:26
+satid:15,acq_max[i]:9742,i:27
+satid:15,acq_max[i]:8343,i:28
+satid:15,acq_max[i]:7150,i:29
+satid:15,acq_max[i]:5746,i:30
+satid:15,acq_max[i]:3763,i:31
+satid:15,acq_max[i]:3331,i:32
+satid:15,acq_max[i]:2555,i:33
+satid:15,acq_max[i]:2461,i:34
+satid:15,acq_max[i]:2846,i:35
+satid:15,acq_max[i]:3614,i:36
+satid:15,acq_max[i]:2903,i:37
+satid:15,acq_max[i]:2023,i:38
+satid:15,acq_max[i]:1512,i:39
+satid:15,acq_max[i]:1820,i:40
+s
+at15 = 9742 869 2263 -11750
+ch5 satid=15 freq = -11750 acq ok1!
+satid:16,acq_max[i]:1609,i:0
+satid:16,acq_max[i]:1741,i:1
+satid:16,acq_max[i]:1613,i:2
+satid:16,acq_max[i]:2109,i:3
+satid:16,acq_max[i]:3071,i:4
+satid:16,acq_max[i]:3444,i:5
+satid:16,acq_max[i]:3150,i:6
+satid:16,acq_max[i]:2204,i:7
+satid:16,acq_max[i]:1848,i:8
+satid:16,acq_max[i]:2317,i:9
+satid:16,acq_max[i]:2078,i:10
+satid:16,acq_max[i]:2652,i:11
+satid:16,acq_max[i]:3588,i:12
+satid:16,acq_max[i]:5126,i:13
+satid:16,acq_max[i]:56
+96,i:14
+satid:16,acq_max[i]:4728,i:15
+satid:16,acq_max[i]:2893,i:16
+satid:16,acq_max[i]:2314,i:17
+satid:16,acq_max[i]:3292,i:18
+satid:16,acq_max[i]:3795,i:19
+satid:16,acq_max[i]:2869,i:20
+satid:16,acq_max[i]:2564,i:21
+satid:16,acq_max[i]:3073,i:22
+satid:16,acq_max[i]:3138,i:23
+satid:16,acq_max[i]:2531,i:24
+satid:16,acq_max[i]:2668,i:25
+satid:16,acq_max[i]:4342,i:26
+satid:16,acq_max[i]:6805,i:27
+satid:16,acq_max[i]:5813,i:28
+satid:16,acq_max[i]:5060,i:29
+satid:16,acq_max[i]:3010,i:30
+satid:1
+6,acq_max[i]:2296,i:31
+satid:16,acq_max[i]:2316,i:32
+satid:16,acq_max[i]:1913,i:33
+satid:16,acq_max[i]:2402,i:34
+satid:16,acq_max[i]:2929,i:35
+satid:16,acq_max[i]:3592,i:36
+satid:16,acq_max[i]:4222,i:37
+satid:16,acq_max[i]:2500,i:38
+satid:16,acq_max[i]:2423,i:39
+satid:16,acq_max[i]:1579,i:40
+sat16 = 6805 943 1464 -11750
+ch6 satid=16 freq = -11750 acq ok1!
+satid:17,acq_max[i]:2596,i:0
+satid:17,acq_max[i]:3562,i:1
+satid:17,acq_max[i]:3412,i:2
+satid:17,acq_max[i]:3996,i:3
+satid:17,acq_max[i]:35
+63,i:4
+satid:17,acq_max[i]:3403,i:5
+satid:17,acq_max[i]:2529,i:6
+satid:17,acq_max[i]:3962,i:7
+satid:17,acq_max[i]:6819,i:8
+satid:17,acq_max[i]:9059,i:9
+satid:17,acq_max[i]:8569,i:10
+satid:17,acq_max[i]:5732,i:11
+satid:17,acq_max[i]:3594,i:12
+satid:17,acq_max[i]:5003,i:13
+satid:17,acq_max[i]:7036,i:14
+satid:17,acq_max[i]:8946,i:15
+satid:17,acq_max[i]:8724,i:16
+satid:17,acq_max[i]:6779,i:17
+satid:17,acq_max[i]:4469,i:18
+satid:17,acq_max[i]:3112,i:19
+satid:17,acq_max[i]:2358,i:20
+satid:17,acq_max[i]:2114,i:21
+satid:17,acq_max[i]:2202,i:22
+satid:17,acq_max[i]:3296,i:23
+satid:17,acq_max[i]:6198,i:24
+satid:17,acq_max[i]:7457,i:25
+satid:17,acq_max[i]:9247,i:26
+satid:17,acq_max[i]:8581,i:27
+satid:17,acq_max[i]:5868,i:28
+satid:17,acq_max[i]:3631,i:29
+satid:17,acq_max[i]:4531,i:30
+satid:17,acq_max[i]:6868,i:31
+satid:17,acq_max[i]:9115,i:32
+satid:17,acq_max[i]:7959,i:33
+satid:17,acq_max[i]:5475,i:34
+satid:17,acq_max[i]:3318,i:35
+satid:17,acq_max[i]:2868,i:36
+satid:17,acq_max[i]:3562,i:37
+
+satid:17,acq_max[i]:4211,i:38
+satid:17,acq_max[i]:4239,i:39
+satid:17,acq_max[i]:3756,i:40
+sat17 = 9247 1661 2773 -11500
+---00000001--- Acq_st=3 2019-5-15 01:50:2 
+acq_max[i]:4444,i:23
+satid:24,acq_max[i]:4657,i:24
+satid:24,acq_max[i]:4445,i:25
+satid:24,acq_max[i]:3587,i:26
+satid:24,acq_max[i]:3471,i:27
+satid:24,acq_max[i]:2714,i:28
+satid:24,acq_max[i]:3620,i:29
+satid:24,acq_max[i]:5264,i:30
+satid:24,acq_max[i]:6044,i:31
+satid:24,acq_max[i]:5310,i:32
+satid:24,acq_max[i]:3042,i:33
+satid:24,a
+cq_max[i]:1744,i:34
+satid:24,acq_max[i]:2907,i:35
+satid:24,acq_max[i]:4003,i:36
+satid:24,acq_max[i]:4500,i:37
+satid:24,acq_max[i]:3682,i:38
+satid:24,acq_max[i]:2904,i:39
+satid:24,acq_max[i]:2295,i:40
+sat24 = 6711 830 1761 -7750
+satid:25,acq_max[i]:6536,i:0
+satid:25,acq_max[i]:6923,i:1
+satid:25,acq_max[i]:4203,i:2
+satid:25,acq_max[i]:4105,i:3
+satid:25,acq_max[i]:4836,i:4
+satid:25,acq_max[i]:5000,i:5
+satid:25,acq_max[i]:3482,i:6
+satid:25,acq_max[i]:2183,i:7
+satid:25,acq_max[i]:3192,i:8
+satid:
+25,acq_max[i]:4837,i:9
+satid:25,acq_max[i]:5479,i:10
+satid:25,acq_max[i]:4564,i:11
+satid:25,acq_max[i]:3983,i:12
+satid:25,acq_max[i]:4640,i:13
+satid:25,acq_max[i]:5541,i:14
+satid:25,acq_max[i]:6691,i:15
+satid:25,acq_max[i]:5796,i:16
+satid:25,acq_max[i]:5801,i:17
+satid:25,acq_max[i]:6181,i:18
+satid:25,acq_max[i]:4136,i:19
+satid:25,acq_max[i]:2977,i:20
+satid:25,acq_max[i]:2115,i:21
+satid:25,acq_max[i]:3283,i:22
+satid:25,acq_max[i]:5577,i:23
+satid:25,acq_max[i]:5384,i:24
+satid:25,acq_max[i]:546
+9,i:25
+satid:25,acq_max[i]:5570,i:26
+satid:25,acq_max[i]:6483,i:27
+satid:25,acq_max[i]:5765,i:28
+satid:25,acq_max[i]:4675,i:29
+satid:25,acq_max[i]:4911,i:30
+satid:25,acq_max[i]:5064,i:31
+satid:25,acq_max[i]:5700,i:32
+satid:25,acq_max[i]:4798,i:33
+satid:25,acq_max[i]:2321,i:34
+satid:25,acq_max[i]:2642,i:35
+satid:25,acq_max[i]:4426,i:36
+satid:25,acq_max[i]:5521,i:37
+satid:25,acq_max[i]:4499,i:38
+satid:25,acq_max[i]:3563,i:39
+satid:25,acq_max[i]:4678,i:40
+sat25 = 6923 1234 2468 -5250
+satid:25,
+acq_max[i]:6536,i:0
+satid:25,acq_max[i]:7093,i:1
+satid:25,acq_max[i]:4143,i:2
+satid:25,acq_max[i]:3836,i:3
+satid:25,acq_max[i]:4998,i:4
+satid:25,acq_max[i]:4703,i:5
+satid:25,acq_max[i]:3520,i:6
+satid:25,acq_max[i]:1982,i:7
+satid:25,acq_max[i]:2940,i:8
+satid:25,acq_max[i]:4876,i:9
+satid:25,acq_max[i]:5311,i:10
+satid:25,acq_max[i]:4694,i:11
+satid:25,acq_max[i]:4340,i:12
+satid:25,acq_max[i]:4939,i:13
+satid:25,acq_max[i]:5650,i:14
+satid:25,acq_max[i]:6773,i:15
+satid:25,acq_max[i]:5500,i:16
+sati
+d:25,acq_max[i]:6436,i:17
+satid:25,acq_max[i]:5856,i:18
+satid:25,acq_max[i]:4163,i:19
+satid:25,acq_max[i]:3221,i:20
+satid:25,acq_max[i]:1993,i:21
+satid:25,acq_max[i]:3311,i:22
+satid:25,acq_max[i]:5113,i:23
+satid:25,acq_max[i]:5807,i:24
+satid:25,acq_max[i]:5778,i:25
+satid:25,acq_max[i]:6176,i:26
+satid:25,acq_max[i]:6201,i:27
+satid:25,acq_max[i]:5845,i:28
+satid:25,acq_max[i]:4417,i:29
+satid:25,acq_max[i]:4760,i:30
+satid:25,acq_max[i]:5387,i:31
+satid:25,acq_max[i]:5463,i:32
+satid:25,acq_max[i]:
+4689,i:33
+satid:25,acq_max[i]:2369,i:34
+satid:25,acq_max[i]:2868,i:35
+satid:25,acq_max[i]:4489,i:36
+satid:25,acq_max[i]:4728,i:37
+satid:25,acq_max[i]:4503,i:38
+satid:25,acq_max[i]:3585,i:39
+satid:25,acq_max[i]:4838,i:40
+sat25 = 7093 1210 2468 -5250
+satid:26,acq_max[i]:3567,i:0
+satid:26,acq_max[i]:3439,i:1
+satid:26,acq_max[i]:3119,i:2
+satid:26,acq_max[i]:2624,i:3
+satid:26,acq_max[i]:1781,i:4
+satid:26,acq_max[i]:1599,i:5
+satid:26,acq_max[i]:2029,i:6
+satid:26,acq_max[i]:2644,i:7
+satid:26,acq_m
+ax[i]:2557,i:8
+satid:26,acq_max[i]:2448,i:9
+satid:26,acq_max[i]:2261,i:10
+satid:26,acq_max[i]:2696,i:11
+satid:26,acq_max[i]:3427,i:12
+satid:26,acq_max[i]:3402,i:13
+satid:26,acq_max[i]:3182,i:14
+satid:26,acq_max[i]:3068,i:15
+satid:26,acq_max[i]:4019,i:16
+satid:26,acq_max[i]:3430,i:17
+satid:26,acq_max[i]:3817,i:18
+satid:26,acq_max[i]:3073,i:19
+satid:26,acq_max[i]:2444,i:20
+satid:26,acq_max[i]:2199,i:21
+satid:26,acq_max[i]:2822,i:22
+satid:26,acq_max[i]:3639,i:23
+satid:26,acq_max[i]:4074,i:24
+s
+atid:26,acq_max[i]:3436,i:25
+satid:26,acq_max[i]:3047,i:26
+satid:26,acq_max[i]:2966,i:27
+satid:26,acq_max[i]:3091,i:28
+satid:26,acq_max[i]:2911,i:29
+satid:26,acq_max[i]:2748,i:30
+satid:26,acq_max[i]:2237,i:31
+satid:26,acq_max[i]:2392,i:32
+satid:26,acq_max[i]:2530,i:33
+satid:26,acq_max[i]:2854,i:34
+satid:26,acq_max[i]:2306,i:35
+satid:26,acq_max[i]:2063,i:36
+satid:26,acq_max[i]:1589,i:37
+satid:26,acq_max[i]:2279,i:38
+satid:26,acq_max[i]:2814,i:39
+satid:26,acq_max[i]:3616,i:40
+sat26 = 4074 803 
+1308 -11000
+satid:26,acq_max[i]:3567,i:0
+satid:26,acq_max[i]:3507,i:1
+satid:26,acq_max[i]:3164,i:2
+satid:26,acq_max[i]:2512,i:3
+satid:26,acq_max[i]:1661,i:4
+satid:26,acq_max[i]:1730,i:5
+satid:26,acq_max[i]:2139,i:6
+satid:26,acq_max[i]:2698,i:7
+satid:26,acq_max[i]:3099,i:8
+satid:26,acq_max[i]:2527,i:9
+satid:26,acq_max[i]:2149,i:10
+satid:26,acq_max[i]:2716,i:11
+satid:26,acq_max[i]:2930,i:12
+satid:26,acq_max[i]:3346,i:13
+satid:26,acq_max[i]:3413,i:14
+satid:26,acq_max[i]:3687,i:15
+satid:26,acq_
+max[i]:4024,i:16
+satid:26,acq_max[i]:3617,i:17
+satid:26,acq_max[i]:4191,i:18
+satid:26,acq_max[i]:3089,i:19
+satid:26,acq_max[i]:2780,i:20
+satid:26,acq_max[i]:1826,i:21
+satid:26,acq_max[i]:2723,i:22
+satid:26,acq_max[i]:3610,i:23
+satid:26,acq_max[i]:3568,i:24
+satid:26,acq_max[i]:3582,i:25
+satid:26,acq_max[i]:2894,i:26
+satid:26,acq_max[i]:2559,i:27
+satid:26,acq_max[i]:3113,i:28
+satid:26,acq_max[i]:2960,i:29
+satid:26,acq_max[i]:2641,i:30
+satid:26,acq_max[i]:2219,i:31
+satid:26,acq_max[i]:2226,i:32
+
+satid:26,acq_max[i]:2608,i:33
+satid:26,acq_max[i]:2888,i:34
+satid:26,acq_max[i]:2517,i:35
+satid:26,acq_max[i]:2051,i:36
+satid:26,acq_max[i]:1987,i:37
+satid:26,acq_max[i]:2182,i:38
+satid:26,acq_max[i]:2757,i:39
+satid:26,acq_max[i]:3673,i:40
+sat26 = 4191 448 1309 -9500
+satid:27,acq_max[i]:2114,i:0
+satid:27,acq_max[i]:2235,i:1
+satid:27,acq_max[i]:4102,i:2
+satid:27,acq_max[i]:6066,i:3
+satid:27,acq_max[i]:8205,i:4
+satid:27,acq_max[i]:9683,i:5
+satid:27,acq_max[i]:7896,i:6
+satid:27,acq_max[i]:486
+5,i:7
+satid:27,acq_max[i]:2866,i:8
+satid:27,acq_max[i]:2535,i:9
+satid:27,acq_max[i]:2171,i:10
+satid:27,acq_max[i]:2855,i:11
+satid:27,acq_max[i]:3138,i:12
+satid:27,acq_max[i]:3257,i:13
+satid:27,acq_max[i]:3192,i:14
+satid:27,acq_max[i]:3195,i:15
+satid:27,acq_max[i]:3407,i:16
+satid:27,acq_max[i]:3154,i:17
+satid:27,acq_max[i]:2338,i:18
+satid:27,acq_max[i]:2347,i:19
+satid:27,acq_max[i]:1902,i:20
+satid:27,acq_max[i]:1868,i:21
+satid:27,acq_max[i]:2298,i:22
+satid:27,acq_max[i]:2243,i:23
+satid:27,ac
+q_max[i]:3135,i:24
+satid:27,acq_max[i]:3473,i:25
+satid:27,acq_max[i]:3233,i:26
+satid:27,acq_max[i]:3220,i:27
+satid:27,acq_max[i]:3773,i:28
+satid:27,acq_max[i]:3566,i:29
+satid:27,acq_max[i]:3342,i:30
+satid:27,acq_max[i]:2487,i:31
+satid:27,acq_max[i]:2567,i:32
+satid:27,acq_max[i]:2516,i:33
+satid:27,acq_max[i]:3847,i:34
+satid:27,acq_max[i]:6866,i:35
+satid:27,acq_max[i]:8187,i:36
+satid:27,acq_max[i]:9042,i:37
+satid:27,acq_max[i]:7778,i:38
+satid:27,acq_max[i]:5782,i:39
+satid:27,acq_max[i]:2787,i:
+40
+sat27 = 9683 912 2089 -6250
+ch9 satid=27 freq = -6250 acq ok1!
+satid:28,acq_max[i]:4047,i:0
+satid:28,acq_max[i]:4761,i:1
+satid:28,acq_max[i]:3452,i:2
+satid:28,acq_max[i]:2547,i:3
+satid:28,acq_max[i]:2566,i:4
+satid:28,acq_max[i]:3210,i:5
+satid:28,acq_max[i]:2244,i:6
+satid:28,acq_max[i]:2271,i:7
+satid:28,acq_max[i]:2658,i:8
+satid:28,acq_max[i]:3489,i:9
+satid:28,acq_max[i]:3590,i:10
+satid:28,acq_max[i]:3288,i:11
+satid:28,acq_max[i]:3334,i:12
+satid:28,acq_max[i]:3177,i:13
+satid:28,acq_max[i]:3851,i:14
+satid:28,acq_max[i]:3448,i:15
+satid:28,acq_max[i]:3004,i:16
+satid:28,acq_max[i]:2494,i:17
+satid:28,acq_max[i]:2423,i:18
+satid:28,acq_max[i]:1963,i:19
+satid:28,acq_max[i]:1667,i:20
+satid:28,acq_max[i]:1720,i:21
+satid:28,acq_max[i]:1861,i:22
+satid:28,acq_max[i]:2236,i:23
+satid:28,acq_max[i]:2597,i:24
+satid:28,acq_max[i]:2598,i:25
+satid:28,acq_max[i]:3308,i:26
+satid:28,acq_max[i]:3339,i:27
+satid:28,acq_max[i]:3219,i:28
+satid:28,acq_max[i]:2656,i:29
+satid:28,acq_max[i]:2760,i:30
+sati
+d:28,acq_max[i]:3232,i:31
+satid:28,acq_max[i]:3184,i:32
+satid:28,acq_max[i]:3072,i:33
+satid:28,acq_max[i]:2417,i:34
+satid:28,acq_max[i]:2089,i:35
+satid:28,acq_max[i]:2194,i:36
+satid:28,acq_max[i]:2613,i:37
+satid:28,acq_max[i]:2861,i:38
+satid:28,acq_max[i]:2832,i:39
+satid:28,acq_max[i]:3851,i:40
+sat28 = 4761 1554 1320 -5250
+satid:28,acq_max[i]:4047,i:0
+satid:28,acq_max[i]:4925,i:1
+satid:28,acq_max[i]:3139,i:2
+satid:28,acq_max[i]:2664,i:3
+satid:28,acq_max[i]:2342,i:4
+satid:28,acq_max[i]:2821,i
+:5
+satid:28,acq_max[i]:2508,i:6
+satid:28,acq_max[i]:2421,i:7
+satid:28,acq_max[i]:3034,i:8
+satid:28,acq_max[i]:3381,i:9
+satid:28,acq_max[i]:3256,i:10
+satid:28,acq_max[i]:3333,i:11
+satid:28,acq_max[i]:3098,i:12
+satid:28,acq_max[i]:3121,i:13
+satid:28,acq_max[i]:4058,i:14
+satid:28,acq_max[i]:3916,i:15
+satid:28,acq_max[i]:3293,i:16
+satid:28,acq_max[i]:2510,i:17
+satid:28,acq_max[i]:2043,i:18
+satid:28,acq_max[i]:2157,i:19
+satid:28,acq_max[i]:1537,i:20
+satid:28,acq_max[i]:1471,i:21
+satid:28,acq_max
+[i]:2024,i:22
+satid:28,acq_max[i]:1979,i:23
+satid:28,acq_max[i]:2276,i:24
+satid:28,acq_max[i]:2456,i:25
+satid:28,acq_max[i]:3566,i:26
+satid:28,acq_max[i]:3583,i:27
+satid:28,acq_max[i]:3109,i:28
+satid:28,acq_max[i]:2956,i:29
+satid:28,acq_max[i]:2745,i:30
+satid:28,acq_max[i]:3189,i:31
+satid:28,acq_max[i]:3161,i:32
+satid:28,acq_max[i]:3037,i:33
+satid:28,acq_max[i]:2343,i:34
+satid:28,acq_max[i]:2320,i:35
+satid:28,acq_max[i]:2152,i:36
+satid:28,acq_max[i]:2711,i:37
+satid:28,acq_max[i]:2734,i:38
+s
+atid:28,acq_max[i]:2698,i:39
+satid:28,acq_max[i]:3342,i:40
+sat28 = 4925 1552 1320 -5250
+satid:29,acq_max[i]:5540,i:0
+satid:29,acq_max[i]:4727,i:1
+satid:29,acq_max[i]:2649,i:2
+satid:29,acq_max[i]:1897,i:3
+satid:29,acq_max[i]:1783,i:4
+satid:29,acq_max[i]:1861,i:5
+satid:29,acq_max[i]:2271,i:6
+satid:29,acq_max[i]:3961,i:7
+satid:29,acq_max[i]:4265,i:8
+satid:29,acq_max[i]:4178,i:9
+satid:29,acq_max[i]:3488,i:10
+satid:29,acq_max[i]:1963,i:11
+satid:29,acq_max[i]:1904,i:12
+satid:29,acq_max[i]:3322,i:1
+3
+satid:29,acq_max[i]:3978,i:14
+satid:29,acq_max[i]:5495,i:15
+satid:29,acq_max[i]:5418,i:16
+satid:29,acq_max[i]:5151,i:17
+satid:29,acq_max[i]:4174,i:18
+satid:29,acq_max[i]:3183,i:19
+satid:29,acq_max[i]:2437,i:20
+satid:29,acq_max[i]:2020,i:21
+satid:29,acq_max[i]:3285,i:22
+satid:29,acq_max[i]:4563,i:23
+satid:29,acq_max[i]:5179,i:24
+satid:29,acq_max[i]:5699,i:25
+satid:29,acq_max[i]:5857,i:26
+satid:29,acq_max[i]:4427,i:27
+satid:29,acq_max[i]:3449,i:28
+satid:29,acq_max[i]:2412,i:29
+satid:29,acq_
+max[i]:2034,i:30
+satid:29,acq_max[i]:2991,i:31
+satid:29,acq_max[i]:4340,i:32
+satid:29,acq_max[i]:5086,i:33
+satid:29,acq_max[i]:4472,i:34
+satid:29,acq_max[i]:3563,i:35
+satid:29,acq_max[i]:1966,i:36
+satid:29,acq_max[i]:1687,i:37
+satid:29,acq_max[i]:2003,i:38
+satid:29,acq_max[i]:2089,i:39
+satid:29,acq_max[i]:3153,i:40
+sat29 = 5857 1070 1713 -11500
+satid:29,acq_max[i]:5540,i:0
+satid:29,acq_max[i]:4523,i:1
+satid:29,acq_max[i]:2511,i:2
+satid:29,acq_max[i]:1909,i:3
+satid:29,acq_max[i]:1831,i:4
+sat
+id:29,acq_max[i]:1897,i:5
+satid:29,acq_max[i]:2326,i:6
+satid:29,acq_max[i]:3797,i:7
+satid:29,acq_max[i]:4501,i:8
+satid:29,acq_max[i]:4013,i:9
+satid:29,acq_max[i]:3019,i:10
+satid:29,acq_max[i]:2082,i:11
+satid:29,acq_max[i]:2092,i:12
+satid:29,acq_max[i]:3802,i:13
+satid:29,acq_max[i]:4066,i:14
+satid:29,acq_max[i]:5254,i:15
+satid:29,acq_max[i]:5631,i:16
+satid:29,acq_max[i]:5276,i:17
+satid:29,acq_max[i]:5047,i:18
+satid:29,acq_max[i]:3181,i:19
+satid:29,acq_max[i]:2160,i:20
+satid:29,acq_max[i]:1767
+,i:21
+satid:29,acq_max[i]:3401,i:22
+satid:29,acq_max[i]:4202,i:23
+satid:29,acq_max[i]:4901,i:24
+satid:29,acq_max[i]:5739,i:25
+satid:29,acq_max[i]:6123,i:26
+satid:29,acq_max[i]:4258,i:27
+satid:29,acq_max[i]:3560,i:28
+satid:29,acq_max[i]:2444,i:29
+satid:29,acq_max[i]:1861,i:30
+satid:29,acq_max[i]:2768,i:31
+satid:29,acq_max[i]:4250,i:32
+satid:29,acq_max[i]:5413,i:33
+satid:29,acq_max[i]:4284,i:34
+satid:29,acq_max[i]:3792,i:35
+satid:29,acq_max[i]:1960,i:36
+satid:29,acq_max[i]:1629,i:37
+satid:29,
+acq_max[i]:1915,i:38
+satid:29,acq_max[i]:2049,i:39
+satid:29,acq_max[i]:3321,i:40
+sat29 = 6123 47 1713 -11500
+---00000002--- Acq_st=3 2019-5-15 01:50:3 
+[00]  G05  1  7   6669.6 2045991.5 -0.0  0.0  1  0         9
+[01]  G06  1  7   6382.5 2045992.4  0.1  0.0  1  0         6
+[02]  G08  1  7  13099.9 2045984.1  0.0  0.0  1  0        17
+[03]  G11  1  7   5014.7 2045993.6 -0.1  0.0  1  0         3
+[04]  G13  1  7   8696.8 2045989.3  0.1  0.0  1  0        14
+[05]  G16  1  7  11680.6 2045985.0  0.2  0.0 
+ 1  0         0
+[06]  G17  1  7  11839.0 2045984.4 -0.1  0.0  1  0        17
+[07]  G20  1  7   8976.2 2045988.6 -0.0  0.0  1  0         2
+[08]  G23  1  7   5775.1 2045993.4  0.0  0.0  1  0         7
+[09]  G28  1  7   6242.0 2045992.1 -0.0  0.0  1  0         1
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+satid:30,acq_max[i]:1827,i:0
+
+satid:30,acq_max[i]:3231,i:1
+satid:30,acq_max[i]:3902,i:2
+satid:30,acq_max[i]:4698,i:3
+satid:30,acq_max[i]:5436,i:4
+satid:30,acq_max[i]:4834,i:5
+satid:30,acq_max[i]:4267,i:6
+satid:30,acq_max[i]:3094,i:7
+satid:30,acq_max[i]:2780,i:8
+satid:30,acq_max[i]:2982,i:9
+satid:30,acq_max[i]:3529,i:10
+satid:30,acq_max[i]:3356,i:11
+satid:30,acq_max[i]:3044,i:12
+satid:30,acq_max[i]:3266,i:13
+satid:30,acq_max[i]:2628,i:14
+satid:30,acq_max[i]:2304,i:15
+satid:30,acq_max[i]:3234,i:16
+satid:30,acq_max[i]:431
+8,i:17
+satid:30,acq_max[i]:4729,i:18
+satid:30,acq_max[i]:5062,i:19
+satid:30,acq_max[i]:3085,i:20
+satid:30,acq_max[i]:2469,i:21
+satid:30,acq_max[i]:3701,i:22
+satid:30,acq_max[i]:4806,i:23
+satid:30,acq_max[i]:4561,i:24
+satid:30,acq_max[i]:3488,i:25
+satid:30,acq_max[i]:3289,i:26
+satid:30,acq_max[i]:2658,i:27
+satid:30,acq_max[i]:3006,i:28
+satid:30,acq_max[i]:2959,i:29
+satid:30,acq_max[i]:2844,i:30
+satid:30,acq_max[i]:3740,i:31
+satid:30,acq_max[i]:3425,i:32
+satid:30,acq_max[i]:2444,i:33
+satid:30,acq_max[i]:2336,i:34
+satid:30,acq_max[i]:3137,i:35
+satid:30,acq_max[i]:4443,i:36
+satid:30,acq_max[i]:5548,i:37
+satid:30,acq_max[i]:5886,i:38
+satid:30,acq_max[i]:4749,i:39
+satid:30,acq_max[i]:3144,i:40
+sat30 = 5886 1602 1707 -14500
+satid:30,acq_max[i]:1827,i:0
+satid:30,acq_max[i]:3287,i:1
+satid:30,acq_max[i]:4039,i:2
+satid:30,acq_max[i]:4451,i:3
+satid:30,acq_max[i]:5621,i:4
+satid:30,acq_max[i]:5379,i:5
+satid:30,acq_max[i]:4396,i:6
+satid:30,acq_max[i]:2659,i:7
+satid:30,acq_max[i]:2745,i:8
+sa
+tid:30,acq_max[i]:2754,i:9
+satid:30,acq_max[i]:3335,i:10
+satid:30,acq_max[i]:3611,i:11
+satid:30,acq_max[i]:2955,i:12
+satid:30,acq_max[i]:3267,i:13
+satid:30,acq_max[i]:2905,i:14
+satid:30,acq_max[i]:2370,i:15
+satid:30,acq_max[i]:3212,i:16
+satid:30,acq_max[i]:4440,i:17
+satid:30,acq_max[i]:4728,i:18
+satid:30,acq_max[i]:4562,i:19
+satid:30,acq_max[i]:2908,i:20
+satid:30,acq_max[i]:2322,i:21
+satid:30,acq_max[i]:3948,i:22
+satid:30,acq_max[i]:4565,i:23
+satid:30,acq_max[i]:4758,i:24
+satid:30,acq_max[i]
+:3615,i:25
+satid:30,acq_max[i]:3160,i:26
+satid:30,acq_max[i]:2652,i:27
+satid:30,acq_max[i]:3153,i:28
+satid:30,acq_max[i]:2958,i:29
+satid:30,acq_max[i]:3247,i:30
+satid:30,acq_max[i]:3396,i:31
+satid:30,acq_max[i]:3297,i:32
+satid:30,acq_max[i]:2555,i:33
+satid:30,acq_max[i]:2299,i:34
+satid:30,acq_max[i]:3113,i:35
+satid:30,acq_max[i]:4057,i:36
+satid:30,acq_max[i]:5853,i:37
+satid:30,acq_max[i]:5682,i:38
+satid:30,acq_max[i]:4493,i:39
+satid:30,acq_max[i]:3574,i:40
+sat30 = 5853 902 1707 -14250
+satid
+:31,acq_max[i]:3115,i:0
+satid:31,acq_max[i]:2036,i:1
+satid:31,acq_max[i]:1986,i:2
+satid:31,acq_max[i]:2790,i:3
+satid:31,acq_max[i]:2982,i:4
+satid:31,acq_max[i]:2857,i:5
+satid:31,acq_max[i]:1875,i:6
+satid:31,acq_max[i]:3482,i:7
+satid:31,acq_max[i]:5283,i:8
+satid:31,acq_max[i]:6891,i:9
+satid:31,acq_max[i]:3800,i:10
+satid:31,acq_max[i]:2026,i:11
+satid:31,acq_max[i]:2795,i:12
+satid:31,acq_max[i]:4325,i:13
+satid:31,acq_max[i]:5632,i:14
+satid:31,acq_max[i]:4864,i:15
+satid:31,acq_max[i]:2661,i:16
+
+satid:31,acq_max[i]:2705,i:17
+satid:31,acq_max[i]:2569,i:18
+satid:31,acq_max[i]:2638,i:19
+satid:31,acq_max[i]:2574,i:20
+satid:31,acq_max[i]:2057,i:21
+satid:31,acq_max[i]:3579,i:22
+satid:31,acq_max[i]:3059,i:23
+satid:31,acq_max[i]:2381,i:24
+satid:31,acq_max[i]:2444,i:25
+satid:31,acq_max[i]:4628,i:26
+satid:31,acq_max[i]:5685,i:27
+satid:31,acq_max[i]:5356,i:28
+satid:31,acq_max[i]:3627,i:29
+satid:31,acq_max[i]:2208,i:30
+satid:31,acq_max[i]:3809,i:31
+satid:31,acq_max[i]:5469,i:32
+satid:31,acq_max[i]:6441,i:33
+satid:31,acq_max[i]:5210,i:34
+satid:31,acq_max[i]:2765,i:35
+satid:31,acq_max[i]:1815,i:36
+satid:31,acq_max[i]:2949,i:37
+satid:31,acq_max[i]:2788,i:38
+satid:31,acq_max[i]:2295,i:39
+satid:31,acq_max[i]:1672,i:40
+sat31 = 6891 459 1582 -7250
+ch10 satid=31 freq = -7250 acq ok1!
+sat37 = 2712 2999 1058 -6750
+sat37 = 2667 3226 1058 -12750
+sat38 = 2602 1735 1068 -10000
+sat38 = 2669 1525 1068 -14750
+sat39 = 2543 4031 1062 -6250
+sat39 = 2646 387 1061 -9250
+sat40 = 2770 2936 1071 -5000
+sa
+t40 = 2770 3000 1072 -5000
+sat41 = 2558 60 1057 -14500
+sat41 = 2774 92 1057 -14250
+sat42 = 2580 2276 1058 -8250
+---00000003--- Acq_st=3 2019-5-15 01:50:4 
+[00]  G05  1  7   6730.0 2045991.6  0.0  0.0  1  0         9
+[01]  G06  1  7   6731.4 2045992.1 -0.1  0.0  1  0         6
+[02]  G08  1 12  13155.3 2045984.1  0.2  0.0  1  0        17
+[03]  G11  1 13   5068.0 2045993.9  0.1  0.0  1  0         3
+[04]  G13  1  7   8575.2 2045988.9  0.2  0.0  1  0        14
+[05]  G16  1  7  11483.7 2045984.9  0.1  0
+.0  1  0         0
+[06]  G17  1  7  11919.2 2045984.9  0.0  0.0  1  0        17
+[07]  G20  1  9   9130.3 2045989.3  0.1  0.0  1  0         2
+[08]  G23  1  7   5964.2 2045993.0  0.0  0.0  1  0         7
+[09]  G28  1  7   6223.6 2045992.1 -0.1  0.0  1  0         1
+[10]  G32  1  7   7269.2 2045990.8  0.0  0.0  1  0         0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+sat42 = 2592 3836 1058 -9000
+
+sat43 = 2924 3965 1050 -11500
+
+sat43 = 2910 2520 1051 -5000
+
+sat44 = 2555 179 1053 -6500
+
+sat44 = 2552 1557 1053 -9750
+
+sat45 = 2723 407 1056 -6250
+
+sat45 = 2726 439 1057 -6250
+
+sat46 = 7672 1073 1073 -5000
+ch16 satid=46 freq = -5000 acq ok1!
+
+---00000004--- Acq_st=3 2019-5-15 01:50:5 
+[03]  G11  1 11   5045.9 2045994.1  0.1  0.0  1  0         3
+[04]  G13  1  7   8717.2 2045989.1 -0.1  0.0  1  0        14
+[05]  G16  1  7  11508.9 2045985.1  0.0  0.0  1  0         0
+[06]  G17  1  9  11981.9 2045984.9  0.3  0.0  1  0        17
+[07]  G20  1 13   9234.2 2045988.7  0.0  0.0  1  0         2
+[08]  G23  1  9   5998.9 2045993.2 -0.1  0.0  1  0         7
+[09]  G28  1 12   6148.8 2045992.1  0.0  0.0  1  0         1
+[10]  G32  1  7   7279.9 2045990.9 -0.2  0.0  1  0         0
+[16]  B10  1  7   5309.9 4091987.1  0.0  0.0  1  0         0
+sat47 = 2545 3584 1044 -9250
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        1
+sat47 = 2585 3648 1044 -9500
+
+sat48 = 2580 3577 1062 -13750
+
+sat48 = 2473 1127 1062 -11750
+
+sat49 = 2556 3408 1068 -6000
+
+sat49 = 2612 2880 1068 -7500
+
+sat50 = 2544 1347 1054 -7000
+
+sat50 = 2653 1379 1054 -6750
+
+sat51 = 2705 1295 1058 -13250
+
+sat51 = 2694 1327 1059 -13500
+
+sat52 = 2623 336 1077 -8750
+
+sat52 = 2555 4068 1076 -11750
+
+---00000005--- Acq_st=3 2019-5-15 01:50:6 
+[07]  G20  7  7   9299.1 2045987.8 -0.0  0.0 20  0         2
+[09]  G28  1  7   6195.9 2045991.8 -0.0  0.0  1  0         1
+[10]  G32  1  7   7351.8 2045991.0  0.1  0.0  1  0         0
+[16]  B10  1  7   5029.2 4091986.7  0.2  0.0  1  0        82
+sat53 = 2877 2722 1052 -14250
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+
+sat53 = 2802 2786 1053 -14250
+
+sat54 = 2471 4091 1055 -11500
+
+sat54 = 2507 1785 1057 -11250
+
+sat55 = 2747 1152 1058 -12000
+
+sat55 = 2540 1108 1058 -14750
+
+sat56 = 2451 3901 1043 -8500
+
+sat56 = 2604 1516 1044 -5250
+
+sat57 = 2624 310 1054 -10250
+
+sat57 = 2721 211 1055 -10250
+
+sat58 = 2659 1925 1053 -10000
+
+sat58 = 2996 1957 1053 -9250
+
+---00000006--- Acq_st=3 2019-5-15 01:50:7 
+[07]  G20  7  8   9298.1 2045987.8  0.1  0.0 20  0        17
+[16]  B10  1  7   5032.7 4091987.2 -0.2  0.0  1  0      1082
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+sat59 = 2546 1773 1059 -7750
+
+sat59 = 2583 1805 1058 -7750
+
+sat60 = 2530 750 1055 -10000
+
+sat60 = 2633 2651 1054 -13500
+
+sat61 = 2501 454 1046 -10750
+
+sat61 = 2584 1109 1048 -11500
+
+sat62 = 2868 2304 1052 -12500
+
+sat62 = 2713 2368 1051 -12500
+
+sat63 = 2528 202 1054 -7750
+
+sat63 = 2551 2155 1053 -6000
+
+sat64 = 2653 2276 1055 -5250
+
+sat64 = 2587 2340 1055 -5000
+
+---00000007--- Acq_st=3 2019-5-15 01:50:8 
+[07]  G20  7 11   9309.9 2045988.0  0.1  0.0 20  0        17
+[16]  B10  1  7   5196.2 4091986.7  0.0  0.0  1  0      2082
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+sat65 = 2586 3498 1060 -6750
+
+sat65 = 2612 3509 1060 -8000
+
+sat66 = 2863 961 1055 -14500
+
+sat66 = 2748 1190 1055 -10250
+
+sat67 = 2589 791 1052 -12500
+
+sat67 = 2465 823 1052 -12750
+
+sat68 = 2675 3811 1054 -14000
+
+sat68 = 2689 3875 1055 -14250
+
+---00000008--- Acq_st=7 2019-5-15 01:50:9 
+[07]  G20  7  7   9305.8 2045988.0  0.0 -0.5 20  0        17
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+
+---00000009--- Acq_st=7 2019-5-15 01:50:10 
+[07]  G20  7  7   9325.5 2045987.9 -0.0  0.0 20  0        17
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+
+---00000010--- Acq_st=7 2019-5-15 01:50:11 
+[07]  G20  7  7   9324.5 2045988.0 -0.1  0.0 20  0        17
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+
+satid:0,acq_max[i]:6384,i:0
+satid:0,acq_max[i]:5543,i:1
+satid:0,acq_max[i]:5510,i:2
+satid:0,acq_max[i]:5525,i:3
+satid:0,acq_max[i]:6184,i:4
+satid:0,acq_max[i]:6118,i:5
+satid:0,acq_max[i]:5662,i:6
+satid:0,acq_max[i]:5875,i:7
+satid:0,acq_max[i]:5589,i:8
+satid:0,acq_max[i]:6642,i:9
+satid:0,acq_max[i]:5643,i:10
+satid:0,acq_max[i]:6268,i:11
+satid:0,acq_max[i]:5972,i:12
+satid:0,acq_max[i]:6092,i:13
+satid:0,acq_max[i]:7108,i:14
+satid:0,acq_max[i]:6500,i:15
+satid:0,acq_max[i]:5811,i:16
+satid:0,acq_
+max[i]:6597,i:17
+satid:0,acq_max[i]:6231,i:18
+satid:0,acq_max[i]:5962,i:19
+satid:0,acq_max[i]:6091,i:20
+satid:0,acq_max[i]:5773,i:21
+satid:0,acq_max[i]:5844,i:22
+satid:0,acq_max[i]:5729,i:23
+satid:0,acq_max[i]:6030,i:24
+satid:0,acq_max[i]:5733,i:25
+satid:0,acq_max[i]:5816,i:26
+satid:0,acq_max[i]:5636,i:27
+satid:0,acq_max[i]:5548,i:28
+satid:0,acq_max[i]:6297,i:29
+satid:0,acq_max[i]:5813,i:30
+satid:0,acq_max[i]:5979,i:31
+satid:0,acq_max[i]:5853,i:32
+satid:0,acq_max[i]:5400,i:33
+satid:0,acq_ma
+x[i]:5623,i:34
+satid:0,acq_max[i]:5527,i:35
+satid:0,acq_max[i]:5984,i:36
+satid:0,acq_max[i]:5762,i:37
+satid:0,acq_max[i]:6034,i:38
+satid:0,acq_max[i]:5963,i:39
+sat0 = 7108 568 2784 1500
+satid:0,acq_max[i]:6599,i:0
+satid:0,acq_max[i]:5682,i:1
+satid:0,acq_max[i]:6077,i:2
+satid:0,acq_max[i]:5727,i:3
+satid:0,acq_max[i]:5399,i:4
+satid:0,acq_max[i]:5884,i:5
+satid:0,acq_max[i]:6480,i:6
+satid:0,acq_max[i]:6270,i:7
+satid:0,acq_max[i]:6463,i:8
+satid:0,acq_max[i]:6825,i:9
+satid:0,acq_max[i]:6553,i:10
+
+satid:0,acq_max[i]:5931,i:11
+satid:0,acq_max[i]:5557,i:12
+satid:0,acq_max[i]:6257,i:13
+satid:0,acq_max[i]:6502,i:14
+satid:0,acq_max[i]:5694,i:15
+satid:0,acq_max[i]:5858,i:16
+satid:0,acq_max[i]:6337,i:17
+satid:0,acq_max[i]:6400,i:18
+satid:0,acq_max[i]:5882,i:19
+satid:0,acq_max[i]:6091,i:20
+satid:0,acq_max[i]:5582,i:21
+satid:0,acq_max[i]:6046,i:22
+satid:0,acq_max[i]:5943,i:23
+satid:0,acq_max[i]:6340,i:24
+satid:0,acq_max[i]:5825,i:25
+satid:0,acq_max[i]:5700,i:26
+satid:0,acq_max[i]:6276,i:27
+satid:0,acq_max[i]:5438,i:28
+satid:0,acq_max[i]:5920,i:29
+satid:0,acq_max[i]:5622,i:30
+satid:0,acq_max[i]:5706,i:31
+satid:0,acq_max[i]:6457,i:32
+satid:0,acq_max[i]:5327,i:33
+satid:0,acq_max[i]:5901,i:34
+satid:0,acq_max[i]:5580,i:35
+satid:0,acq_max[i]:5528,i:36
+satid:0,acq_max[i]:6024,i:37
+satid:0,acq_max[i]:6818,i:38
+satid:0,acq_max[i]:6272,i:39
+sat0 = 6825 1324 2783 2750
+satid:1,acq_max[i]:5722,i:0
+satid:1,acq_max[i]:5218,i:1
+satid:1,acq_max[i]:6428,i:2
+satid:1,acq_max[i]:6624,i:3
+satid:1,a
+cq_max[i]:6468,i:4
+satid:1,acq_max[i]:6246,i:5
+satid:1,acq_max[i]:5800,i:6
+satid:1,acq_max[i]:5817,i:7
+satid:1,acq_max[i]:5766,i:8
+satid:1,acq_max[i]:5604,i:9
+satid:1,acq_max[i]:5423,i:10
+satid:1,acq_max[i]:6034,i:11
+satid:1,acq_max[i]:6370,i:12
+satid:1,acq_max[i]:6114,i:13
+satid:1,acq_max[i]:5753,i:14
+satid:1,acq_max[i]:6377,i:15
+satid:1,acq_max[i]:6596,i:16
+satid:1,acq_max[i]:6015,i:17
+satid:1,acq_max[i]:6305,i:18
+satid:1,acq_max[i]:5857,i:19
+satid:1,acq_max[i]:5382,i:20
+satid:1,acq_max[i
+]:5733,i:21
+satid:1,acq_max[i]:6439,i:22
+satid:1,acq_max[i]:5628,i:23
+satid:1,acq_max[i]:7275,i:24
+satid:1,acq_max[i]:6134,i:25
+satid:1,acq_max[i]:6220,i:26
+satid:1,acq_max[i]:5820,i:27
+satid:1,acq_max[i]:6210,i:28
+satid:1,acq_max[i]:5834,i:29
+satid:1,acq_max[i]:5883,i:30
+satid:1,acq_max[i]:6022,i:31
+satid:1,acq_max[i]:6116,i:32
+satid:1,acq_max[i]:6046,i:33
+satid:1,acq_max[i]:6509,i:34
+satid:1,acq_max[i]:6056,i:35
+satid:1,acq_max[i]:5918,i:36
+satid:1,acq_max[i]:5537,i:37
+satid:1,acq_max[i]:
+5563,i:38
+satid:1,acq_max[i]:6209,i:39
+sat1 = 7275 1216 2799 -1000
+satid:1,acq_max[i]:5656,i:0
+satid:1,acq_max[i]:5824,i:1
+satid:1,acq_max[i]:5927,i:2
+satid:1,acq_max[i]:6245,i:3
+satid:1,acq_max[i]:5919,i:4
+satid:1,acq_max[i]:6240,i:5
+satid:1,acq_max[i]:6388,i:6
+satid:1,acq_max[i]:5784,i:7
+satid:1,acq_max[i]:5571,i:8
+satid:1,acq_max[i]:5487,i:9
+satid:1,acq_max[i]:5781,i:10
+satid:1,acq_max[i]:5981,i:11
+satid:1,acq_max[i]:6394,i:12
+satid:1,acq_max[i]:6286,i:13
+satid:1,acq_max[i]:5740,i:14
+sa
+tid:1,acq_max[i]:5991,i:15
+satid:1,acq_max[i]:6180,i:16
+satid:1,acq_max[i]:6038,i:17
+satid:1,acq_max[i]:6092,i:18
+satid:1,acq_max[i]:5747,i:19
+satid:1,acq_max[i]:5382,i:20
+satid:1,acq_max[i]:5677,i:21
+satid:1,acq_max[i]:6326,i:22
+satid:1,acq_max[i]:5952,i:23
+satid:1,acq_max[i]:6860,i:24
+satid:1,acq_max[i]:6503,i:25
+satid:1,acq_max[i]:5949,i:26
+satid:1,acq_max[i]:6010,i:27
+satid:1,acq_max[i]:6176,i:28
+satid:1,acq_max[i]:5812,i:29
+satid:1,acq_max[i]:5519,i:30
+satid:1,acq_max[i]:6069,i:31
+sati
+d:1,acq_max[i]:6522,i:32
+satid:1,acq_max[i]:5732,i:33
+satid:1,acq_max[i]:5880,i:34
+satid:1,acq_max[i]:6639,i:35
+satid:1,acq_max[i]:5615,i:36
+satid:1,acq_max[i]:5904,i:37
+satid:1,acq_max[i]:5974,i:38
+satid:1,acq_max[i]:5610,i:39
+sat1 = 6860 1248 2800 -1000
+satid:2,acq_max[i]:5931,i:0
+satid:2,acq_max[i]:6478,i:1
+satid:2,acq_max[i]:5775,i:2
+satid:2,acq_max[i]:5253,i:3
+satid:2,acq_max[i]:5374,i:4
+satid:2,acq_max[i]:5445,i:5
+satid:2,acq_max[i]:5940,i:6
+satid:2,acq_max[i]:5675,i:7
+satid:2,acq_max
+[i]:5739,i:8
+satid:2,acq_max[i]:5913,i:9
+satid:2,acq_max[i]:7236,i:10
+satid:2,acq_max[i]:6420,i:11
+satid:2,acq_max[i]:5869,i:12
+satid:2,acq_max[i]:5944,i:13
+satid:2,acq_max[i]:5472,i:14
+satid:2,acq_max[i]:6105,i:15
+satid:2,acq_max[i]:5962,i:16
+satid:2,acq_max[i]:6290,i:17
+satid:2,acq_max[i]:5707,i:18
+satid:2,acq_max[i]:5504,i:19
+satid:2,acq_max[i]:5649,i:20
+satid:2,acq_max[i]:6344,i:21
+satid:2,acq_max[i]:6275,i:22
+satid:2,acq_max[i]:5589,i:23
+satid:2,acq_max[i]:6439,i:24
+satid:2,acq_max[i]:
+6324,i:25
+satid:2,acq_max[i]:5849,i:26
+satid:2,acq_max[i]:6742,i:27
+satid:2,acq_max[i]:6077,i:28
+satid:2,acq_max[i]:5888,i:29
+satid:2,acq_max[i]:6874,i:30
+satid:2,acq_max[i]:6169,i:31
+satid:2,acq_max[i]:5711,i:32
+satid:2,acq_max[i]:5817,i:33
+satid:2,acq_max[i]:5883,i:34
+satid:2,acq_max[i]:6060,i:35
+satid:2,acq_max[i]:6276,i:36
+satid:2,acq_max[i]:5837,i:37
+satid:2,acq_max[i]:5995,i:38
+satid:2,acq_max[i]:5877,i:39
+sat2 = 7236 1365 2784 2500
+satid:2,acq_max[i]:5886,i:0
+satid:2,acq_max[i]:5920,
+i:1
+satid:2,acq_max[i]:6409,i:2
+satid:2,acq_max[i]:5589,i:3
+satid:2,acq_max[i]:5466,i:4
+satid:2,acq_max[i]:5841,i:5
+satid:2,acq_max[i]:5437,i:6
+satid:2,acq_max[i]:5529,i:7
+satid:2,acq_max[i]:5956,i:8
+satid:2,acq_max[i]:7396,i:9
+satid:2,acq_max[i]:6503,i:10
+satid:2,acq_max[i]:6229,i:11
+satid:2,acq_max[i]:5879,i:12
+satid:2,acq_max[i]:6414,i:13
+satid:2,acq_max[i]:5640,i:14
+satid:2,acq_max[i]:5663,i:15
+satid:2,acq_max[i]:5843,i:16
+satid:2,acq_max[i]:6236,i:17
+satid:2,acq_max[i]:5552,i:18
+satid
+:2,acq_max[i]:5644,i:19
+satid:2,acq_max[i]:5649,i:20
+satid:2,acq_max[i]:6233,i:21
+satid:2,acq_max[i]:6285,i:22
+satid:2,acq_max[i]:5829,i:23
+satid:2,acq_max[i]:6099,i:24
+satid:2,acq_max[i]:6584,i:25
+satid:2,acq_max[i]:5780,i:26
+satid:2,acq_max[i]:6157,i:27
+satid:2,acq_max[i]:6148,i:28
+satid:2,acq_max[i]:5796,i:29
+satid:2,acq_max[i]:6170,i:30
+satid:2,acq_max[i]:6205,i:31
+satid:2,acq_max[i]:5408,i:32
+satid:2,acq_max[i]:5813,i:33
+satid:2,acq_max[i]:5679,i:34
+satid:2,acq_max[i]:5734,i:35
+satid:2
+,acq_max[i]:6198,i:36
+satid:2,acq_max[i]:6540,i:37
+satid:2,acq_max[i]:5512,i:38
+satid:2,acq_max[i]:6062,i:39
+sat2 = 7396 1093 2784 2750
+satid:3,acq_max[i]:6750,i:0
+satid:3,acq_max[i]:5359,i:1
+satid:3,acq_max[i]:6297,i:2
+satid:3,acq_max[i]:5824,i:3
+satid:3,acq_max[i]:6929,i:4
+satid:3,acq_max[i]:9418,i:5
+satid:3,acq_max[i]:10657,i:6
+satid:3,acq_max[i]:7730,i:7
+satid:3,acq_max[i]:5952,i:8
+satid:3,acq_max[i]:6023,i:9
+satid:3,acq_max[i]:5677,i:10
+satid:3,acq_max[i]:5454,i:11
+satid:3,acq_max[i]:5
+442,i:12
+satid:3,acq_max[i]:5629,i:13
+satid:3,acq_max[i]:5845,i:14
+satid:3,acq_max[i]:5607,i:15
+satid:3,acq_max[i]:5626,i:16
+satid:3,acq_max[i]:6682,i:17
+satid:3,acq_max[i]:5996,i:18
+satid:3,acq_max[i]:6092,i:19
+satid:3,acq_max[i]:6132,i:20
+satid:3,acq_max[i]:5732,i:21
+satid:3,acq_max[i]:5654,i:22
+satid:3,acq_max[i]:5227,i:23
+satid:3,acq_max[i]:5705,i:24
+satid:3,acq_max[i]:5895,i:25
+satid:3,acq_max[i]:5744,i:26
+satid:3,acq_max[i]:5642,i:27
+satid:3,acq_max[i]:5777,i:28
+satid:3,acq_max[i]:628
+8,i:29
+satid:3,acq_max[i]:6369,i:30
+satid:3,acq_max[i]:5690,i:31
+satid:3,acq_max[i]:6118,i:32
+satid:3,acq_max[i]:5972,i:33
+satid:3,acq_max[i]:5739,i:34
+satid:3,acq_max[i]:5831,i:35
+satid:3,acq_max[i]:6060,i:36
+satid:3,acq_max[i]:6531,i:37
+satid:3,acq_max[i]:5866,i:38
+satid:3,acq_max[i]:5694,i:39
+sat3 = 10657 449 2773 3500
+satid:3,acq_max[i]:6001,i:0
+satid:3,acq_max[i]:5690,i:1
+satid:3,acq_max[i]:5952,i:2
+satid:3,acq_max[i]:5807,i:3
+satid:3,acq_max[i]:8220,i:4
+satid:3,acq_max[i]:11362,i:5
+s
+atid:3,acq_max[i]:9762,i:6
+satid:3,acq_max[i]:7427,i:7
+satid:3,acq_max[i]:5906,i:8
+satid:3,acq_max[i]:6018,i:9
+satid:3,acq_max[i]:6083,i:10
+satid:3,acq_max[i]:5532,i:11
+satid:3,acq_max[i]:5724,i:12
+satid:3,acq_max[i]:5690,i:13
+satid:3,acq_max[i]:6017,i:14
+satid:3,acq_max[i]:5689,i:15
+satid:3,acq_max[i]:5863,i:16
+satid:3,acq_max[i]:6615,i:17
+satid:3,acq_max[i]:6411,i:18
+satid:3,acq_max[i]:6071,i:19
+satid:3,acq_max[i]:6132,i:20
+satid:3,acq_max[i]:5903,i:21
+satid:3,acq_max[i]:5719,i:22
+satid:3
+,acq_max[i]:5662,i:23
+satid:3,acq_max[i]:5766,i:24
+satid:3,acq_max[i]:6560,i:25
+satid:3,acq_max[i]:5467,i:26
+satid:3,acq_max[i]:5268,i:27
+satid:3,acq_max[i]:5488,i:28
+satid:3,acq_max[i]:6088,i:29
+satid:3,acq_max[i]:5594,i:30
+satid:3,acq_max[i]:6537,i:31
+satid:3,acq_max[i]:5964,i:32
+satid:3,acq_max[i]:5768,i:33
+satid:3,acq_max[i]:5834,i:34
+satid:3,acq_max[i]:6238,i:35
+satid:3,acq_max[i]:5807,i:36
+satid:3,acq_max[i]:5963,i:37
+satid:3,acq_max[i]:6327,i:38
+satid:3,acq_max[i]:5476,i:39
+sat3 = 11
+362 481 2773 3750
+satid:4,acq_max[i]:5530,i:0
+satid:4,acq_max[i]:5415,i:1
+satid:4,acq_max[i]:7641,i:2
+satid:4,acq_max[i]:6246,i:3
+satid:4,acq_max[i]:6155,i:4
+satid:4,acq_max[i]:5871,i:5
+satid:4,acq_max[i]:5839,i:6
+satid:4,acq_max[i]:5603,i:7
+satid:4,acq_max[i]:5806,i:8
+satid:4,acq_max[i]:5421,i:9
+satid:4,acq_max[i]:5625,i:10
+satid:4,acq_max[i]:5913,i:11
+satid:4,acq_max[i]:6190,i:12
+satid:4,acq_max[i]:6000,i:13
+satid:4,acq_max[i]:6617,i:14
+satid:4,acq_max[i]:6245,i:15
+satid:4,acq_max[i]:5581
+,i:16
+satid:4,acq_max[i]:5711,i:17
+satid:4,acq_max[i]:6404,i:18
+satid:4,acq_max[i]:6784,i:19
+satid:4,acq_max[i]:5853,i:20
+satid:4,acq_max[i]:5984,i:21
+satid:4,acq_max[i]:6001,i:22
+satid:4,acq_max[i]:6262,i:23
+satid:4,acq_max[i]:5909,i:24
+satid:4,acq_max[i]:5633,i:25
+satid:4,acq_max[i]:5701,i:26
+satid:4,acq_max[i]:5794,i:27
+satid:4,acq_max[i]:5791,i:28
+satid:4,acq_max[i]:5421,i:29
+satid:4,acq_max[i]:5635,i:30
+satid:4,acq_max[i]:6313,i:31
+]:6426,i:22
+satid:11,acq_max[i]:5587,i:23
+satid:11,ac
+q_max[i]:6050,i:24
+satid:11,acq_max[i]:6415,i:25
+satid:11,acq_max[i]:5816,i:26
+satid:11,acq_max[i]:6058,i:27
+satid:11,acq_max[i]:5979,i:28
+satid:11,acq_max[i]:6644,i:29
+satid:11,acq_max[i]:7274,i:30
+satid:11,acq_max[i]:6246,i:31
+satid:11,acq_max[i]:6065,i:32
+satid:11,acq_max[i]:5870,i:33
+satid:11,acq_max[i]:6074,i:34
+satid:11,acq_max[i]:6042,i:35
+satid:11,acq_max[i]:5684,i:36
+satid:11,acq_max[i]:6495,i:37
+satid:11,acq_max[i]:6454,i:38
+satid:11,acq_max[i]:5814,i:39
+sat11 = 7274 1071 2802 -250
+0
+satid:12,acq_max[i]:5524,i:0
+satid:12,acq_max[i]:6425,i:1
+satid:12,acq_max[i]:6602,i:2
+satid:12,acq_max[i]:5992,i:3
+satid:12,acq_max[i]:6073,i:4
+satid:12,acq_max[i]:6020,i:5
+satid:12,acq_max[i]:6275,i:6
+satid:12,acq_max[i]:5832,i:7
+satid:12,acq_max[i]:5593,i:8
+satid:12,acq_max[i]:5576,i:9
+satid:12,acq_max[i]:5631,i:10
+satid:12,acq_max[i]:6219,i:11
+satid:12,acq_max[i]:5729,i:12
+satid:12,acq_max[i]:6084,i:13
+satid:12,acq_max[i]:5648,i:14
+satid:12,acq_max[i]:5367,i:15
+satid:12,acq_max[i]:568
+4,i:16
+satid:12,acq_max[i]:5862,i:17
+satid:12,acq_max[i]:5902,i:18
+satid:12,acq_max[i]:5854,i:19
+satid:12,acq_max[i]:6128,i:20
+satid:12,acq_max[i]:5915,i:21
+satid:12,acq_max[i]:5794,i:22
+satid:12,acq_max[i]:6046,i:23
+satid:12,acq_max[i]:5857,i:24
+satid:12,acq_max[i]:5615,i:25
+satid:12,acq_max[i]:5969,i:26
+satid:12,acq_max[i]:5659,i:27
+satid:12,acq_max[i]:5996,i:28
+satid:12,acq_max[i]:6207,i:29
+satid:12,acq_max[i]:5449,i:30
+satid:12,acq_max[i]:6098,i:31
+satid:12,acq_max[i]:5611,i:32
+satid:12
+,acq_max[i]:5689,i:33
+satid:12,acq_max[i]:5700,i:34
+satid:12,acq_max[i]:5273,i:35
+satid:12,acq_max[i]:6220,i:36
+satid:12,acq_max[i]:6146,i:37
+satid:12,acq_max[i]:5716,i:38
+satid:12,acq_max[i]:5856,i:39
+sat12 = 6602 723 2793 4500
+satid:12,acq_max[i]:5545,i:0
+satid:12,acq_max[i]:6414,i:1
+satid:12,acq_max[i]:6349,i:2
+satid:12,acq_max[i]:6131,i:3
+satid:12,acq_max[i]:6272,i:4
+satid:12,acq_max[i]:5985,i:5
+satid:12,acq_max[i]:6314,i:6
+satid:12,acq_max[i]:6510,i:7
+satid:12,acq_max[i]:5987,i:8
+satid
+:12,acq_max[i]:5461,i:9
+satid:12,acq_max[i]:5588,i:10
+satid:12,acq_max[i]:6644,i:11
+satid:12,acq_max[i]:6080,i:12
+satid:12,acq_max[i]:6350,i:13
+satid:12,acq_max[i]:5507,i:14
+satid:12,acq_max[i]:5373,i:15
+satid:12,acq_max[i]:5638,i:16
+satid:12,acq_max[i]:5865,i:17
+satid:12,acq_max[i]:5962,i:18
+satid:12,acq_max[i]:5878,i:19
+satid:12,acq_max[i]:6128,i:20
+satid:12,acq_max[i]:6075,i:21
+satid:12,acq_max[i]:6061,i:22
+satid:12,acq_max[i]:6228,i:23
+satid:12,acq_max[i]:5909,i:24
+satid:12,acq_max[i]:52
+40,i:25
+satid:12,acq_max[i]:5680,i:26
+satid:12,acq_max[i]:5594,i:27
+satid:12,acq_max[i]:6070,i:28
+satid:12,acq_max[i]:5720,i:29
+satid:12,acq_max[i]:5528,i:30
+satid:12,acq_max[i]:5316,i:31
+satid:12,acq_max[i]:5780,i:32
+satid:12,acq_max[i]:5828,i:33
+satid:12,acq_max[i]:5544,i:34
+satid:12,acq_max[i]:5873,i:35
+satid:12,acq_max[i]:5880,i:36
+satid:12,acq_max[i]:5767,i:37
+satid:12,acq_max[i]:5792,i:38
+satid:12,acq_max[i]:5869,i:39
+sat12 = 6644 1580 2791 2250
+satid:13,acq_max[i]:5768,i:0
+satid:13,a
+cq_max[i]:5515,i:1
+satid:13,acq_max[i]:5323,i:2
+satid:13,acq_max[i]:6259,i:3
+satid:13,acq_max[i]:7071,i:4
+satid:13,acq_max[i]:6669,i:5
+satid:13,acq_max[i]:7458,i:6
+satid:13,acq_max[i]:6588,i:7
+satid:13,acq_max[i]:5447,i:8
+satid:13,acq_max[i]:5615,i:9
+satid:13,acq_max[i]:6380,i:10
+satid:13,acq_max[i]:5996,i:11
+satid:13,acq_max[i]:5802,i:12
+satid:13,acq_max[i]:5563,i:13
+satid:13,acq_max[i]:5580,i:14
+satid:13,acq_max[i]:5375,i:15
+satid:13,acq_max[i]:5988,i:16
+satid:13,acq_max[i]:5459,i:17
+sati
+d:13,acq_max[i]:5330,i:18
+satid:13,acq_max[i]:5382,i:19
+satid:13,acq_max[i]:5745,i:20
+satid:13,acq_max[i]:5791,i:21
+satid:13,acq_max[i]:5378,i:22
+satid:13,acq_max[i]:6540,i:23
+satid:13,acq_max[i]:5610,i:24
+satid:13,acq_max[i]:5536,i:25
+satid:13,acq_max[i]:5595,i:26
+satid:13,acq_max[i]:5767,i:27
+satid:13,acq_max[i]:5629,i:28
+satid:13,acq_max[i]:6112,i:29
+satid:13,acq_max[i]:5715,i:30
+satid:13,acq_max[i]:7536,i:31
+satid:13,acq_max[i]:6865,i:32
+satid:13,acq_max[i]:5896,i:33
+satid:13,acq_max[i]:
+6285,i:34
+satid:13,acq_max[i]:6088,i:35
+satid:13,acq_max[i]:6433,i:36
+satid:13,acq_max[i]:5527,i:37
+satid:13,acq_max[i]:6013,i:38
+satid:13,acq_max[i]:6045,i:39
+sat13 = 7536 1167 2801 -2750
+satid:13,acq_max[i]:5616,i:0
+satid:13,acq_max[i]:5579,i:1
+satid:13,acq_max[i]:5750,i:2
+satid:13,acq_max[i]:6149,i:3
+satid:13,acq_max[i]:6496,i:4
+satid:13,acq_max[i]:6527,i:5
+satid:13,acq_max[i]:6745,i:6
+satid:13,acq_max[i]:6271,i:7
+satid:13,acq_max[i]:6048,i:8
+satid:13,acq_max[i]:5733,i:9
+satid:13,acq_max
+[i]:6234,i:10
+satid:13,acq_max[i]:6049,i:11
+satid:13,acq_max[i]:6099,i:12
+satid:13,acq_max[i]:5980,i:13
+satid:13,acq_max[i]:5414,i:14
+satid:13,acq_max[i]:5321,i:15
+satid:13,acq_max[i]:6213,i:16
+satid:13,acq_max[i]:5392,i:17
+satid:13,acq_max[i]:5621,i:18
+satid:13,acq_max[i]:5615,i:19
+satid:13,acq_max[i]:5745,i:20
+satid:13,acq_max[i]:5732,i:21
+satid:13,acq_max[i]:5812,i:22
+satid:13,acq_max[i]:6429,i:23
+satid:13,acq_max[i]:5638,i:24
+satid:13,acq_max[i]:5837,i:25
+satid:13,acq_max[i]:6449,i:26
+s
+atid:13,acq_max[i]:5630,i:27
+satid:13,acq_max[i]:5613,i:28
+satid:13,acq_max[i]:6024,i:29
+satid:13,acq_max[i]:6618,i:30
+satid:13,acq_max[i]:6547,i:31
+satid:13,acq_max[i]:7001,i:32
+satid:13,acq_max[i]:6487,i:33
+satid:13,acq_max[i]:6706,i:34
+satid:13,acq_max[i]:6305,i:35
+satid:13,acq_max[i]:5800,i:36
+satid:13,acq_max[i]:5612,i:37
+satid:13,acq_max[i]:5797,i:38
+satid:13,acq_max[i]:5663,i:39
+sat13 = 7001 1199 2799 -3000
+satid:14,acq_max[i]:5874,i:0
+satid:14,acq_max[i]:6123,i:1
+satid:14,acq_max[i]:
+5433,i:2
+satid:14,acq_max[i]:5515,i:3
+satid:14,acq_max[i]:5870,i:4
+satid:14,acq_max[i]:5542,i:5
+satid:14,acq_max[i]:5925,i:6
+satid:14,acq_max[i]:5895,i:7
+satid:14,acq_max[i]:5501,i:8
+satid:14,acq_max[i]:5823,i:9
+satid:14,acq_max[i]:5606,i:10
+satid:14,acq_max[i]:5566,i:11
+satid:14,acq_max[i]:5797,i:12
+satid:14,acq_max[i]:6590,i:13
+satid:14,acq_max[i]:6704,i:14
+satid:14,acq_max[i]:6011,i:15
+satid:14,acq_max[i]:6096,i:16
+satid:14,acq_max[i]:6029,i:17
+satid:14,acq_max[i]:5552,i:18
+satid:14,acq_
+max[i]:5720,i:19
+satid:14,acq_max[i]:6068,i:20
+satid:14,acq_max[i]:5921,i:21
+satid:14,acq_max[i]:6071,i:22
+satid:14,acq_max[i]:5854,i:23
+satid:14,acq_max[i]:5842,i:24
+satid:14,acq_max[i]:5753,i:25
+satid:14,acq_max[i]:6321,i:26
+satid:14,acq_max[i]:6099,i:27
+satid:14,acq_max[i]:6015,i:28
+satid:14,acq_max[i]:5690,i:29
+satid:14,acq_max[i]:5462,i:30
+satid:14,acq_max[i]:5599,i:31
+satid:14,acq_max[i]:6089,i:32
+satid:14,acq_max[i]:5598,i:33
+satid:14,acq_max[i]:5629,i:34
+satid:14,acq_max[i]:5915,i:35
+
+satid:14,acq_max[i]:5654,i:36
+satid:14,acq_max[i]:5614,i:37
+satid:14,acq_max[i]:5305,i:38
+satid:14,acq_max[i]:5815,i:39
+sat14 = 6704 1682 2802 1500
+satid:14,acq_max[i]:5786,i:0
+satid:14,acq_max[i]:5922,i:1
+satid:14,acq_max[i]:5964,i:2
+satid:14,acq_max[i]:5770,i:3
+satid:14,acq_max[i]:6232,i:4
+satid:14,acq_max[i]:5443,i:5
+satid:14,acq_max[i]:5653,i:6
+satid:14,acq_max[i]:5581,i:7
+satid:14,acq_max[i]:6049,i:8
+satid:14,acq_max[i]:5446,i:9
+satid:14,acq_max[i]:5574,i:10
+satid:14,acq_max[i]:5700,i
+:11
+satid:14,acq_max[i]:5757,i:12
+satid:14,acq_max[i]:7106,i:13
+satid:14,acq_max[i]:6392,i:14
+satid:14,acq_max[i]:5988,i:15
+satid:14,acq_max[i]:6514,i:16
+satid:14,acq_max[i]:6368,i:17
+satid:14,acq_max[i]:5799,i:18
+satid:14,acq_max[i]:5984,i:19
+satid:14,acq_max[i]:6068,i:20
+satid:14,acq_max[i]:5720,i:21
+satid:14,acq_max[i]:6053,i:22
+satid:14,acq_max[i]:5832,i:23
+satid:14,acq_max[i]:5648,i:24
+satid:14,acq_max[i]:5631,i:25
+satid:14,acq_max[i]:6457,i:26
+satid:14,acq_max[i]:6406,i:27
+satid:14,ac
+q_max[i]:6330,i:28
+satid:14,acq_max[i]:5825,i:29
+satid:14,acq_max[i]:6185,i:30
+satid:14,acq_max[i]:5597,i:31
+satid:14,acq_max[i]:5468,i:32
+satid:14,acq_max[i]:5279,i:33
+satid:14,acq_max[i]:5809,i:34
+satid:14,acq_max[i]:6043,i:35
+satid:14,acq_max[i]:5784,i:36
+satid:14,acq_max[i]:5836,i:37
+satid:14,acq_max[i]:5184,i:38
+satid:14,acq_max[i]:5990,i:39
+sat14 = 7106 1714 2803 1750
+satid:15,acq_max[i]:5746,i:0
+satid:15,acq_max[i]:6016,i:1
+satid:15,acq_max[i]:5981,i:2
+satid:15,acq_max[i]:5910,i:3
+satid:15,acq_max[i]:5653,i:4
+satid:15,acq_max[i]:5301,i:5
+satid:15,acq_max[i]:5674,i:6
+satid:15,acq_max[i]:5885,i:7
+satid:15,acq_max[i]:6246,i:8
+satid:15,acq_max[i]:5812,i:9
+satid:15,acq_max[i]:6131,i:10
+satid:15,acq_max[i]:6477,i:11
+satid:15,acq_max[i]:6023,i:12
+satid:15,acq_max[i]:5492,i:13
+satid:15,acq_max[i]:7143,i:14
+satid:15,acq_max[i]:7478,i:15
+satid:15,acq_max[i]:5858,i:16
+satid:15,acq_max[i]:5991,i:17
+satid:15,acq_max[i]:27250,i:18
+satid:15,acq_max[i]:71764,i:19
+satid:15,acq_max[i]:95
+097,i:20
+satid:15,acq_max[i]:93405,i:21
+satid:15,acq_max[i]:59147,i:22
+satid:15,acq_max[i]:21944,i:23
+satid:15,acq_max[i]:5656,i:24
+satid:15,acq_max[i]:5764,i:25
+satid:15,acq_max[i]:7094,i:26
+satid:15,acq_max[i]:6566,i:27
+satid:15,acq_max[i]:6034,i:28
+satid:15,acq_max[i]:6232,i:29
+satid:15,acq_max[i]:7084,i:30
+satid:15,acq_max[i]:6169,i:31
+satid:15,acq_max[i]:5378,i:32
+satid:15,acq_max[i]:5407,i:33
+satid:15,acq_max[i]:5470,i:34
+satid:15,acq_max[i]:5954,i:35
+satid:15,acq_max[i]:6610,i:36
+sat
+id:15,acq_max[i]:6667,i:37
+satid:15,acq_max[i]:6596,i:38
+satid:15,acq_max[i]:6316,i:39
+sat15 = 95097 92 2794 0
+ch1 satid=15 freq = 0 acq ok1!
+satid:16,acq_max[i]:6091,i:0
+satid:16,acq_max[i]:5879,i:1
+satid:16,acq_max[i]:6041,i:2
+satid:16,acq_max[i]:5943,i:3
+satid:16,acq_max[i]:5688,i:4
+satid:16,acq_max[i]:5556,i:5
+satid:16,acq_max[i]:5941,i:6
+satid:16,acq_max[i]:5929,i:7
+satid:16,acq_max[i]:6199,i:8
+satid:16,acq_max[i]:6155,i:9
+satid:16,acq_max[i]:5376,i:10
+satid:16,acq_max[i]:6379,i:11
+sat
+id:16,acq_max[i]:6340,i:12
+satid:16,acq_max[i]:5901,i:13
+satid:16,acq_max[i]:5637,i:14
+satid:16,acq_max[i]:5782,i:15
+satid:16,acq_max[i]:5903,i:16
+satid:16,acq_max[i]:6460,i:17
+satid:16,acq_max[i]:5906,i:18
+satid:16,acq_max[i]:6276,i:19
+satid:16,acq_max[i]:5968,i:20
+satid:16,acq_max[i]:5624,i:21
+satid:16,acq_max[i]:6018,i:22
+satid:16,acq_max[i]:5428,i:23
+satid:16,acq_max[i]:5841,i:24
+satid:16,acq_max[i]:5694,i:25
+satid:16,acq_max[i]:5256,i:26
+satid:16,acq_max[i]:6008,i:27
+satid:16,acq_max[i]:5350,i:28
+satid:16,acq_max[i]:6039,i:29
+satid:16,acq_max[i]:5736,i:30
+satid:16,acq_max[i]:5741,i:31
+satid:16,acq_max[i]:5263,i:32
+satid:16,acq_max[i]:5934,i:33
+satid:16,acq_max[i]:6196,i:34
+satid:16,acq_max[i]:6245,i:35
+satid:16,acq_max[i]:6199,i:36
+satid:16,acq_max[i]:5896,i:37
+satid:16,acq_max[i]:6526,i:38
+satid:16,acq_max[i]:6740,i:39
+_max[i]:6502,i:16
+satid:24,acq_max[i]:5939,i:17
+satid:24,acq_max[i]:6265,i:18
+satid:24,acq_max[i]:5794,i:19
+satid:24,acq_max[i]:5659,i:20
+satid:24,acq_max
+[i]:6081,i:21
+satid:24,acq_max[i]:6717,i:22
+satid:24,acq_max[i]:5853,i:23
+satid:24,acq_max[i]:7145,i:24
+satid:24,acq_max[i]:6316,i:25
+satid:24,acq_max[i]:6008,i:26
+satid:24,acq_max[i]:6370,i:27
+satid:24,acq_max[i]:5733,i:28
+satid:24,acq_max[i]:5971,i:29
+satid:24,acq_max[i]:6103,i:30
+satid:24,acq_max[i]:5930,i:31
+satid:24,acq_max[i]:5702,i:32
+satid:24,acq_max[i]:5754,i:33
+satid:24,acq_max[i]:5842,i:34
+satid:24,acq_max[i]:5931,i:35
+satid:24,acq_max[i]:6463,i:36
+satid:24,acq_max[i]:6252,i:37
+s
+atid:24,acq_max[i]:6527,i:38
+satid:24,acq_max[i]:5805,i:39
+sat24 = 7145 1822 2784 -1000
+satid:25,acq_max[i]:5464,i:0
+satid:25,acq_max[i]:6652,i:1
+satid:25,acq_max[i]:5956,i:2
+satid:25,acq_max[i]:5632,i:3
+satid:25,acq_max[i]:6434,i:4
+satid:25,acq_max[i]:6639,i:5
+satid:25,acq_max[i]:5841,i:6
+satid:25,acq_max[i]:6868,i:7
+satid:25,acq_max[i]:6269,i:8
+satid:25,acq_max[i]:5663,i:9
+satid:25,acq_max[i]:6996,i:10
+satid:25,acq_max[i]:6353,i:11
+satid:25,acq_max[i]:5509,i:12
+satid:25,acq_max[i]:6446,i:1
+3
+satid:25,acq_max[i]:6475,i:14
+satid:25,acq_max[i]:5581,i:15
+satid:25,acq_max[i]:5887,i:16
+satid:25,acq_max[i]:5659,i:17
+satid:25,acq_max[i]:6251,i:18
+satid:25,acq_max[i]:6428,i:19
+satid:25,acq_max[i]:5291,i:20
+satid:25,acq_max[i]:5294,i:21
+satid:25,acq_max[i]:5709,i:22
+satid:25,acq_max[i]:6635,i:23
+satid:25,acq_max[i]:10379,i:24
+satid:25,acq_max[i]:12081,i:25
+satid:25,acq_max[i]:9473,i:26
+satid:25,acq_max[i]:5776,i:27
+satid:25,acq_max[i]:5994,i:28
+satid:25,acq_max[i]:5645,i:29
+satid:25,ac
+q_max[i]:5464,i:30
+satid:25,acq_max[i]:5371,i:31
+satid:25,acq_max[i]:5840,i:32
+satid:25,acq_max[i]:5596,i:33
+satid:25,acq_max[i]:5505,i:34
+satid:25,acq_max[i]:6030,i:35
+satid:25,acq_max[i]:6551,i:36
+satid:25,acq_max[i]:6539,i:37
+satid:25,acq_max[i]:5974,i:38
+satid:25,acq_max[i]:5822,i:39
+sat25 = 12081 1163 2791 -1250
+ch3 satid=25 freq = -1250 acq ok1!
+satid:26,acq_max[i]:6743,i:0
+satid:26,acq_max[i]:6900,i:1
+satid:26,acq_max[i]:6719,i:2
+satid:26,acq_max[i]:6020,i:3
+satid:26,acq_max[i]:5504,i:4
+satid:26,acq_max[i]:6702,i:5
+satid:26,acq_max[i]:7015,i:6
+satid:26,acq_max[i]:5894,i:7
+satid:26,acq_max[i]:5717,i:8
+satid:26,acq_max[i]:5840,i:9
+satid:26,acq_max[i]:5582,i:10
+satid:26,acq_max[i]:6722,i:11
+satid:26,acq_max[i]:5757,i:12
+satid:26,acq_max[i]:5986,i:13
+satid:26,acq_max[i]:5441,i:14
+satid:26,acq_max[i]:6447,i:15
+satid:26,acq_max[i]:6938,i:16
+satid:26,acq_max[i]:6666,i:17
+satid:26,acq_max[i]:6014,i:18
+satid:26,acq_max[i]:6054,i:19
+satid:26,acq_max[i]:6067,i:20
+satid:26,acq_max[
+i]:6840,i:21
+satid:26,acq_max[i]:6051,i:22
+satid:26,acq_max[i]:5607,i:23
+satid:26,acq_max[i]:5777,i:24
+satid:26,acq_max[i]:5540,i:25
+satid:26,acq_max[i]:5863,i:26
+satid:26,acq_max[i]:5731,i:27
+satid:26,acq_max[i]:6016,i:28
+satid:26,acq_max[i]:6001,i:29
+satid:26,acq_max[i]:6124,i:30
+satid:26,acq_max[i]:6304,i:31
+satid:26,acq_max[i]:5890,i:32
+satid:26,acq_max[i]:6533,i:33
+satid:26,acq_max[i]:6984,i:34
+satid:26,acq_max[i]:5806,i:35
+satid:26,acq_max[i]:5884,i:36
+satid:26,acq_max[i]:5800,i:37
+sa
+tid:26,acq_max[i]:5981,i:38
+satid:26,acq_max[i]:6119,i:39
+sat26 = 7015 839 2792 3500
+satid:26,acq_max[i]:6115,i:0
+satid:26,acq_max[i]:5603,i:1
+satid:26,acq_max[i]:5892,i:2
+satid:26,acq_max[i]:6180,i:3
+satid:26,acq_max[i]:5792,i:4
+satid:26,acq_max[i]:7195,i:5
+satid:26,acq_max[i]:6509,i:6
+satid:26,acq_max[i]:6955,i:7
+satid:26,acq_max[i]:5627,i:8
+satid:26,acq_max[i]:5507,i:9
+satid:26,acq_max[i]:6582,i:10
+satid:26,acq_max[i]:5857,i:11
+satid:26,acq_max[i]:5885,i:12
+satid:26,acq_max[i]:5826,i:13
+
+satid:26,acq_max[i]:6047,i:14
+satid:26,acq_max[i]:5868,i:15
+satid:26,acq_max[i]:6753,i:16
+satid:26,acq_max[i]:6960,i:17
+satid:26,acq_max[i]:5525,i:18
+satid:26,acq_max[i]:5851,i:19
+satid:26,acq_max[i]:6067,i:20
+satid:26,acq_max[i]:6299,i:21
+satid:26,acq_max[i]:5792,i:22
+satid:26,acq_max[i]:5568,i:23
+satid:26,acq_max[i]:5779,i:24
+satid:26,acq_max[i]:5394,i:25
+satid:26,acq_max[i]:5490,i:26
+satid:26,acq_max[i]:6519,i:27
+satid:26,acq_max[i]:6228,i:28
+satid:26,acq_max[i]:5926,i:29
+satid:26,acq_max
+[i]:6106,i:30
+satid:26,acq_max[i]:6534,i:31
+satid:26,acq_max[i]:6218,i:32
+satid:26,acq_max[i]:7327,i:33
+satid:26,acq_max[i]:6914,i:34
+satid:26,acq_max[i]:6385,i:35
+satid:26,acq_max[i]:5631,i:36
+satid:26,acq_max[i]:5922,i:37
+satid:26,acq_max[i]:6454,i:38
+satid:26,acq_max[i]:6149,i:39
+sat26 = 7327 1437 2791 -3250
+satid:27,acq_max[i]:5652,i:0
+satid:27,acq_max[i]:5746,i:1
+satid:27,acq_max[i]:5625,i:2
+satid:27,acq_max[i]:5068,i:3
+satid:27,acq_max[i]:5610,i:4
+satid:27,acq_max[i]:6004,i:5
+satid:27
+,acq_max[i]:5683,i:6
+satid:27,acq_max[i]:5576,i:7
+satid:27,acq_max[i]:5912,i:8
+satid:27,acq_max[i]:5525,i:9
+satid:27,acq_max[i]:5675,i:10
+satid:27,acq_max[i]:6267,i:11
+satid:27,acq_max[i]:5436,i:12
+satid:27,acq_max[i]:5857,i:13
+satid:27,acq_max[i]:6084,i:14
+satid:27,acq_max[i]:5902,i:15
+satid:27,acq_max[i]:5794,i:16
+satid:27,acq_max[i]:6049,i:17
+satid:27,acq_max[i]:6047,i:18
+satid:27,acq_max[i]:5533,i:19
+satid:27,acq_max[i]:5334,i:20
+satid:27,acq_max[i]:5732,i:21
+satid:27,acq_max[i]:5819,i:2
+2
+satid:27,acq_max[i]:5316,i:23
+satid:27,acq_max[i]:5841,i:24
+satid:27,acq_max[i]:6207,i:25
+satid:27,acq_max[i]:5958,i:26
+satid:27,acq_max[i]:6041,i:27
+satid:27,acq_max[i]:5779,i:28
+satid:27,acq_max[i]:5727,i:29
+satid:27,acq_max[i]:5547,i:30
+satid:27,acq_max[i]:5757,i:31
+satid:27,acq_max[i]:5848,i:32
+satid:27,acq_max[i]:5604,i:33
+satid:27,acq_max[i]:6783,i:34
+satid:27,acq_max[i]:5896,i:35
+satid:27,acq_max[i]:5698,i:36
+satid:27,acq_max[i]:5588,i:37
+satid:27,acq_max[i]:6078,i:38
+satid:27,acq_
+max[i]:5829,i:39
+sat27 = 6783 580 2776 -3500
+satid:27,acq_max[i]:5578,i:0
+satid:27,acq_max[i]:6001,i:1
+satid:27,acq_max[i]:5762,i:2
+satid:27,acq_max[i]:5254,i:3
+satid:27,acq_max[i]:5581,i:4
+satid:27,acq_max[i]:5976,i:5
+satid:27,acq_max[i]:6499,i:6
+satid:27,acq_max[i]:5514,i:7
+satid:27,acq_max[i]:5912,i:8
+satid:27,acq_max[i]:5230,i:9
+satid:27,acq_max[i]:5902,i:10
+satid:27,acq_max[i]:5578,i:11
+satid:27,acq_max[i]:5653,i:12
+satid:27,acq_max[i]:5706,i:13
+satid:27,acq_max[i]:6011,i:14
+satid:27,a
+cq_max[i]:5647,i:15
+satid:27,acq_max[i]:5743,i:16
+satid:27,acq_max[i]:5785,i:17
+satid:27,acq_max[i]:5969,i:18
+satid:27,acq_max[i]:5561,i:19
+satid:27,acq_max[i]:5334,i:20
+satid:27,acq_max[i]:5823,i:21
+satid:27,acq_max[i]:5569,i:22
+satid:27,acq_max[i]:5264,i:23
+satid:27,acq_max[i]:5322,i:24
+satid:27,acq_max[i]:6406,i:25
+satid:27,acq_max[i]:5969,i:26
+satid:27,acq_max[i]:7157,i:27
+satid:27,acq_max[i]:5462,i:28
+satid:27,acq_max[i]:5835,i:29
+satid:27,acq_max[i]:5677,i:30
+satid:27,acq_max[i]:5578,i
+:31
+satid:27,acq_max[i]:5608,i:32
+satid:27,acq_max[i]:6246,i:33
+satid:27,acq_max[i]:5973,i:34
+satid:27,acq_max[i]:5570,i:35
+satid:27,acq_max[i]:6622,i:36
+satid:27,acq_max[i]:5906,i:37
+satid:27,acq_max[i]:5882,i:38
+satid:27,acq_max[i]:5657,i:39
+sat27 = 7157 280 2777 -1750
+satid:28,acq_max[i]:5771,i:0
+satid:28,acq_max[i]:5974,i:1
+satid:28,acq_max[i]:6500,i:2
+satid:28,acq_max[i]:6611,i:3
+satid:28,acq_max[i]:6024,i:4
+satid:28,acq_max[i]:5694,i:5
+satid:28,acq_max[i]:6272,i:6
+satid:28,acq_max[i]:
+6779,i:7
+satid:28,acq_max[i]:5602,i:8
+satid:28,acq_max[i]:5689,i:9
+satid:28,acq_max[i]:6369,i:10
+satid:28,acq_max[i]:6983,i:11
+satid:28,acq_max[i]:5852,i:12
+satid:28,acq_max[i]:6103,i:13
+satid:28,acq_max[i]:5810,i:14
+satid:28,acq_max[i]:5469,i:15
+satid:28,acq_max[i]:5373,i:16
+satid:28,acq_max[i]:5543,i:17
+satid:28,acq_max[i]:5932,i:18
+satid:28,acq_max[i]:5815,i:19
+satid:28,acq_max[i]:5681,i:20
+satid:28,acq_max[i]:5464,i:21
+satid:28,acq_max[i]:5803,i:22
+satid:28,acq_max[i]:5770,i:23
+satid:28
+,acq_max[i]:6437,i:24
+satid:28,acq_max[i]:5866,i:25
+satid:28,acq_max[i]:5548,i:26
+satid:28,acq_max[i]:5905,i:27
+satid:28,acq_max[i]:5943,i:28
+satid:28,acq_max[i]:5640,i:29
+satid:28,acq_max[i]:5414,i:30
+satid:28,acq_max[i]:5494,i:31
+satid:28,acq_max[i]:5878,i:32
+satid:28,acq_max[i]:5666,i:33
+satid:28,acq_max[i]:6232,i:34
+satid:28,acq_max[i]:5313,i:35
+satid:28,acq_max[i]:5803,i:36
+satid:28,acq_max[i]:5475,i:37
+satid:28,acq_max[i]:5716,i:38
+satid:28,acq_max[i]:5377,i:39
+sat28 = 6983 1115 2791 2250
+satid:28,acq_max[i]:5876,i:0
+satid:28,acq_max[i]:5892,i:1
+satid:28,acq_max[i]:6559,i:2
+satid:28,acq_max[i]:6093,i:3
+satid:28,acq_max[i]:5821,i:4
+satid:28,acq_max[i]:6474,i:5
+satid:28,acq_max[i]:6127,i:6
+satid:28,acq_max[i]:6541,i:7
+satid:28,acq_max[i]:6002,i:8
+satid:28,acq_max[i]:6233,i:9
+satid:28,acq_max[i]:6496,i:10
+satid:28,acq_max[i]:6899,i:11
+satid:28,acq_max[i]:6024,i:12
+satid:28,acq_max[i]:5741,i:13
+satid:28,acq_max[i]:5830,i:14
+satid:28,acq_max[i]:5543,i:15
+satid:28,acq_max[i]:5
+694,i:16
+satid:28,acq_max[i]:5617,i:17
+satid:28,acq_max[i]:5733,i:18
+satid:28,acq_max[i]:5690,i:19
+satid:28,acq_max[i]:5681,i:20
+satid:28,acq_max[i]:5359,i:21
+satid:28,acq_max[i]:5967,i:22
+satid:28,acq_max[i]:6189,i:23
+satid:28,acq_max[i]:6427,i:24
+satid:28,acq_max[i]:5708,i:25
+satid:28,acq_max[i]:5172,i:26
+satid:28,acq_max[i]:5797,i:27
+satid:28,acq_max[i]:6045,i:28
+satid:28,acq_max[i]:5668,i:29
+satid:28,acq_max[i]:5482,i:30
+satid:28,acq_max[i]:5607,i:31
+satid:28,acq_max[i]:5974,i:32
+satid:
+28,acq_max[i]:5509,i:33
+satid:28,acq_max[i]:5546,i:34
+satid:28,acq_max[i]:6086,i:35
+satid:28,acq_max[i]:5780,i:36
+satid:28,acq_max[i]:5622,i:37
+satid:28,acq_max[i]:5890,i:38
+satid:28,acq_max[i]:5411,i:39
+sat28 = 6899 1147 2790 2250
+satid:29,acq_max[i]:5576,i:0
+satid:29,acq_max[i]:6710,i:1
+satid:29,acq_max[i]:7566,i:2
+satid:29,acq_max[i]:5538,i:3
+satid:29,acq_max[i]:6108,i:4
+satid:29,acq_max[i]:5729,i:5
+satid:29,acq_max[i]:6339,i:6
+satid:29,acq_max[i]:5695,i:7
+satid:29,acq_max[i]:6241,i:8
+sa
+tid:29,acq_max[i]:6730,i:9
+satid:29,acq_max[i]:5964,i:10
+satid:29,acq_max[i]:5206,i:11
+satid:29,acq_max[i]:5505,i:12
+satid:29,acq_max[i]:5663,i:13
+satid:29,acq_max[i]:5697,i:14
+satid:29,acq_max[i]:6112,i:15
+satid:29,acq_max[i]:6058,i:16
+satid:29,acq_max[i]:6211,i:17
+satid:29,acq_max[i]:5941,i:18
+satid:29,acq_max[i]:6489,i:19
+satid:29,acq_max[i]:6690,i:20
+satid:29,acq_max[i]:5495,i:21
+satid:29,acq_max[i]:5265,i:22
+satid:29,acq_max[i]:5464,i:23
+satid:29,acq_max[i]:5794,i:24
+satid:29,acq_max[i]
+:5746,i:25
+satid:29,acq_max[i]:5944,i:26
+satid:29,acq_max[i]:5917,i:27
+satid:29,acq_max[i]:5728,i:28
+satid:29,acq_max[i]:5845,i:29
+satid:29,acq_max[i]:5934,i:30
+satid:29,acq_max[i]:6711,i:31
+satid:29,acq_max[i]:6682,i:32
+satid:29,acq_max[i]:5740,i:33
+satid:29,acq_max[i]:5975,i:34
+satid:29,acq_max[i]:6224,i:35
+satid:29,acq_max[i]:5785,i:36
+satid:29,acq_max[i]:6148,i:37
+satid:29,acq_max[i]:7324,i:38
+satid:29,acq_max[i]:5796,i:39
+sat29 = 7566 986 2786 4500
+satid:29,acq_max[i]:6024,i:0
+satid:29
+,acq_max[i]:7173,i:1
+satid:29,acq_max[i]:6717,i:2
+satid:29,acq_max[i]:5752,i:3
+satid:29,acq_max[i]:5984,i:4
+satid:29,acq_max[i]:5915,i:5
+satid:29,acq_max[i]:5759,i:6
+satid:29,acq_max[i]:6836,i:7
+satid:29,acq_max[i]:6198,i:8
+satid:29,acq_max[i]:6009,i:9
+satid:29,acq_max[i]:6273,i:10
+satid:29,acq_max[i]:5411,i:11
+satid:29,acq_max[i]:5520,i:12
+satid:29,acq_max[i]:5921,i:13
+satid:29,acq_max[i]:6220,i:14
+satid:29,acq_max[i]:6158,i:15
+satid:29,acq_max[i]:5933,i:16
+satid:29,acq_max[i]:6002,i:17
+sa
+tid:29,acq_max[i]:5549,i:18
+satid:29,acq_max[i]:6487,i:19
+satid:29,acq_max[i]:6690,i:20
+satid:29,acq_max[i]:5958,i:21
+satid:29,acq_max[i]:5800,i:22
+satid:29,acq_max[i]:5239,i:23
+satid:29,acq_max[i]:5965,i:24
+satid:29,acq_max[i]:6001,i:25
+satid:29,acq_max[i]:5931,i:26
+satid:29,acq_max[i]:5535,i:27
+satid:29,acq_max[i]:5545,i:28
+satid:29,acq_max[i]:5447,i:29
+satid:29,acq_max[i]:6290,i:30
+satid:29,acq_max[i]:6128,i:31
+satid:29,acq_max[i]:5582,i:32
+satid:29,acq_max[i]:5388,i:33
+satid:29,acq_max[i
+]:5698,i:34
+satid:29,acq_max[i]:6108,i:35
+satid:29,acq_max[i]:5444,i:36
+satid:29,acq_max[i]:7044,i:37
+satid:29,acq_max[i]:7273,i:38
+satid:29,acq_max[i]:6330,i:39
+sat29 = 7273 1183 2784 -4500
+---00000012--- Acq_st=5 2019-5-15 01:50:13 
+[00]  G09  1  7  -3051.8 2046006.3 -0.1  0.0  1  0         5
+[01]  G16  1 27    150.2 2046000.3  0.1  0.0  1  0         3
+[02]  G23  1 19  -1684.4 2046004.6 -0.0  0.0  1  0         3
+[03]  G26  1 21   1229.6 2045998.7 -0.0  0.0  1  0        13
+[07]  G20  7 10   929
+7.4 2045987.9 -0.1  0.0 20  0        17
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+satid:30,acq_max[i]:6222,i:0
+sat
+id:30,acq_max[i]:6185,i:1
+satid:30,acq_max[i]:5681,i:2
+satid:30,acq_max[i]:5692,i:3
+satid:30,acq_max[i]:5488,i:4
+satid:30,acq_max[i]:6288,i:5
+satid:30,acq_max[i]:5515,i:6
+satid:30,acq_max[i]:5844,i:7
+satid:30,acq_max[i]:5754,i:8
+satid:30,acq_max[i]:5703,i:9
+satid:30,acq_max[i]:5858,i:10
+satid:30,acq_max[i]:6111,i:11
+satid:30,acq_max[i]:5415,i:12
+satid:30,acq_max[i]:5600,i:13
+satid:30,acq_max[i]:5687,i:14
+satid:30,acq_max[i]:5799,i:15
+satid:30,acq_max[i]:5686,i:16
+satid:30,acq_max[i]:6187,i:1
+7
+satid:30,acq_max[i]:6232,i:18
+satid:30,acq_max[i]:5476,i:19
+satid:30,acq_max[i]:6227,i:20
+satid:30,acq_max[i]:6117,i:21
+satid:30,acq_max[i]:5548,i:22
+satid:30,acq_max[i]:6032,i:23
+satid:30,acq_max[i]:5773,i:24
+satid:30,acq_max[i]:6052,i:25
+satid:30,acq_max[i]:6090,i:26
+satid:30,acq_max[i]:5932,i:27
+satid:30,acq_max[i]:5905,i:28
+satid:30,acq_max[i]:5791,i:29
+satid:30,acq_max[i]:5631,i:30
+satid:30,acq_max[i]:5330,i:31
+satid:30,acq_max[i]:6994,i:32
+satid:30,acq_max[i]:6933,i:33
+satid:30,acq_
+max[i]:6139,i:34
+satid:30,acq_max[i]:5410,i:35
+satid:30,acq_max[i]:5689,i:36
+satid:30,acq_max[i]:5432,i:37
+satid:30,acq_max[i]:6092,i:38
+satid:30,acq_max[i]:5774,i:39
+sat30 = 6994 1586 2776 -3000
+satid:30,acq_max[i]:5492,i:0
+satid:30,acq_max[i]:6188,i:1
+satid:30,acq_max[i]:5656,i:2
+satid:30,acq_max[i]:5194,i:3
+satid:30,acq_max[i]:5674,i:4
+satid:30,acq_max[i]:5635,i:5
+satid:30,acq_max[i]:5668,i:6
+satid:30,acq_max[i]:5828,i:7
+satid:30,acq_max[i]:6687,i:8
+satid:30,acq_max[i]:5986,i:9
+satid:30,
+acq_max[i]:5543,i:10
+satid:30,acq_max[i]:5545,i:11
+satid:30,acq_max[i]:5805,i:12
+satid:30,acq_max[i]:5975,i:13
+satid:30,acq_max[i]:5814,i:14
+satid:30,acq_max[i]:5630,i:15
+satid:30,acq_max[i]:6078,i:16
+satid:30,acq_max[i]:6603,i:17
+satid:30,acq_max[i]:6379,i:18
+satid:30,acq_max[i]:5718,i:19
+satid:30,acq_max[i]:6227,i:20
+satid:30,acq_max[i]:5955,i:21
+satid:30,acq_max[i]:5520,i:22
+satid:30,acq_max[i]:5297,i:23
+satid:30,acq_max[i]:6008,i:24
+satid:30,acq_max[i]:5890,i:25
+satid:30,acq_max[i]:5688,
+i:26
+satid:30,acq_max[i]:6339,i:27
+satid:30,acq_max[i]:5890,i:28
+satid:30,acq_max[i]:5232,i:29
+satid:30,acq_max[i]:5786,i:30
+satid:30,acq_max[i]:5555,i:31
+satid:30,acq_max[i]:6223,i:32
+satid:30,acq_max[i]:5698,i:33
+satid:30,acq_max[i]:5855,i:34
+satid:30,acq_max[i]:5460,i:35
+satid:30,acq_max[i]:5650,i:36
+satid:30,acq_max[i]:5085,i:37
+satid:30,acq_max[i]:5647,i:38
+satid:30,acq_max[i]:5972,i:39
+sat30 = 6687 1921 2776 3000
+satid:31,acq_max[i]:5440,i:0
+satid:31,acq_max[i]:5886,i:1
+satid:31,acq_m
+ax[i]:6468,i:2
+satid:31,acq_max[i]:5885,i:3
+satid:31,acq_max[i]:5892,i:4
+satid:31,acq_max[i]:5764,i:5
+satid:31,acq_max[i]:6636,i:6
+satid:31,acq_max[i]:6362,i:7
+satid:31,acq_max[i]:5843,i:8
+satid:31,acq_max[i]:5577,i:9
+satid:31,acq_max[i]:6020,i:10
+satid:31,acq_max[i]:6452,i:11
+satid:31,acq_max[i]:6257,i:12
+satid:31,acq_max[i]:6076,i:13
+satid:31,acq_max[i]:6083,i:14
+satid:31,acq_max[i]:6065,i:15
+satid:31,acq_max[i]:6238,i:16
+satid:31,acq_max[i]:5641,i:17
+satid:31,acq_max[i]:5788,i:18
+satid:3
+1,acq_max[i]:5688,i:19
+satid:31,acq_max[i]:5876,i:20
+satid:31,acq_max[i]:5816,i:21
+satid:31,acq_max[i]:5670,i:22
+satid:31,acq_max[i]:5979,i:23
+satid:31,acq_max[i]:5652,i:24
+satid:31,acq_max[i]:5943,i:25
+satid:31,acq_max[i]:5696,i:26
+satid:31,acq_max[i]:5652,i:27
+satid:31,acq_max[i]:6075,i:28
+satid:31,acq_max[i]:6112,i:29
+satid:31,acq_max[i]:6096,i:30
+satid:31,acq_max[i]:5747,i:31
+satid:31,acq_max[i]:5840,i:32
+satid:31,acq_max[i]:5689,i:33
+satid:31,acq_max[i]:6085,i:34
+satid:31,acq_max[i]:728
+3,i:35
+satid:31,acq_max[i]:7393,i:36
+satid:31,acq_max[i]:5731,i:37
+satid:31,acq_max[i]:5847,i:38
+satid:31,acq_max[i]:5880,i:39
+sat31 = 7393 1964 2773 -4000
+satid:31,acq_max[i]:5775,i:0
+satid:31,acq_max[i]:6098,i:1
+satid:31,acq_max[i]:5864,i:2
+satid:31,acq_max[i]:5853,i:3
+satid:31,acq_max[i]:6728,i:4
+satid:31,acq_max[i]:6174,i:5
+satid:31,acq_max[i]:6281,i:6
+satid:31,acq_max[i]:6222,i:7
+satid:31,acq_max[i]:5880,i:8
+satid:31,acq_max[i]:5714,i:9
+satid:31,acq_max[i]:5833,i:10
+satid:31,acq_max[i]:6135,i:11
+satid:31,acq_max[i]:6468,i:12
+satid:31,acq_max[i]:6318,i:13
+satid:31,acq_max[i]:5836,i:14
+satid:31,acq_max[i]:6350,i:15
+satid:31,acq_max[i]:6029,i:16
+satid:31,acq_max[i]:5382,i:17
+satid:31,acq_max[i]:5629,i:18
+satid:31,acq_max[i]:6160,i:19
+satid:31,acq_max[i]:5876,i:20
+satid:31,acq_max[i]:5716,i:21
+satid:31,acq_max[i]:5514,i:22
+satid:31,acq_max[i]:5807,i:23
+satid:31,acq_max[i]:5914,i:24
+satid:31,acq_max[i]:6222,i:25
+satid:31,acq_max[i]:5703,i:26
+satid:31,acq_max[i]:5908,i:27
+sati
+d:31,acq_max[i]:5604,i:28
+satid:31,acq_max[i]:5726,i:29
+satid:31,acq_max[i]:5890,i:30
+satid:31,acq_max[i]:5723,i:31
+satid:31,acq_max[i]:5862,i:32
+satid:31,acq_max[i]:6519,i:33
+satid:31,acq_max[i]:5922,i:34
+satid:31,acq_max[i]:6888,i:35
+satid:31,acq_max[i]:6385,i:36
+satid:31,acq_max[i]:6081,i:37
+satid:31,acq_max[i]:5683,i:38
+satid:31,acq_max[i]:6642,i:39
+sat31 = 6888 1661 2773 -3750
+sat37 = 3137 1054 1284 4500
+sat37 = 3364 1086 1283 4500
+sat38 = 3171 916 1303 2500
+sat38 = 3238 2186 1302 -2500
+
+sat39 = 3379 1557 1290 -2750
+sat39 = 3267 1589 1290 -2750
+---00000013--- Acq_st=3 2019-5-15 01:50:14 
+[00]  G09  1 29  -3110.9 2046005.0  0.5  0.0  1  0         5
+[01]  G16  7 27    137.2 2045999.7  0.4  0.0 10  0         3
+[02]  G23  1 30  -1674.7 2046002.3  0.3  0.0  1  0         3
+[03]  G26  1 33   1227.3 2045998.2 -0.0  0.0  1  0        13
+sat40 = 3316 3511 1295 3750
+sat40 = 3367 2868 1296 -3500
+sat41 = 3394 448 1288 -4750
+sat41 = 3127 480 1289 -4750
+sat42 = 3245 3274 1293 3000
+sat42 = 3336 3338 1293 3250
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,1,1,01,16,00,000,27*4A
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+sat43 = 13609 2414 1291 0
+ch16 satid=43 freq = 0 acq ok1!
+
+sat44 = 3321 1778 1288 -4250
+
+sat44 = 3499 1810 1287 -4250
+
+sat45 = 3111 526 1286 -4500
+
+sat45 = 3177 186 1285 4750
+
+sat46 = 33229 1031 1296 250
+ch17 satid=46 freq = 250 acq ok1!
+
+---00000014--- Acq_st=3 2019-5-15 01:50:15 
+[00]  G09  7 36  -3110.9 2046003.9  1.0  0.9  5  0         5
+[01]  G16  7 45    137.2 2045999.8  1.0  1.0  5  0        15
+[02]  G23  7 39  -1674.7 2046002.1  0.9  1.0  5  0         3
+[03]  G26  7 32   1227.3 2045998.3  0.0  0.9  5  0        13
+[16]  B07  1  7      5.5 4092000.0 -0.0  0.0  1  0      3082
+[17]  B10  1  7   1091.2 4091999.6 -0.0  0.0  1  0         0
+sat47 = 3148 100 1283 -2750
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,1,1,04,09,00,000,36,16,00,000,45,23,00,000,39,26,00,000,32*79
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        1
+
+sat47 = 3122 1990 1284 1500
+
+sat48 = 3380 3677 1292 -3000
+
+sat48 = 3164 267 1291 3500
+
+sat49 = 3303 3719 1299 2250
+
+sat49 = 3264 3783 1300 2250
+
+sat50 = 3018 574 1286 2750
+
+sat50 = 3150 45 1286 4250
+
+sat51 = 3325 2670 1292 4500
+
+sat51 = 3146 674 1292 3750
+
+sat52 = 3168 2990 1293 4000
+
+sat52 = 3248 2344 1291 -4750
+
+---00000015--- Acq_st=3 2019-5-15 01:50:16 
+[00]  G09  7 37  -3109.9 2046004.0  1.0  1.0  5  0         3
+[01]  G16  7 46    137.8 2045999.8  1.0  1.0  5  0        15
+[02]  G23  7 45  -1673.4 2046002.1  1.0  1.0  5  0        10
+[03]  G26  7 37   1228.6 2045998.4  1.0  1.0  5  0        12
+[16]  B07  1  7     41.9 4092000.0 -0.0  0.0  1  0       486
+[17]  B10  1  7   -138.9 4092000.0 -0.1  0.0  1  0        74
+sat53 = 3326 1717 1291 750
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,1,1,04,09,00,000,37,16,00,000,46,23,00,000,45,26,00,000,37*75
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+
+sat53 = 3328 2249 1290 1000
+
+sat54 = 3384 1799 1294 5000
+
+sat54 = 3385 3315 1294 4000
+
+sat55 = 10913 1346 1293 250
+ch18 satid=55 freq = 250 acq ok1!
+
+sat56 = 3252 3769 1285 -3500
+
+sat56 = 3226 1125 1285 3750
+
+sat57 = 3422 2557 1287 5000
+
+sat57 = 3302 1472 1287 -3000
+
+sat58 = 3225 1768 1282 3500
+
+sat58 = 3154 2233 1283 -4000
+
+sat59 = 3368 3668 1288 -1750
+
+---00000016--- Acq_st=3 2019-5-15 01:50:17 
+[00]  G09  7 38  -3107.7 2046004.0  1.0  1.0  5  0         3
+[01]  G16  7 46    139.8 2045999.8  1.0  1.0  5  0        15
+[02]  G23  7 45  -1671.3 2046002.1  1.0  1.0  5  0        10
+[03]  G26  7 38   1229.3 2045998.4  1.0  1.0  5  0        12
+[16]  B07  1  7    238.4 4091999.8 -0.0  0.0  1  0      1486
+[17]  B10  1  7   -348.5 4092000.0 -0.2  0.0  1  0      1074
+[18]  B19  1  7   -297.5 4092000.3 -0.2  0.0  1  0         0
+sat59 = 3387 3518 1288 250
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,1,1,04,09,00,000,38,16,00,000,46,23,00,000,45,26,00,000,38*75
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+sat60 = 3079 3814 1285 5000
+
+sat60 = 3062 2412 1286 2500
+
+sat61 = 2988 2523 1285 5000
+
+sat61 = 3291 3582 1285 -3750
+
+sat62 = 3155 3329 1290 -750
+
+sat62 = 3090 1155 1288 1000
+
+sat63 = 3476 3443 1290 2750
+
+sat63 = 3521 2168 1288 3000
+
+sat64 = 3110 772 1293 -750
+
+sat64 = 3063 1570 1295 2500
+
+sat65 = 3256 1982 1302 -3250
+
+sat65 = 3144 1623 1303 5000
+
+---00000017--- Acq_st=3 2019-5-15 01:50:18 
+[00]  G09  7 38  -3106.8 2046004.0  1.0  1.0  5  0         3
+[01]  G16  7 46    141.0 2045999.8  1.0  1.0  5  0        15
+[02]  G23  7 45  -1669.7 2046002.2  1.0  1.0  5  0        10
+[03]  G26  7 38   1230.0 2045998.4  1.0  1.0  5  0        12
+[17]  B10  1  7   -544.4 4092000.1 -0.0  0.0  1  0      2074
+[18]  B19  1  7   -321.1 4091999.9 -0.1  0.0  1  0       676
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,
+,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,1,1,04,09,00,000,38,16,00,000,46,23,00,000,45,26,00,000,38*75
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+sat66 = 3340 1692 1294 -1000
+
+sat66 = 3138 1072 1292 -3500
+
+sat67 = 3742 3794 1284 250
+
+sat67 = 3626 3858 1285 0
+
+sat68 = 3144 547 1287 -1750
+
+sat68 = 3130 14 1287 5000
+
+---00000018--- Acq_st=7 2019-5-15 01:50:19 
+[00]  G09  7 39  -3103.6 2046004.0  1.0  1.0  5  0         3
+[01]  G16  7 46    143.9 2045999.8  1.0  1.0  5  0        15
+[02]  G23  7 45  -1666.7 2046002.1  1.0  1.0  5  0        10
+[03]  G26  7 38   1232.9 2045998.3  1.0  1.0  5  0        12
+[18]  B19  1  7   -655.2 4091999.9 -0.1  0.0  1  0      1676
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,1,1,04,09,00,000,39,16,00,000,46,23,00,000,45,26,00,000,38*74
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+
+---00000019--- Acq_st=7 2019-5-15 01:50:20 
+[00]  G09  f 39  -3106.9 2046004.0  1.0  1.0  5  0         3
+[01]  G16  f 46    140.7 2045999.8  1.0  1.0  5  0        15
+[02]  G23  f 45  -1669.3 2046002.1  1.0  1.0  5  0        10
+[03]  G26  f 39   1230.0 2045998.4  1.0  1.0  5  0        12
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,1,1,04,09,00,000,39,16,00,000,46,23,00,000,45,26,00,000,39*75
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+
+satid:0,acq_max[i]:6174,i:0
+satid:0,acq_max[i]:6640,i:1
+satid:0,acq_max[i]:6884,i:2
+satid:0,acq_max[i]:6988,i:3
+satid:0,acq_max[i]:6463,i:4
+satid:0,acq_max[i]:6363,i:5
+satid:0,acq_max[i]:6089,i:6
+satid:0,acq_max[i]:5950,i:7
+satid:0,acq_max[i]:6020,i:8
+satid:0,acq_max[i]:5737,i:9
+satid:0,acq_max[i]:5562,i:10
+satid:0,acq_max[i]:6301,i:11
+satid:0,acq_max[i]:6225,i:12
+satid:0,acq_max[i]:6255,i:13
+satid:0,acq_max[i]:6427,i:14
+satid:0,acq_max[i]:7402,i:15
+satid:0,acq_max[i]:6454,i:16
+satid:0,acq_
+max[i]:6073,i:17
+satid:0,acq_max[i]:6218,i:18
+satid:0,acq_max[i]:5607,i:19
+satid:0,acq_max[i]:6262,i:20
+satid:0,acq_max[i]:6209,i:21
+satid:0,acq_max[i]:6420,i:22
+satid:0,acq_max[i]:6844,i:23
+satid:0,acq_max[i]:6058,i:24
+satid:0,acq_max[i]:5895,i:25
+satid:0,acq_max[i]:6066,i:26
+satid:0,acq_max[i]:5949,i:27
+satid:0,acq_max[i]:6668,i:28
+satid:0,acq_max[i]:6374,i:29
+satid:0,acq_max[i]:6480,i:30
+satid:0,acq_max[i]:7031,i:31
+satid:0,acq_max[i]:6170,i:32
+satid:0,acq_max[i]:6114,i:33
+satid:0,acq_ma
+x[i]:6521,i:34
+satid:0,acq_max[i]:5653,i:35
+satid:0,acq_max[i]:5881,i:36
+satid:0,acq_max[i]:5753,i:37
+satid:0,acq_max[i]:6001,i:38
+satid:0,acq_max[i]:5718,i:39
+sat0 = 7402 1878 2821 1250
+satid:0,acq_max[i]:6092,i:0
+satid:0,acq_max[i]:6415,i:1
+satid:0,acq_max[i]:6851,i:2
+satid:0,acq_max[i]:7044,i:3
+satid:0,acq_max[i]:6370,i:4
+satid:0,acq_max[i]:6796,i:5
+satid:0,acq_max[i]:6218,i:6
+satid:0,acq_max[i]:5568,i:7
+satid:0,acq_max[i]:5664,i:8
+satid:0,acq_max[i]:5645,i:9
+satid:0,acq_max[i]:5323,i:10
+
+satid:0,acq_max[i]:5896,i:11
+satid:0,acq_max[i]:6090,i:12
+satid:0,acq_max[i]:6005,i:13
+satid:0,acq_max[i]:6533,i:14
+satid:0,acq_max[i]:6709,i:15
+satid:0,acq_max[i]:6581,i:16
+satid:0,acq_max[i]:5952,i:17
+satid:0,acq_max[i]:5926,i:18
+satid:0,acq_max[i]:5768,i:19
+satid:0,acq_max[i]:6262,i:20
+satid:0,acq_max[i]:6720,i:21
+satid:0,acq_max[i]:6278,i:22
+satid:0,acq_max[i]:6595,i:23
+satid:0,acq_max[i]:5804,i:24
+satid:0,acq_max[i]:6056,i:25
+satid:0,acq_max[i]:5848,i:26
+satid:0,acq_max[i]:6228,i:27
+
+satid:0,acq_max[i]:6030,i:28
+satid:0,acq_max[i]:6091,i:29
+satid:0,acq_max[i]:5713,i:30
+satid:0,acq_max[i]:7330,i:31
+satid:0,acq_max[i]:6682,i:32
+satid:0,acq_max[i]:5467,i:33
+satid:0,acq_max[i]:5484,i:34
+satid:0,acq_max[i]:5804,i:35
+satid:0,acq_max[i]:5457,i:36
+satid:0,acq_max[i]:5549,i:37
+satid:0,acq_max[i]:5599,i:38
+satid:0,acq_max[i]:6750,i:39
+sat0 = 7330 887 2821 -2750
+satid:1,acq_max[i]:6100,i:0
+satid:1,acq_max[i]:5930,i:1
+satid:1,acq_max[i]:6662,i:2
+satid:1,acq_max[i]:5310,i:3
+satid:1,
+acq_max[i]:5311,i:4
+satid:1,acq_max[i]:5573,i:5
+satid:1,acq_max[i]:6179,i:6
+satid:1,acq_max[i]:5498,i:7
+satid:1,acq_max[i]:6642,i:8
+satid:1,acq_max[i]:6612,i:9
+satid:1,acq_max[i]:5617,i:10
+satid:1,acq_max[i]:5798,i:11
+satid:1,acq_max[i]:7274,i:12
+satid:1,acq_max[i]:6802,i:13
+satid:1,acq_max[i]:6433,i:14
+satid:1,acq_max[i]:6029,i:15
+satid:1,acq_max[i]:6079,i:16
+satid:1,acq_max[i]:5452,i:17
+satid:1,acq_max[i]:6001,i:18
+satid:1,acq_max[i]:7060,i:19
+satid:1,acq_max[i]:6628,i:20
+satid:1,acq_max[
+i]:6332,i:21
+satid:1,acq_max[i]:5954,i:22
+satid:1,acq_max[i]:6337,i:23
+satid:1,acq_max[i]:6450,i:24
+satid:1,acq_max[i]:5613,i:25
+satid:1,acq_max[i]:6112,i:26
+satid:1,acq_max[i]:6211,i:27
+satid:1,acq_max[i]:5875,i:28
+satid:1,acq_max[i]:5760,i:29
+satid:1,acq_max[i]:6581,i:30
+satid:1,acq_max[i]:6357,i:31
+satid:1,acq_max[i]:6744,i:32
+satid:1,acq_max[i]:6483,i:33
+satid:1,acq_max[i]:5935,i:34
+satid:1,acq_max[i]:6213,i:35
+satid:1,acq_max[i]:7298,i:36
+satid:1,acq_max[i]:6257,i:37
+satid:1,acq_max[i]
+:6431,i:38
+satid:1,acq_max[i]:5529,i:39
+sat1 = 7298 336 2820 -4000
+satid:1,acq_max[i]:6226,i:0
+satid:1,acq_max[i]:6556,i:1
+satid:1,acq_max[i]:5507,i:2
+satid:1,acq_max[i]:5741,i:3
+satid:1,acq_max[i]:5873,i:4
+satid:1,acq_max[i]:5946,i:5
+satid:1,acq_max[i]:5215,i:6
+satid:1,acq_max[i]:5740,i:7
+satid:1,acq_max[i]:6247,i:8
+satid:1,acq_max[i]:6627,i:9
+satid:1,acq_max[i]:5383,i:10
+satid:1,acq_max[i]:6079,i:11
+satid:1,acq_max[i]:7106,i:12
+satid:1,acq_max[i]:6570,i:13
+satid:1,acq_max[i]:6463,i:14
+sa
+tid:1,acq_max[i]:6030,i:15
+satid:1,acq_max[i]:5969,i:16
+satid:1,acq_max[i]:5552,i:17
+satid:1,acq_max[i]:5848,i:18
+satid:1,acq_max[i]:6707,i:19
+satid:1,acq_max[i]:6628,i:20
+satid:1,acq_max[i]:6699,i:21
+satid:1,acq_max[i]:6190,i:22
+satid:1,acq_max[i]:6232,i:23
+satid:1,acq_max[i]:5916,i:24
+satid:1,acq_max[i]:5859,i:25
+satid:1,acq_max[i]:5706,i:26
+satid:1,acq_max[i]:5731,i:27
+satid:1,acq_max[i]:5805,i:28
+satid:1,acq_max[i]:5515,i:29
+satid:1,acq_max[i]:6384,i:30
+satid:1,acq_max[i]:6813,i:31
+sati
+d:1,acq_max[i]:6330,i:32
+satid:1,acq_max[i]:6446,i:33
+satid:1,acq_max[i]:6592,i:34
+satid:1,acq_max[i]:6297,i:35
+satid:1,acq_max[i]:6204,i:36
+satid:1,acq_max[i]:6062,i:37
+satid:1,acq_max[i]:5973,i:38
+satid:1,acq_max[i]:6339,i:39
+sat1 = 7106 952 2820 2000
+satid:2,acq_max[i]:6353,i:0
+satid:2,acq_max[i]:5479,i:1
+satid:2,acq_max[i]:5467,i:2
+satid:2,acq_max[i]:5831,i:3
+satid:2,acq_max[i]:6007,i:4
+satid:2,acq_max[i]:6378,i:5
+satid:2,acq_max[i]:6281,i:6
+satid:2,acq_max[i]:6795,i:7
+satid:2,acq_max[i]:6334,i:8
+satid:2,acq_max[i]:5979,i:9
+satid:2,acq_max[i]:6549,i:10
+satid:2,acq_max[i]:6524,i:11
+satid:2,acq_max[i]:5724,i:12
+satid:2,acq_max[i]:6005,i:13
+satid:2,acq_max[i]:6035,i:14
+satid:2,acq_max[i]:5770,i:15
+satid:2,acq_max[i]:5521,i:16
+satid:2,acq_max[i]:5712,i:17
+satid:2,acq_max[i]:5953,i:18
+satid:2,acq_max[i]:6231,i:19
+satid:2,acq_max[i]:6258,i:20
+satid:2,acq_max[i]:6144,i:21
+satid:2,acq_max[i]:6366,i:22
+satid:2,acq_max[i]:6634,i:23
+satid:2,acq_max[i]:6175,i:24
+satid:2,acq_max[i]:59
+25,i:25
+satid:2,acq_max[i]:5747,i:26
+satid:2,acq_max[i]:5757,i:27
+satid:2,acq_max[i]:5647,i:28
+satid:2,acq_max[i]:6639,i:29
+satid:2,acq_max[i]:6114,i:30
+satid:2,acq_max[i]:6891,i:31
+satid:2,acq_max[i]:5713,i:32
+satid:2,acq_max[i]:6548,i:33
+satid:2,acq_max[i]:6853,i:34
+satid:2,acq_max[i]:6773,i:35
+satid:2,acq_max[i]:6133,i:36
+satid:2,acq_max[i]:6196,i:37
+satid:2,acq_max[i]:6398,i:38
+satid:2,acq_max[i]:6691,i:39
+sat2 = 6891 1970 2830 -2750
+satid:2,acq_max[i]:5915,i:0
+satid:2,acq_max[i]:5523,i
+:1
+satid:2,acq_max[i]:5542,i:2
+satid:2,acq_max[i]:6083,i:3
+satid:2,acq_max[i]:5715,i:4
+satid:2,acq_max[i]:6402,i:5
+satid:2,acq_max[i]:5936,i:6
+satid:2,acq_max[i]:6248,i:7
+satid:2,acq_max[i]:6606,i:8
+satid:2,acq_max[i]:6170,i:9
+satid:2,acq_max[i]:6120,i:10
+satid:2,acq_max[i]:6489,i:11
+satid:2,acq_max[i]:5854,i:12
+satid:2,acq_max[i]:5791,i:13
+satid:2,acq_max[i]:5893,i:14
+satid:2,acq_max[i]:5794,i:15
+satid:2,acq_max[i]:5750,i:16
+satid:2,acq_max[i]:5565,i:17
+satid:2,acq_max[i]:5827,i:18
+satid:
+2,acq_max[i]:6455,i:19
+satid:2,acq_max[i]:6258,i:20
+satid:2,acq_max[i]:5811,i:21
+satid:2,acq_max[i]:5797,i:22
+satid:2,acq_max[i]:6235,i:23
+satid:2,acq_max[i]:5581,i:24
+satid:2,acq_max[i]:6034,i:25
+satid:2,acq_max[i]:5948,i:26
+satid:2,acq_max[i]:6059,i:27
+satid:2,acq_max[i]:6463,i:28
+satid:2,acq_max[i]:5968,i:29
+satid:2,acq_max[i]:6071,i:30
+satid:2,acq_max[i]:5949,i:31
+satid:2,acq_max[i]:5927,i:32
+satid:2,acq_max[i]:6420,i:33
+satid:2,acq_max[i]:7141,i:34
+satid:2,acq_max[i]:6448,i:35
+satid:2,
+acq_max[i]:6257,i:36
+satid:2,acq_max[i]:6543,i:37
+satid:2,acq_max[i]:6431,i:38
+satid:2,acq_max[i]:6118,i:39
+sat2 = 7141 1815 2832 -3500
+satid:3,acq_max[i]:5856,i:0
+satid:3,acq_max[i]:6021,i:1
+satid:3,acq_max[i]:5879,i:2
+satid:3,acq_max[i]:6018,i:3
+satid:3,acq_max[i]:5984,i:4
+satid:3,acq_max[i]:7610,i:5
+satid:3,acq_max[i]:10850,i:6
+satid:3,acq_max[i]:8547,i:7
+satid:3,acq_max[i]:6000,i:8
+satid:3,acq_max[i]:6448,i:9
+satid:3,acq_max[i]:5679,i:10
+satid:3,acq_max[i]:5713,i:11
+satid:3,acq_max[i]:6
+338,i:12
+satid:3,acq_max[i]:7108,i:13
+satid:3,acq_max[i]:5868,i:14
+satid:3,acq_max[i]:6542,i:15
+satid:3,acq_max[i]:6041,i:16
+satid:3,acq_max[i]:6191,i:17
+satid:3,acq_max[i]:5679,i:18
+satid:3,acq_max[i]:5472,i:19
+satid:3,acq_max[i]:5422,i:20
+satid:3,acq_max[i]:5308,i:21
+satid:3,acq_max[i]:5919,i:22
+satid:3,acq_max[i]:6042,i:23
+satid:3,acq_max[i]:5738,i:24
+satid:3,acq_max[i]:6222,i:25
+satid:3,acq_max[i]:5991,i:26
+satid:3,acq_max[i]:5470,i:27
+satid:3,acq_max[i]:6388,i:28
+satid:3,acq_max[i]:642
+6,i:29
+satid:3,acq_max[i]:6259,i:30
+satid:3,acq_max[i]:5583,i:31
+satid:3,acq_max[i]:5688,i:32
+satid:3,acq_max[i]:5593,i:33
+satid:3,acq_max[i]:5536,i:34
+satid:3,acq_max[i]:5566,i:35
+satid:3,acq_max[i]:6194,i:36
+satid:3,acq_max[i]:7242,i:37
+satid:3,acq_max[i]:7114,i:38
+satid:3,acq_max[i]:6006,i:39
+sat3 = 10850 1154 2819 3500
+satid:3,acq_max[i]:5855,i:0
+satid:3,acq_max[i]:6622,i:1
+satid:3,acq_max[i]:5792,i:2
+satid:3,acq_max[i]:6293,i:3
+satid:3,acq_max[i]:6385,i:4
+satid:3,acq_max[i]:8465,i:5
+s
+atid:3,acq_max[i]:8846,i:6
+satid:3,acq_max[i]:8106,i:7
+satid:3,acq_max[i]:6183,i:8
+satid:3,acq_max[i]:6346,i:9
+satid:3,acq_max[i]:6286,i:10
+satid:3,acq_max[i]:6262,i:11
+satid:3,acq_max[i]:6354,i:12
+satid:3,acq_max[i]:6967,i:13
+satid:3,acq_max[i]:6223,i:14
+satid:3,acq_max[i]:6250,i:15
+satid:3,acq_max[i]:6157,i:16
+satid:3,acq_max[i]:6160,i:17
+satid:3,acq_max[i]:5687,i:18
+satid:3,acq_max[i]:5609,i:19
+satid:3,acq_max[i]:5422,i:20
+satid:3,acq_max[i]:5259,i:21
+satid:3,acq_max[i]:6109,i:22
+satid:3
+,acq_max[i]:6509,i:23
+satid:3,acq_max[i]:5799,i:24
+satid:3,acq_max[i]:6670,i:25
+satid:3,acq_max[i]:6063,i:26
+satid:3,acq_max[i]:5944,i:27
+satid:3,acq_max[i]:6240,i:28
+satid:3,acq_max[i]:6423,i:29
+satid:3,acq_max[i]:6322,i:30
+satid:3,acq_max[i]:5274,i:31
+satid:3,acq_max[i]:6092,i:32
+satid:3,acq_max[i]:5905,i:33
+satid:3,acq_max[i]:5806,i:34
+satid:3,acq_max[i]:5662,i:35
+satid:3,acq_max[i]:6976,i:36
+satid:3,acq_max[i]:7332,i:37
+satid:3,acq_max[i]:7323,i:38
+satid:3,acq_max[i]:6108,i:39
+sat3 = 88
+46 1186 2818 3500
+satid:4,acq_max[i]:5872,i:0
+satid:4,acq_max[i]:6026,i:1
+satid:4,acq_max[i]:6375,i:2
+satid:4,acq_max[i]:5610,i:3
+satid:4,acq_max[i]:6113,i:4
+satid:4,acq_max[i]:6157,i:5
+satid:4,acq_max[i]:6078,i:6
+satid:4,acq_max[i]:6048,i:7
+satid:4,acq_max[i]:5848,i:8
+satid:4,acq_max[i]:6073,i:9
+satid:4,acq_max[i]:5871,i:10
+satid:4,acq_max[i]:6048,i:11
+satid:4,acq_max[i]:6313,i:12
+satid:4,acq_max[i]:5873,i:13
+satid:4,acq_max[i]:6795,i:14
+satid:4,acq_max[i]:6099,i:15
+satid:4,acq_max[i]:6100
+,i:16
+satid:4,acq_max[i]:6573,i:17
+satid:4,acq_max[i]:5917,i:18
+satid:4,acq_max[i]:5721,i:19
+satid:4,acq_max[i]:5825,i:20
+satid:4,acq_max[i]:5747,i:21
+satid:4,acq_max[i]:6414,i:22
+satid:4,acq_max[i]:6049,i:23
+satid:4,acq_max[i]:5897,i:24
+satid:4,acq_max[i]:6290,i:25
+satid:4,acq_max[i]:5745,i:26
+satid:4,acq_max[i]:6351,i:27
+satid:4,acq_max[i]:5683,i:28
+satid:4,acq_max[i]:6486,i:29
+satid:4,acq_max[i]:5987,i:30
+satid:4,acq_max[i]:5688,i:31
+,acq_max[i]:5723,i:22
+satid:12,acq_max[i]:6740,i:23
+s
+atid:12,acq_max[i]:6128,i:24
+satid:12,acq_max[i]:5957,i:25
+satid:12,acq_max[i]:6328,i:26
+satid:12,acq_max[i]:5910,i:27
+satid:12,acq_max[i]:6298,i:28
+satid:12,acq_max[i]:6611,i:29
+satid:12,acq_max[i]:6893,i:30
+satid:12,acq_max[i]:5626,i:31
+satid:12,acq_max[i]:5921,i:32
+satid:12,acq_max[i]:5932,i:33
+satid:12,acq_max[i]:5720,i:34
+satid:12,acq_max[i]:6194,i:35
+satid:12,acq_max[i]:6634,i:36
+satid:12,acq_max[i]:5771,i:37
+satid:12,acq_max[i]:5892,i:38
+satid:12,acq_max[i]:5400,i:39
+sat12 = 6893 1898
+ 2820 -2500
+satid:12,acq_max[i]:5783,i:0
+satid:12,acq_max[i]:5694,i:1
+satid:12,acq_max[i]:5728,i:2
+satid:12,acq_max[i]:5475,i:3
+satid:12,acq_max[i]:5790,i:4
+satid:12,acq_max[i]:6052,i:5
+satid:12,acq_max[i]:5873,i:6
+satid:12,acq_max[i]:5851,i:7
+satid:12,acq_max[i]:5998,i:8
+satid:12,acq_max[i]:5551,i:9
+satid:12,acq_max[i]:5772,i:10
+satid:12,acq_max[i]:6045,i:11
+satid:12,acq_max[i]:5481,i:12
+satid:12,acq_max[i]:5591,i:13
+satid:12,acq_max[i]:6072,i:14
+satid:12,acq_max[i]:6145,i:15
+satid:12,acq_
+max[i]:5754,i:16
+satid:12,acq_max[i]:6352,i:17
+satid:12,acq_max[i]:6252,i:18
+satid:12,acq_max[i]:5989,i:19
+satid:12,acq_max[i]:6840,i:20
+satid:12,acq_max[i]:6039,i:21
+satid:12,acq_max[i]:5817,i:22
+satid:12,acq_max[i]:6132,i:23
+satid:12,acq_max[i]:6360,i:24
+satid:12,acq_max[i]:6059,i:25
+satid:12,acq_max[i]:6008,i:26
+satid:12,acq_max[i]:6501,i:27
+satid:12,acq_max[i]:5964,i:28
+satid:12,acq_max[i]:6223,i:29
+satid:12,acq_max[i]:6589,i:30
+satid:12,acq_max[i]:5798,i:31
+satid:12,acq_max[i]:5355,i:32
+
+satid:12,acq_max[i]:5699,i:33
+satid:12,acq_max[i]:6469,i:34
+satid:12,acq_max[i]:5964,i:35
+satid:12,acq_max[i]:6531,i:36
+satid:12,acq_max[i]:5881,i:37
+satid:12,acq_max[i]:5905,i:38
+satid:12,acq_max[i]:5387,i:39
+sat12 = 6840 1540 2823 0
+satid:13,acq_max[i]:6539,i:0
+satid:13,acq_max[i]:6506,i:1
+satid:13,acq_max[i]:5985,i:2
+satid:13,acq_max[i]:5494,i:3
+satid:13,acq_max[i]:6114,i:4
+satid:13,acq_max[i]:5954,i:5
+satid:13,acq_max[i]:5726,i:6
+satid:13,acq_max[i]:5995,i:7
+satid:13,acq_max[i]:6370,i:
+8
+satid:13,acq_max[i]:5919,i:9
+satid:13,acq_max[i]:6096,i:10
+satid:13,acq_max[i]:6053,i:11
+satid:13,acq_max[i]:6890,i:12
+satid:13,acq_max[i]:6847,i:13
+satid:13,acq_max[i]:6396,i:14
+satid:13,acq_max[i]:5629,i:15
+satid:13,acq_max[i]:5752,i:16
+satid:13,acq_max[i]:6201,i:17
+satid:13,acq_max[i]:6311,i:18
+satid:13,acq_max[i]:5642,i:19
+satid:13,acq_max[i]:5817,i:20
+satid:13,acq_max[i]:6212,i:21
+satid:13,acq_max[i]:6159,i:22
+satid:13,acq_max[i]:5937,i:23
+satid:13,acq_max[i]:5731,i:24
+satid:13,acq_m
+ax[i]:5784,i:25
+satid:13,acq_max[i]:5775,i:26
+satid:13,acq_max[i]:5865,i:27
+satid:13,acq_max[i]:6577,i:28
+satid:13,acq_max[i]:5693,i:29
+satid:13,acq_max[i]:6272,i:30
+satid:13,acq_max[i]:6129,i:31
+satid:13,acq_max[i]:5949,i:32
+satid:13,acq_max[i]:6640,i:33
+satid:13,acq_max[i]:6031,i:34
+satid:13,acq_max[i]:6960,i:35
+satid:13,acq_max[i]:6425,i:36
+satid:13,acq_max[i]:5703,i:37
+satid:13,acq_max[i]:6115,i:38
+satid:13,acq_max[i]:6409,i:39
+sat13 = 6960 2030 2834 -3750
+satid:13,acq_max[i]:6189,i:0
+s
+atid:13,acq_max[i]:5903,i:1
+satid:13,acq_max[i]:5436,i:2
+satid:13,acq_max[i]:6098,i:3
+satid:13,acq_max[i]:6290,i:4
+satid:13,acq_max[i]:6205,i:5
+satid:13,acq_max[i]:5851,i:6
+satid:13,acq_max[i]:6693,i:7
+satid:13,acq_max[i]:6143,i:8
+satid:13,acq_max[i]:5350,i:9
+satid:13,acq_max[i]:5544,i:10
+satid:13,acq_max[i]:5824,i:11
+satid:13,acq_max[i]:5851,i:12
+satid:13,acq_max[i]:6780,i:13
+satid:13,acq_max[i]:6601,i:14
+satid:13,acq_max[i]:5771,i:15
+satid:13,acq_max[i]:5625,i:16
+satid:13,acq_max[i]:5586,i
+:17
+satid:13,acq_max[i]:5974,i:18
+satid:13,acq_max[i]:5676,i:19
+satid:13,acq_max[i]:5817,i:20
+satid:13,acq_max[i]:6126,i:21
+satid:13,acq_max[i]:6261,i:22
+satid:13,acq_max[i]:5721,i:23
+satid:13,acq_max[i]:6252,i:24
+satid:13,acq_max[i]:5831,i:25
+satid:13,acq_max[i]:5880,i:26
+satid:13,acq_max[i]:6209,i:27
+satid:13,acq_max[i]:6119,i:28
+satid:13,acq_max[i]:6207,i:29
+satid:13,acq_max[i]:6302,i:30
+satid:13,acq_max[i]:6627,i:31
+satid:13,acq_max[i]:5909,i:32
+satid:13,acq_max[i]:6524,i:33
+satid:13,ac
+q_max[i]:6254,i:34
+satid:13,acq_max[i]:6991,i:35
+satid:13,acq_max[i]:6782,i:36
+satid:13,acq_max[i]:6109,i:37
+satid:13,acq_max[i]:5693,i:38
+satid:13,acq_max[i]:5906,i:39
+sat13 = 6991 16 2834 -3750
+satid:14,acq_max[i]:6202,i:0
+satid:14,acq_max[i]:6895,i:1
+satid:14,acq_max[i]:5835,i:2
+satid:14,acq_max[i]:5607,i:3
+satid:14,acq_max[i]:6529,i:4
+satid:14,acq_max[i]:5513,i:5
+satid:14,acq_max[i]:5759,i:6
+satid:14,acq_max[i]:6242,i:7
+satid:14,acq_max[i]:5737,i:8
+satid:14,acq_max[i]:6021,i:9
+satid:14,
+acq_max[i]:6071,i:10
+satid:14,acq_max[i]:6064,i:11
+satid:14,acq_max[i]:6266,i:12
+satid:14,acq_max[i]:5713,i:13
+satid:14,acq_max[i]:5434,i:14
+satid:14,acq_max[i]:6676,i:15
+satid:14,acq_max[i]:6376,i:16
+satid:14,acq_max[i]:6397,i:17
+satid:14,acq_max[i]:6240,i:18
+satid:14,acq_max[i]:5782,i:19
+satid:14,acq_max[i]:6118,i:20
+satid:14,acq_max[i]:6190,i:21
+satid:14,acq_max[i]:5728,i:22
+satid:14,acq_max[i]:5698,i:23
+satid:14,acq_max[i]:5902,i:24
+satid:14,acq_max[i]:6635,i:25
+satid:14,acq_max[i]:6283,i:26
+satid:14,acq_max[i]:6154,i:27
+satid:14,acq_max[i]:6260,i:28
+satid:14,acq_max[i]:6305,i:29
+satid:14,acq_max[i]:5573,i:30
+satid:14,acq_max[i]:6018,i:31
+satid:14,acq_max[i]:6514,i:32
+satid:14,acq_max[i]:6178,i:33
+satid:14,acq_max[i]:5968,i:34
+satid:14,acq_max[i]:6378,i:35
+satid:14,acq_max[i]:6996,i:36
+satid:14,acq_max[i]:6811,i:37
+satid:14,acq_max[i]:6389,i:38
+satid:14,acq_max[i]:5841,i:39
+sat14 = 6996 619 2834 -4000
+satid:14,acq_max[i]:6040,i:0
+satid:14,acq_max[i]:6493,i:1
+satid:14,acq_m
+ax[i]:6619,i:2
+satid:14,acq_max[i]:5779,i:3
+satid:14,acq_max[i]:5568,i:4
+satid:14,acq_max[i]:5982,i:5
+satid:14,acq_max[i]:6383,i:6
+satid:14,acq_max[i]:5621,i:7
+satid:14,acq_max[i]:5736,i:8
+satid:14,acq_max[i]:5686,i:9
+satid:14,acq_max[i]:5383,i:10
+satid:14,acq_max[i]:5799,i:11
+satid:14,acq_max[i]:5949,i:12
+satid:14,acq_max[i]:5475,i:13
+satid:14,acq_max[i]:5861,i:14
+satid:14,acq_max[i]:6872,i:15
+satid:14,acq_max[i]:6619,i:16
+satid:14,acq_max[i]:6300,i:17
+satid:14,acq_max[i]:5396,i:18
+satid:1
+4,acq_max[i]:5695,i:19
+satid:14,acq_max[i]:6118,i:20
+satid:14,acq_max[i]:6035,i:21
+satid:14,acq_max[i]:5634,i:22
+satid:14,acq_max[i]:5758,i:23
+satid:14,acq_max[i]:6197,i:24
+satid:14,acq_max[i]:6474,i:25
+satid:14,acq_max[i]:6251,i:26
+satid:14,acq_max[i]:6656,i:27
+satid:14,acq_max[i]:5865,i:28
+satid:14,acq_max[i]:5746,i:29
+satid:14,acq_max[i]:6274,i:30
+satid:14,acq_max[i]:6164,i:31
+satid:14,acq_max[i]:6565,i:32
+satid:14,acq_max[i]:6882,i:33
+satid:14,acq_max[i]:5599,i:34
+satid:14,acq_max[i]:597
+0,i:35
+satid:14,acq_max[i]:6177,i:36
+satid:14,acq_max[i]:6407,i:37
+satid:14,acq_max[i]:6505,i:38
+satid:14,acq_max[i]:5964,i:39
+sat14 = 6882 1721 2835 -3250
+satid:16,acq_max[i]:6218,i:0
+satid:16,acq_max[i]:5679,i:1
+satid:16,acq_max[i]:6233,i:2
+satid:16,acq_max[i]:6181,i:3
+satid:16,acq_max[i]:7027,i:4
+satid:16,acq_max[i]:5834,i:5
+satid:16,acq_max[i]:5763,i:6
+satid:16,acq_max[i]:5630,i:7
+satid:16,acq_max[i]:5895,i:8
+satid:16,acq_max[i]:5758,i:9
+satid:16,acq_max[i]:6062,i:10
+satid:16,acq_max[i]
+:6390,i:11
+satid:16,acq_max[i]:5629,i:12
+satid:16,acq_max[i]:6244,i:13
+satid:16,acq_max[i]:5887,i:14
+satid:16,acq_max[i]:6657,i:15
+satid:16,acq_max[i]:6323,i:16
+satid:16,acq_max[i]:5974,i:17
+satid:16,acq_max[i]:5799,i:18
+satid:16,acq_max[i]:5639,i:19
+satid:16,acq_max[i]:5946,i:20
+satid:16,acq_max[i]:6316,i:21
+satid:16,acq_max[i]:6081,i:22
+satid:16,acq_max[i]:5868,i:23
+satid:16,acq_max[i]:5463,i:24
+satid:16,acq_max[i]:5947,i:25
+satid:16,acq_max[i]:5562,i:26
+satid:16,acq_max[i]:6066,i:27
+sati
+d:16,acq_max[i]:5819,i:28
+satid:16,acq_max[i]:6512,i:29
+satid:16,acq_max[i]:6880,i:30
+satid:16,acq_max[i]:6052,i:31
+satid:16,acq_max[i]:6030,i:32
+satid:16,acq_max[i]:5981,i:33
+satid:16,acq_max[i]:6374,i:34
+satid:16,acq_max[i]:5889,i:35
+satid:16,acq_max[i]:5859,i:36
+satid:16,acq_max[i]:5875,i:37
+satid:16,acq_max[i]:5916,i:38
+satid:16,acq_max[i]:5722,i:39
+sat16 = 7027 1446 2827 4000
+satid:16,acq_max[i]:5444,i:0
+satid:16,acq_max[i]:5773,i:1
+satid:16,acq_max[i]:5828,i:2
+satid:16,acq_max[i]:5479,
+i:3
+satid:16,acq_max[i]:6378,i:4
+satid:16,acq_max[i]:6564,i:5
+satid:16,acq_max[i]:5655,i:6
+satid:16,acq_max[i]:5508,i:7
+satid:16,acq_max[i]:5653,i:8
+satid:16,acq_max[i]:5961,i:9
+satid:16,acq_max[i]:6449,i:10
+satid:16,acq_max[i]:5999,i:11
+satid:16,acq_max[i]:5895,i:12
+satid:16,acq_max[i]:6209,i:13
+satid:16,acq_max[i]:6367,i:14
+satid:16,acq_max[i]:6931,i:15
+satid:16,acq_max[i]:7090,i:16
+satid:16,acq_max[i]:6567,i:17
+satid:16,acq_max[i]:6112,i:18
+satid:16,acq_max[i]:5618,i:19
+satid:16,acq_max[
+i]:5946,i:20
+satid:16,acq_max[i]:6281,i:21
+satid:16,acq_max[i]:5718,i:22
+satid:16,acq_max[i]:5917,i:23
+satid:16,acq_max[i]:5088,i:24
+satid:16,acq_max[i]:5843,i:25
+satid:16,acq_max[i]:5897,i:26
+satid:16,acq_max[i]:5803,i:27
+satid:16,acq_max[i]:5741,i:28
+satid:16,acq_max[i]:6350,i:29
+satid:16,acq_max[i]:6211,i:30
+satid:16,acq_max[i]:5800,i:31
+satid:16,acq_max[i]:5704,i:32
+satid:16,acq_max[i]:5925,i:33
+satid:16,acq_max[i]:6364,i:34
+satid:16,acq_max[i]:5819,i:35
+satid:16,acq_max[i]:5464,i:36
+sa
+tid:16,acq_max[i]:6011,i:37
+satid:16,acq_max[i]:5715,i:38
+satid:16,acq_max[i]:6328,i:39
+sat16 = 7090 55 2828 1000
+satid:17,acq_max[i]:6526,i:0
+satid:17,acq_max[i]:6256,i:1
+satid:17,acq_max[i]:6385,i:2
+satid:17,acq_max[i]:5966,i:3
+satid:17,acq_max[i]:5793,i:4
+satid:17,acq_max[i]:5779,i:5
+satid:17,acq_max[i]:6484,i:6
+satid:17,acq_max[i]:6035,i:7
+satid:17,acq_max[i]:5757,i:8
+satid:17,acq_max[i]:5810,i:9
+satid:17,acq_max[i]:5987,i:10
+satid:17,acq_max[i]:6429,i:11
+satid:17,acq_max[i]:6234,i:12
+s
+atid:17,acq_max[i]:6169,i:13
+satid:17,acq_max[i]:5772,i:14
+satid:17,acq_max[i]:6064,i:15
+satid:17,acq_max[i]:6387,i:16
+satid:17,acq_max[i]:6053,i:17
+satid:17,acq_max[i]:5913,i:18
+satid:17,acq_max[i]:6242,i:19
+satid:17,acq_max[i]:6286,i:20
+satid:17,acq_max[i]:7036,i:21
+satid:17,acq_max[i]:7125,i:22
+satid:17,acq_max[i]:7047,i:23
+satid:17,acq_max[i]:5852,i:24
+satid:17,acq_max[i]:5972,i:25
+satid:17,acq_max[i]:5912,i:26
+satid:17,acq_max[i]:5747,i:27
+satid:17,acq_max[i]:6642,i:28
+satid:17,acq_max[
+i]:6112,i:29
+satid:17,acq_max[i]:6174,i:30
+satid:17,acq_max[i]:5936,i:31
+satid:17,acq_max[i]:5974,i:32
+satid:17,acq_max[i]:5836,i:33
+satid:17,acq_max[i]:5534,i:34
+satid:17,acq_max[i]:6445,i:35
+satid:17,acq_max[i]:5897,i:36
+satid:17,acq_max[i]:6346,i:37
+satid:17,acq_max[i]:6285,i:38
+satid:17,acq_max[i]:6218,i:39
+i:17
+satid:26,acq_max[i]:5993,i:18
+satid:26,acq_max[i]:6469,i:19
+satid:26,acq_max[i]:6029,i:20
+satid:26,acq_max[i]:5929,i:21
+satid:26,acq_max[i]:6176,i:22
+satid:26,acq_max[i]:6423,i:
+23
+satid:26,acq_max[i]:6182,i:24
+satid:26,acq_max[i]:5746,i:25
+satid:26,acq_max[i]:5682,i:26
+satid:26,acq_max[i]:5895,i:27
+satid:26,acq_max[i]:5652,i:28
+satid:26,acq_max[i]:5809,i:29
+satid:26,acq_max[i]:6223,i:30
+satid:26,acq_max[i]:6443,i:31
+satid:26,acq_max[i]:6375,i:32
+satid:26,acq_max[i]:5888,i:33
+satid:26,acq_max[i]:6074,i:34
+satid:26,acq_max[i]:7133,i:35
+satid:26,acq_max[i]:8842,i:36
+satid:26,acq_max[i]:7608,i:37
+satid:26,acq_max[i]:5826,i:38
+satid:26,acq_max[i]:6465,i:39
+sat26 = 8842
+ 1060 2818 -4000
+satid:26,acq_max[i]:5870,i:0
+satid:26,acq_max[i]:5783,i:1
+satid:26,acq_max[i]:5662,i:2
+satid:26,acq_max[i]:6014,i:3
+satid:26,acq_max[i]:5931,i:4
+satid:26,acq_max[i]:5653,i:5
+satid:26,acq_max[i]:6009,i:6
+satid:26,acq_max[i]:6017,i:7
+satid:26,acq_max[i]:5872,i:8
+satid:26,acq_max[i]:5884,i:9
+satid:26,acq_max[i]:6389,i:10
+satid:26,acq_max[i]:5528,i:11
+satid:26,acq_max[i]:5948,i:12
+satid:26,acq_max[i]:6388,i:13
+satid:26,acq_max[i]:5963,i:14
+satid:26,acq_max[i]:5748,i:15
+satid:26
+,acq_max[i]:5727,i:16
+satid:26,acq_max[i]:6140,i:17
+satid:26,acq_max[i]:5576,i:18
+satid:26,acq_max[i]:6178,i:19
+satid:26,acq_max[i]:6029,i:20
+satid:26,acq_max[i]:6027,i:21
+satid:26,acq_max[i]:6463,i:22
+satid:26,acq_max[i]:6210,i:23
+satid:26,acq_max[i]:6205,i:24
+satid:26,acq_max[i]:5760,i:25
+satid:26,acq_max[i]:5563,i:26
+satid:26,acq_max[i]:6103,i:27
+satid:26,acq_max[i]:6682,i:28
+satid:26,acq_max[i]:5843,i:29
+satid:26,acq_max[i]:5972,i:30
+satid:26,acq_max[i]:6198,i:31
+satid:26,acq_max[i]:6265
+,i:32
+satid:26,acq_max[i]:6105,i:33
+satid:26,acq_max[i]:5956,i:34
+satid:26,acq_max[i]:6791,i:35
+satid:26,acq_max[i]:7961,i:36
+satid:26,acq_max[i]:6779,i:37
+satid:26,acq_max[i]:5960,i:38
+satid:26,acq_max[i]:7027,i:39
+sat26 = 7961 1092 2823 -4000
+satid:27,acq_max[i]:6324,i:0
+satid:27,acq_max[i]:5781,i:1
+satid:27,acq_max[i]:6102,i:2
+satid:27,acq_max[i]:6583,i:3
+satid:27,acq_max[i]:5505,i:4
+satid:27,acq_max[i]:6242,i:5
+satid:27,acq_max[i]:6079,i:6
+satid:27,acq_max[i]:6106,i:7
+satid:27,acq_max[i
+]:5753,i:8
+satid:27,acq_max[i]:5961,i:9
+satid:27,acq_max[i]:5785,i:10
+satid:27,acq_max[i]:5504,i:11
+satid:27,acq_max[i]:5498,i:12
+satid:27,acq_max[i]:5895,i:13
+satid:27,acq_max[i]:6627,i:14
+satid:27,acq_max[i]:6735,i:15
+satid:27,acq_max[i]:5797,i:16
+satid:27,acq_max[i]:5704,i:17
+satid:27,acq_max[i]:5513,i:18
+satid:27,acq_max[i]:5960,i:19
+satid:27,acq_max[i]:6313,i:20
+satid:27,acq_max[i]:6419,i:21
+satid:27,acq_max[i]:6258,i:22
+satid:27,acq_max[i]:6050,i:23
+satid:27,acq_max[i]:5833,i:24
+satid
+:27,acq_max[i]:6463,i:25
+satid:27,acq_max[i]:5819,i:26
+satid:27,acq_max[i]:5581,i:27
+satid:27,acq_max[i]:5905,i:28
+satid:27,acq_max[i]:6223,i:29
+satid:27,acq_max[i]:6123,i:30
+satid:27,acq_max[i]:5783,i:31
+satid:27,acq_max[i]:6249,i:32
+satid:27,acq_max[i]:6918,i:33
+satid:27,acq_max[i]:5591,i:34
+satid:27,acq_max[i]:5559,i:35
+satid:27,acq_max[i]:5713,i:36
+satid:27,acq_max[i]:6536,i:37
+satid:27,acq_max[i]:5885,i:38
+satid:27,acq_max[i]:6115,i:39
+sat27 = 6918 1862 2821 -3250
+satid:27,acq_max[i]:56
+44,i:0
+satid:27,acq_max[i]:6159,i:1
+satid:27,acq_max[i]:6260,i:2
+satid:27,acq_max[i]:5762,i:3
+satid:27,acq_max[i]:5676,i:4
+satid:27,acq_max[i]:5725,i:5
+satid:27,acq_max[i]:6636,i:6
+satid:27,acq_max[i]:6200,i:7
+satid:27,acq_max[i]:6116,i:8
+satid:27,acq_max[i]:5792,i:9
+satid:27,acq_max[i]:5357,i:10
+satid:27,acq_max[i]:5438,i:11
+satid:27,acq_max[i]:5616,i:12
+satid:27,acq_max[i]:6311,i:13
+satid:27,acq_max[i]:6559,i:14
+satid:27,acq_max[i]:6986,i:15
+satid:27,acq_max[i]:5590,i:16
+satid:27,acq_max[
+i]:6091,i:17
+satid:27,acq_max[i]:5664,i:18
+satid:27,acq_max[i]:6021,i:19
+satid:27,acq_max[i]:6313,i:20
+satid:27,acq_max[i]:6226,i:21
+satid:27,acq_max[i]:5812,i:22
+satid:27,acq_max[i]:6025,i:23
+satid:27,acq_max[i]:5917,i:24
+satid:27,acq_max[i]:5789,i:25
+satid:27,acq_max[i]:5987,i:26
+satid:27,acq_max[i]:5642,i:27
+satid:27,acq_max[i]:6375,i:28
+satid:27,acq_max[i]:5986,i:29
+satid:27,acq_max[i]:5800,i:30
+satid:27,acq_max[i]:6022,i:31
+satid:27,acq_max[i]:5969,i:32
+satid:27,acq_max[i]:6326,i:33
+sa
+tid:27,acq_max[i]:5814,i:34
+satid:27,acq_max[i]:5973,i:35
+satid:27,acq_max[i]:6279,i:36
+satid:27,acq_max[i]:6905,i:37
+satid:27,acq_max[i]:6173,i:38
+satid:27,acq_max[i]:5839,i:39
+sat27 = 6986 1973 2819 1250
+satid:28,acq_max[i]:6058,i:0
+satid:28,acq_max[i]:6050,i:1
+satid:28,acq_max[i]:5771,i:2
+satid:28,acq_max[i]:6197,i:3
+satid:28,acq_max[i]:7599,i:4
+satid:28,acq_max[i]:6120,i:5
+satid:28,acq_max[i]:6149,i:6
+satid:28,acq_max[i]:6143,i:7
+satid:28,acq_max[i]:6497,i:8
+satid:28,acq_max[i]:5916,i:9
+
+satid:28,acq_max[i]:5812,i:10
+satid:28,acq_max[i]:5867,i:11
+satid:28,acq_max[i]:7781,i:12
+satid:28,acq_max[i]:6695,i:13
+satid:28,acq_max[i]:6563,i:14
+satid:28,acq_max[i]:5983,i:15
+satid:28,acq_max[i]:5898,i:16
+satid:28,acq_max[i]:6003,i:17
+satid:28,acq_max[i]:6071,i:18
+satid:28,acq_max[i]:6579,i:19
+satid:28,acq_max[i]:6526,i:20
+satid:28,acq_max[i]:6885,i:21
+satid:28,acq_max[i]:5537,i:22
+satid:28,acq_max[i]:5992,i:23
+satid:28,acq_max[i]:5653,i:24
+satid:28,acq_max[i]:5489,i:25
+satid:28,acq_max[i]:5414,i:26
+satid:28,acq_max[i]:6671,i:27
+satid:28,acq_max[i]:6361,i:28
+satid:28,acq_max[i]:5961,i:29
+satid:28,acq_max[i]:6528,i:30
+satid:28,acq_max[i]:6198,i:31
+satid:28,acq_max[i]:6221,i:32
+satid:28,acq_max[i]:6061,i:33
+satid:28,acq_max[i]:5792,i:34
+satid:28,acq_max[i]:5805,i:35
+satid:28,acq_max[i]:5852,i:36
+satid:28,acq_max[i]:6132,i:37
+satid:28,acq_max[i]:6253,i:38
+satid:28,acq_max[i]:5801,i:39
+sat28 = 7781 565 2824 2000
+satid:28,acq_max[i]:5295,i:0
+satid:28,acq_max[i]:5919,i:1
+satid
+:28,acq_max[i]:6624,i:2
+satid:28,acq_max[i]:7397,i:3
+satid:28,acq_max[i]:6651,i:4
+satid:28,acq_max[i]:7052,i:5
+satid:28,acq_max[i]:5890,i:6
+satid:28,acq_max[i]:6067,i:7
+satid:28,acq_max[i]:6028,i:8
+satid:28,acq_max[i]:6452,i:9
+satid:28,acq_max[i]:5746,i:10
+satid:28,acq_max[i]:5724,i:11
+satid:28,acq_max[i]:6253,i:12
+satid:28,acq_max[i]:7026,i:13
+satid:28,acq_max[i]:6376,i:14
+satid:28,acq_max[i]:5926,i:15
+satid:28,acq_max[i]:6067,i:16
+satid:28,acq_max[i]:5682,i:17
+satid:28,acq_max[i]:5876,i:18
+
+satid:28,acq_max[i]:6686,i:19
+satid:28,acq_max[i]:6526,i:20
+satid:28,acq_max[i]:6453,i:21
+satid:28,acq_max[i]:5347,i:22
+satid:28,acq_max[i]:6421,i:23
+satid:28,acq_max[i]:6012,i:24
+satid:28,acq_max[i]:5466,i:25
+satid:28,acq_max[i]:5692,i:26
+satid:28,acq_max[i]:6052,i:27
+satid:28,acq_max[i]:6104,i:28
+satid:28,acq_max[i]:6097,i:29
+satid:28,acq_max[i]:7335,i:30
+satid:28,acq_max[i]:6004,i:31
+satid:28,acq_max[i]:6150,i:32
+satid:28,acq_max[i]:6242,i:33
+satid:28,acq_max[i]:5810,i:34
+satid:28,acq_m
+ax[i]:5946,i:35
+satid:28,acq_max[i]:5726,i:36
+satid:28,acq_max[i]:6341,i:37
+satid:28,acq_max[i]:6354,i:38
+satid:28,acq_max[i]:5483,i:39
+sat28 = 7397 1058 2824 4250
+satid:29,acq_max[i]:5806,i:0
+satid:29,acq_max[i]:5916,i:1
+satid:29,acq_max[i]:5479,i:2
+satid:29,acq_max[i]:5815,i:3
+satid:29,acq_max[i]:6341,i:4
+satid:29,acq_max[i]:6136,i:5
+satid:29,acq_max[i]:5755,i:6
+satid:29,acq_max[i]:5832,i:7
+satid:29,acq_max[i]:6442,i:8
+satid:29,acq_max[i]:6221,i:9
+satid:29,acq_max[i]:6069,i:10
+satid:29,ac
+q_max[i]:5797,i:11
+satid:29,acq_max[i]:6151,i:12
+satid:29,acq_max[i]:6418,i:13
+satid:29,acq_max[i]:7540,i:14
+satid:29,acq_max[i]:6877,i:15
+satid:29,acq_max[i]:5873,i:16
+satid:29,acq_max[i]:6293,i:17
+satid:29,acq_max[i]:6586,i:18
+satid:29,acq_max[i]:7202,i:19
+satid:29,acq_max[i]:7307,i:20
+satid:29,acq_max[i]:5770,i:21
+satid:29,acq_max[i]:6126,i:22
+satid:29,acq_max[i]:6723,i:23
+satid:29,acq_max[i]:6022,i:24
+satid:29,acq_max[i]:6177,i:25
+satid:29,acq_max[i]:6261,i:26
+satid:29,acq_max[i]:6256,i:
+27
+satid:29,acq_max[i]:6560,i:28
+satid:29,acq_max[i]:5341,i:29
+satid:29,acq_max[i]:5854,i:30
+satid:29,acq_max[i]:5857,i:31
+satid:29,acq_max[i]:6054,i:32
+satid:29,acq_max[i]:5993,i:33
+satid:29,acq_max[i]:5436,i:34
+satid:29,acq_max[i]:6271,i:35
+satid:29,acq_max[i]:6167,i:36
+satid:29,acq_max[i]:5680,i:37
+satid:29,acq_max[i]:5650,i:38
+satid:29,acq_max[i]:6711,i:39
+sat29 = 7540 40 2810 1500
+satid:29,acq_max[i]:5621,i:0
+satid:29,acq_max[i]:5700,i:1
+satid:29,acq_max[i]:6178,i:2
+satid:29,acq_max[i]
+:6452,i:3
+satid:29,acq_max[i]:6426,i:4
+satid:29,acq_max[i]:5801,i:5
+satid:29,acq_max[i]:5945,i:6
+satid:29,acq_max[i]:5562,i:7
+satid:29,acq_max[i]:5899,i:8
+satid:29,acq_max[i]:6538,i:9
+satid:29,acq_max[i]:6713,i:10
+satid:29,acq_max[i]:6680,i:11
+satid:29,acq_max[i]:5942,i:12
+satid:29,acq_max[i]:5719,i:13
+satid:29,acq_max[i]:6885,i:14
+satid:29,acq_max[i]:6044,i:15
+satid:29,acq_max[i]:5854,i:16
+satid:29,acq_max[i]:5734,i:17
+satid:29,acq_max[i]:6758,i:18
+satid:29,acq_max[i]:7484,i:19
+satid:29,ac
+q_max[i]:7307,i:20
+satid:29,acq_max[i]:5849,i:21
+satid:29,acq_max[i]:5972,i:22
+satid:29,acq_max[i]:7194,i:23
+satid:29,acq_max[i]:6027,i:24
+satid:29,acq_max[i]:6188,i:25
+satid:29,acq_max[i]:6005,i:26
+satid:29,acq_max[i]:6452,i:27
+satid:29,acq_max[i]:6611,i:28
+satid:29,acq_max[i]:5871,i:29
+satid:29,acq_max[i]:5977,i:30
+satid:29,acq_max[i]:6067,i:31
+satid:29,acq_max[i]:6651,i:32
+satid:29,acq_max[i]:6039,i:33
+satid:29,acq_max[i]:5685,i:34
+satid:29,acq_max[i]:5616,i:35
+satid:29,acq_max[i]:5578,i:
+36
+satid:29,acq_max[i]:5815,i:37
+satid:29,acq_max[i]:5668,i:38
+satid:29,acq_max[i]:5941,i:39
+sat29 = 7484 908 2812 250
+satid:30,acq_max[i]:5975,i:0
+satid:30,acq_max[i]:6069,i:1
+satid:30,acq_max[i]:6138,i:2
+satid:30,acq_max[i]:6081,i:3
+satid:30,acq_max[i]:6519,i:4
+satid:30,acq_max[i]:5849,i:5
+satid:30,acq_max[i]:5628,i:6
+satid:30,acq_max[i]:5710,i:7
+satid:30,acq_max[i]:5951,i:8
+satid:30,acq_max[i]:5035,i:9
+satid:30,acq_max[i]:5441,i:10
+satid:30,acq_max[i]:6035,i:11
+satid:30,acq_max[i]:6818,i:12
+satid:30,acq_max[i]:5392,i:13
+satid:30,acq_max[i]:5814,i:14
+satid:30,acq_max[i]:5482,i:15
+satid:30,acq_max[i]:5971,i:16
+satid:30,acq_max[i]:6719,i:17
+satid:30,acq_max[i]:6264,i:18
+satid:30,acq_max[i]:5770,i:19
+satid:30,acq_max[i]:6979,i:20
+satid:30,acq_max[i]:6063,i:21
+satid:30,acq_max[i]:5815,i:22
+satid:30,acq_max[i]:5694,i:23
+satid:30,acq_max[i]:5754,i:24
+satid:30,acq_max[i]:5658,i:25
+satid:30,acq_max[i]:5636,i:26
+satid:30,acq_max[i]:5955,i:27
+satid:30,acq_max[i]:5945,i:28
+satid:30,ac
+q_max[i]:5853,i:29
+satid:30,acq_max[i]:5961,i:30
+satid:30,acq_max[i]:6698,i:31
+satid:30,acq_max[i]:5449,i:32
+satid:30,acq_max[i]:5826,i:33
+satid:30,acq_max[i]:5882,i:34
+satid:30,acq_max[i]:5491,i:35
+satid:30,acq_max[i]:6271,i:36
+satid:30,acq_max[i]:5988,i:37
+satid:30,acq_max[i]:5408,i:38
+satid:30,acq_max[i]:6345,i:39
+sat30 = 6979 1238 2796 0
+satid:30,acq_max[i]:6395,i:0
+satid:30,acq_max[i]:6619,i:1
+satid:30,acq_max[i]:6812,i:2
+satid:30,acq_max[i]:5699,i:3
+satid:30,acq_max[i]:6314,i:4
+satid:
+30,acq_max[i]:6184,i:5
+satid:30,acq_max[i]:5974,i:6
+satid:30,acq_max[i]:5721,i:7
+satid:30,acq_max[i]:5509,i:8
+satid:30,acq_max[i]:5625,i:9
+satid:30,acq_max[i]:5689,i:10
+satid:30,acq_max[i]:6689,i:11
+satid:30,acq_max[i]:6922,i:12
+satid:30,acq_max[i]:6014,i:13
+satid:30,acq_max[i]:5637,i:14
+satid:30,acq_max[i]:5852,i:15
+satid:30,acq_max[i]:6006,i:16
+satid:30,acq_max[i]:6361,i:17
+satid:30,acq_max[i]:6084,i:18
+satid:30,acq_max[i]:5905,i:19
+satid:30,acq_max[i]:6979,i:20
+satid:30,acq_max[i]:5906,i:
+21
+satid:30,acq_max[i]:5925,i:22
+satid:30,acq_max[i]:5883,i:23
+satid:30,acq_max[i]:6252,i:24
+satid:30,acq_max[i]:5979,i:25
+satid:30,acq_max[i]:5776,i:26
+satid:30,acq_max[i]:5662,i:27
+satid:30,acq_max[i]:6015,i:28
+satid:30,acq_max[i]:5983,i:29
+satid:30,acq_max[i]:6088,i:30
+satid:30,acq_max[i]:5840,i:31
+satid:30,acq_max[i]:5364,i:32
+satid:30,acq_max[i]:6163,i:33
+satid:30,acq_max[i]:6163,i:34
+satid:30,acq_max[i]:5637,i:35
+satid:30,acq_max[i]:6500,i:36
+satid:30,acq_max[i]:6148,i:37
+satid:30,acq
+_max[i]:5644,i:38
+satid:30,acq_max[i]:5794,i:39
+sat30 = 6979 1270 2793 0
+---00000021--- Acq_st=3 2019-5-15 01:50:22 
+[00]  G09  f 39  -3112.1 2046004.1  1.0  1.0  5  0 265840123
+[01]  G16  f 46    134.6 2045999.8  1.0  1.0  5  0 265840135
+[02]  G23  f 45  -1674.6 2046002.2  1.0  1.0  5  0 265840130
+[03]  G26  f 40   1223.9 2045998.4  1.0  1.0  5  0 265840132
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+
+$GPGSV,1,1,04,09,00,000,39,16,00,000,46,23,00,000,45,26,00,000,39*75
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,1,1,04,09,00,000,39,16,00,000,46,23,00,000,45,26,00,000,40*7B
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+satid:31,acq_max[i]:5924,i:0
+satid:31,acq_max[i]:6718,i:1
+satid:31,acq_ma
+x[i]:6286,i:2
+satid:31,acq_max[i]:5974,i:3
+satid:31,acq_max[i]:5572,i:4
+satid:31,acq_max[i]:5755,i:5
+satid:31,acq_max[i]:5992,i:6
+satid:31,acq_max[i]:5995,i:7
+satid:31,acq_max[i]:6458,i:8
+satid:31,acq_max[i]:7346,i:9
+satid:31,acq_max[i]:5681,i:10
+satid:31,acq_max[i]:5485,i:11
+satid:31,acq_max[i]:6424,i:12
+satid:31,acq_max[i]:6652,i:13
+satid:31,acq_max[i]:6009,i:14
+satid:31,acq_max[i]:6234,i:15
+satid:31,acq_max[i]:6179,i:16
+satid:31,acq_max[i]:5880,i:17
+satid:31,acq_max[i]:5842,i:18
+satid:31
+,acq_max[i]:5865,i:19
+satid:31,acq_max[i]:5442,i:20
+satid:31,acq_max[i]:5479,i:21
+satid:31,acq_max[i]:5892,i:22
+satid:31,acq_max[i]:6378,i:23
+satid:31,acq_max[i]:5911,i:24
+satid:31,acq_max[i]:6332,i:25
+satid:31,acq_max[i]:5959,i:26
+satid:31,acq_max[i]:6435,i:27
+satid:31,acq_max[i]:5901,i:28
+satid:31,acq_max[i]:6662,i:29
+satid:31,acq_max[i]:5421,i:30
+satid:31,acq_max[i]:5993,i:31
+satid:31,acq_max[i]:6423,i:32
+satid:31,acq_max[i]:7388,i:33
+satid:31,acq_max[i]:6501,i:34
+satid:31,acq_max[i]:6115
+,i:35
+satid:31,acq_max[i]:6002,i:36
+satid:31,acq_max[i]:6236,i:37
+satid:31,acq_max[i]:6083,i:38
+satid:31,acq_max[i]:6523,i:39
+sat31 = 7388 952 2816 -3250
+satid:31,acq_max[i]:6434,i:0
+satid:31,acq_max[i]:6683,i:1
+satid:31,acq_max[i]:6364,i:2
+satid:31,acq_max[i]:5705,i:3
+satid:31,acq_max[i]:6400,i:4
+satid:31,acq_max[i]:5884,i:5
+satid:31,acq_max[i]:6506,i:6
+satid:31,acq_max[i]:6076,i:7
+satid:31,acq_max[i]:6403,i:8
+satid:31,acq_max[i]:6647,i:9
+satid:31,acq_max[i]:5600,i:10
+satid:31,acq_max[i]:6
+343,i:11
+satid:31,acq_max[i]:6301,i:12
+satid:31,acq_max[i]:6498,i:13
+satid:31,acq_max[i]:6320,i:14
+satid:31,acq_max[i]:5955,i:15
+satid:31,acq_max[i]:5783,i:16
+satid:31,acq_max[i]:5383,i:17
+satid:31,acq_max[i]:5689,i:18
+satid:31,acq_max[i]:6037,i:19
+satid:31,acq_max[i]:5442,i:20
+satid:31,acq_max[i]:5535,i:21
+satid:31,acq_max[i]:5767,i:22
+satid:31,acq_max[i]:6119,i:23
+satid:31,acq_max[i]:6061,i:24
+satid:31,acq_max[i]:6012,i:25
+satid:31,acq_max[i]:5820,i:26
+satid:31,acq_max[i]:6120,i:27
+satid:
+31,acq_max[i]:6056,i:28
+satid:31,acq_max[i]:5589,i:29
+satid:31,acq_max[i]:5864,i:30
+satid:31,acq_max[i]:6068,i:31
+satid:31,acq_max[i]:5991,i:32
+satid:31,acq_max[i]:6499,i:33
+satid:31,acq_max[i]:6637,i:34
+satid:31,acq_max[i]:6406,i:35
+satid:31,acq_max[i]:5884,i:36
+satid:31,acq_max[i]:5776,i:37
+satid:31,acq_max[i]:6064,i:38
+satid:31,acq_max[i]:7127,i:39
+sat31 = 7127 156 2811 -4750
+sat37 = 3145 2010 1283 4250
+sat37 = 3444 2074 1282 4500
+sat38 = 3043 2803 1294 -3250
+sat38 = 3046 3399 1295 -2000
+
+sat39 = 3114 3210 1281 1500
+sat39 = 3248 4021 1280 -2250
+sat40 = 3191 3970 1294 1500
+---00000022--- Acq_st=3 2019-5-15 01:50:23 
+[00]  G09  f 40  -3112.9 2046004.1  1.0  1.0  5  0 265840123
+[01]  G16  f 45    134.0 2045999.9  1.0  1.0  5  0 265840135
+[02]  G23  f 45  -1675.3 2046002.2  1.0  1.0  5  0 265840130
+[03]  G26  f 40   1222.7 2045998.4  1.0  1.0  5  0 265840132
+sat40 = 3268 3085 1293 -3250
+sat41 = 3389 2538 1285 1500
+sat41 = 3269 2602 1286 1500
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,1,1,04,09,00,000,40,16,00,000,45,23,00,000,45,26,00,000,40*76
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+sat42 = 3236 224 1287 750
+
+sat42 = 3095 256 1287 750
+
+sat43 = 10293 1507 1282 0
+ch16 satid=43 freq = 0 acq ok1!
+
+sat44 = 3229 2484 1286 -2250
+
+sat44 = 3125 2548 1286 -2250
+
+sat45 = 3541 2280 1280 -3250
+
+sat45 = 3080 2703 1280 -4250
+
+sat46 = 34241 123 1292 500
+ch17 satid=46 freq = 500 acq ok1!
+
+sat47 = 3294 2779 1286 -3000
+
+---00000023--- Acq_st=3 2019-5-15 01:50:24 
+[00]  G09  f 40  -3111.0 2046004.0  1.0  1.0  5  0 265841123
+[01]  G16  f 45    135.9 2045999.8  1.0  1.0  5  0 265841135
+[02]  G23  f 45  -1673.0 2046002.2  1.0  1.0  5  0 265841130
+[03]  G26  f 40   1224.3 2045998.4  1.0  1.0  5  0 265841132
+[16]  B07  1  7      7.6 4092000.0  0.1  0.0  1  0      2486
+[17]  B10  1  7   -523.8 4092000.9 -0.0  0.0  1  0      3074
+sat47 = 3147 3624 1284 250
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,1,1,04,09,00,000,40,16,00,000,45,23,00,000,45,26,00,000,40*76
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+
+sat48 = 3287 2730 1281 -3750
+
+sat48 = 3101 3796 1281 2000
+
+sat49 = 3261 423 1286 -1000
+
+sat49 = 3211 455 1287 -1250
+
+sat50 = 3397 139 1289 -3500
+
+sat50 = 3336 368 1290 3500
+
+sat51 = 3610 640 1284 4750
+
+sat51 = 3339 3713 1285 4750
+
+sat52 = 2986 510 1293 4750
+
+sat52 = 3104 3465 1293 -500
+
+sat53 = 3271 1947 1290 3500
+
+---00000024--- Acq_st=3 2019-5-15 01:50:25 
+[00]  G09  f 40  -3109.7 2046004.0  1.0  1.0  5  0 265842123
+[01]  G16  f 45    138.0 2045999.8  1.0  1.0  5  0 265842135
+[02]  G23  f 45  -1671.0 2046002.2  1.0  1.0  5  0 265842130
+[03]  G26  f 40   1225.5 2045998.4  1.0  1.0  5  0 265842132
+[16]  B07  1  8    186.4 4092000.0 -0.1  0.0  1  0       585
+[17]  B10  1 10   -624.9 4092000.9  0.1  0.0  1  0       174
+sat53 = 3059 525 1290 0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,1,1,04,09,00,000,40,16,00,000,45,23,00,000,45,26,00,000,40*76
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+
+sat54 = 3174 2148 1285 -1500
+
+sat54 = 3146 2097 1285 1500
+
+sat55 = 12138 439 1284 500
+ch18 satid=55 freq = 500 acq ok1!
+
+sat56 = 3329 1205 1289 -4750
+
+sat56 = 3323 3159 1290 3250
+
+sat57 = 3216 1112 1278 -500
+
+sat57 = 3469 1144 1279 -500
+
+sat58 = 3449 1614 1287 3000
+
+sat58 = 3234 258 1287 4000
+
+sat59 = 3105 1595 1286 -2750
+
+sat59 = 3266 2419 1284 -4250
+
+sat60 = 3092 2719 1282 -1750
+---00000025--- Acq_st=3 2019-5-15 01:50:26 
+[00]  G09  f 40  -3107.1 2046004.1  1.0  1.0  5  0 265843123
+[01]  G16  f 46    140.1 2045999.8  1.0  1.0  5  0 265843135
+[02]  G23  f 45  -1668.4 2046002.2  1.0  1.0  5  0 265843130
+[03]  G26  f 40   1227.7 2045998.4  1.0  1.0  5  0 265843132
+[16]  B07  1 12     83.4 4092000.2 -0.1  0.0  1  0      1585
+[17]  B10  1  7   -504.4 4092001.3  0.2  0.0  1  0      1174
+[18]  B19  1  7   -549.3 4092001.3  0.2  0.0  1  0      2676
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,1,1,04,09,00,000,40,16,00,000,46,23,00,000,45,26,00,000,40*75
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+sat60 = 3030 424 1284 -2750
+
+sat61 = 3110 2761 1286 3250
+
+sat61 = 3230 2825 1285 3500
+
+sat62 = 3091 2991 1291 -4500
+
+sat62 = 3236 99 1289 -1750
+
+sat63 = 3193 97 1288 1000
+
+sat63 = 3279 129 1288 1000
+
+sat64 = 3305 2364 1292 -2250
+
+sat64 = 3363 2312 1291 500
+
+sat65 = 3442 3484 1295 -4750
+
+sat65 = 3103 591 1294 1250
+
+sat66 = 3378 1450 1285 4000
+---00000026--- Acq_st=3 2019-5-15 01:50:27 
+[00]  G09  f 40  -3106.1 2046004.0  1.0  1.0  5  0 265844123
+[01]  G16  f 45    140.8 2045999.8  1.0  1.0  5  0 265844135
+[02]  G23  f 45  -1667.1 2046002.2  1.0  1.0  5  0 265844130
+[03]  G26  f 41   1228.6 2045998.4  1.0  1.0  5  0 265844132
+[17]  B10  1  7   -459.2 4092000.8  0.0  0.0  1  0      2174
+[18]  B19  1  7   -589.8 4092000.9  0.2  0.0  1  0       776
+
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,1,1,04,09,00,000,40,16,00,000,45,23,00,000,45,26,00,000,41*77
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+sat66 = 3423 1482 1286 4000
+
+sat67 = 3252 3244 1281 -1000
+
+sat67 = 3234 3308 1280 -750
+
+sat68 = 3252 3369 1279 -1750
+
+sat68 = 3376 3520 1279 4500
+
+---00000027--- Acq_st=7 2019-5-15 01:50:28 
+[00]  G09  f 40  -3106.7 2046004.0  1.0  1.0  5  0 265845123
+[01]  G16  f 46    139.9 2045999.8  1.0  1.0  5  0 265845135
+[02]  G23  f 45  -1667.9 2046002.2  1.0  1.0  5  0 265845130
+[03]  G26  f 41   1227.5 2045998.4  1.0  1.0  5  0 265845132
+[18]  B19  1  7   -882.4 4092001.4 -0.1  0.0  1  0      1776
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,1,1,04,09,00,000,40,16,00,000,46,23,00,000,45,26,00,000,41*74
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+
+---00000028--- Acq_st=7 2019-5-15 01:50:29 
+[00]  G09  f 40  -3107.8 2046004.1  1.0  1.0  5  0 265846123
+[01]  G16  f 45    139.3 2045999.8  1.0  1.0  5  0 265846135
+[02]  G23  f 45  -1668.1 2046002.2  1.0  1.0  5  0 265846130
+[03]  G26  f 42   1226.6 2045998.4  1.0  1.0  5  0 265846132
+
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,1,1,04,09,00,000,40,16,00,000,45,23,00,000,45,26,00,000,42*74
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+satid:0,acq_max[i]:7340,i:0
+satid:0,acq_max[i]:6039,i:1
+satid:0,acq_max[i]:6898,i:2
+satid:0,acq_max[i]:6265,i:3
+satid:0,acq_max[i]:6440,i:4
+satid:0,acq_max[i]:5921,i:5
+satid:0,acq_max[i]:6115,i:6
+satid:0,acq_max[i]:5889,i:7
+satid:0,acq_max[i]:5383,i:8
+satid:0,acq_max[i]:5807,i:9
+satid:0,acq_max[i]:6050,i:10
+satid:0,acq_max[i]:6030,i:11
+satid:0,acq_max[i]:6219,i:12
+satid:0,acq_max[i]:6329,i:13
+satid:0,acq_max[i]:5940,i:14
+satid:0,acq_max[i]:6522,i:15
+satid:0,acq_max[i]:6185,i:16
+satid:0,acq_max[i]:5845,i:17
+satid:0,acq_max[i]:6045,i:18
+satid:0,acq_max[i]:5983,i:19
+satid:0,acq_max[i]:5840,i:20
+satid:0,acq_max[i]:5799,i:21
+satid:0,acq_max[i]:6012,i:22
+satid:0,acq_max[i]:7302,i:23
+satid:0,acq_max[i]:6032,
+i:24
+satid:0,acq_max[i]:5863,i:25
+satid:0,acq_max[i]:6280,i:26
+satid:0,acq_max[i]:5608,i:27
+satid:0,acq_max[i]:6434,i:28
+satid:0,acq_max[i]:6476,i:29
+satid:0,acq_max[i]:5956,i:30
+satid:0,acq_max[i]:6041,i:31
+satid:0,acq_max[i]:5950,i:32
+satid:0,acq_max[i]:5665,i:33
+satid:0,acq_max[i]:5562,i:34
+satid:0,acq_max[i]:5832,i:35
+satid:0,acq_max[i]:6368,i:36
+satid:0,acq_max[i]:6204,i:37
+satid:0,acq_max[i]:6134,i:38
+satid:0,acq_max[i]:5619,i:39
+sat0 = 7340 1662 2875 5000
+satid:0,acq_max[i]:6845,i:0
+
+satid:0,acq_max[i]:6530,i:1
+satid:0,acq_max[i]:6483,i:2
+satid:0,acq_max[i]:6767,i:3
+satid:0,acq_max[i]:6325,i:4
+satid:0,acq_max[i]:6050,i:5
+satid:0,acq_max[i]:6578,i:6
+satid:0,acq_max[i]:5522,i:7
+satid:0,acq_max[i]:5481,i:8
+satid:0,acq_max[i]:5624,i:9
+satid:0,acq_max[i]:5681,i:10
+satid:0,acq_max[i]:5900,i:11
+satid:0,acq_max[i]:6123,i:12
+satid:0,acq_max[i]:6212,i:13
+satid:0,acq_max[i]:6142,i:14
+satid:0,acq_max[i]:6758,i:15
+satid:0,acq_max[i]:5852,i:16
+satid:0,acq_max[i]:5604,i:17
+satid:0,ac
+q_max[i]:5836,i:18
+satid:0,acq_max[i]:5821,i:19
+satid:0,acq_max[i]:5840,i:20
+satid:0,acq_max[i]:5839,i:21
+satid:0,acq_max[i]:6121,i:22
+satid:0,acq_max[i]:7327,i:23
+satid:0,acq_max[i]:6499,i:24
+satid:0,acq_max[i]:6355,i:25
+satid:0,acq_max[i]:6070,i:26
+satid:0,acq_max[i]:5740,i:27
+satid:0,acq_max[i]:6890,i:28
+satid:0,acq_max[i]:6083,i:29
+satid:0,acq_max[i]:6304,i:30
+satid:0,acq_max[i]:5489,i:31
+satid:0,acq_max[i]:5731,i:32
+satid:0,acq_max[i]:5512,i:33
+satid:0,acq_max[i]:6032,i:34
+satid:0,acq_
+max[i]:6620,i:35
+satid:0,acq_max[i]:7164,i:36
+satid:0,acq_max[i]:6677,i:37
+satid:0,acq_max[i]:6756,i:38
+satid:0,acq_max[i]:6148,i:39
+sat0 = 7327 1097 2871 -750
+satid:1,acq_max[i]:6410,i:0
+satid:1,acq_max[i]:6502,i:1
+satid:1,acq_max[i]:6214,i:2
+satid:1,acq_max[i]:6129,i:3
+satid:1,acq_max[i]:7435,i:4
+satid:1,acq_max[i]:6600,i:5
+satid:1,acq_max[i]:6611,i:6
+satid:1,acq_max[i]:5717,i:7
+satid:1,acq_max[i]:6185,i:8
+satid:1,acq_max[i]:6892,i:9
+satid:1,acq_max[i]:6306,i:10
+satid:1,acq_max[i]:5916,i:
+11
+satid:1,acq_max[i]:5707,i:12
+satid:1,acq_max[i]:6957,i:13
+satid:1,acq_max[i]:5848,i:14
+satid:1,acq_max[i]:6032,i:15
+satid:1,acq_max[i]:6365,i:16
+satid:1,acq_max[i]:6247,i:17
+satid:1,acq_max[i]:5863,i:18
+satid:1,acq_max[i]:5671,i:19
+satid:1,acq_max[i]:7173,i:20
+satid:1,acq_max[i]:6587,i:21
+satid:1,acq_max[i]:6480,i:22
+satid:1,acq_max[i]:6074,i:23
+satid:1,acq_max[i]:6006,i:24
+satid:1,acq_max[i]:6232,i:25
+satid:1,acq_max[i]:5843,i:26
+satid:1,acq_max[i]:5748,i:27
+satid:1,acq_max[i]:6280,i:28
+
+satid:1,acq_max[i]:6552,i:29
+satid:1,acq_max[i]:6556,i:30
+satid:1,acq_max[i]:6087,i:31
+satid:1,acq_max[i]:6753,i:32
+satid:1,acq_max[i]:5938,i:33
+satid:1,acq_max[i]:5779,i:34
+satid:1,acq_max[i]:6047,i:35
+satid:1,acq_max[i]:6014,i:36
+satid:1,acq_max[i]:5837,i:37
+satid:1,acq_max[i]:6386,i:38
+satid:1,acq_max[i]:6003,i:39
+sat1 = 7435 236 2877 4000
+satid:1,acq_max[i]:6632,i:0
+satid:1,acq_max[i]:5962,i:1
+satid:1,acq_max[i]:6318,i:2
+satid:1,acq_max[i]:7158,i:3
+satid:1,acq_max[i]:7097,i:4
+satid:1,
+acq_max[i]:6398,i:5
+satid:1,acq_max[i]:6594,i:6
+satid:1,acq_max[i]:5466,i:7
+satid:1,acq_max[i]:5764,i:8
+satid:1,acq_max[i]:6486,i:9
+satid:1,acq_max[i]:6268,i:10
+satid:1,acq_max[i]:6014,i:11
+satid:1,acq_max[i]:5642,i:12
+satid:1,acq_max[i]:6046,i:13
+satid:1,acq_max[i]:6210,i:14
+satid:1,acq_max[i]:6288,i:15
+satid:1,acq_max[i]:6359,i:16
+satid:1,acq_max[i]:5785,i:17
+satid:1,acq_max[i]:5585,i:18
+satid:1,acq_max[i]:5709,i:19
+satid:1,acq_max[i]:7173,i:20
+satid:1,acq_max[i]:6571,i:21
+satid:1,acq_max
+[i]:6136,i:22
+satid:1,acq_max[i]:6344,i:23
+satid:1,acq_max[i]:5901,i:24
+satid:1,acq_max[i]:5579,i:25
+satid:1,acq_max[i]:6412,i:26
+satid:1,acq_max[i]:6072,i:27
+satid:1,acq_max[i]:6380,i:28
+satid:1,acq_max[i]:6152,i:29
+satid:1,acq_max[i]:6283,i:30
+satid:1,acq_max[i]:6463,i:31
+satid:1,acq_max[i]:5832,i:32
+satid:1,acq_max[i]:6422,i:33
+satid:1,acq_max[i]:5682,i:34
+satid:1,acq_max[i]:5977,i:35
+satid:1,acq_max[i]:6438,i:36
+satid:1,acq_max[i]:6153,i:37
+satid:1,acq_max[i]:6442,i:38
+satid:1,acq_max[i
+]:6630,i:39
+sat1 = 7173 900 2876 0
+satid:2,acq_max[i]:5792,i:0
+satid:2,acq_max[i]:6926,i:1
+satid:2,acq_max[i]:5720,i:2
+satid:2,acq_max[i]:5605,i:3
+satid:2,acq_max[i]:5407,i:4
+satid:2,acq_max[i]:5449,i:5
+satid:2,acq_max[i]:6919,i:6
+satid:2,acq_max[i]:6304,i:7
+satid:2,acq_max[i]:5966,i:8
+satid:2,acq_max[i]:5660,i:9
+satid:2,acq_max[i]:6023,i:10
+satid:2,acq_max[i]:5884,i:11
+satid:2,acq_max[i]:5950,i:12
+satid:2,acq_max[i]:5936,i:13
+satid:2,acq_max[i]:5955,i:14
+satid:2,acq_max[i]:6000,i:15
+satid
+:2,acq_max[i]:5840,i:16
+satid:2,acq_max[i]:5751,i:17
+satid:2,acq_max[i]:5845,i:18
+satid:2,acq_max[i]:5824,i:19
+satid:2,acq_max[i]:5585,i:20
+satid:2,acq_max[i]:5819,i:21
+satid:2,acq_max[i]:6402,i:22
+satid:2,acq_max[i]:6294,i:23
+satid:2,acq_max[i]:7126,i:24
+satid:2,acq_max[i]:6069,i:25
+satid:2,acq_max[i]:6409,i:26
+satid:2,acq_max[i]:6294,i:27
+satid:2,acq_max[i]:6349,i:28
+satid:2,acq_max[i]:5846,i:29
+satid:2,acq_max[i]:5977,i:30
+satid:2,acq_max[i]:5604,i:31
+satid:2,acq_max[i]:6073,i:32
+satid:2
+,acq_max[i]:6665,i:33
+satid:2,acq_max[i]:5952,i:34
+satid:2,acq_max[i]:6447,i:35
+satid:2,acq_max[i]:5992,i:36
+satid:2,acq_max[i]:6409,i:37
+satid:2,acq_max[i]:6568,i:38
+satid:2,acq_max[i]:6207,i:39
+sat2 = 7126 89 2887 -1000
+satid:2,acq_max[i]:5976,i:0
+satid:2,acq_max[i]:6430,i:1
+satid:2,acq_max[i]:6643,i:2
+satid:2,acq_max[i]:5874,i:3
+satid:2,acq_max[i]:5510,i:4
+satid:2,acq_max[i]:5987,i:5
+satid:2,acq_max[i]:6682,i:6
+satid:2,acq_max[i]:6384,i:7
+satid:2,acq_max[i]:5868,i:8
+satid:2,acq_max[i]:59
+93,i:9
+satid:2,acq_max[i]:5945,i:10
+satid:2,acq_max[i]:5494,i:11
+satid:2,acq_max[i]:6575,i:12
+satid:2,acq_max[i]:6311,i:13
+satid:2,acq_max[i]:5848,i:14
+satid:2,acq_max[i]:6097,i:15
+satid:2,acq_max[i]:5689,i:16
+satid:2,acq_max[i]:5583,i:17
+satid:2,acq_max[i]:5472,i:18
+satid:2,acq_max[i]:5786,i:19
+satid:2,acq_max[i]:5585,i:20
+satid:2,acq_max[i]:5919,i:21
+satid:2,acq_max[i]:6358,i:22
+satid:2,acq_max[i]:6020,i:23
+satid:2,acq_max[i]:6646,i:24
+satid:2,acq_max[i]:5993,i:25
+satid:2,acq_max[i]:6432,
+i:26
+satid:2,acq_max[i]:5857,i:27
+satid:2,acq_max[i]:6396,i:28
+satid:2,acq_max[i]:6118,i:29
+satid:2,acq_max[i]:6245,i:30
+satid:2,acq_max[i]:5892,i:31
+satid:2,acq_max[i]:5885,i:32
+satid:2,acq_max[i]:5975,i:33
+satid:2,acq_max[i]:5985,i:34
+satid:2,acq_max[i]:6273,i:35
+satid:2,acq_max[i]:5952,i:36
+satid:2,acq_max[i]:6405,i:37
+satid:2,acq_max[i]:6436,i:38
+satid:2,acq_max[i]:5936,i:39
+sat2 = 6682 1401 2886 3500
+satid:3,acq_max[i]:5978,i:0
+satid:3,acq_max[i]:5985,i:1
+satid:3,acq_max[i]:5696,i:2
+s
+atid:3,acq_max[i]:6297,i:3
+satid:3,acq_max[i]:10658,i:4
+satid:3,acq_max[i]:17018,i:5
+satid:3,acq_max[i]:21111,i:6
+satid:3,acq_max[i]:15060,i:7
+satid:3,acq_max[i]:7655,i:8
+satid:3,acq_max[i]:6977,i:9
+satid:3,acq_max[i]:5987,i:10
+satid:3,acq_max[i]:5953,i:11
+satid:3,acq_max[i]:6257,i:12
+satid:3,acq_max[i]:5888,i:13
+satid:3,acq_max[i]:6903,i:14
+satid:3,acq_max[i]:6412,i:15
+satid:3,acq_max[i]:6041,i:16
+satid:3,acq_max[i]:6015,i:17
+satid:3,acq_max[i]:5807,i:18
+satid:3,acq_max[i]:6241,i:19
+satid:
+3,acq_max[i]:5888,i:20
+satid:3,acq_max[i]:5798,i:21
+satid:3,acq_max[i]:7054,i:22
+satid:3,acq_max[i]:7479,i:23
+satid:3,acq_max[i]:6122,i:24
+satid:3,acq_max[i]:6105,i:25
+satid:3,acq_max[i]:6713,i:26
+satid:3,acq_max[i]:5822,i:27
+satid:3,acq_max[i]:6253,i:28
+satid:3,acq_max[i]:5967,i:29
+satid:3,acq_max[i]:5449,i:30
+satid:3,acq_max[i]:6012,i:31
+satid:3,acq_max[i]:5922,i:32
+satid:3,acq_max[i]:5961,i:33
+satid:3,acq_max[i]:6256,i:34
+satid:3,acq_max[i]:5965,i:35
+satid:3,acq_max[i]:6809,i:36
+satid:3,
+acq_max[i]:5888,i:37
+satid:3,acq_max[i]:6481,i:38
+satid:3,acq_max[i]:6044,i:39
+sat3 = 21111 1858 2867 3500
+ch4 satid=3 freq = 3500 acq ok1!
+satid:4,acq_max[i]:5509,i:0
+satid:4,acq_max[i]:6471,i:1
+satid:4,acq_max[i]:5965,i:2
+satid:4,acq_max[i]:6770,i:3
+satid:4,acq_max[i]:6690,i:4
+satid:4,acq_max[i]:6068,i:5
+satid:4,acq_max[i]:6289,i:6
+satid:4,acq_max[i]:5896,i:7
+satid:4,acq_max[i]:6675,i:8
+satid:4,acq_max[i]:6931,i:9
+satid:4,acq_max[i]:6757,i:10
+satid:4,acq_max[i]:5685,i:11
+satid:4,acq_max[i
+]:5716,i:12
+satid:4,acq_max[i]:5611,i:13
+satid:4,acq_max[i]:6577,i:14
+satid:4,acq_max[i]:5642,i:15
+satid:4,acq_max[i]:5736,i:16
+satid:4,acq_max[i]:6714,i:17
+satid:4,acq_max[i]:7164,i:18
+satid:4,acq_max[i]:6691,i:19
+satid:4,acq_max[i]:6450,i:20
+satid:4,acq_max[i]:6634,i:21
+satid:4,acq_max[i]:5649,i:22
+satid:4,acq_max[i]:5766,i:23
+satid:4,acq_max[i]:6397,i:24
+satid:4,acq_max[i]:6693,i:25
+satid:4,acq_max[i]:5701,i:26
+satid:4,acq_max[i]:5753,i:27
+satid:4,acq_max[i]:6561,i:28
+satid:4,acq_max[i]:
+6553,i:29
+satid:4,acq_max[i]:7069,i:30
+satid:4,acq_max[i]:5978,i:31
+satid:4,acq_max[i]:5456,i:32
+satid:4,acq_max[i]:5786,i:33
+satid:4,acq_max[i]:5976,i:34
+satid:4,acq_max[i]:6203,i:35
+satid:4,acq_max[i]:6326,i:36
+satid:4,acq_max[i]:6248,i:37
+satid:4,acq_max[i]:7021,i:38
+satid:4,acq_max[i]:6098,i:39
+sat4 = 7164 1864 2892 500
+satid:4,acq_max[i]:5643,i:0
+satid:4,acq_max[i]:5829,i:1
+satid:4,acq_max[i]:6444,i:2
+satid:4,acq_max[i]:5883,i:3
+satid:4,acq_max[i]:6119,i:4
+satid:4,acq_max[i]:5919,i:5
+
+satid:4,acq_max[i]:5913,i:6
+satid:4,acq_max[i]:6668,i:7
+satid:4,acq_max[i]:6586,i:8
+satid:4,acq_max[i]:6466,i:9
+satid:4,acq_max[i]:6166,i:10
+satid:4,acq_max[i]:5613,i:11
+satid:4,acq_max[i]:5873,i:12
+satid:4,acq_max[i]:6006,i:13
+satid:4,acq_max[i]:6348,i:14
+satid:4,acq_max[i]:5857,i:15
+satid:4,acq_max[i]:5844,i:16
+satid:4,acq_max[i]:6184,i:17
+satid:4,acq_max[i]:6811,i:18
+satid:4,acq_max[i]:6708,i:19
+satid:4,acq_max[i]:6450,i:20
+satid:4,acq_max[i]:6772,i:21
+satid:4,acq_max[i]:5704,i:22
+satid:
+4,acq_max[i]:5815,i:23
+satid:4,acq_max[i]:5847,i:24
+satid:4,acq_max[i]:5806,i:25
+satid:4,acq_max[i]:6225,i:26
+satid:4,acq_max[i]:5690,i:27
+id:12,acq_max[i]:5777,i:17
+satid:12,acq_max[i]:6498,i:18
+satid:12,acq_max[i]:6510,i:19
+satid:12,acq_max[i]:5758,i:20
+satid:12,acq_max[i]:6011,i:21
+satid:12,acq_max[i]:6038,i:22
+satid:12,acq_max[i]:5932,i:23
+satid:12,acq_max[i]:6402,i:24
+satid:12,acq_max[i]:6390,i:25
+satid:12,acq_max[i]:7220,i:26
+satid:12,acq_max[i]:6478,i:27
+satid:12,acq_max[i]:6165,i:28
+
+satid:12,acq_max[i]:5615,i:29
+satid:12,acq_max[i]:5801,i:30
+satid:12,acq_max[i]:6170,i:31
+satid:12,acq_max[i]:6163,i:32
+satid:12,acq_max[i]:6735,i:33
+satid:12,acq_max[i]:6337,i:34
+satid:12,acq_max[i]:6522,i:35
+satid:12,acq_max[i]:5934,i:36
+satid:12,acq_max[i]:6072,i:37
+satid:12,acq_max[i]:6244,i:38
+satid:12,acq_max[i]:5624,i:39
+sat12 = 7706 988 2879 2500
+satid:13,acq_max[i]:6044,i:0
+satid:13,acq_max[i]:5931,i:1
+satid:13,acq_max[i]:6655,i:2
+satid:13,acq_max[i]:5776,i:3
+satid:13,acq_max[i]:56
+27,i:4
+satid:13,acq_max[i]:5687,i:5
+satid:13,acq_max[i]:6021,i:6
+satid:13,acq_max[i]:6402,i:7
+satid:13,acq_max[i]:7307,i:8
+satid:13,acq_max[i]:6216,i:9
+satid:13,acq_max[i]:5986,i:10
+satid:13,acq_max[i]:5893,i:11
+satid:13,acq_max[i]:6334,i:12
+satid:13,acq_max[i]:6449,i:13
+satid:13,acq_max[i]:5465,i:14
+satid:13,acq_max[i]:5976,i:15
+satid:13,acq_max[i]:6249,i:16
+satid:13,acq_max[i]:6313,i:17
+satid:13,acq_max[i]:6169,i:18
+satid:13,acq_max[i]:5876,i:19
+satid:13,acq_max[i]:6330,i:20
+satid:13,acq_
+max[i]:5909,i:21
+satid:13,acq_max[i]:6479,i:22
+satid:13,acq_max[i]:5810,i:23
+satid:13,acq_max[i]:6285,i:24
+satid:13,acq_max[i]:6789,i:25
+satid:13,acq_max[i]:6209,i:26
+satid:13,acq_max[i]:6007,i:27
+satid:13,acq_max[i]:5924,i:28
+satid:13,acq_max[i]:6064,i:29
+satid:13,acq_max[i]:6052,i:30
+satid:13,acq_max[i]:7540,i:31
+satid:13,acq_max[i]:6204,i:32
+satid:13,acq_max[i]:5740,i:33
+satid:13,acq_max[i]:6057,i:34
+satid:13,acq_max[i]:6179,i:35
+satid:13,acq_max[i]:6006,i:36
+satid:13,acq_max[i]:5746,i:37
+
+satid:13,acq_max[i]:6937,i:38
+satid:13,acq_max[i]:6826,i:39
+sat13 = 7540 341 2889 -2750
+satid:13,acq_max[i]:5616,i:0
+satid:13,acq_max[i]:6453,i:1
+satid:13,acq_max[i]:6436,i:2
+satid:13,acq_max[i]:6501,i:3
+satid:13,acq_max[i]:6009,i:4
+satid:13,acq_max[i]:5727,i:5
+satid:13,acq_max[i]:6183,i:6
+satid:13,acq_max[i]:6591,i:7
+satid:13,acq_max[i]:7647,i:8
+satid:13,acq_max[i]:6068,i:9
+satid:13,acq_max[i]:5842,i:10
+satid:13,acq_max[i]:6076,i:11
+satid:13,acq_max[i]:6331,i:12
+satid:13,acq_max[i]:6656,i:13
+satid:13,acq_max[i]:5806,i:14
+satid:13,acq_max[i]:6593,i:15
+satid:13,acq_max[i]:6588,i:16
+satid:13,acq_max[i]:6261,i:17
+satid:13,acq_max[i]:6267,i:18
+satid:13,acq_max[i]:5494,i:19
+satid:13,acq_max[i]:6031,i:20
+satid:13,acq_max[i]:5787,i:21
+satid:13,acq_max[i]:6443,i:22
+satid:13,acq_max[i]:5767,i:23
+satid:13,acq_max[i]:5996,i:24
+satid:13,acq_max[i]:6699,i:25
+satid:13,acq_max[i]:6275,i:26
+satid:13,acq_max[i]:6047,i:27
+satid:13,acq_max[i]:6445,i:28
+satid:13,acq_max[i]:5800,i:29
+satid:13,ac
+q_max[i]:6491,i:30
+satid:13,acq_max[i]:6044,i:31
+satid:13,acq_max[i]:6065,i:32
+satid:13,acq_max[i]:5820,i:33
+satid:13,acq_max[i]:6532,i:34
+satid:13,acq_max[i]:6241,i:35
+satid:13,acq_max[i]:5696,i:36
+satid:13,acq_max[i]:5669,i:37
+satid:13,acq_max[i]:5699,i:38
+satid:13,acq_max[i]:6226,i:39
+sat13 = 7647 1224 2889 3000
+satid:14,acq_max[i]:6117,i:0
+satid:14,acq_max[i]:6290,i:1
+satid:14,acq_max[i]:6454,i:2
+satid:14,acq_max[i]:5884,i:3
+satid:14,acq_max[i]:5742,i:4
+satid:14,acq_max[i]:5972,i:5
+sati
+d:14,acq_max[i]:5739,i:6
+satid:14,acq_max[i]:6132,i:7
+satid:14,acq_max[i]:5678,i:8
+satid:14,acq_max[i]:6217,i:9
+satid:14,acq_max[i]:5593,i:10
+satid:14,acq_max[i]:5999,i:11
+satid:14,acq_max[i]:6396,i:12
+satid:14,acq_max[i]:5860,i:13
+satid:14,acq_max[i]:5866,i:14
+satid:14,acq_max[i]:7120,i:15
+satid:14,acq_max[i]:6361,i:16
+satid:14,acq_max[i]:5949,i:17
+satid:14,acq_max[i]:6262,i:18
+satid:14,acq_max[i]:6011,i:19
+satid:14,acq_max[i]:6315,i:20
+satid:14,acq_max[i]:6022,i:21
+satid:14,acq_max[i]:5960
+,i:22
+satid:14,acq_max[i]:5642,i:23
+satid:14,acq_max[i]:5924,i:24
+satid:14,acq_max[i]:6821,i:25
+satid:14,acq_max[i]:6642,i:26
+satid:14,acq_max[i]:6074,i:27
+satid:14,acq_max[i]:6533,i:28
+satid:14,acq_max[i]:5963,i:29
+satid:14,acq_max[i]:6052,i:30
+satid:14,acq_max[i]:5823,i:31
+satid:14,acq_max[i]:6108,i:32
+satid:14,acq_max[i]:6725,i:33
+satid:14,acq_max[i]:6718,i:34
+satid:14,acq_max[i]:6110,i:35
+satid:14,acq_max[i]:6320,i:36
+satid:14,acq_max[i]:5935,i:37
+satid:14,acq_max[i]:6834,i:38
+satid:14,
+acq_max[i]:6005,i:39
+sat14 = 7120 1452 2895 1250
+satid:14,acq_max[i]:6360,i:0
+satid:14,acq_max[i]:6641,i:1
+satid:14,acq_max[i]:6339,i:2
+satid:14,acq_max[i]:5718,i:3
+satid:14,acq_max[i]:6406,i:4
+satid:14,acq_max[i]:6052,i:5
+satid:14,acq_max[i]:5921,i:6
+satid:14,acq_max[i]:5728,i:7
+satid:14,acq_max[i]:5839,i:8
+satid:14,acq_max[i]:6064,i:9
+satid:14,acq_max[i]:5720,i:10
+satid:14,acq_max[i]:6009,i:11
+satid:14,acq_max[i]:6559,i:12
+satid:14,acq_max[i]:5775,i:13
+satid:14,acq_max[i]:5731,i:14
+satid:
+14,acq_max[i]:6653,i:15
+satid:14,acq_max[i]:6182,i:16
+satid:14,acq_max[i]:6118,i:17
+satid:14,acq_max[i]:6306,i:18
+satid:14,acq_max[i]:5914,i:19
+satid:14,acq_max[i]:6315,i:20
+satid:14,acq_max[i]:5753,i:21
+satid:14,acq_max[i]:5922,i:22
+satid:14,acq_max[i]:5973,i:23
+satid:14,acq_max[i]:6054,i:24
+satid:14,acq_max[i]:6610,i:25
+satid:14,acq_max[i]:6587,i:26
+satid:14,acq_max[i]:6064,i:27
+satid:14,acq_max[i]:6553,i:28
+satid:14,acq_max[i]:5882,i:29
+satid:14,acq_max[i]:6163,i:30
+satid:14,acq_max[i]:61
+24,i:31
+satid:14,acq_max[i]:5444,i:32
+satid:14,acq_max[i]:6400,i:33
+satid:14,acq_max[i]:6463,i:34
+satid:14,acq_max[i]:7111,i:35
+satid:14,acq_max[i]:6313,i:36
+satid:14,acq_max[i]:6392,i:37
+satid:14,acq_max[i]:6479,i:38
+satid:14,acq_max[i]:6137,i:39
+sat14 = 7111 1399 2895 -3750
+satid:16,acq_max[i]:6264,i:0
+satid:16,acq_max[i]:6416,i:1
+satid:16,acq_max[i]:5846,i:2
+satid:16,acq_max[i]:5368,i:3
+satid:16,acq_max[i]:5813,i:4
+satid:16,acq_max[i]:5964,i:5
+satid:16,acq_max[i]:6429,i:6
+satid:16,acq_ma
+x[i]:5763,i:7
+satid:16,acq_max[i]:5933,i:8
+satid:16,acq_max[i]:6250,i:9
+satid:16,acq_max[i]:6045,i:10
+satid:16,acq_max[i]:6155,i:11
+satid:16,acq_max[i]:6195,i:12
+satid:16,acq_max[i]:6396,i:13
+satid:16,acq_max[i]:6494,i:14
+satid:16,acq_max[i]:6548,i:15
+satid:16,acq_max[i]:5923,i:16
+satid:16,acq_max[i]:6279,i:17
+satid:16,acq_max[i]:6292,i:18
+satid:16,acq_max[i]:5758,i:19
+satid:16,acq_max[i]:6131,i:20
+satid:16,acq_max[i]:6253,i:21
+satid:16,acq_max[i]:5879,i:22
+satid:16,acq_max[i]:6874,i:23
+sat
+id:16,acq_max[i]:7191,i:24
+satid:16,acq_max[i]:6396,i:25
+satid:16,acq_max[i]:5695,i:26
+satid:16,acq_max[i]:6158,i:27
+satid:16,acq_max[i]:6916,i:28
+satid:16,acq_max[i]:6091,i:29
+satid:16,acq_max[i]:5930,i:30
+satid:16,acq_max[i]:5517,i:31
+satid:16,acq_max[i]:5827,i:32
+satid:16,acq_max[i]:5966,i:33
+satid:16,acq_max[i]:5686,i:34
+satid:16,acq_max[i]:5364,i:35
+satid:16,acq_max[i]:5777,i:36
+satid:16,acq_max[i]:6072,i:37
+satid:16,acq_max[i]:6101,i:38
+satid:16,acq_max[i]:5654,i:39
+sat16 = 7191 1188 2883 -1000
+satid:16,acq_max[i]:6474,i:0
+satid:16,acq_max[i]:6074,i:1
+satid:16,acq_max[i]:6098,i:2
+satid:16,acq_max[i]:6155,i:3
+satid:16,acq_max[i]:5517,i:4
+satid:16,acq_max[i]:5939,i:5
+satid:16,acq_max[i]:6213,i:6
+satid:16,acq_max[i]:5962,i:7
+satid:16,acq_max[i]:6239,i:8
+satid:16,acq_max[i]:5741,i:9
+satid:16,acq_max[i]:5773,i:10
+satid:16,acq_max[i]:5526,i:11
+satid:16,acq_max[i]:5932,i:12
+satid:16,acq_max[i]:6224,i:13
+satid:16,acq_max[i]:6078,i:14
+satid:16,acq_max[i]:6528,i:15
+satid:16,acq_ma
+x[i]:6458,i:16
+satid:16,acq_max[i]:6523,i:17
+satid:16,acq_max[i]:6217,i:18
+satid:16,acq_max[i]:5644,i:19
+satid:16,acq_max[i]:6131,i:20
+satid:16,acq_max[i]:6361,i:21
+satid:16,acq_max[i]:5641,i:22
+satid:16,acq_max[i]:7240,i:23
+satid:16,acq_max[i]:7562,i:24
+satid:16,acq_max[i]:6393,i:25
+satid:16,acq_max[i]:5787,i:26
+satid:16,acq_max[i]:5636,i:27
+satid:16,acq_max[i]:7322,i:28
+satid:16,acq_max[i]:6074,i:29
+satid:16,acq_max[i]:6396,i:30
+satid:16,acq_max[i]:5688,i:31
+satid:16,acq_max[i]:6478,i:32
+
+satid:16,acq_max[i]:5913,i:33
+satid:16,acq_max[i]:5925,i:34
+satid:16,acq_max[i]:5668,i:35
+satid:16,acq_max[i]:5661,i:36
+satid:16,acq_max[i]:6118,i:37
+satid:16,acq_max[i]:6064,i:38
+satid:16,acq_max[i]:5839,i:39
+sat16 = 7562 1220 2881 -1000
+satid:17,acq_max[i]:6342,i:0
+satid:17,acq_max[i]:5789,i:1
+satid:17,acq_max[i]:6242,i:2
+satid:17,acq_max[i]:6018,i:3
+satid:17,acq_max[i]:6141,i:4
+satid:17,acq_max[i]:7096,i:5
+satid:17,acq_max[i]:6272,i:6
+satid:17,acq_max[i]:6850,i:7
+satid:17,acq_max[i]:6566,
+i:8
+satid:17,acq_max[i]:6000,i:9
+satid:17,acq_max[i]:6275,i:10
+satid:17,acq_max[i]:5698,i:11
+satid:17,acq_max[i]:6028,i:12
+satid:17,acq_max[i]:6579,i:13
+satid:17,acq_max[i]:6472,i:14
+satid:17,acq_max[i]:5918,i:15
+satid:17,acq_max[i]:6973,i:16
+satid:17,acq_max[i]:6295,i:17
+satid:17,acq_max[i]:6303,i:18
+satid:17,acq_max[i]:5535,i:19
+satid:17,acq_max[i]:5624,i:20
+satid:17,acq_max[i]:5771,i:21
+satid:17,acq_max[i]:6529,i:22
+satid:17,acq_max[i]:6393,i:23
+satid:17,acq_max[i]:5926,i:24
+satid:17,acq
+_max[i]:5835,i:25
+satid:17,acq_max[i]:6139,i:26
+satid:17,acq_max[i]:5773,i:27
+satid:17,acq_max[i]:6610,i:28
+satid:17,acq_max[i]:5660,i:29
+satid:17,acq_max[i]:6308,i:30
+satid:17,acq_max[i]:5785,i:31
+satid:17,acq_max[i]:6173,i:32
+satid:17,acq_max[i]:6201,i:33
+satid:17,acq_max[i]:7051,i:34
+satid:17,acq_max[i]:6143,i:35
+satid:17,acq_max[i]:6360,i:36
+satid:17,acq_max[i]:6222,i:37
+satid:17,acq_max[i]:5701,i:38
+satid:17,acq_max[i]:6535,i:39
+sat17 = 7096 508 2895 3750
+satid:17,acq_max[i]:6849,i:0
+s
+atid:17,acq_max[i]:5950,i:1
+satid:17,acq_max[i]:6413,i:2
+satid:17,acq_max[i]:6168,i:3
+satid:17,acq_max[i]:6300,i:4
+satid:17,acq_max[i]:6678,i:5
+satid:17,acq_max[i]:6202,i:6
+satid:17,acq_max[i]:6606,i:7
+satid:17,acq_max[i]:7096,i:8
+satid:17,acq_max[i]:5936,i:9
+satid:17,acq_max[i]:6036,i:10
+satid:17,acq_max[i]:5779,i:11
+satid:17,acq_max[i]:6426,i:12
+satid:17,acq_max[i]:6342,i:13
+satid:17,acq_max[i]:6427,i:14
+satid:17,acq_max[i]:6676,i:15
+satid:17,acq_max[i]:6805,i:16
+satid:17,acq_max[i]:6098,i
+:17
+satid:17,acq_max[i]:5876,i:18
+cq_max[i]:6247,i:37
+satid:26,acq_max[i]:6315,i:38
+satid:26,acq_max[i]:6515,i:39
+sat26 = 7857 1592 2887 4250
+]:6298,i:22
+satid:17,acq_max[i]:6286,i:23
+satid:17,acq_max[i]:5739,i:24
+satid:17,acq_max[i]:5757,i:25
+satid:17,acq_max[i]:5986,i:26
+satid:17,acq_max[i]:5730,i:27
+satid:17,acq_max[i]:6150,i:28
+satid:17,acq_max[i]:5671,i:29
+satid:17,acq_max[i]:5925,i:30
+satid:17,acq_max[i]:6629,i:31
+satid:17,acq_max[i]:6206,i:32
+satid:17,acq_max[i]:6348,i:33
+satid:17,a
+cq_max[i]:6354,i:34
+23,i:12
+satid:26,acq_max[i]:6538,i:13
+satid:26,acq_max[i]:6294,i:14
+satid:26,acq_max[i]:6025,i:15
+satid:26,acq_max[i]:6419,i:16
+satid:26,acq_max[i]:5948,i:17
+satid:26,acq_max[i]:6485,i:18
+satid:26,acq_max[i]:5575,i:19
+satid:26,acq_max[i]:5940,i:20
+satid:26,acq_max[i]:5871,i:21
+satid:26,acq_max[i]:5446,i:22
+satid:26,acq_max[i]:6014,i:23
+satid:26,acq_max[i]:5603,i:24
+satid:26,acq_max[i]:6487,i:25
+satid:26,acq_max[i]:6579,i:26
+satid:26,acq_max[i]:6079,i:27
+satid:26,acq_max[
+i]:5849,i:28
+satid:26,acq_max[i]:5745,i:29
+satid:26,acq_max[i]:7045,i:30
+satid:26,acq_max[i]:6338,i:31
+satid:26,acq_max[i]:6116,i:32
+satid:26,acq_max[i]:6711,i:33
+satid:26,acq_max[i]:6619,i:34
+satid:26,acq_max[i]:6043,i:35
+satid:26,acq_max[i]:5907,i:36
+satid:26,acq_max[i]:6514,i:37
+satid:26,acq_max[i]:6923,i:38
+satid:26,acq_max[i]:5715,i:39
+sat26 = 7479 1624 2887 4250
+satid:27,acq_max[i]:7474,i:0
+satid:27,acq_max[i]:5992,i:1
+satid:27,acq_max[i]:6279,i:2
+satid:27,acq_max[i]:6150,i:3
+satid:27
+,acq_max[i]:6000,i:4
+satid:27,acq_max[i]:5573,i:5
+satid:27,acq_max[i]:5731,i:6
+satid:27,acq_max[i]:6049,i:7
+satid:27,acq_max[i]:6619,i:8
+satid:27,acq_max[i]:6344,i:9
+satid:27,acq_max[i]:6963,i:10
+satid:27,acq_max[i]:5866,i:11
+satid:27,acq_max[i]:6158,i:12
+satid:27,acq_max[i]:6363,i:13
+satid:27,acq_max[i]:6516,i:14
+satid:27,acq_max[i]:6488,i:15
+satid:27,acq_max[i]:5996,i:16
+satid:27,acq_max[i]:6454,i:17
+satid:27,acq_max[i]:6323,i:18
+satid:27,acq_max[i]:6196,i:19
+satid:27,acq_max[i]:6219,i:20
+
+satid:27,acq_max[i]:6433,i:21
+satid:27,acq_max[i]:5812,i:22
+satid:27,acq_max[i]:7184,i:23
+satid:27,acq_max[i]:6613,i:24
+satid:27,acq_max[i]:6114,i:25
+satid:27,acq_max[i]:6586,i:26
+satid:27,acq_max[i]:6328,i:27
+satid:27,acq_max[i]:6269,i:28
+satid:27,acq_max[i]:6754,i:29
+satid:27,acq_max[i]:6289,i:30
+satid:27,acq_max[i]:5855,i:31
+satid:27,acq_max[i]:6439,i:32
+satid:27,acq_max[i]:6060,i:33
+satid:27,acq_max[i]:6240,i:34
+satid:27,acq_max[i]:6596,i:35
+satid:27,acq_max[i]:6933,i:36
+satid:27,acq_ma
+x[i]:6362,i:37
+satid:27,acq_max[i]:5843,i:38
+satid:27,acq_max[i]:6020,i:39
+sat27 = 7474 1034 2873 5000
+satid:27,acq_max[i]:7391,i:0
+satid:27,acq_max[i]:6143,i:1
+satid:27,acq_max[i]:6475,i:2
+satid:27,acq_max[i]:7096,i:3
+satid:27,acq_max[i]:7095,i:4
+satid:27,acq_max[i]:5495,i:5
+satid:27,acq_max[i]:5999,i:6
+satid:27,acq_max[i]:6386,i:7
+satid:27,acq_max[i]:6039,i:8
+satid:27,acq_max[i]:6607,i:9
+satid:27,acq_max[i]:7424,i:10
+satid:27,acq_max[i]:6206,i:11
+satid:27,acq_max[i]:6072,i:12
+satid:27,acq
+_max[i]:5990,i:13
+satid:27,acq_max[i]:6615,i:14
+satid:27,acq_max[i]:6282,i:15
+satid:27,acq_max[i]:5583,i:16
+satid:27,acq_max[i]:5853,i:17
+satid:27,acq_max[i]:6412,i:18
+satid:27,acq_max[i]:6292,i:19
+satid:27,acq_max[i]:6219,i:20
+satid:27,acq_max[i]:6621,i:21
+satid:27,acq_max[i]:5667,i:22
+satid:27,acq_max[i]:6983,i:23
+satid:27,acq_max[i]:6737,i:24
+satid:27,acq_max[i]:6776,i:25
+satid:27,acq_max[i]:6279,i:26
+satid:27,acq_max[i]:6462,i:27
+satid:27,acq_max[i]:5910,i:28
+satid:27,acq_max[i]:6705,i:29
+satid:27,acq_max[i]:6789,i:30
+satid:27,acq_max[i]:6364,i:31
+satid:27,acq_max[i]:6562,i:32
+satid:27,acq_max[i]:5819,i:33
+satid:27,acq_max[i]:6109,i:34
+satid:27,acq_max[i]:5873,i:35
+satid:27,acq_max[i]:7360,i:36
+satid:27,acq_max[i]:6523,i:37
+satid:27,acq_max[i]:6109,i:38
+satid:27,acq_max[i]:6304,i:39
+sat27 = 7424 1433 2873 2500
+satid:28,acq_max[i]:5665,i:0
+satid:28,acq_max[i]:6097,i:1
+satid:28,acq_max[i]:5841,i:2
+satid:28,acq_max[i]:6796,i:3
+satid:28,acq_max[i]:6201,i:4
+satid:28,acq_max[i]:
+6207,i:5
+satid:28,acq_max[i]:6509,i:6
+satid:28,acq_max[i]:5782,i:7
+satid:28,acq_max[i]:5746,i:8
+satid:28,acq_max[i]:6564,i:9
+satid:28,acq_max[i]:6021,i:10
+satid:28,acq_max[i]:6521,i:11
+satid:28,acq_max[i]:7610,i:12
+satid:28,acq_max[i]:7728,i:13
+satid:28,acq_max[i]:5910,i:14
+satid:28,acq_max[i]:5715,i:15
+satid:28,acq_max[i]:5923,i:16
+satid:28,acq_max[i]:6242,i:17
+satid:28,acq_max[i]:6246,i:18
+satid:28,acq_max[i]:6331,i:19
+satid:28,acq_max[i]:6170,i:20
+satid:28,acq_max[i]:6063,i:21
+satid:28,a
+cq_max[i]:6008,i:22
+satid:28,acq_max[i]:5886,i:23
+satid:28,acq_max[i]:6621,i:24
+satid:28,acq_max[i]:6213,i:25
+satid:28,acq_max[i]:6274,i:26
+satid:28,acq_max[i]:6297,i:27
+satid:28,acq_max[i]:5816,i:28
+satid:28,acq_max[i]:6273,i:29
+satid:28,acq_max[i]:6170,i:30
+satid:28,acq_max[i]:5772,i:31
+satid:28,acq_max[i]:6551,i:32
+satid:28,acq_max[i]:5547,i:33
+satid:28,acq_max[i]:6275,i:34
+satid:28,acq_max[i]:6096,i:35
+satid:28,acq_max[i]:6910,i:36
+
+satid:28,acq_max[i]:6206,i:37
+satid:28,acq_max[i]:7024,i:38
+satid:28,acq_max[i]:5741,i:39
+sat28 = 7728 1377 2884 1750
+satid:28,acq_max[i]:5973,i:0
+satid:28,acq_max[i]:6211,i:1
+satid:28,acq_max[i]:6016,i:2
+satid:28,acq_max[i]:6110,i:3
+satid:28,acq_max[i]:6299,i:4
+satid:28,acq_max[i]:7078,i:5
+satid:28,acq_max[i]:5982,i:6
+satid:28,acq_max[i]:5613,i:7
+satid:28,acq_max[i]:5619,i:8
+satid:28,acq_max[i]:5831,i:9
+satid:28,acq_max[i]:6529,i:10
+satid:28,acq_max[i]:6192,i:11
+satid:28,acq_max[i]:6974,i:12
+satid:28,acq_max[i]:7083,i:13
+satid:28,acq_max[i]:6001,i:14
+satid:28,acq_max[i]:5946,i:15
+satid:28,acq_max[i]:5806,i:16
+satid:28,acq_max[i]:6352,i:17
+satid:28,acq_max[i]:6461,i:18
+satid:28,acq_max[i]:6319,i:19
+satid:28,acq_max[i]:6170,i:20
+satid:28,acq_max[i]:6459,i:21
+satid:28,acq_max[i]:6167,i:22
+satid:28,acq_max[i]:5803,i:23
+satid:28,acq_max[i]:6068,i:24
+satid:28,acq_max[i]:6345,i:25
+satid:28,acq_max[i]:5868,i:26
+satid:28,acq_max[i]:6747,i:27
+satid:28,acq_max[i]:6072,i:28
+satid:28,acq_
+max[i]:6009,i:29
+satid:28,acq_max[i]:6193,i:30
+satid:28,acq_max[i]:5783,i:31
+satid:28,acq_max[i]:5795,i:32
+satid:28,acq_max[i]:5732,i:33
+satid:28,acq_max[i]:6187,i:34
+satid:28,acq_max[i]:6525,i:35
+satid:28,acq_max[i]:6895,i:36
+satid:28,acq_max[i]:6655,i:37
+satid:28,acq_max[i]:6016,i:38
+satid:28,acq_max[i]:5984,i:39
+sat28 = 7083 1409 2882 1750
+satid:29,acq_max[i]:6006,i:0
+satid:29,acq_max[i]:5847,i:1
+satid:29,acq_max[i]:5657,i:2
+satid:29,acq_max[i]:5939,i:3
+satid:29,acq_max[i]:6202,i:4
+satid
+:29,acq_max[i]:6059,i:5
+satid:29,acq_max[i]:5987,i:6
+satid:29,acq_max[i]:6062,i:7
+satid:29,acq_max[i]:5844,i:8
+satid:29,acq_max[i]:5670,i:9
+satid:29,acq_max[i]:6394,i:10
+satid:29,acq_max[i]:6174,i:11
+satid:29,acq_max[i]:6093,i:12
+satid:29,acq_max[i]:5868,i:13
+satid:29,acq_max[i]:5890,i:14
+satid:29,acq_max[i]:5868,i:15
+satid:29,acq_max[i]:5607,i:16
+satid:29,acq_max[i]:6004,i:17
+satid:29,acq_max[i]:6430,i:18
+satid:29,acq_max[i]:6786,i:19
+satid:29,acq_max[i]:7800,i:20
+satid:29,acq_max[i]:5863,i
+:21
+satid:29,acq_max[i]:6670,i:22
+satid:29,acq_max[i]:6446,i:23
+satid:29,acq_max[i]:6858,i:24
+satid:29,acq_max[i]:6102,i:25
+satid:29,acq_max[i]:5823,i:26
+satid:29,acq_max[i]:5676,i:27
+satid:29,acq_max[i]:5958,i:28
+satid:29,acq_max[i]:6147,i:29
+satid:29,acq_max[i]:5649,i:30
+satid:29,acq_max[i]:5963,i:31
+satid:29,acq_max[i]:6557,i:32
+satid:29,acq_max[i]:6193,i:33
+satid:29,acq_max[i]:6550,i:34
+satid:29,acq_max[i]:6739,i:35
+satid:29,acq_max[i]:6104,i:36
+satid:29,acq_max[i]:6055,i:37
+satid:29,ac
+q_max[i]:5740,i:38
+satid:29,acq_max[i]:5941,i:39
+sat29 = 7800 624 2888 0
+satid:29,acq_max[i]:5846,i:0
+satid:29,acq_max[i]:6188,i:1
+satid:29,acq_max[i]:5826,i:2
+satid:29,acq_max[i]:5876,i:3
+satid:29,acq_max[i]:5776,i:4
+satid:29,acq_max[i]:5745,i:5
+satid:29,acq_max[i]:5966,i:6
+satid:29,acq_max[i]:6372,i:7
+satid:29,acq_max[i]:6226,i:8
+satid:29,acq_max[i]:5817,i:9
+satid:29,acq_max[i]:5940,i:10
+satid:29,acq_max[i]:5932,i:11
+satid:29,acq_max[i]:6068,i:12
+satid:29,acq_max[i]:6229,i:13
+satid:29,acq
+_max[i]:6217,i:14
+satid:29,acq_max[i]:5997,i:15
+satid:29,acq_max[i]:5536,i:16
+satid:29,acq_max[i]:5415,i:17
+satid:29,acq_max[i]:6235,i:18
+satid:29,acq_max[i]:6886,i:19
+satid:29,acq_max[i]:7800,i:20
+satid:29,acq_max[i]:5877,i:21
+satid:29,acq_max[i]:6476,i:22
+satid:29,acq_max[i]:6237,i:23
+satid:29,acq_max[i]:6578,i:24
+satid:29,acq_max[i]:5469,i:25
+satid:29,acq_max[i]:5479,i:26
+satid:29,acq_max[i]:5685,i:27
+satid:29,acq_max[i]:6183,i:28
+satid:29,acq_max[i]:5688,i:29
+satid:29,acq_max[i]:5971,i:3
+0
+satid:29,acq_max[i]:7607,i:31
+satid:29,acq_max[i]:6037,i:32
+satid:29,acq_max[i]:5717,i:33
+satid:29,acq_max[i]:6141,i:34
+satid:29,acq_max[i]:6244,i:35
+satid:29,acq_max[i]:6089,i:36
+satid:29,acq_max[i]:5666,i:37
+satid:29,acq_max[i]:6202,i:38
+satid:29,acq_max[i]:6069,i:39
+sat29 = 7800 656 2889 0
+satid:30,acq_max[i]:5866,i:0
+satid:30,acq_max[i]:6182,i:1
+satid:30,acq_max[i]:5490,i:2
+satid:30,acq_max[i]:6612,i:3
+satid:30,acq_max[i]:5800,i:4
+satid:30,acq_max[i]:5870,i:5
+satid:30,acq_max[i]:6443,
+i:6
+satid:30,acq_max[i]:6355,i:7
+satid:30,acq_max[i]:6561,i:8
+satid:30,acq_max[i]:5406,i:9
+satid:30,acq_max[i]:5957,i:10
+satid:30,acq_max[i]:6983,i:11
+satid:30,acq_max[i]:6290,i:12
+satid:30,acq_max[i]:6341,i:13
+satid:30,acq_max[i]:5947,i:14
+satid:30,acq_max[i]:5686,i:15
+satid:30,acq_max[i]:6316,i:16
+satid:30,acq_max[i]:6058,i:17
+satid:30,acq_max[i]:6727,i:18
+satid:30,acq_max[i]:6579,i:19
+satid:30,acq_max[i]:6397,i:20
+satid:30,acq_max[i]:7409,i:21
+satid:30,acq_max[i]:6257,i:22
+satid:30,acq_m
+ax[i]:6090,i:23
+satid:30,acq_max[i]:6008,i:24
+satid:30,acq_max[i]:5762,i:25
+satid:30,acq_max[i]:6294,i:26
+satid:30,acq_max[i]:5577,i:27
+satid:30,acq_max[i]:6254,i:28
+satid:30,acq_max[i]:6104,i:29
+satid:30,acq_max[i]:6171,i:30
+satid:30,acq_max[i]:6356,i:31
+satid:30,acq_max[i]:6126,i:32
+satid:30,acq_max[i]:6086,i:33
+satid:30,acq_max[i]:6513,i:34
+satid:30,acq_max[i]:5832,i:35
+satid:30,acq_max[i]:5663,i:36
+satid:30,acq_max[i]:6076,i:37
+satid:30,acq_max[i]:5947,i:38
+satid:30,acq_max[i]:5609,i:39
+
+sat30 = 7409 67 2861 -250
+satid:30,acq_max[i]:6276,i:0
+satid:30,acq_max[i]:5963,i:1
+satid:30,acq_max[i]:5748,i:2
+satid:30,acq_max[i]:5988,i:3
+satid:30,acq_max[i]:6309,i:4
+satid:30,acq_max[i]:5953,i:5
+satid:30,acq_max[i]:5935,i:6
+satid:30,acq_max[i]:6085,i:7
+satid:30,acq_max[i]:5995,i:8
+satid:30,acq_max[i]:5557,i:9
+satid:30,acq_max[i]:5984,i:10
+satid:30,acq_max[i]:6059,i:11
+satid:30,acq_max[i]:6320,i:12
+satid:30,acq_max[i]:5981,i:13
+satid:30,acq_max[i]:5908,i:14
+satid:30,acq_max[i]:6395,i:15
+
+satid:30,acq_max[i]:6028,i:16
+satid:30,acq_max[i]:6062,i:17
+satid:30,acq_max[i]:6504,i:18
+satid:30,acq_max[i]:6610,i:19
+satid:30,acq_max[i]:6397,i:20
+satid:30,acq_max[i]:7356,i:21
+satid:30,acq_max[i]:6518,i:22
+satid:30,acq_max[i]:5875,i:23
+satid:30,acq_max[i]:6107,i:24
+satid:30,acq_max[i]:6318,i:25
+satid:30,acq_max[i]:6072,i:26
+satid:30,acq_max[i]:6330,i:27
+satid:30,acq_max[i]:5986,i:28
+satid:30,acq_max[i]:6474,i:29
+satid:30,acq_max[i]:6295,i:30
+satid:30,acq_max[i]:6599,i:31
+satid:30,acq_m
+ax[i]:5965,i:32
+satid:30,acq_max[i]:6068,i:33
+satid:30,acq_max[i]:6381,i:34
+satid:30,acq_max[i]:6383,i:35
+satid:30,acq_max[i]:5730,i:36
+satid:30,acq_max[i]:5967,i:37
+satid:30,acq_max[i]:6032,i:38
+satid:30,acq_max[i]:5716,i:39
+sat30 = 7356 99 2860 -250
+satid:31,acq_max[i]:6654,i:0
+satid:31,acq_max[i]:6327,i:1
+satid:31,acq_max[i]:6553,i:2
+satid:31,acq_max[i]:7355,i:3
+satid:31,acq_max[i]:6097,i:4
+satid:31,acq_max[i]:6458,i:5
+satid:31,acq_max[i]:6320,i:6
+satid:31,acq_max[i]:5863,i:7
+satid:31,ac
+q_max[i]:5968,i:8
+satid:31,acq_max[i]:6131,i:9
+satid:31,acq_max[i]:6068,i:10
+satid:31,acq_max[i]:6152,i:11
+satid:31,acq_max[i]:6295,i:12
+satid:31,acq_max[i]:5982,i:13
+satid:31,acq_max[i]:6403,i:14
+satid:31,acq_max[i]:5992,i:15
+satid:31,acq_max[i]:6152,i:16
+satid:31,acq_max[i]:7209,i:17
+satid:31,acq_max[i]:6762,i:18
+satid:31,acq_max[i]:6026,i:19
+satid:31,acq_max[i]:6177,i:20
+satid:31,acq_max[i]:6195,i:21
+satid:31,acq_max[i]:6099,i:22
+satid:31,acq_max[i]:5913,i:23
+satid:31,acq_max[i]:6811,i:24
+
+satid:31,acq_max[i]:6417,i:25
+satid:31,acq_max[i]:6210,i:26
+satid:31,acq_max[i]:6390,i:27
+satid:31,acq_max[i]:5704,i:28
+satid:31,acq_max[i]:6099,i:29
+satid:31,acq_max[i]:6143,i:30
+satid:31,acq_max[i]:5929,i:31
+satid:31,acq_max[i]:6308,i:32
+satid:31,acq_max[i]:6368,i:33
+satid:31,acq_max[i]:6361,i:34
+satid:31,acq_max[i]:5881,i:35
+satid:31,acq_max[i]:6247,i:36
+satid:31,acq_max[i]:6512,i:37
+satid:31,acq_max[i]:6255,i:38
+satid:31,acq_max[i]:6995,i:39
+sat31 = 7355 900 2869 4250
+---00000030--- Ac
+q_st=3 2019-5-15 01:50:31 
+[00]  G09  f 39  -3109.4 2046004.0  1.0  1.0  5  0 265849123
+[01]  G16  f 46    136.9 2045999.8  1.0  1.0  5  0 265849135
+[02]  G23  f 45  -1670.0 2046002.2  1.0  1.0  5  0 265849130
+[03]  G26  f 42   1224.1 2045998.4  1.0  1.0  5  0 265849132
+[04]  G04  7 30  -3630.2 2046004.7  0.1  1.1  5  0        18
+satid:31,acq_max[i]:6062,i:0
+satid:31,acq_max[i]:5799,i:1
+satid:31,acq_max[i]:6082,i:2
+satid:31,acq_max[i]:7481,i:3
+satid:31,acq_max[i]:6786,i:4
+satid:31,acq_max[i]:6274
+,i:5
+satid:31,acq_max[i]:5659,i:6
+satid:31,acq_max[i]:6696,i:7
+satid:31,acq_max[i]:6433,i:8
+satid:31,acq_max[i]:5740,i:9
+satid:31,acq_max[i]:6084,i:10
+satid:31,acq_max[i]:6065,i:11
+satid:31,acq_max[i]:6301,i:12
+satid:31,acq_max[i]:5861,i:13
+satid:31,acq_max[i]:5941,i:14
+satid:31,acq_max[i]:5670,i:15
+satid:31,acq_max[i]:5659,i:16
+satid:31,acq_max[i]:6713,i:17
+satid:31,acq_max[i]:6868,i:18
+satid:31,acq_max[i]:5640,i:19
+satid:31,acq_max[i]:6177,i:20
+satid:31,acq_max[i]:6132,i:21
+satid:31,acq_m
+ax[i]:6018,i:22
+satid:31,acq_max[i]:5990,i:23
+satid:31,acq_max[i]:6347,i:24
+satid:31,acq_max[i]:6567,i:25
+satid:31,acq_max[i]:5980,i:26
+satid:31,acq_max[i]:6153,i:27
+satid:31,acq_max[i]:5969,i:28
+satid:31,acq_max[i]:5755,i:29
+satid:31,acq_max[i]:5614,i:30
+satid:31,acq_max[i]:6131,i:31
+satid:31,acq_max[i]:6531,i:32
+satid:31,acq_max[i]:6217,i:33
+satid:31,acq_max[i]:6820,i:34
+satid:31,acq_max[i]:6053,i:35
+satid:31,acq_max[i]:7230,i:36
+satid:31,acq_max[i]:6246,i:37
+satid:31,acq_max[i]:6558,i:38
+
+satid:31,acq_max[i]:6691,i:39
+sat31 = 7481 932 2868 4250
+sat37 = 3492 1152 1289 -1500
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,1,1,04,09,00,000,39,16,00,000,46,23,00,000,45,26,00,000,42*79
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,
+,,,,,,,,*0F
+
+$GPGSV,2,1,05,09,00,000,39,16,00,000,46,23,00,000,45,26,00,000,42*7B
+
+$GPGSV,2,2,05,04,00,000,25*4F
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+sat37 = 3570 1184 1289 -1500
+sat38 = 3674 579 1309 -4000
+sat38 = 3495 611 1308 -3750
+sat39 = 3497 436 1297 -4250
+sat39 = 3500 468 1298 -4000
+sat40 = 3323 2425 1294 -1250
+sat40 = 3160 2090 1296 1000
+sat41 = 3308 175 1297 4000
+sat41 = 3263 1370 1296 -4250
+sat42 = 3482 441 1294 4750
+sat42 = 3280 4021 1296 1500
+--
+-00000031--- Acq_st=3 2019-5-15 01:50:32 
+[00]  G09  f 39  -3110.7 2046004.0  1.0  1.0  5  0 265850123
+[01]  G16  f 46    135.1 2045999.9  1.0  1.0  5  0 265850135
+[02]  G23  f 45  -1671.2 2046002.2  1.0  1.0  5  0 265850130
+[03]  G26  f 42   1222.3 2045998.4  1.0  1.0  5  0 265850132
+[04]  G04  7 37  -3631.5 2046004.7  1.0  1.0  5  0        18
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,2,1,05,09,00,000,39,16,00,000,46,23,00,000,45,26,00,000,42*7B
+
+$GPGSV,2,2,05,04,00,000,37*4C
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+sat43 = 12308 2830 1296 250
+ch16 satid=43 freq = 250 acq ok1!
+
+sat44 = 3251 1075 1294 750
+
+sat44 = 3302 1107 1293 750
+
+sat45 = 3288 175 1294 3250
+
+sat45 = 3261 3015 1295 -750
+
+sat46 = 24699 1444 1303 500
+ch17 satid=46 freq = 500 acq ok1!
+
+sat47 = 3256 1460 1292 -4750
+
+sat47 = 3319 957 1292 -3500
+
+---00000032--- Acq_st=3 2019-5-15 01:50:33 
+[00]  G09  f 39  -3111.9 2046004.1  1.0  1.0  5  0 265850123
+[01]  G16  f 46    134.2 2045999.8  1.0  1.0  5  0 265850135
+[02]  G23  f 46  -1672.5 2046002.2  1.0  1.0  5  0 265850130
+[03]  G26  f 42   1221.0 2045998.4  1.0  1.0  5  0 265850132
+[04]  G04  7 37  -3631.5 2046004.7  1.0  1.0  5  0        18
+[16]  B07  1  7   -288.3 4092000.0 -0.1  0.0  1  0      2585
+[17]  B10  1  7   -492.0 4092001.3 -0.0  0.0  1  0      3174
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,2,1,05,09,00,000,39,16,00,000,46,23,00,000,46,26,00,000,42*78
+
+$GPGSV,2,2,05,04,00,000,37*4C
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+sat48 = 3155 1055 1294 -3000
+
+sat48 = 3136 1087 1294 -3000
+
+sat49 = 3162 595 1297 2500
+
+sat49 = 3174 627 1296 2250
+
+sat50 = 3599 2198 1288 -1250
+
+sat50 = 3526 2262 1288 -1250
+
+sat51 = 3439 329 1292 -2500
+
+sat51 = 3293 361 1291 -2500
+
+sat52 = 3204 1133 1303 1000
+
+sat52 = 3362 2713 1304 4750
+
+sat53 = 3352 931 1291 -4500
+
+sat53 = 3228 54 1292 -750
+
+---00000033--- Acq_st=3 2019-5-15 01:50:34 
+[00]  G09  f 39  -3110.5 2046004.1  1.0  1.0  5  0 265851123
+[01]  G16  f 46    135.9 2045999.8  1.0  1.0  5  0 265851135
+[02]  G23  f 46  -1670.3 2046002.2  1.0  1.0  5  0 265851130
+[03]  G26  f 43   1222.4 2045998.4  1.0  1.0  5  0 265851132
+[04]  G04  7 36  -3630.8 2046004.7  1.0  1.0  5  0        18
+[16]  B07  1  7   -359.8 4092000.1  0.2  0.0  1  0       640
+[17]  B10  1  7   -532.3 4092001.0 -0.1  0.0  1  0       228
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+
+$GPGSV,2,1,05,09,00,000,39,16,00,000,46,23,00,000,46,26,00,000,43*79
+
+$GPGSV,2,2,05,04,00,000,36*4D
+
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+
+EndT:        0
+sat54 = 3282 2049 1295 -2500
+
+sat54 = 3759 2113 1298 -2500
+
+sat55 = 11287 1760 1297 500
+ch18 satid=55 freq = 500 acq ok1!
+
+sat56 = 3138 1699 1293 -2500
+
+sat56 = 3075 1563 1294 1000
+
+sat57 = 3397 2773 1283 -2250
+
+sat57 = 3436 2837 1284 -2500
+
+sat58 = 2978 1187 1285 -2250
+
+sat58 = 3095 3379 1285 2750
+
+sat59 = 3306 1449 1304 -3750
+
+
+【ERROR】Cannot close COM port read threadsat59 = 3315 3341 1304 2000
+

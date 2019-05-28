@@ -1,0 +1,6968 @@
+FlashID=0x1 0x20 0x18
+BBram_blkflag1: 4648: b9b7
+FW Ver: 1.30  
+GPS00 Init Dop:   5000, 40
+GPS01 Init Dop:   5000, 40
+GPS02 Init Dop:   5000, 40
+GPS03 Init Dop:   5000, 40
+GPS04 Init Dop:   5000, 40
+GPS05 Init Dop:   5000, 40
+GPS06 Init Dop:   5000, 40
+GPS07 Init Dop:   5000, 40
+GPS08 Init Dop:   5000, 40
+GPS09 Init Dop:   5000, 40
+GPS10 Init Dop:   5000, 40
+GPS11 Init Dop:   5000, 40
+GPS12 Init Dop:   5000, 40
+GPS13 Init Dop:   5000, 40
+GPS14 Init Dop:   5000, 40
+GPS15 Init Dop:   5000, 40
+GPS16 Init Dop:   5000, 40
+GPS17 Init Dop:   5000, 40
+GPS18 Init Dop:   5000, 40
+GPS19 Init Dop:   5000, 40
+GPS20 Init Dop:   5000, 40
+GPS21 Init Dop:   5000, 40
+GPS22 Init Dop:   5000, 40
+GPS23 Init Dop:   5000, 40
+GPS24 Init Dop:   5000, 40
+GPS25 Init Dop:   5000, 40
+GPS26 Init Dop:   5000, 40
+GPS27 Init Dop:   5000, 40
+GPS28 Init Dop:   5000, 40
+GPS29 Init Dop:   5000, 40
+GPS30 Init Dop:   5000, 40
+GPS31 Init Dop:   5000, 40
+BDS00 Init Dop:   5000, 40
+BDS01 Init Dop:   5000, 40
+BDS02 Init Dop:   5000, 40
+BDS03 Init Dop:   5000, 40
+BDS04 Init Dop:   5000, 40
+BDS05 Init Dop:   5000, 40
+BDS06 Init Dop:   5000, 40
+BDS07 Init Dop:   5000, 40
+BDS08 Init Dop:   5000, 40
+BDS09 Init Dop:   5000, 40
+BDS10 Init Dop:   5000, 40
+BDS11 Init Dop:   5000, 40
+BDS12 Init Dop:   5000, 40
+BDS13 Init Dop:   5000, 40
+BDS14 Init Dop:   5000, 40
+BDS15 Init Dop:   5000, 40
+BDS16 Init Dop:   5000, 40
+BDS17 Init Dop:   5000, 40
+BDS18 Init Dop:   5000, 40
+BDS19 Init Dop:   5000, 40
+BDS20 Init Dop:   5000, 40
+BDS21 Init Dop:   5000, 40
+BDS22 Init Dop:   5000, 40
+BDS23 Init Dop:   5000, 40
+BDS24 Init Dop:   5000, 40
+BDS25 Init Dop:   5000, 40
+BDS26 Init Dop:   5000, 40
+BDS27 Init Dop:   5000, 40
+BDS28 Init Dop:   5000, 40
+BDS29 Init Dop:   5000, 40
+BDS30 Init Dop:   5000, 40
+BDS31 Init Dop:   5000, 40
+good luck!
+FlashID=0x1 0x20 0x18
+BBram_blkflag1: 4648: b9b7
+FW Ver: 1.30  
+GPS00 Init Dop:   5000, 40
+GPS01 Init Dop:   5000, 40
+GPS02 Init Dop:   5000, 40
+GPS03 Init Dop:   5000, 40
+GPS04 Init Dop:   5000, 40
+GPS05 Init Dop:   5000, 40
+GPS06 Init Dop:   5000, 40
+GPS07 Init Dop:   5000, 40
+GPS08 Init Dop:   5000, 40
+GPS09 Init Dop:   5000, 40
+GPS10 Init Dop:   5000, 40
+GPS11 Init Dop:   5000, 40
+GPS12 Init Dop:   5000, 40
+GPS13 Init Dop:   5000, 40
+GPS14 Init Dop:   5000, 40
+GPS15 Init Dop:   5000, 40
+GPS16 Init Dop:   5000, 40
+GPS17 Init Dop:   5000, 40
+GPS18 Init Dop:   5000, 40
+GPS19 Init Dop:   5000, 40
+GPS20 Init Dop:   5000, 40
+GPS21 Init Dop:   5000, 40
+GPS22 Init Dop:   5000, 40
+GPS23 Init Dop:   5000, 40
+GPS24 Init Dop:   5000, 40
+GPS25 Init Dop:   5000, 40
+GPS26 Init Dop:   5000, 40
+GPS27 Init Dop:   5000, 40
+GPS28 Init Dop:   5000, 40
+GPS29 Init Dop:   5000, 40
+GPS30 Init Dop:   5000, 40
+GPS31 Init Dop:   5000, 40
+BDS00 Init Dop:   5000, 40
+BDS01 Init Dop:   5000, 40
+BDS02 Init Dop:   5000, 40
+BDS03 Init Dop:   5000, 40
+BDS04 Init Dop:   5000, 40
+BDS05 Init Dop:   5000, 40
+BDS06 Init Dop:   5000, 40
+BDS07 Init Dop:   5000, 40
+BDS08 Init Dop:   5000, 40
+BDS09 Init Dop:   5000, 40
+BDS10 Init Dop:   5000, 40
+BDS11 Init Dop:   5000, 40
+BDS12 Init Dop:   5000, 40
+BDS13 Init Dop:   5000, 40
+BDS14 Init Dop:   5000, 40
+BDS15 Init Dop:   5000, 40
+BDS16 Init Dop:   5000, 40
+BDS17 Init Dop:   5000, 40
+BDS18 Init Dop:   5000, 40
+BDS19 Init Dop:   5000, 40
+BDS20 Init Dop:   5000, 40
+BDS21 Init Dop:   5000, 40
+BDS22 Init Dop:   5000, 40
+BDS23 Init Dop:   5000, 40
+BDS24 Init Dop:   5000, 40
+BDS25 Init Dop:   5000, 40
+BDS26 Init Dop:   5000, 40
+BDS27 Init Dop:   5000, 40
+BDS28 Init Dop:   5000, 40
+BDS29 Init Dop:   5000, 40
+BDS30 Init Dop:   5000, 40
+BDS31 Init Dop:   5000, 40
+good luck!
+ch0 satid=1,max_freq = -4250,max_mean = 2879,max_phase = 1810,max_value = 12516,acq ok1!
+acq ok1 timeH = 0,timeL = 24046650,time_stage = 5
+ch1 satid=3,max_freq = 1250,max_mean = 5133,max_phase = 1625,max_value = 195272,acq ok1!
+acq ok1 timeH = 0,timeL = 27038897,time_stage = 2
+ch2 satid=6,max_freq = 3500,max_mean = 5194,max_phase = 402,max_value = 190434,acq ok1!
+acq ok1 timeH = 0,timeL = 33003760,time_stage = 1
+ch3 satid=7,max_freq = 1500,max_mean = 5005,max_phase = 566,max_value = 115346,acq ok1!
+acq ok1 timeH = 0,timeL = 35555244,time_stage = 2
+---00000001--- Acq_st=3 2019-5-20 03:03:28 
+[00]  G02  1  7   4264.7 2045995.0 -0.1  0.0  1  0         0
+[01]  G04  1 23  -1190.6 2046001.8  0.0  0.0  1  0         0
+[02]  G07  1  7  -3504.1 2046006.3 -0.1  0.0  1  0         0
+[03]  G08  1  7  -1377.3 2046003.0  0.0  0.0  1  0         0
+ch4 satid=8,max_freq = 0,max_mean = 5157,max_phase = 35,max_value = 247507,acq ok1!
+acq ok1 timeH = 0,timeL = 38106326,time_stage = 3
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+ch5 satid=15,max_freq = -1250,max_mean = 5070,max_phase = 1915,max_value = 45650,acq ok1!
+acq ok1 timeH = 0,timeL = 53431928,time_stage = 4
+---00000002--- Acq_st=3 2019-5-20 03:03:29 
+[00]  G02  1  7   4080.4 2045995.0 -0.1  0.0  1  0        10
+[01]  G04  7 23  -1183.5 2046001.5  0.4  0.0 20  0         8
+[02]  G07  1 31  -3530.3 2046005.5  0.2  0.0  1  0        15
+[03]  G08  1 28  -1386.8 2046002.4  0.0  0.0  1  0         5
+[04]  G09  1 29     -5.5 2046000.0  0.0  0.0  1  0         0
+[05]  G16  1  7   1235.6 2046000.5 -0.1  0.0  1  0         0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,1,1,01,04,00,000,23*4D
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+ch6 satid=20,max_freq = -2000,max_mean = 5153,max_phase = 830,max_value = 22628,acq ok1!
+acq ok1 timeH = 0,timeL = 64077362,time_stage = 4
+---00000003--- Acq_st=3 2019-5-20 03:03:30 
+[00]  G02  1  7   4075.6 2045995.1  0.1  0.0  1  0        10
+[01]  G04  7 46  -1181.6 2046001.5  0.9  1.0  5  0        19
+[02]  G07  7 37  -3528.9 2046004.5  1.0  1.0  5  0        15
+[03]  G08  7 34  -1385.2 2046001.7  0.8  1.0  5  0         5
+[04]  G09  7 32     -4.7 2046000.0  0.7  1.0  5  0        13
+[05]  G16  1 29   1196.2 2045998.5 -0.0  0.0  1  0        17
+[06]  G21  1 23   2051.8 2045998.2  0.0  0.0  1  0         0
+ch7 satid=26,max_freq = -1000,max_mean = 5040,max_phase = 1220,max_value = 94064,acq ok1!
+acq ok1 timeH = 0,timeL = 76851902,time_stage = 4
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,1,1,04,04,00,000,46,07,00,000,37,08,00,000,34,09,00,000,32*7F
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch16 satid=37,max_freq = -1500,max_mean = 1063,max_phase = 3391,max_value = 4731,acq ok1!
+acq ok1 timeH = 0,timeL = 90278581,time_stage = 4
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch17 satid=38,max_freq = -1500,max_mean = 1223,max_phase = 3258,max_value = 5058,acq ok1!
+acq ok1 timeH = 0,timeL = 93462634,time_stage = 4
+---00000004--- Acq_st=3 2019-5-20 03:03:31 
+[01]  G04  f 45  -1179.8 2046001.5  1.0  1.0  5  0        19
+[02]  G07  f 45  -3527.7 2046004.5  1.0  1.0  5  0        19
+[03]  G08  f 42  -1383.3 2046001.7  1.0  1.0  5  0         8
+[04]  G09  f 47     -3.0 2046000.0  1.0  1.0  5  0         1
+[05]  G16  7 34   1197.6 2045998.4  0.8  1.0  5  0        17
+[06]  G21  7 24   2066.0 2045997.2  0.2  0.0 20  0         2
+[07]  G27  1 26    924.4 2045999.2  0.1  0.0  1  0         0
+[16]  B01  1 10   1539.2 4091996.9 -0.1  0.0  1  0         0
+[17]  B02  1 10   1570.7 4091997.4 -0.0  0.0  1  0         0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,06,04,00,000,45,07,00,000,45,08,00,000,42,09,00,000,47*7B
+$GPGSV,2,2,06,16,00,000,34,21,00,000,24*7A
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch18 satid=39,max_freq = -750,max_mean = 1165,max_phase = 3703,max_value = 4794,acq ok1!
+acq ok1 timeH = 0,timeL = 96330185,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch19 satid=40,max_freq = 1500,max_mean = 1123,max_phase = 3399,max_value = 4545,acq ok1!
+acq ok1 timeH = 0,timeL = 98881253,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch20 satid=41,max_freq = 1250,max_mean = 1319,max_phase = 4020,max_value = 6244,acq ok1!
+acq ok1 timeH = 0,timeL = 102065302,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch21 satid=42,max_freq = 1250,max_mean = 1111,max_phase = 3415,max_value = 5377,acq ok1!
+acq ok1 timeH = 0,timeL = 105249341,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch22 satid=43,max_freq = -500,max_mean = 1043,max_phase = 2628,max_value = 7031,acq ok1!
+acq ok1 timeH = 0,timeL = 109066358,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch23 satid=44,max_freq = -2750,max_mean = 1195,max_phase = 2553,max_value = 5103,acq ok1!
+acq ok1 timeH = 0,timeL = 112883370,time_stage = 4
+---00000005--- Acq_st=3 2019-5-20 03:03:32 
+[01]  G04  f 45  -1178.2 2046001.5  1.0  1.0  5  0  97429399
+[02]  G07  f 45  -3526.4 2046004.5  1.0  1.0  5  0  97429399
+[03]  G08  f 43  -1382.2 2046001.8  1.0  1.0  5  0  97429408
+[04]  G09  f 47     -1.3 2046000.0  1.0  1.0  5  0  97429401
+[05]  G16  7 37   1199.3 2045998.5  1.0  1.0  5  0         4
+[06]  G21  7 36   2067.6 2045997.3  0.9  1.0  5  0        11
+[07]  G27  7 32    925.6 2045998.7  0.6  1.0  5  0        18
+[16]  B01  1 10   1552.6 4091996.4  0.1  0.0  1  0       276
+[17]  B02  1 10   1574.1 4091997.2  0.2  0.0  1  0       110
+[18]  B03  1 10    583.7 4091999.5 -0.2  0.0  1  0         0
+[19]  B04  1 10  -1527.9 4092002.6 -0.1  0.0  1  0         0
+[20]  B05  1 10  -1455.0 4092003.2 -0.0  0.0  1  0         0
+[21]  B06  1  7  -1162.6 4092003.5  0.1  0.0  1  0         0
+[22]  B07  1  7    504.4 4091999.0 -0.0  0.0  1  0         0
+[23]  B08  1  7   2839.6 4091993.0  0.0  0.0  1  0         0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,45,07,00,000,45,08,00,000,43,09,00,000,47*7B
+$GPGSV,2,2,07,16,00,000,37,21,00,000,36,27,00,000,32*4F
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch24 satid=45,max_freq = 2500,max_mean = 1146,max_phase = 2778,max_value = 4975,acq ok1!
+acq ok1 timeH = 0,timeL = 114484981,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch25 satid=46,max_freq = -500,max_mean = 1128,max_phase = 2765,max_value = 11831,acq ok1!
+acq ok1 timeH = 0,timeL = 118618486,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch26 satid=47,max_freq = 4500,max_mean = 1087,max_phase = 3217,max_value = 4784,acq ok1!
+acq ok1 timeH = 0,timeL = 120219698,time_stage = 1
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch27 satid=48,max_freq = 500,max_mean = 1213,max_phase = 2678,max_value = 4996,acq ok1!
+acq ok1 timeH = 0,timeL = 124670078,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch28 satid=49,max_freq = 3250,max_mean = 1353,max_phase = 3435,max_value = 5757,acq ok1!
+acq ok1 timeH = 0,timeL = 126904680,time_stage = 1
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch29 satid=50,max_freq = 1250,max_mean = 1269,max_phase = 2319,max_value = 5579,acq ok1!
+acq ok1 timeH = 0,timeL = 130721682,time_stage = 2
+---00000006--- Acq_st=3 2019-5-20 03:03:33 
+[01]  G04  f 46  -1177.3 2046001.5  1.0  1.0  5  0  97430399
+[02]  G07  f 45  -3526.3 2046004.5  1.0  1.0  5  0  97430399
+[03]  G08  f 42  -1381.1 2046001.8  1.0  1.0  5  0  97430408
+[04]  G09  f 46     -0.8 2046000.0  1.0  1.0  5  0  97430401
+[05]  G16  7 37   1199.4 2045998.5  1.0  1.0  5  0         4
+[06]  G21  7 36   2067.7 2045997.3  1.0  1.0  5  0        11
+[07]  G27  7 42    925.8 2045998.8  1.0  1.0  5  0         9
+[16]  B01  1 10   1624.6 4091998.0  0.0  0.0  1  0      1276
+[17]  B02  1 10   1527.6 4091997.6  0.0  0.0  1  0      1110
+[18]  B03  1 10    546.5 4092000.0 -0.0  0.0  1  0       945
+[19]  B04  1 59  -1318.0 4092002.4  0.1  0.0  1  0       778
+[20]  B05  1 10  -1481.3 4092003.1 -0.1  0.0  1  0       613
+[21]  B06  1  7   -944.2 4092003.0  0.0  0.0  1  0       447
+[22]  B07  1 11    276.4 4091999.0 -0.0  0.0  1  0       281
+[23]  B08  1  7   3054.8 4091993.1 -0.1  0.0  1  0       115
+[24]  B09  1  7  -2860.9 4092006.1  0.1  0.0  1  0         0
+[25]  B10  1  7    517.8 4091999.1  0.0  0.0  1  0         0
+[26]  B11  1  7  -4578.2 4092010.5  0.0  0.0  1  0         0
+[27]  B12  1  7   -413.7 4092001.3  0.2  0.0  1  0         0
+[28]  B13  1  7  -3418.7 4092008.2  0.0  0.0  1  0         0
+[29]  B14  1  7  -1206.1 4092002.9 -0.0  0.0  1  0         0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch30 satid=51,max_freq = 2250,max_mean = 1165,max_phase = 2715,max_value = 4760,acq ok1!
+acq ok1 timeH = 0,timeL = 133589238,time_stage = 2
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,46,07,00,000,45,08,00,000,42,09,00,000,46*78
+$GPGSV,2,2,07,16,00,000,37,21,00,000,36,27,00,000,42*48
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch31 satid=52,max_freq = 2500,max_mean = 1185,max_phase = 2429,max_value = 5091,acq ok1!
+acq ok1 timeH = 0,timeL = 136773292,time_stage = 2
+---00000007--- Acq_st=5 2019-5-20 03:03:34 
+[01]  G04  f 46  -1177.6 2046001.5  1.0  1.0  5  0  97431399
+[02]  G07  f 45  -3527.0 2046004.6  1.0  1.0  5  0  97431399
+[03]  G08  f 43  -1381.5 2046001.8  1.0  1.0  5  0  97431408
+[04]  G09  f 47     -1.0 2046000.0  1.0  1.0  5  0  97431401
+[05]  G16  7 38   1198.5 2045998.5  1.0  1.0  5  0         4
+[06]  G21  7 36   2067.4 2045997.3  1.0  1.0  5  0        11
+[07]  G27  7 41    925.5 2045998.8  1.0  1.0  5  0         9
+[16]  B01  1 10   1596.8 4091998.8 -0.1  0.0  1  0      2276
+[17]  B02  1 10   1543.7 4091998.1  0.0  0.0  1  0      2110
+[18]  B03  1 10    650.7 4091999.9 -0.3  0.0  1  0      1945
+[19]  B04  1 10  -1335.8 4092002.7 -0.0  0.0  1  0      1778
+[20]  B05  1 10  -1473.2 4092003.8 -0.1  0.0  1  0      1613
+[21]  B06  1  7   -974.8 4092002.9  0.1  0.0  1  0      1447
+[22]  B07  1  7    -14.7 4091999.2 -0.0  0.0  1  0      1281
+[23]  B08  1  7   3049.0 4091993.2 -0.0  0.0  1  0      1115
+[24]  B09  1 10  -2942.4 4092006.1 -0.1  0.0  1  0       950
+[25]  B10  1  7    330.9 4091999.5  0.1  0.0  1  0       783
+[26]  B11  1  7  -4395.8 4092011.1 -0.0  0.0  1  0       618
+[27]  B12  1  7   -371.7 4092001.3 -0.0  0.0  1  0       452
+[28]  B13  1  8  -3452.7 4092008.1 -0.0  0.0  1  0       286
+[29]  B14  1  7  -1473.6 4092003.5 -0.1  0.0  1  0       120
+[30]  B15  1  7  -2565.5 4092005.0 -0.1  0.0  1  0         0
+[31]  B16  1  7  -2598.3 4092006.4  0.0  0.0  1  0         0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,46,07,00,000,45,08,00,000,43,09,00,000,47*78
+$GPGSV,2,2,07,16,00,000,38,21,00,000,36,27,00,000,41*44
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch16 satid=53,max_freq = -1750,max_mean = 1140,max_phase = 2288,max_value = 4900,acq ok1!
+acq ok1 timeH = 0,timeL = 156874945,time_stage = 4
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch17 satid=54,max_freq = -4750,max_mean = 1236,max_phase = 2568,max_value = 5246,acq ok1!
+acq ok1 timeH = 0,timeL = 161008446,time_stage = 5
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch18 satid=55,max_freq = -2500,max_mean = 1161,max_phase = 2256,max_value = 5014,acq ok1!
+acq ok1 timeH = 0,timeL = 163559513,time_stage = 4
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch19 satid=56,max_freq = 500,max_mean = 1164,max_phase = 2617,max_value = 5205,acq ok1!
+acq ok1 timeH = 0,timeL = 165813286,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch20 satid=57,max_freq = 500,max_mean = 976,max_phase = 3943,max_value = 3988,acq ok1!
+acq ok1 timeH = 0,timeL = 168997326,time_stage = 3
+---00000008--- Acq_st=3 2019-5-20 03:03:35 
+[01]  G04  f 45  -1177.9 2046001.5  1.0  1.0  5  0  97432399
+[02]  G07  f 45  -3527.5 2046004.6  1.0  1.0  5  0  97432399
+[03]  G08  f 43  -1381.7 2046001.8  1.0  1.0  5  0  97432408
+[04]  G09  f 47     -1.1 2046000.0  1.0  1.0  5  0  97432401
+[05]  G16  7 37   1198.0 2045998.4  1.0  1.0  5  0         4
+[06]  G21  7 36   2067.5 2045997.3  1.0  1.0  5  0        11
+[07]  G27  7 41    925.4 2045998.8  1.0  1.0  5  0         9
+[16]  B17  1  7   1478.8 4091995.9  0.1  0.0  1  0      3276
+[17]  B18  1  7   4685.7 4091988.0 -0.1  0.0  1  0      3110
+[18]  B19  1  7   2663.0 4091994.1 -0.0  0.0  1  0      2945
+[19]  B20  1  7   -459.3 4092001.3  0.1  0.0  1  0      2778
+[20]  B21  1  7   -513.6 4092000.9  0.1  0.0  1  0      2613
+[22]  B07  1  7     56.7 4091999.4 -0.1  0.0  1  0      2281
+[23]  B08  1  8   3078.5 4091993.0  0.2  0.0  1  0      2115
+[24]  B09  1 11  -2966.4 4092005.7 -0.1  0.0  1  0      1950
+[25]  B10  1  7    157.4 4091999.6 -0.0  0.0  1  0      1783
+[26]  B11  1  7  -4531.1 4092010.9 -0.3  0.0  1  0      1618
+[27]  B12  1  7   -383.8 4092000.7  0.0  0.0  1  0      1452
+[28]  B13  1  7  -3424.9 4092008.4  0.0  0.0  1  0      1286
+[29]  B14  1  7  -1414.9 4092003.1  0.0  0.0  1  0      1120
+[30]  B15  1  7  -2473.0 4092004.8 -0.0  0.0  1  0       955
+[31]  B16  1  7  -2611.0 4092006.0  0.1  0.0  1  0       789
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,45,07,00,000,45,08,00,000,43,09,00,000,47*7B
+$GPGSV,2,2,07,16,00,000,37,21,00,000,36,27,00,000,41*4B
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch21 satid=59,max_freq = 1250,max_mean = 1200,max_phase = 2502,max_value = 5256,acq ok1!
+acq ok1 timeH = 0,timeL = 175048936,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch22 satid=62,max_freq = 2500,max_mean = 1086,max_phase = 2803,max_value = 6283,acq ok1!
+acq ok1 timeH = 0,timeL = 184284561,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch23 satid=63,max_freq = 4500,max_mean = 1134,max_phase = 2797,max_value = 5118,acq ok1!
+acq ok1 timeH = 0,timeL = 186835238,time_stage = 1
+---00000009--- Acq_st=3 2019-5-20 03:03:36 
+[01]  G04  f 46  -1178.3 2046001.5  1.0  1.0  5  0  97433399
+[02]  G07  f 45  -3528.3 2046004.6  1.0  1.0  5  0  97433399
+[03]  G08  f 43  -1382.2 2046001.8  1.0  1.0  5  0  97433408
+[04]  G09  f 47     -1.6 2046000.0  1.0  1.0  5  0  97433401
+[05]  G16  7 38   1197.0 2045998.4  1.0  1.0  5  0         4
+[06]  G21  7 36   2066.0 2045997.3  1.0  1.0  5  0        11
+[07]  G27  7 41    924.8 2045998.8  1.0  1.0  5  0         9
+[16]  B17  1  7   1540.1 4091996.0  0.0  0.0  1  0       808
+[17]  B18  1  7   4612.4 4091988.2  0.0  0.0  1  0       642
+[18]  B19  1  8   2619.0 4091993.5 -0.0  0.0  1  0       476
+[19]  B20  1  7   -380.5 4092001.2  0.1  0.0  1  0       309
+[20]  B21  1  7   -745.0 4092001.3  0.2  0.0  1  0       143
+[21]  B23  1  7  -1193.0 4092003.0  0.0  0.0  1  0      2447
+[22]  B26  1  7  -2601.9 4092005.9  0.0  0.0  1  0      3281
+[23]  B27  1  7  -4565.6 4092011.1  0.0  0.0  1  0      3115
+[28]  B13  1  9  -3478.7 4092008.2  0.2  0.0  1  0      2286
+[29]  B14  1 13  -1448.8 4092003.1  0.1  0.0  1  0      2120
+[30]  B15  1  7  -2537.2 4092005.3  0.0  0.0  1  0      1955
+[31]  B16  1  7  -2383.4 4092006.0  0.1  0.0  1  0      1789
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch24 satid=64,max_freq = -4500,max_mean = 1287,max_phase = 3749,max_value = 5244,acq ok1!
+acq ok1 timeH = 0,timeL = 192868066,time_stage = 5
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,46,07,00,000,45,08,00,000,43,09,00,000,47*78
+$GPGSV,2,2,07,16,00,000,38,21,00,000,36,27,00,000,41*44
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch25 satid=65,max_freq = -750,max_mean = 1249,max_phase = 3102,max_value = 5037,acq ok1!
+acq ok1 timeH = 0,timeL = 194786156,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch26 satid=66,max_freq = -3500,max_mean = 1181,max_phase = 2516,max_value = 5064,acq ok1!
+acq ok1 timeH = 0,timeL = 198919657,time_stage = 5
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+---00000010--- Acq_st=7 2019-5-20 03:03:37 
+[01]  G04  f 46  -1178.2 2046001.5  1.0  1.0  5  0  97434399
+[02]  G07  f 45  -3528.9 2046004.6  1.0  1.0  5  0  97434399
+[03]  G08  f 43  -1381.7 2046001.8  1.0  1.0  5  0  97434408
+[04]  G09  f 47     -1.5 2046000.0  1.0  1.0  5  0  97434401
+[05]  G16  f 38   1196.2 2045998.4  1.0  1.0  5  0         4
+[06]  G21  f 35   2066.7 2045997.2  1.0  1.0  5  0        11
+[07]  G27  f 41    924.7 2045998.8  1.0  1.0  5  0         9
+[16]  B17  1 10   1357.7 4091996.2  0.0  0.0  1  0      1808
+[17]  B18  1  7   4568.0 4091987.8 -0.0  0.0  1  0      1642
+[18]  B19  1  7   2572.7 4091993.9 -0.0  0.0  1  0      1476
+[19]  B20  1  8   -551.0 4092001.2 -0.0  0.0  1  0      1309
+[20]  B21  1  7   -865.6 4092000.6  0.1  0.0  1  0      1143
+[21]  B23  1  7  -1278.5 4092002.8  0.0  0.0  1  0       811
+[22]  B26  1  7  -2608.3 4092006.4  0.3  0.0  1  0       314
+[23]  B27  1  7  -4796.8 4092011.1 -0.1  0.0  1  0       148
+[24]  B28  1  7   4636.6 4091988.8  0.2  0.0  1  0      2950
+[25]  B29  1  7    488.1 4091998.8 -0.2  0.0  1  0      2783
+[26]  B30  1  7   3448.8 4091990.8 -0.1  0.0  1  0      2618
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,46,07,00,000,45,08,00,000,43,09,00,000,47*78
+$GPGSV,2,2,07,16,00,000,38,21,00,000,35,27,00,000,41*47
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+---00000011--- Acq_st=4 2019-5-20 03:03:38 
+[01]  G04  f 46  -1176.9 2046001.5  1.0  1.0  5  0  97435399
+[02]  G07  f 45  -3528.5 2046004.6  1.0  1.0  5  0  97435399
+[03]  G08  f 43  -1381.4 2046001.8  1.0  1.0  5  0  97435408
+[04]  G09  f 47     -0.3 2046000.0  1.0  1.0  5  0  97435401
+[05]  G16  f 38   1197.1 2045998.4  1.0  1.0  5  0  97435404
+[06]  G21  f 36   2067.4 2045997.3  1.0  1.0  5  0  97435391
+[07]  G27  f 40    925.3 2045998.8  1.0  1.0  5  0  97435409
+[19]  B20  1  7   -566.1 4092001.1  0.0  0.0  1  0      2309
+[20]  B21  1  7   -940.5 4092001.1 -0.0  0.0  1  0      2143
+[21]  B23  1  7  -1402.9 4092003.1  0.1  0.0  1  0      1811
+[22]  B26  1  7  -2561.3 4092005.9 -0.0  0.0  1  0      1314
+[23]  B27  1  7  -4939.9 4092011.3  0.1  0.0  1  0      1148
+[24]  B28  1  7   4459.9 4091989.0  0.1  0.0  1  0       982
+[25]  B29  1  7    566.7 4091999.3  0.1  0.0  1  0       816
+[26]  B30  1  7   3481.8 4091990.6  0.1  0.0  1  0       651
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,46,07,00,000,45,08,00,000,43,09,00,000,47*78
+$GPGSV,2,2,07,16,00,000,38,21,00,000,36,27,00,000,40*45
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+---00000012--- Acq_st=5 2019-5-20 03:03:39 
+[01]  G04  f 45  -1176.1 2046001.5  1.0  1.0  5  0  97436399
+[02]  G07  f 44  -3527.6 2046004.6  1.0  1.0  5  0  97436399
+[03]  G08  f 43  -1380.1 2046001.8  1.0  1.0  5  0  97436408
+[04]  G09  f 43      0.4 2046000.0  1.0  1.0  5  0  97436401
+[05]  G16  f 43   1197.7 2045998.4  1.0  1.0  5  0  97436404
+[06]  G21  f 38   2067.4 2045997.3  1.0  1.0  5  0  97436391
+[07]  G27  f 42    926.8 2045998.8  1.0  1.0  5  0  97436409
+[22]  B26  1  7  -2463.7 4092006.1  0.1  0.0  1  0      2314
+[23]  B27  1  7  -4938.1 4092011.0  0.1  0.0  1  0      2148
+[24]  B28  1  7   4568.7 4091988.9  0.0  0.0  1  0      1982
+[25]  B29  1  9    454.7 4091998.2 -0.1  0.0  1  0      1816
+[26]  B30  1  7   3464.6 4091991.1  0.0  0.0  1  0      1651
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,45,07,00,000,44,08,00,000,43,09,00,000,43*7E
+$GPGSV,2,2,07,16,00,000,43,21,00,000,38,27,00,000,42*45
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch16 satid=37,max_freq = -1500,max_mean = 1179,max_phase = 2831,max_value = 4912,acq ok1!
+acq ok1 timeH = 0,timeL = 266983349,time_stage = 4
+---00000013--- Acq_st=3 2019-5-20 03:03:40 
+[01]  G04  f 45  -1175.4 2046001.5  1.0  1.0  5  0  97437399
+[02]  G07  f 45  -3527.3 2046004.6  1.0  1.0  5  0  97437399
+[03]  G08  f 43  -1379.5 2046001.8  1.0  1.0  5  0  97437408
+[04]  G09  f 43      0.9 2046000.0  1.0  1.0  5  0  97437401
+[05]  G16  f 44   1197.8 2045998.4  1.0  1.0  5  0  97437404
+[06]  G21  f 39   2068.6 2045997.3  1.0  1.0  5  0  97437391
+[07]  G27  f 42    927.0 2045998.8  1.0  1.0  5  0  97437409
+[16]  B01  1 10   1478.6 4091996.0 -0.0  0.0  1  0      2808
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,45,07,00,000,45,08,00,000,43,09,00,000,43*7F
+$GPGSV,2,2,07,16,00,000,44,21,00,000,39,27,00,000,42*43
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch17 satid=38,max_freq = -1500,max_mean = 1278,max_phase = 2783,max_value = 5223,acq ok1!
+acq ok1 timeH = 0,timeL = 270167398,time_stage = 4
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch18 satid=41,max_freq = -500,max_mean = 1337,max_phase = 3276,max_value = 6162,acq ok1!
+acq ok1 timeH = 0,timeL = 279403042,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch19 satid=42,max_freq = 1250,max_mean = 1191,max_phase = 2799,max_value = 5266,acq ok1!
+acq ok1 timeH = 0,timeL = 281954105,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch20 satid=43,max_freq = 250,max_mean = 1133,max_phase = 2873,max_value = 10121,acq ok1!
+acq ok1 timeH = 0,timeL = 285454642,time_stage = 3
+---00000014--- Acq_st=3 2019-5-20 03:03:41 
+[01]  G04  f 44  -1174.2 2046001.5  1.0  1.0  5  0  97438399
+[02]  G07  f 45  -3527.0 2046004.6  1.0  1.0  5  0  97438399
+[03]  G08  f 43  -1378.6 2046001.8  1.0  1.0  5  0  97438408
+[04]  G09  f 43      2.1 2046000.0  1.0  1.0  5  0  97438401
+[05]  G16  f 44   1198.2 2045998.4  1.0  1.0  5  0  97438404
+[06]  G21  f 38   2068.8 2045997.3  1.0  1.0  5  0  97438391
+[07]  G27  f 42    928.0 2045998.8  1.0  1.0  5  0  97438409
+[16]  B01  1 10   1520.6 4091996.8 -0.0  0.0  1  0        73
+[17]  B02  1 10   1471.3 4091997.0  0.1  0.0  1  0      2642
+[18]  B05  1 10    528.3 4091998.8  0.1  0.0  1  0      2476
+[19]  B06  1  7  -1198.8 4092003.0 -0.1  0.0  1  0      2309
+[20]  B07  1  7   -293.0 4091999.9 -0.0  0.0  1  0      3143
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,44,07,00,000,45,08,00,000,43,09,00,000,43*7E
+$GPGSV,2,2,07,16,00,000,44,21,00,000,38,27,00,000,42*42
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        1
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch21 satid=44,max_freq = -2500,max_mean = 1245,max_phase = 2957,max_value = 5074,acq ok1!
+acq ok1 timeH = 0,timeL = 289588149,time_stage = 4
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch22 satid=46,max_freq = 500,max_mean = 1206,max_phase = 3005,max_value = 24490,acq ok1!
+acq ok1 timeH = 0,timeL = 295006772,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch23 satid=48,max_freq = 2500,max_mean = 1254,max_phase = 3550,max_value = 5504,acq ok1!
+acq ok1 timeH = 0,timeL = 300741888,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+---00000015--- Acq_st=3 2019-5-20 03:03:42 
+[01]  G04  f 44  -1172.7 2046001.5  1.0  1.0  5  0  97439399
+[02]  G07  f 46  -3525.8 2046004.6  1.0  1.0  5  0  97439399
+[03]  G08  f 43  -1377.1 2046001.8  1.0  1.0  5  0  97439408
+[04]  G09  f 43      4.2 2046000.0  1.0  1.0  5  0  97439401
+[05]  G16  f 44   1199.5 2045998.4  1.0  1.0  5  0  97439404
+[06]  G21  f 38   2070.6 2045997.3  1.0  1.0  5  0  97439391
+[07]  G27  f 42    929.7 2045998.8  1.0  1.0  5  0  97439409
+[16]  B01  1 10   1553.5 4091998.1 -0.1  0.0  1  0      1073
+[17]  B02  1 10   1543.7 4091996.5 -0.1  0.0  1  0       907
+[18]  B05  1 10    497.8 4091998.6 -0.0  0.0  1  0       409
+[19]  B06  1  7   -952.3 4092002.8  0.3  0.0  1  0       243
+[20]  B07  1  8    -98.4 4091999.8  0.1  0.0  1  0        78
+[21]  B08  1  7   2646.0 4091994.0  0.2  0.0  1  0      2811
+[22]  B10  1  7   -587.6 4092001.1 -0.0  0.0  1  0      2314
+[23]  B12  1  7  -2527.5 4092005.9 -0.1  0.0  1  0      3148
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,44,07,00,000,46,08,00,000,43,09,00,000,43*7D
+$GPGSV,2,2,07,16,00,000,44,21,00,000,38,27,00,000,42*42
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch24 satid=51,max_freq = -3750,max_mean = 1220,max_phase = 2266,max_value = 5142,acq ok1!
+acq ok1 timeH = 0,timeL = 312192930,time_stage = 5
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch25 satid=60,max_freq = 4250,max_mean = 1199,max_phase = 2223,max_value = 5123,acq ok1!
+acq ok1 timeH = 0,timeL = 319212769,time_stage = 1
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+---00000016--- Acq_st=3 2019-5-20 03:03:43 
+[01]  G04  f 43  -1171.6 2046001.5  1.0  1.0  5  0  97440399
+[02]  G07  f 46  -3525.3 2046004.6  1.0  1.0  5  0  97440399
+[03]  G08  f 43  -1376.0 2046001.8  1.0  1.0  5  0  97440408
+[04]  G09  f 41      4.0 2046000.0  1.0  1.0  5  0  97440401
+[05]  G16  f 45   1200.4 2045998.4  1.0  1.0  5  0  97440404
+[06]  G21  f 39   2071.2 2045997.2  1.0  1.0  5  0  97440391
+[07]  G27  f 44    931.1 2045998.8  1.0  1.0  5  0  97440409
+[16]  B01  1 10   1502.5 4091997.8 -0.1  0.0  1  0      2073
+[17]  B02  1 10   1492.3 4091997.2 -0.0  0.0  1  0      1907
+[18]  B05  1 10    657.4 4092000.2 -0.3  0.0  1  0      1409
+[19]  B06  1  7   -813.8 4092003.1 -0.0  0.0  1  0      1243
+[20]  B07  1  9    -47.5 4092000.2  0.0  0.0  1  0      1078
+[21]  B08  1  7   2903.1 4091994.2  0.1  0.0  1  0       912
+[22]  B10  1  7   -567.8 4092001.0 -0.1  0.0  1  0       580
+[23]  B12  1  7  -2641.2 4092005.7 -0.1  0.0  1  0       248
+[24]  B15  1  7   3691.2 4091991.6 -0.2  0.0  1  0      2982
+[25]  B24  1  7  -4270.6 4092010.8  0.1  0.0  1  0      2816
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,43,07,00,000,46,08,00,000,43,09,00,000,41*78
+$GPGSV,2,2,07,16,00,000,45,21,00,000,39,27,00,000,44*44
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+---00000017--- Acq_st=7 2019-5-20 03:03:44 
+[01]  G04  f 41  -1172.6 2046001.5  1.0  1.0  5  0  97441399
+[02]  G07  f 45  -3526.8 2046004.6  1.0  1.0  5  0  97441399
+[03]  G08  f 41  -1376.9 2046001.8  1.0  1.0  5  0  97441408
+[04]  G09  f 37      4.9 2046000.0  1.0  1.0  5  0  97441401
+[05]  G16  f 46   1198.2 2045998.4  1.0  1.0  5  0  97441404
+[06]  G21  f 38   2069.3 2045997.3  1.0  1.0  5  0  97441391
+[07]  G27  f 47    929.3 2045998.8  1.0  1.0  5  0  97441409
+[19]  B06  1  7   -902.5 4092002.6 -0.2  0.0  1  0      2243
+[20]  B07  1  7    165.8 4092000.2  0.3  0.0  1  0      2078
+[21]  B08  1 10   3189.3 4091994.0  0.1  0.0  1  0      1912
+[22]  B10  1  7   -627.4 4092001.1 -0.1  0.0  1  0      1580
+[23]  B12  1  7  -2944.2 4092005.8 -0.0  0.0  1  0      1248
+[24]  B15  1  7   3599.4 4091991.1  0.2  0.0  1  0       751
+[25]  B24  1  7  -4433.8 4092010.6  0.0  0.0  1  0       254
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,41,07,00,000,45,08,00,000,41,09,00,000,37*7A
+$GPGSV,2,2,07,16,00,000,46,21,00,000,38,27,00,000,47*45
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        1
+---00000018--- Acq_st=7 2019-5-20 03:03:45 
+[01]  G04  f 43  -1173.2 2046001.5  1.0  1.0  5  0  97442399
+[02]  G07  f 45  -3527.7 2046004.6  1.0  1.0  5  0  97442399
+[03]  G08  f 43  -1377.4 2046001.7  1.0  1.0  5  0  97442408
+[04]  G09  f 40      3.4 2046000.0  1.0  1.0  5  0  97442401
+[05]  G16  f 45   1197.3 2045998.4  1.0  1.0  5  0  97442404
+[06]  G21  f 37   2068.5 2045997.2  1.0  1.0  5  0  97442391
+[07]  G27  f 43    929.6 2045998.8  1.0  1.0  5  0  97442409
+[23]  B12  1  7  -2915.5 4092006.2  0.1  0.0  1  0      2248
+[24]  B15  1  7   3607.2 4091991.2  0.1  0.0  1  0      1751
+[25]  B24  1  7  -4475.0 4092010.8 -0.0  0.0  1  0      1254
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,43,07,00,000,45,08,00,000,43,09,00,000,40*7A
+$GPGSV,2,2,07,16,00,000,45,21,00,000,37,27,00,000,43*4D
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+---00000019--- Acq_st=7 2019-5-20 03:03:46 
+[01]  G04  f 43  -1172.1 2046001.6  1.0  1.0  5  0  97443399
+[02]  G07  f 46  -3526.7 2046004.6  1.0  1.0  5  0  97443399
+[03]  G08  f 43  -1376.4 2046001.8  1.0  1.0  5  0  97443408
+[04]  G09  f 41      4.3 2046000.0  1.0  1.0  5  0  97443401
+[05]  G16  f 45   1198.3 2045998.5  1.0  1.0  5  0  97443404
+[06]  G21  f 37   2069.7 2045997.3  1.0  1.0  5  0  97443391
+[07]  G27  f 42    930.2 2045998.8  1.0  1.0  5  0  97443409
+[25]  B24  1  7  -4473.6 4092011.0 -0.1  0.0  1  0      2254
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,43,07,00,000,46,08,00,000,43,09,00,000,41*78
+$GPGSV,2,2,07,16,00,000,45,21,00,000,37,27,00,000,42*4C
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+---00000020--- Acq_st=4 2019-5-20 03:03:47 
+[01]  G04  f 44  -1173.0 2046001.5  1.0  1.0  5  0  97444399
+[02]  G07  f 46  -3528.2 2046004.6  1.0  1.0  5  0  97444399
+[03]  G08  f 43  -1377.8 2046001.8  1.0  1.0  5  0  97444408
+[04]  G09  f 46      3.6 2046000.0  1.0  1.0  5  0  97444401
+[05]  G16  f 43   1197.0 2045998.5  1.0  1.0  5  0  97444404
+[06]  G21  f 37   2068.6 2045997.3  1.0  1.0  5  0  97444391
+[07]  G27  f 41    929.4 2045998.8  1.0  1.0  5  0  97444409
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,44,07,00,000,46,08,00,000,43,09,00,000,46*78
+$GPGSV,2,2,07,16,00,000,43,21,00,000,37,27,00,000,41*49
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+---00000021--- Acq_st=5 2019-5-20 03:03:48 
+[01]  G04  f 44  -1172.5 2046001.5  1.0  1.0  5  0  97445399
+[02]  G07  f 46  -3528.4 2046004.6  1.0  1.0  5  0  97445399
+[03]  G08  f 44  -1377.4 2046001.8  1.0  1.0  5  0  97445408
+[04]  G09  f 46      4.2 2046000.0  1.0  1.0  5  0  97445401
+[05]  G16  f 43   1197.0 2045998.5  1.0  1.0  5  0  97445404
+[06]  G21  f 37   2069.1 2045997.3  1.0  1.0  5  0  97445391
+[07]  G27  f 41    929.1 2045998.8  1.0  1.0  5  0  97445409
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,44,07,00,000,46,08,00,000,44,09,00,000,46*7F
+$GPGSV,2,2,07,16,00,000,43,21,00,000,37,27,00,000,41*49
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+---00000022--- Acq_st=3 2019-5-20 03:03:49 
+[01]  G04  f 43  -1170.7 2046001.5  1.0  1.0  5  0  97446399
+[02]  G07  f 46  -3526.9 2046004.6  1.0  1.0  5  0  97446399
+[03]  G08  f 43  -1375.1 2046001.8  1.0  1.0  5  0  97446408
+[04]  G09  f 46      5.9 2046000.0  1.0  1.0  5  0  97446401
+[05]  G16  f 44   1198.2 2045998.4  1.0  1.0  5  0  97446404
+[06]  G21  f 38   2069.8 2045997.3  1.0  1.0  5  0  97446391
+[07]  G27  f 41    931.1 2045998.8  1.0  1.0  5  0  97446409
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,43,07,00,000,46,08,00,000,43,09,00,000,46*7F
+$GPGSV,2,2,07,16,00,000,44,21,00,000,38,27,00,000,41*41
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch16 satid=38,max_freq = -1500,max_mean = 1259,max_phase = 3858,max_value = 5039,acq ok1!
+acq ok1 timeH = 0,timeL = 442709928,time_stage = 4
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch17 satid=39,max_freq = 4500,max_mean = 1218,max_phase = 3207,max_value = 5191,acq ok1!
+acq ok1 timeH = 0,timeL = 443994628,time_stage = 1
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch18 satid=41,max_freq = 1250,max_mean = 1361,max_phase = 2812,max_value = 6150,acq ok1!
+acq ok1 timeH = 0,timeL = 451312590,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch19 satid=42,max_freq = 1250,max_mean = 1204,max_phase = 2680,max_value = 5081,acq ok1!
+acq ok1 timeH = 0,timeL = 454496630,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch20 satid=43,max_freq = -500,max_mean = 1148,max_phase = 2365,max_value = 9360,acq ok1!
+acq ok1 timeH = 0,timeL = 458313648,time_stage = 3
+---00000023--- Acq_st=3 2019-5-20 03:03:50 
+[01]  G04  f 43  -1167.0 2046001.5  1.0  1.0  5  0  97447399
+[02]  G07  f 46  -3523.8 2046004.6  1.0  1.0  5  0  97447399
+[03]  G08  f 43  -1371.8 2046001.8  1.0  1.0  5  0  97447408
+[04]  G09  f 46      9.7 2046000.0  1.0  1.0  5  0  97447401
+[05]  G16  f 43   1200.9 2045998.4  1.0  1.0  5  0  97447404
+[06]  G21  f 37   2073.7 2045997.4  1.0  1.0  5  0  97447391
+[07]  G27  f 42    934.5 2045998.8  1.0  1.0  5  0  97447409
+[16]  B02  1 10   1483.0 4091997.0  0.1  0.0  1  0      3073
+[17]  B03  1 10  -4467.5 4092012.0  0.2  0.0  1  0      2907
+[18]  B05  1 10  -1350.6 4092002.2  0.1  0.0  1  0      2409
+[19]  B06  1  7  -1223.0 4092002.9  0.0  0.0  1  0      3243
+[20]  B07  1  7    485.4 4091999.0 -0.0  0.0  1  0      3078
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,43,07,00,000,46,08,00,000,43,09,00,000,46*7F
+$GPGSV,2,2,07,16,00,000,43,21,00,000,37,27,00,000,42*4A
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch21 satid=46,max_freq = -500,max_mean = 1216,max_phase = 2499,max_value = 22532,acq ok1!
+acq ok1 timeH = 0,timeL = 467865776,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch22 satid=48,max_freq = -1750,max_mean = 1263,max_phase = 3966,max_value = 5237,acq ok1!
+acq ok1 timeH = 0,timeL = 474550344,time_stage = 4
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+---00000024--- Acq_st=3 2019-5-20 03:03:51 
+[01]  G04  f 43  -1168.7 2046001.5  1.0  1.0  5  0  97448399
+[02]  G07  f 46  -3526.1 2046004.6  1.0  1.0  5  0  97448399
+[03]  G08  f 44  -1373.4 2046001.8  1.0  1.0  5  0  97448408
+[04]  G09  f 46      8.0 2046000.0  1.0  1.0  5  0  97448401
+[05]  G16  f 43   1199.2 2045998.4  1.0  1.0  5  0  97448404
+[06]  G21  f 36   2071.2 2045997.3  1.0  1.0  5  0  97448391
+[07]  G27  f 42    932.5 2045998.8  1.0  1.0  5  0  97448409
+[16]  B02  1 10   1501.0 4091997.2  0.0  0.0  1  0       920
+[17]  B03  1 10  -4630.4 4092011.3  0.1  0.0  1  0       754
+[18]  B05  1 10  -1420.2 4092003.6  0.0  0.0  1  0       422
+[19]  B06  1  7  -1054.6 4092003.1 -0.1  0.0  1  0       257
+[20]  B07  1  7    564.4 4091998.5 -0.1  0.0  1  0        91
+[21]  B10  1  7    488.4 4091999.3 -0.1  0.0  1  0      2912
+[22]  B12  1  7   1726.7 4091996.3  0.0  0.0  1  0      2580
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,43,07,00,000,46,08,00,000,44,09,00,000,46*78
+$GPGSV,2,2,07,16,00,000,43,21,00,000,36,27,00,000,42*4B
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch23 satid=50,max_freq = -1750,max_mean = 1290,max_phase = 3249,max_value = 5196,acq ok1!
+acq ok1 timeH = 0,timeL = 480918442,time_stage = 4
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch24 satid=52,max_freq = 2500,max_mean = 1283,max_phase = 2560,max_value = 5566,acq ok1!
+acq ok1 timeH = 0,timeL = 486020577,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+---00000025--- Acq_st=3 2019-5-20 03:03:52 
+[01]  G04  f 43  -1169.5 2046001.5  1.0  1.0  5  0  97449399
+[02]  G07  f 46  -3527.6 2046004.6  1.0  1.0  5  0  97449399
+[03]  G08  f 44  -1374.9 2046001.8  1.0  1.0  5  0  97449408
+[04]  G09  f 46      6.8 2046000.0  1.0  1.0  5  0  97449401
+[05]  G16  f 43   1197.4 2045998.5  1.0  1.0  5  0  97449404
+[06]  G21  f 37   2070.2 2045997.3  1.0  1.0  5  0  97449391
+[07]  G27  f 42    931.3 2045998.8  1.0  1.0  5  0  97449409
+[16]  B02  1 10   1592.0 4091997.0  0.0  0.0  1  0      1920
+[17]  B03  1 10  -4528.7 4092012.1  0.1  0.0  1  0      1754
+[18]  B05  1 10  -1226.4 4092003.5  0.1  0.0  1  0      1422
+[19]  B06  1  7  -1133.6 4092003.1 -0.1  0.0  1  0      1257
+[20]  B07  1  7    598.2 4091998.7 -0.1  0.0  1  0      1091
+[21]  B10  1  9    612.3 4091999.1  0.1  0.0  1  0       593
+[22]  B12  1  7   1592.7 4091996.3  0.1  0.0  1  0       262
+[23]  B14  1  7   1762.9 4091996.1 -0.2  0.0  1  0      3248
+[24]  B16  1  7  -2597.1 4092006.4 -0.0  0.0  1  0      2751
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,43,07,00,000,46,08,00,000,44,09,00,000,46*78
+$GPGSV,2,2,07,16,00,000,43,21,00,000,37,27,00,000,42*4A
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch16 satid=62,max_freq = 2500,max_mean = 1203,max_phase = 2553,max_value = 8778,acq ok1!
+acq ok1 timeH = 0,timeL = 514676966,time_stage = 2
+---00000026--- Acq_st=3 2019-5-20 03:03:53 
+[01]  G04  f 44  -1165.3 2046001.5  1.0  1.0  5  0  97450399
+[02]  G07  f 46  -3523.3 2046004.6  1.0  1.0  5  0  97450399
+[03]  G08  f 44  -1370.3 2046001.8  1.0  1.0  5  0  97450408
+[04]  G09  f 46     11.6 2046000.0  1.0  1.0  5  0  97450401
+[05]  G16  f 43   1201.9 2045998.4  1.0  1.0  5  0  97450404
+[06]  G21  f 36   2075.1 2045997.3  1.0  1.0  5  0  97450391
+[07]  G27  f 43    936.1 2045998.8  1.0  1.0  5  0  97450409
+[16]  B26  1  7  -2390.6 4092006.3 -0.0  0.0  1  0      2920
+[19]  B06  1  7  -1452.6 4092003.2  0.0  0.0  1  0      2257
+[20]  B07  1  7    472.6 4091998.8  0.0  0.0  1  0      2091
+[21]  B10  1  7    889.9 4091998.7  0.0  0.0  1  0      1593
+[22]  B12  1  7   1519.8 4091996.0  0.0  0.0  1  0      1262
+[23]  B14  1  7   2000.1 4091996.0 -0.0  0.0  1  0       930
+[24]  B16  1  7  -2562.5 4092005.9 -0.3  0.0  1  0       599
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,44,07,00,000,46,08,00,000,44,09,00,000,46*7F
+$GPGSV,2,2,07,16,00,000,43,21,00,000,36,27,00,000,43*4A
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch17 satid=63,max_freq = 2500,max_mean = 1235,max_phase = 3383,max_value = 4940,acq ok1!
+acq ok1 timeH = 0,timeL = 517861002,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch18 satid=65,max_freq = -500,max_mean = 1288,max_phase = 3417,max_value = 12366,acq ok1!
+acq ok1 timeH = 0,timeL = 525178552,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch19 satid=66,max_freq = -3500,max_mean = 1237,max_phase = 2514,max_value = 7889,acq ok1!
+acq ok1 timeH = 0,timeL = 529312048,time_stage = 5
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+---00000027--- Acq_st=7 2019-5-20 03:03:54 
+[01]  G04  f 44  -1163.5 2046001.5  1.0  1.0  5  0  97451399
+[02]  G07  f 46  -3522.4 2046004.6  1.0  1.0  5  0  97451399
+[03]  G08  f 44  -1368.8 2046001.8  1.0  1.0  5  0  97451408
+[04]  G09  f 46     13.1 2046000.0  1.0  1.0  5  0  97451401
+[05]  G16  f 43   1203.0 2045998.4  1.0  1.0  5  0  97451404
+[06]  G21  f 36   2076.6 2045997.3  1.0  1.0  5  0  97451391
+[07]  G27  f 43    937.4 2045998.8  1.0  1.0  5  0  97451409
+[16]  B26  1  7  -2550.2 4092005.7 -0.1  0.0  1  0       106
+[17]  B27  1  7  -2596.7 4092005.9 -0.0  0.0  1  0      2754
+[18]  B29  1  7    360.6 4091998.9 -0.0  0.0  1  0      2422
+[19]  B30  1  7   3468.8 4091991.2  0.1  0.0  1  0      3257
+[22]  B12  1  7   1469.3 4091996.1  0.2  0.0  1  0      2262
+[23]  B14  1  8   1897.8 4091996.2 -0.0  0.0  1  0      1930
+[24]  B16  1  7  -2382.2 4092006.0 -0.0  0.0  1  0      1599
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,44,07,00,000,46,08,00,000,44,09,00,000,46*7F
+$GPGSV,2,2,07,16,00,000,43,21,00,000,36,27,00,000,43*4A
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+---00000028--- Acq_st=7 2019-5-20 03:03:55 
+[01]  G04  f 42  -1165.9 2046001.5  1.0  1.0  5  0  97452399
+[02]  G07  f 46  -3524.6 2046004.6  1.0  1.0  5  0  97452399
+[03]  G08  f 43  -1370.2 2046001.8  1.0  1.0  5  0  97452408
+[04]  G09  f 42     11.3 2046000.0  1.0  1.0  5  0  97452401
+[05]  G16  f 45   1200.3 2045998.4  1.0  1.0  5  0  97452404
+[06]  G21  f 36   2073.7 2045997.3  1.0  1.0  5  0  97452391
+[07]  G27  f 43    935.8 2045998.8  1.0  1.0  5  0  97452409
+[16]  B26  1 10  -2591.9 4092006.5  0.1  0.0  1  0      1106
+[17]  B27  1  7  -2999.8 4092005.8 -0.1  0.0  1  0       940
+[18]  B29  1  7    485.4 4091999.2  0.1  0.0  1  0       608
+[19]  B30  1  7   3611.3 4091991.3  0.1  0.0  1  0       443
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,42,07,00,000,46,08,00,000,43,09,00,000,42*7A
+$GPGSV,2,2,07,16,00,000,45,21,00,000,36,27,00,000,43*4C
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+---00000029--- Acq_st=4 2019-5-20 03:03:56 
+[01]  G04  f 43  -1165.8 2046001.5  1.0  1.0  5  0  97453399
+[02]  G07  f 46  -3525.5 2046004.6  1.0  1.0  5  0  97453399
+[03]  G08  f 43  -1371.2 2046001.8  1.0  1.0  5  0  97453408
+[04]  G09  f 45     10.9 2046000.0  1.0  1.0  5  0  97453401
+[05]  G16  f 44   1199.4 2045998.4  1.0  1.0  5  0  97453404
+[06]  G21  f 34   2073.6 2045997.4  1.0  1.0  5  0  97453391
+[07]  G27  f 42    934.7 2045998.8  1.0  1.0  5  0  97453409
+[16]  B26  1  7  -2500.4 4092006.1  0.1  0.0  1  0      2106
+[17]  B27  1  7  -3128.5 4092005.9 -0.2  0.0  1  0      1940
+[18]  B29  1  7    502.4 4091999.1 -0.1  0.0  1  0      1608
+[19]  B30  1  7   3706.2 4091990.9 -0.1  0.0  1  0      1443
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,43,07,00,000,46,08,00,000,43,09,00,000,45*7C
+$GPGSV,2,2,07,16,00,000,44,21,00,000,34,27,00,000,42*4E
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        1
+---00000030--- Acq_st=5 2019-5-20 03:03:57 
+[01]  G04  f 43  -1167.8 2046001.5  1.0  1.0  5  0  97454399
+[02]  G07  f 46  -3528.0 2046004.6  1.0  1.0  5  0  97454399
+[03]  G08  f 44  -1372.8 2046001.8  1.0  1.0  5  0  97454408
+[04]  G09  f 47      9.0 2046000.0  1.0  1.0  5  0  97454401
+[05]  G16  f 43   1197.2 2045998.4  1.0  1.0  5  0  97454404
+[06]  G21  f 36   2071.4 2045997.3  1.0  1.0  5  0  97454391
+[07]  G27  f 43    933.0 2045998.8  1.0  1.0  5  0  97454409
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,43,07,00,000,46,08,00,000,44,09,00,000,47*79
+$GPGSV,2,2,07,16,00,000,43,21,00,000,36,27,00,000,43*4A
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+---00000031--- Acq_st=3 2019-5-20 03:03:58 
+[01]  G04  f 44  -1170.7 2046001.5  1.0  1.0  5  0  97455399
+[02]  G07  f 47  -3531.4 2046004.6  1.0  1.0  5  0  97455399
+[03]  G08  f 44  -1375.9 2046001.8  1.0  1.0  5  0  97455408
+[04]  G09  f 47      6.0 2046000.0  1.0  1.0  5  0  97455401
+[05]  G16  f 43   1194.0 2045998.4  1.0  1.0  5  0  97455404
+[06]  G21  f 35   2067.6 2045997.3  1.0  1.0  5  0  97455391
+[07]  G27  f 43    930.0 2045998.8  1.0  1.0  5  0  97455409
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,44,07,00,000,47,08,00,000,44,09,00,000,47*7F
+$GPGSV,2,2,07,16,00,000,43,21,00,000,35,27,00,000,43*49
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch16 satid=41,max_freq = -500,max_mean = 1308,max_phase = 2145,max_value = 6324,acq ok1!
+acq ok1 timeH = 0,timeL = 624488077,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch17 satid=42,max_freq = 1250,max_mean = 1209,max_phase = 3138,max_value = 4853,acq ok1!
+acq ok1 timeH = 0,timeL = 627039154,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch18 satid=43,max_freq = -500,max_mean = 1178,max_phase = 3837,max_value = 12375,acq ok1!
+acq ok1 timeH = 0,timeL = 630856174,time_stage = 3
+---00000032--- Acq_st=3 2019-5-20 03:03:59 
+[01]  G04  f 43  -1170.5 2046001.5  1.0  1.0  5  0  97456399
+[02]  G07  f 47  -3531.1 2046004.6  1.0  1.0  5  0  97456399
+[03]  G08  f 44  -1375.5 2046001.8  1.0  1.0  5  0  97456408
+[04]  G09  f 46      6.3 2046000.0  1.0  1.0  5  0  97456401
+[05]  G16  f 43   1194.0 2045998.4  1.0  1.0  5  0  97456404
+[06]  G21  f 35   2068.3 2045997.3  1.0  0.9  5  0  97456391
+[07]  G27  f 44    930.7 2045998.8  1.0  1.0  5  0  97456409
+[16]  B05  1 10    564.2 4091999.9  0.1  0.0  1  0      3106
+[17]  B06  1  7  -1228.7 4092002.9 -0.0  0.0  1  0      2940
+[18]  B07  1  7    494.1 4091999.0 -0.0  0.0  1  0      2608
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,04,00,000,43,07,00,000,47,08,00,000,44,09,00,000,46*79
+$GPGSV,2,2,07,16,00,000,43,21,00,000,35,27,00,000,44*4E
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch19 satid=44,max_freq = -2500,max_mean = 1247,max_phase = 3186,max_value = 5098,acq ok1!
+acq ok1 timeH = 0,timeL = 634673206,time_stage = 4
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch20 satid=46,max_freq = -500,max_mean = 1201,max_phase = 3970,max_value = 20542,acq ok1!
+acq ok1 timeH = 0,timeL = 640408304,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch21 satid=48,max_freq = 3250,max_mean = 1248,max_phase = 4069,max_value = 5359,acq ok1!
+acq ok1 timeH = 0,timeL = 645510448,time_stage = 1
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch22 satid=49,max_freq = 3250,max_mean = 1359,max_phase = 3212,max_value = 6588,acq ok1!
+acq ok1 timeH = 0,timeL = 648694497,time_stage = 1
+---00000033--- Acq_st=3 2019-5-20 03:04:0 
+[01]  G04  f 43  -1167.3 2046001.5  1.0  1.0  5 3f  97457399
+[02]  G07  f 46  -3529.0 2046004.6  1.0  1.0  5  0  97457399
+[03]  G08  f 44  -1373.2 2046001.8  1.0  1.0  5  0  97457408
+[04]  G09  f 46      9.1 2046000.0  1.0  1.0  5  0  97457401
+[05]  G16  f 44   1195.8 2045998.4  1.0  1.0  5  0  97457404
+[06]  G21  f 35   2070.3 2045997.4  1.0  1.0  5  0  97457391
+[07]  G27  f 43    933.1 2045998.8  1.0  1.0  5  0  97457409
+[16]  B05  1 10    450.0 4091999.5  0.1  0.0  1  0       436
+[17]  B06  1  7  -1101.1 4092003.2  0.1  0.0  1  0       270
+[18]  B07  1  8    488.8 4091999.3  0.1  0.0  1  0       105
+[19]  B08  1  7   2593.1 4091993.8 -0.1  0.0  1  0      2443
+[20]  B10  1  7    482.5 4091999.1 -0.1  0.0  1  0      3091
+[21]  B12  1  7  -3264.2 4092007.9 -0.0  0.0  1  0      2593
+[22]  B13  1  7  -3058.0 4092008.0 -0.0  0.0  1  0      3262
+lsq: nits= 4
+$GNGGA,030400.477,3112.7147,N,12136.4351,E,1,06,2.4,43.6,M,,,,0000*23
+$GNRMC,030400.477,A,3112.7147,N,12136.4351,E,0.04,0.00,200519,,*15
+$GPGSA,A,3,07,08,09,16,21,27,,,,,,,3.2,2.4,2.2*32
+$BDGSA,A,3,,,,,,,,,,,,,3.2,2.4,2.2*24
+$GPGSV,2,1,07,04,00,000,43,07,00,000,46,08,00,000,44,09,00,000,46*78
+$GPGSV,2,2,07,16,00,000,44,21,00,000,35,27,00,000,43*4E
+$LOGTIM,1,9428604.625991,0.000000,0.000000,0.000000,-62.000*17
+EndT:        1
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch23 satid=50,max_freq = 1500,max_mean = 1295,max_phase = 3097,max_value = 5280,acq ok1!
+acq ok1 timeH = 0,timeL = 652511500,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch24 satid=51,max_freq = -3500,max_mean = 1204,max_phase = 2505,max_value = 5198,acq ok1!
+acq ok1 timeH = 0,timeL = 657277978,time_stage = 5
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch25 satid=52,max_freq = 2250,max_mean = 1207,max_phase = 2192,max_value = 5033,acq ok1!
+acq ok1 timeH = 0,timeL = 658563100,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch26 satid=53,max_freq = -1750,max_mean = 1169,max_phase = 3479,max_value = 4881,acq ok1!
+acq ok1 timeH = 0,timeL = 663013089,time_stage = 4
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch27 satid=54,max_freq = -4750,max_mean = 1259,max_phase = 2919,max_value = 5588,acq ok1!
+acq ok1 timeH = 0,timeL = 667146594,time_stage = 5
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch28 satid=55,max_freq = -1750,max_mean = 1186,max_phase = 2536,max_value = 4992,acq ok1!
+acq ok1 timeH = 0,timeL = 669381178,time_stage = 4
+---00000034--- Acq_st=3 2019-5-20 03:04:0 
+[01]  G04  f 43  -1165.9 2046001.5  1.0  1.0  5 3f  97458399
+[02]  G07  f 46  -3527.7 2046004.6  1.0  1.0  5  0  97458399
+[03]  G08  f 44  -1371.6 2046001.8  1.0  1.0  5  0  97458408
+[04]  G09  f 47     10.7 2046000.0  1.0  1.0  5  0  97458401
+[05]  G16  f 44   1197.2 2045998.5  1.0  1.0  5  0  97458404
+[06]  G21  f 35   2071.6 2045997.3  1.0  1.0  5  0  97458391
+[07]  G27  f 43    934.8 2045998.8  1.0  1.0  5  0  97458409
+[16]  B05  1 14    443.1 4091999.9 -0.2  0.0  1  0      1436
+[17]  B06  1  7  -1005.2 4092003.2  0.2  0.0  1  0      1270
+[18]  B07  1  7    445.7 4091998.5  0.1  0.0  1  0      1105
+[19]  B08  1  7   2553.7 4091994.0 -0.1  0.0  1  0       938
+[20]  B10  1  7    616.0 4091998.7  0.1  0.0  1  0       607
+[21]  B12  1  7  -3441.1 4092008.1 -0.2  0.0  1  0       276
+[22]  B13  1 12  -3486.6 4092007.8 -0.1  0.0  1  0       110
+[23]  B14  1  7  -1457.5 4092003.3 -0.1  0.0  1  0      2930
+[24]  B15  1  7   3597.2 4091990.9  0.1  0.0  1  0      2599
+[25]  B16  1  7  -2183.1 4092005.0  0.0  0.0  1  0      3254
+[26]  B17  1  7   1587.7 4091996.4  0.0  0.0  1  0      2651
+[27]  B18  1  7   4707.8 4091987.9  0.0  0.0  1  0      2452
+[28]  B19  1  7   1568.0 4091996.4  0.0  0.0  1  0      3286
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch29 satid=56,max_freq = 250,max_mean = 1200,max_phase = 3522,max_value = 5384,acq ok1!
+acq ok1 timeH = 0,timeL = 671932254,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+lsq: nits= 2
+$GNGGA,030402.000,3112.7148,N,12136.4344,E,1,06,2.4,43.0,M,,,,0000*28
+$GNRMC,030402.000,A,3112.7148,N,12136.4344,E,0.13,0.00,200519,,*1E
+$GPGSA,A,3,07,08,09,16,21,27,,,,,,,3.2,2.4,2.2*32
+$BDGSA,A,3,,,,,,,,,,,,,3.2,2.4,2.2*24
+$GPGSV,2,1,07,04,00,000,43,07,00,000,46,08,00,000,44,09,00,000,47*79
+$GPGSV,2,2,07,16,00,000,44,21,00,000,35,27,00,000,43*4E
+$LOGTIM,1,-94.403879,0.000000,0.000000,0.000000,-61.871*0E
+EndT:        3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch30 satid=59,max_freq = 1250,max_mean = 1222,max_phase = 3896,max_value = 5034,acq ok1!
+acq ok1 timeH = 0,timeL = 681167885,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+---00000035--- Acq_st=3 2019-5-20 03:04:2 
+[01]  G04  f 43  -1164.5 2046001.5  1.0  1.0  5 3f  97459922
+[02]  G07  f 46  -3527.2 2046004.6  1.0  1.0  5  0  97459922
+[03]  G08  f 44  -1370.2 2046001.8  1.0  1.0  5  0  97459931
+[04]  G09  f 46     12.0 2046000.0  1.0  1.0  5  0  97459924
+[05]  G16  f 43   1197.9 2045998.5  1.0  1.0  5  0  97459927
+[06]  G21  f 35   2073.3 2045997.3  1.0  1.0  5  0  97459914
+[07]  G27  f 43    935.7 2045998.8  1.0  1.0  5  0  97459932
+[17]  B06  1  7  -1003.0 4092003.3  0.1  0.0  1  0      2793
+[18]  B07  1  7    132.8 4091999.1  0.1  0.0  1  0      2628
+[19]  B08  1  7   2458.1 4091994.3 -0.2  0.0  1  0      2461
+[20]  B10  1  7    492.4 4091999.0 -0.1  0.0  1  0      2130
+[21]  B12  1 11  -3471.0 4092008.2 -0.0  0.0  1  0      1799
+[22]  B13  1  7  -3526.0 4092007.7 -0.0  0.0  1  0      1633
+[23]  B14  1  7  -1509.5 4092003.4  0.1  0.0  1  0      1466
+[24]  B15  1  7   3478.1 4091991.3 -0.0  0.0  1  0      1301
+[25]  B16  1  7  -2025.3 4092005.0 -0.1  0.0  1  0      1135
+[26]  B17  1  7   1579.7 4091996.1 -0.1  0.0  1  0       969
+[27]  B18  1  7   4509.5 4091988.3  0.0  0.0  1  0       803
+[28]  B19  1  7   1895.0 4091996.4 -0.1  0.0  1  0       638
+[29]  B20  1  8     -4.8 4091999.8  0.1  0.0  1  0       472
+[30]  B23  1  7  -1206.6 4092003.3  0.1  0.0  1  0      2955
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch16 satid=64,max_freq = -4500,max_mean = 1300,max_phase = 3444,max_value = 5632,acq ok1!
+acq ok1 timeH = 0,timeL = 692618936,time_stage = 5
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch17 satid=67,max_freq = 250,max_mean = 1137,max_phase = 2167,max_value = 4749,acq ok1!
+acq ok1 timeH = 0,timeL = 694220546,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+lsq: nits= 2
+$GNGGA,030403.000,3112.7147,N,12136.4342,E,1,06,2.4,42.6,M,,,,0000*27
+$GNRMC,030403.000,A,3112.7147,N,12136.4342,E,0.07,0.00,200519,,*13
+$GPGSA,A,3,07,08,09,16,21,27,,,,,,,3.2,2.4,2.2*32
+$BDGSA,A,3,,,,,,,,,,,,,3.2,2.4,2.2*24
+$GPGSV,2,1,07,04,00,000,43,07,27,317,46,08,66,243,44,09,31,276,46*7C
+$GPGSV,2,2,07,16,44,047,43,21,08,040,35,27,71,023,43*41
+$LOGTIM,1,-156.722342,0.000000,0.000000,0.000000,-61.681*33
+EndT:        3
+---00000036--- Acq_st=7 2019-5-20 03:04:3 
+[01]  G04  f 43  -1163.1 2046001.5  1.0  1.0  5 3f  97460922
+[02]  G07  f 46  -3526.3 2046004.6  1.0  1.0  5  0  97460922
+[03]  G08  f 44  -1369.4 2046001.8  1.0  1.0  5  0  97460931
+[04]  G09  f 46     13.0 2046000.0  1.0  1.0  5  0  97460924
+[05]  G16  f 43   1198.8 2045998.4  1.0  1.0  5  0  97460927
+[06]  G21  f 35   2073.7 2045997.4  1.0  1.0  5  0  97460914
+[07]  G27  f 43    936.9 2045998.8  1.0  1.0  5  0  97460932
+[16]  B28  1  7   4539.7 4091988.9  0.0  0.0  1  0       476
+[17]  B31  1  7    -49.6 4091999.8 -0.1  0.0  1  0       311
+[21]  B12  1  7  -3508.0 4092007.8  0.0  0.0  1  0      2799
+[22]  B13  1  7  -3488.0 4092008.1 -0.1  0.0  1  0      2633
+[23]  B14  1  7  -1487.8 4092003.1 -0.1  0.0  1  0      2466
+[24]  B15  1  8   3427.1 4091991.1 -0.0  0.0  1  0      2301
+[25]  B16  1  7  -1780.6 4092005.0  0.0  0.0  1  0      2135
+[26]  B17  1  7   1438.3 4091996.6  0.0  0.0  1  0      1969
+[27]  B18  1  7   4514.9 4091988.2  0.1  0.0  1  0      1803
+[28]  B19  1  7   1861.5 4091995.8 -0.1  0.0  1  0      1638
+[29]  B20  1  7     51.5 4092000.0  0.1  0.0  1  0      1472
+[30]  B23  1  7  -1001.7 4092003.3 -0.0  0.0  1  0       974
+lsq: nits= 2
+$GNGGA,030404.000,3112.7144,N,12136.4343,E,1,06,2.4,41.8,M,,,,0000*2F
+$GNRMC,030404.000,A,3112.7144,N,12136.4343,E,0.05,0.00,200519,,*14
+$GPGSA,A,3,07,08,09,16,21,27,,,,,,,3.2,2.4,2.2*32
+$BDGSA,A,3,,,,,,,,,,,,,3.2,2.4,2.2*24
+$GPGSV,2,1,07,04,00,000,43,07,27,317,46,08,66,243,44,09,31,276,46*7C
+$GPGSV,2,2,07,16,44,047,43,21,08,040,35,27,71,023,43*41
+$LOGTIM,1,-219.385862,0.000000,0.000000,0.000000,-61.765*30
+EndT:        2
+---00000037--- Acq_st=7 2019-5-20 03:04:5 
+[01]  G04  f 43  -1164.9 2046001.5  1.0  1.0  5 3f  97461922
+[02]  G07  f 46  -3528.3 2046004.6  1.0  1.0  5  0  97461922
+[03]  G08  f 44  -1370.4 2046001.8  1.0  1.0  5  0  97461931
+[04]  G09  f 46     11.8 2046000.0  1.0  1.0  5  0  97461924
+[05]  G16  f 43   1196.8 2045998.4  1.0  1.0  5  0  97461927
+[06]  G21  f 36   2072.1 2045997.3  1.0  1.0  5  0  97461914
+[07]  G27  f 43    935.3 2045998.8  1.0  1.0  5  0  97461932
+[16]  B28  1  7   4527.1 4091989.0 -0.1  0.0  1  0      1476
+[17]  B31  1  8    -45.9 4091999.9 -0.0  0.0  1  0      1311
+[27]  B18  1 10   4535.1 4091988.2  0.0  0.0  1  0      2803
+[28]  B19  1  7   1979.8 4091995.8  0.2  0.0  1  0      2638
+[29]  B20  1 12     -2.7 4091999.9  0.2  0.0  1  0      2472
+[30]  B23  1  7  -1028.4 4092003.3 -0.2  0.0  1  0      1974
+lsq: nits= 2
+$GNGGA,030405.000,3112.7139,N,12136.4343,E,1,06,2.4,40.5,M,,,,0000*28
+$GNRMC,030405.000,A,3112.7139,N,12136.4343,E,0.15,0.00,200519,,*1E
+$GPGSA,A,3,07,08,09,16,21,27,,,,,,,3.2,2.4,2.2*32
+$BDGSA,A,3,,,,,,,,,,,,,3.2,2.4,2.2*24
+$GPGSV,2,1,07,04,00,000,43,07,27,317,46,08,66,243,44,09,31,276,46*7C
+$GPGSV,2,2,07,16,44,047,43,21,08,040,36,27,71,023,43*42
+$LOGTIM,1,-282.926935,0.000000,0.000000,0.000000,-62.264*35
+EndT:        2
+---00000038--- Acq_st=4 2019-5-20 03:04:5 
+[01]  G04  f 43  -1168.3 2046001.5  1.0  1.0  5 3f  97462922
+[02]  G07  f 46  -3532.4 2046004.6  1.0  1.0  5  0  97462922
+[03]  G08  f 44  -1374.3 2046001.8  1.0  1.0  5  0  97462931
+[04]  G09  f 46      8.1 2046000.0  1.0  1.0  5  0  97462924
+[05]  G16  f 44   1192.5 2045998.4  1.0  1.0  5  0  97462927
+[06]  G21  f 35   2068.7 2045997.3  1.0  1.0  5  0  97462914
+[07]  G27  f 43    931.9 2045998.8  1.0  1.0  5  0  97462932
+[16]  B28  1 11   4500.8 4091988.9 -0.2  0.0  1  0      2476
+[17]  B31  1 11      6.3 4092000.0 -0.1  0.0  1  0      2311
+lsq: nits= 2
+$GNGGA,030406.000,3112.7134,N,12136.4344,E,1,06,2.4,39.1,M,,,,0000*2B
+$GNRMC,030406.000,A,3112.7134,N,12136.4344,E,0.32,0.00,200519,,*12
+$GPGSA,A,3,07,08,09,16,21,27,,,,,,,3.2,2.4,2.2*32
+$BDGSA,A,3,,,,,,,,,,,,,3.2,2.4,2.2*24
+$GPGSV,2,1,07,04,00,000,43,07,27,317,46,08,66,243,44,09,31,276,46*7C
+$GPGSV,2,2,07,16,44,047,44,21,08,040,35,27,71,023,43*46
+$LOGTIM,1,-347.192857,0.000000,0.000000,0.000000,-62.796*37
+EndT:        2
+---00000039--- Acq_st=5 2019-5-20 03:04:6 
+[01]  G04  f 42  -1169.2 2046001.5  1.0  1.0  5 3f  97463922
+[02]  G07  f 46  -3533.3 2046004.6  1.0  1.0  5  0  97463922
+[03]  G08  f 44  -1374.7 2046001.8  1.0  1.0  5  0  97463931
+[04]  G09  f 45      7.9 2046000.0  1.0  1.0  5  0  97463924
+[05]  G16  f 43   1191.8 2045998.5  1.0  1.0  5  0  97463927
+[06]  G21  f 36   2067.8 2045997.3  1.0  1.0  5  0  97463914
+[07]  G27  f 43    931.1 2045998.8  1.0  1.0  5  0  97463932
+ch0 satid=25,max_freq = -1750,max_mean = 5026,max_phase = 80,max_value = 24564,acq ok1!
+acq ok1 timeH = 0,timeL = 771184230,time_stage = 4
+lsq: nits= 2
+$GNGGA,030407.000,3112.7127,N,12136.4340,E,1,06,2.4,37.2,M,,,,0000*21
+$GNRMC,030407.000,A,3112.7127,N,12136.4340,E,0.10,0.00,200519,,*15
+$GPGSA,A,3,07,08,09,16,21,27,,,,,,,3.2,2.4,2.2*32
+$BDGSA,A,3,,,,,,,,,,,,,3.2,2.4,2.2*24
+$GPGSV,2,1,07,04,00,000,42,07,27,317,46,08,66,243,44,09,31,276,45*7E
+$GPGSV,2,2,07,16,44,047,43,21,08,040,36,27,71,023,43*42
+$LOGTIM,1,-412.040859,0.000000,0.000000,0.000000,-62.877*30
+EndT:        2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch16 satid=37,max_freq = -1500,max_mean = 1099,max_phase = 2833,max_value = 4818,acq ok1!
+acq ok1 timeH = 0,timeL = 784610926,time_stage = 4
+---00000040--- Acq_st=3 2019-5-20 03:04:7 
+[00]  G26  1 24   1716.5 2045998.5 -0.2  0.0  1  0        17
+[01]  G04  f 42  -1166.6 2046001.5  1.0  1.0  5 3f  97464922
+[02]  G07  f 46  -3531.5 2046004.6  1.0  1.0  5  0  97464922
+[03]  G08  f 44  -1372.8 2046001.8  1.0  1.0  5  0  97464931
+[04]  G09  f 45      9.6 2046000.0  1.0  1.0  5  0  97464924
+[05]  G16  f 44   1193.2 2045998.5  1.0  1.0  5  0  97464927
+[06]  G21  f 36   2069.5 2045997.3  1.0  1.0  5  0  97464914
+[07]  G27  f 43    933.3 2045998.8  1.0  1.0  5  0  97464932
+[16]  B01  1 10   1698.7 4091997.2 -0.1  0.0  1  0      2476
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch17 satid=38,max_freq = -750,max_mean = 1253,max_phase = 2929,max_value = 5727,acq ok1!
+acq ok1 timeH = 0,timeL = 787478496,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch18 satid=39,max_freq = 4250,max_mean = 1192,max_phase = 2362,max_value = 4782,acq ok1!
+acq ok1 timeH = 0,timeL = 789079689,time_stage = 1
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+lsq: nits= 2
+$GNGGA,030408.000,3112.7120,N,12136.4338,E,1,06,2.4,36.1,M,,,,0000*24
+$GNRMC,030408.000,A,3112.7120,N,12136.4338,E,0.16,0.00,200519,,*14
+$GPGSA,A,3,07,08,09,16,21,27,,,,,,,3.2,2.4,2.2*32
+$BDGSA,A,3,,,,,,,,,,,,,3.2,2.4,2.2*24
+$GPGSV,2,1,07,04,00,000,42,07,27,317,46,08,66,243,44,09,31,276,45*7E
+$GPGSV,2,2,07,16,44,047,44,21,08,040,36,27,71,023,43*45
+$LOGTIM,1,-476.398020,0.000000,0.000000,0.000000,-62.763*38
+EndT:        2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch19 satid=41,max_freq = 1250,max_mean = 1359,max_phase = 3104,max_value = 6625,acq ok1!
+acq ok1 timeH = 0,timeL = 796397642,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch20 satid=42,max_freq = 1500,max_mean = 1142,max_phase = 2541,max_value = 5349,acq ok1!
+acq ok1 timeH = 0,timeL = 799581686,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch21 satid=43,max_freq = 250,max_mean = 1067,max_phase = 3203,max_value = 8360,acq ok1!
+acq ok1 timeH = 0,timeL = 803082214,time_stage = 3
+---00000041--- Acq_st=3 2019-5-20 03:04:8 
+[00]  G26  7 25   1717.3 2045997.6  0.3  0.0 20  0         2
+[01]  G04  f 42  -1165.7 2046001.5  1.0  1.0  5 3f  97465922
+[02]  G07  f 46  -3530.8 2046004.6  1.0  1.0  5  0  97465922
+[03]  G08  f 44  -1371.5 2046001.8  1.0  1.0  5  0  97465931
+[04]  G09  f 45     10.9 2046000.0  1.0  1.0  5  0  97465924
+[05]  G16  f 43   1194.3 2045998.5  1.0  1.0  5  0  97465927
+[06]  G21  f 35   2070.5 2045997.3  1.0  1.0  5  0  97465914
+[07]  G27  f 42    934.0 2045998.8  1.0  1.0  5  0  97465932
+[16]  B01  1 10   1570.0 4091998.1  0.1  0.0  1  0       636
+[17]  B02  1 26   1037.9 4091999.0 -0.0  0.0  1  0       470
+[18]  B03  1 10  -4401.0 4092010.7  0.0  0.0  1  0       304
+[19]  B05  1 21  -1305.7 4092002.1 -0.1  0.0  1  0      2461
+[20]  B06  1  7  -1429.7 4092002.8  0.0  0.0  1  0      3130
+[21]  B07  1  7   -431.0 4092000.1 -0.0  0.0  1  0      2799
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch22 satid=44,max_freq = -2750,max_mean = 1221,max_phase = 3567,max_value = 5655,acq ok1!
+acq ok1 timeH = 0,timeL = 807215721,time_stage = 4
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch23 satid=45,max_freq = 250,max_mean = 1180,max_phase = 3982,max_value = 5010,acq ok1!
+acq ok1 timeH = 0,timeL = 809450304,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch24 satid=46,max_freq = 500,max_mean = 1152,max_phase = 3328,max_value = 20109,acq ok1!
+acq ok1 timeH = 0,timeL = 812634349,time_stage = 3
+lsq: nits= 2
+$GNGGA,030409.000,3112.7112,N,12136.4337,E,1,06,2.4,35.0,M,,,,0000*29
+$GNRMC,030409.000,A,3112.7112,N,12136.4337,E,0.28,0.00,200519,,*16
+$GPGSA,A,3,07,08,09,16,21,27,,,,,,,3.2,2.4,2.2*32
+$BDGSA,A,3,,,,,,,,,,,,,3.2,2.4,2.2*24
+$GPGSV,2,1,08,26,00,000,25,04,00,000,42,07,27,317,46,08,66,243,44*7B
+$GPGSV,2,2,08,09,31,276,45,16,44,047,43,21,08,040,35,27,71,023,42*76
+$LOGTIM,1,-540.897771,0.000000,0.000000,0.000000,-62.825*36
+EndT:        3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch25 satid=47,max_freq = 500,max_mean = 1134,max_phase = 2471,max_value = 4591,acq ok1!
+acq ok1 timeH = 0,timeL = 815818393,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch26 satid=49,max_freq = 3500,max_mean = 1357,max_phase = 2327,max_value = 6018,acq ok1!
+acq ok1 timeH = 0,timeL = 821237021,time_stage = 1
+---00000042--- Acq_st=3 2019-5-20 03:04:9 
+[00]  G26  7 33   1716.7 2045997.7  0.9  0.9  5  0         2
+[01]  G04  f 43  -1165.4 2046001.5  1.0  1.0  5 3f  97466922
+[02]  G07  f 46  -3531.2 2046004.6  1.0  1.0  5  0  97466922
+[03]  G08  f 44  -1371.7 2046001.8  1.0  1.0  5  0  97466931
+[04]  G09  f 45     10.9 2046000.0  1.0  1.0  5  0  97466924
+[05]  G16  f 43   1193.8 2045998.5  1.0  1.0  5  0  97466927
+[06]  G21  f 37   2069.9 2045997.3  1.0  1.0  5  0  97466914
+[07]  G27  f 42    934.3 2045998.8  1.0  1.0  5  0  97466932
+[16]  B01  1 10   1639.4 4091998.2  0.0  0.0  1  0      1636
+[17]  B02  1 27    905.6 4091998.7 -0.0  0.0  1  0      1470
+[18]  B03  1 10  -4441.9 4092011.7  0.1  0.0  1  0      1304
+[19]  B05  1 10  -1568.5 4092003.2 -0.0  0.0  1  0       972
+[20]  B06  1  7  -1095.8 4092003.2 -0.1  0.0  1  0       806
+[21]  B07  1  7   -385.3 4091999.9 -0.1  0.0  1  0       641
+[22]  B08  1  7   2926.9 4091992.7  0.0  0.0  1  0       474
+[23]  B09  1  7   -507.7 4092000.0 -0.1  0.0  1  0       309
+[24]  B10  1  7   -507.8 4092001.5 -0.0  0.0  1  0       143
+[25]  B11  1  7   -604.3 4092000.9 -0.0  0.0  1  0      3135
+[26]  B13  1  7  -3297.0 4092009.4 -0.0  0.0  1  0      2969
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch27 satid=51,max_freq = -3500,max_mean = 1203,max_phase = 2505,max_value = 5241,acq ok1!
+acq ok1 timeH = 0,timeL = 829820510,time_stage = 5
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch28 satid=52,max_freq = 2500,max_mean = 1212,max_phase = 2578,max_value = 4969,acq ok1!
+acq ok1 timeH = 0,timeL = 831105633,time_stage = 2
+lsq: nits= 2
+$GNGGA,030410.000,3112.7106,N,12136.4336,E,1,06,2.4,34.2,M,,,,0000*26
+$GNRMC,030410.000,A,3112.7106,N,12136.4336,E,0.19,0.00,200519,,*18
+$GPGSA,A,3,07,08,09,16,21,27,,,,,,,3.2,2.4,2.2*32
+$BDGSA,A,3,,,,,,,,,,,,,3.2,2.4,2.2*24
+$GPGSV,2,1,08,26,00,000,33,04,00,000,43,07,27,317,46,08,66,243,44*7D
+$GPGSV,2,2,08,09,31,276,45,16,44,047,43,21,08,040,37,27,71,023,42*74
+$LOGTIM,1,-605.120748,0.000000,0.000000,0.000000,-63.049*38
+EndT:        3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch29 satid=53,max_freq = -1750,max_mean = 1176,max_phase = 3844,max_value = 4773,acq ok1!
+acq ok1 timeH = 0,timeL = 835555622,time_stage = 4
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch30 satid=57,max_freq = -4750,max_mean = 1035,max_phase = 3186,max_value = 4224,acq ok1!
+acq ok1 timeH = 0,timeL = 839689124,time_stage = 5
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+---00000043--- Acq_st=3 2019-5-20 03:04:10 
+[00]  G26  7 32   1714.4 2045997.7  1.0  0.9  5  0         2
+[01]  G04  f 42  -1167.4 2046001.5  1.0  1.0  5 3f  97467922
+[02]  G07  f 46  -3533.4 2046004.6  1.0  1.0  5  0  97467922
+[03]  G08  f 44  -1373.3 2046001.8  1.0  1.0  5  0  97467931
+[04]  G09  f 45      9.0 2046000.0  1.0  1.0  5  0  97467924
+[05]  G16  f 43   1191.2 2045998.4  1.0  1.0  5  0  97467927
+[06]  G21  f 37   2067.9 2045997.3  1.0  1.0  5  0  97467914
+[07]  G27  f 43    932.5 2045998.8  1.0  1.0  5  0  97467932
+[16]  B01  1 10   1767.5 4091997.7  0.0  0.0  1  0      2636
+[17]  B02  1 29   1000.1 4092001.1  0.1  0.0  1  0      2470
+[18]  B03  1 10  -4596.5 4092011.5 -0.1  0.0  1  0      2304
+[19]  B05  1 10  -1518.6 4092002.8 -0.1  0.0  1  0      1972
+[20]  B06  1  7  -1025.7 4092003.1  0.0  0.0  1  0      1806
+[21]  B07  1  7   -563.7 4091999.8 -0.0  0.0  1  0      1641
+[22]  B08  1  7   3064.9 4091992.8  0.1  0.0  1  0      1474
+[23]  B09  1 12   -603.7 4092000.2 -0.0  0.0  1  0      1309
+[24]  B10  1  7   -450.5 4092001.0 -0.0  0.0  1  0      1143
+[25]  B11  1  7   -515.8 4092001.0 -0.1  0.0  1  0       978
+[26]  B13  1  7  -4008.7 4092008.8  0.1  0.0  1  0       646
+[27]  B15  1  7   3434.4 4091990.9  0.1  0.0  1  0       314
+[28]  B16  1  7  -2570.6 4092005.8 -0.1  0.0  1  0       148
+[29]  B17  1  7   1603.3 4091996.4  0.1  0.0  1  0      2472
+[30]  B21  1  7   4772.1 4091987.9  0.1  0.0  1  0      2974
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch31 satid=59,max_freq = 1250,max_mean = 1216,max_phase = 3655,max_value = 5485,acq ok1!
+acq ok1 timeH = 0,timeL = 844158300,time_stage = 2
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch16 satid=60,max_freq = 3500,max_mean = 1153,max_phase = 3578,max_value = 4893,acq ok1!
+acq ok1 timeH = 0,timeL = 849624880,time_stage = 1
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+lsq: nits= 2
+$GNGGA,030411.000,3112.7101,N,12136.4335,E,1,06,2.4,33.3,M,,,,0000*25
+$GNRMC,030411.000,A,3112.7101,N,12136.4335,E,0.14,0.00,200519,,*10
+$GPGSA,A,3,07,08,09,16,21,27,,,,,,,3.2,2.4,2.2*32
+$BDGSA,A,3,,,,,,,,,,,,,3.2,2.4,2.2*24
+$GPGSV,2,1,08,26,00,000,32,04,00,000,42,07,27,317,46,08,66,243,44*7D
+$GPGSV,2,2,08,09,31,276,45,16,44,047,43,21,08,040,37,27,71,023,43*75
+$LOGTIM,1,-669.803023,0.000000,0.000000,0.000000,-63.376*3F
+EndT:        3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch17 satid=62,max_freq = 3250,max_mean = 1087,max_phase = 2539,max_value = 6408,acq ok1!
+acq ok1 timeH = 0,timeL = 855992978,time_stage = 1
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch18 satid=63,max_freq = 4500,max_mean = 1174,max_phase = 3926,max_value = 5091,acq ok1!
+acq ok1 timeH = 0,timeL = 858860121,time_stage = 1
+---00000044--- Acq_st=3 2019-5-20 03:04:11 
+[00]  G26  7 32   1712.4 2045997.7  1.0  1.0  5  0         2
+[01]  G04  f 42  -1168.0 2046001.5  1.0  1.0  5 3f  97468922
+[02]  G07  f 46  -3534.8 2046004.6  1.0  1.0  5  0  97468922
+[03]  G08  f 44  -1374.4 2046001.8  1.0  1.0  5  0  97468931
+[04]  G09  f 45      8.2 2046000.0  1.0  1.0  5  0  97468924
+[05]  G16  f 43   1189.9 2045998.5  1.0  1.0  5  0  97468927
+[06]  G21  f 35   2066.3 2045997.3  1.0  1.0  5  0  97468914
+[07]  G27  f 43    931.2 2045998.8  1.0  1.0  5  0  97468932
+[16]  B24  1  7  -3816.4 4092009.2  0.0  0.0  1  0       168
+[17]  B26  1  7  -3163.3 4092008.1 -0.0  0.0  1  0      2470
+[18]  B27  1  7  -4513.3 4092010.6  0.0  0.0  1  0      2304
+[20]  B06  1  7  -1019.8 4092003.0 -0.1  0.0  1  0      2806
+[21]  B07  1  7   -453.9 4092000.4  0.0  0.0  1  0      2641
+[22]  B08  1  8   3021.7 4091992.8  0.1  0.0  1  0      2474
+[23]  B09  1  7   -464.6 4092000.7 -0.2  0.0  1  0      2309
+[24]  B10  1  7   -451.2 4092001.3  0.1  0.0  1  0      2143
+[25]  B11  1  8   -504.9 4092001.0 -0.0  0.0  1  0      1978
+[26]  B13  1  7  -4019.6 4092008.9  0.2  0.0  1  0      1646
+[27]  B15  1  7   3478.8 4091991.0 -0.1  0.0  1  0      1314
+[28]  B16  1  7  -2623.9 4092006.0 -0.2  0.0  1  0      1148
+[29]  B17  1  7   1522.4 4091996.7  0.1  0.0  1  0       982
+[30]  B21  1  7   4977.6 4091987.9 -0.1  0.0  1  0       816
+[31]  B23  1  7  -1321.6 4092002.2 -0.1  0.0  1  0       485
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch19 satid=65,max_freq = 750,max_mean = 1263,max_phase = 2873,max_value = 6936,acq ok1!
+acq ok1 timeH = 0,timeL = 863329694,time_stage = 3
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch20 satid=66,max_freq = -2750,max_mean = 1162,max_phase = 2091,max_value = 10860,acq ok1!
+acq ok1 timeH = 0,timeL = 867463192,time_stage = 4
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+BDS judge
+ch21 satid=68,max_freq = 2500,max_mean = 1300,max_phase = 2169,max_value = 5217,acq ok1!
+acq ok1 timeH = 0,timeL = 869064802,time_stage = 2
+lsq: nits= 2
+$GNGGA,030412.000,3112.7100,N,12136.4335,E,1,06,2.4,32.5,M,,,,0000*20
+$GNRMC,030412.000,A,3112.7100,N,12136.4335,E,0.11,0.00,200519,,*17
+$GPGSA,A,3,07,08,09,16,21,27,,,,,,,3.2,2.4,2.2*32
+$BDGSA,A,3,,,,,,,,,,,,,3.2,2.4,2.2*24
+$GPGSV,2,1,08,26,00,000,32,04,00,000,42,07,27,317,46,08,66,243,44*7D
+$GPGSV,2,2,08,09,31,276,45,16,44,047,43,21,08,040,35,27,71,023,43*77
+$LOGTIM,1,-734.296841,0.000000,0.000000,0.000000,-63.545*3A
+EndT:        3
+---00000045--- Acq_st=7 2019-5-20 03:04:12 
+[00]  G26  7 33   1712.8 2045997.9  1.0  1.0  5  0         2
+[01]  G04  f 42  -1167.6 2046001.5  1.0  1.0  5 3f  97469922
+[02]  G07  f 46  -3534.6 2046004.6  1.0  1.0  5  0  97469922
+[03]  G08  f 44  -1373.6 2046001.8  1.0  1.0  5  0  97469931
+[04]  G09  f 45      9.0 2046000.0  1.0  1.0  5  0  97469924
+[05]  G16  f 43   1190.4 2045998.4  1.0  1.0  5  0  97469927
+[06]  G21  f 36   2067.5 2045997.3  1.0  1.0  5  0  97469914
+[07]  G27  f 43    931.8 2045998.8  1.0  1.0  5  0  97469932
+[16]  B24  1  7  -3992.1 4092008.9 -0.1  0.0  1  0      1168
+[17]  B26  1  7  -3064.3 4092007.9  0.2  0.0  1  0       835
+[18]  B27  1  7  -4596.8 4092011.4  0.1  0.0  1  0       670
+[19]  B29  1  7   -451.4 4092001.6 -0.1  0.0  1  0       503
+[20]  B30  1  7   2864.7 4091992.3 -0.0  0.0  1  0       337
+[21]  B32  1  7  -2375.5 4092006.2  0.0  0.0  1  0       172
+[26]  B13  1  7  -3995.7 4092009.2  0.0  0.0  1  0      2646
+[27]  B15  1  7   3502.0 4091991.5  0.0  0.0  1  0      2314
+[28]  B16  1  7  -2791.1 4092005.9  0.0  0.0  1  0      2148
+[29]  B17  1  9   1472.2 4091996.3  0.2  0.0  1  0      1982
+[30]  B21  1  7   4977.5 4091987.7  0.0  0.0  1  0      1816
+[31]  B23  1  7  -1067.0 4092003.1 -0.0  0.0  1  0      1485
+lsq: nits= 2
+$GNGGA,030413.000,3112.7099,N,12136.4335,E,1,06,2.4,31.9,M,,,,0000*2F
+$GNRMC,030413.000,A,3112.7099,N,12136.4335,E,0.16,0.00,200519,,*10
+$GPGSA,A,3,07,08,09,16,21,27,,,,,,,3.2,2.4,2.2*32
+$BDGSA,A,3,,,,,,,,,,,,,3.2,2.4,2.2*24
+$GPGSV,2,1,08,26,00,000,33,04,00,000,42,07,27,317,46,08,66,243,44*7C
+$GPGSV,2,2,08,09,31,276,45,16,44,047,43,21,08,040,36,27,71,023,43*74
+$LOGTIM,1,-798.579844,0.000000,0.000000,0.000000,-63.489*3E
+EndT:        3
+---00000046--- Acq_st=7 2019-5-20 03:04:13 
+[00]  G26  f 32   1714.4 2045997.8  1.0  0.9  5  0         2
+[01]  G04  f 42  -1166.1 2046001.5  1.0  1.0  5 3f  97470922
+[02]  G07  f 46  -3533.8 2046004.6  1.0  1.0  5  0  97470922
+[03]  G08  f 44  -1372.3 2046001.8  1.0  1.0  5  0  97470931
+[04]  G09  f 45     10.3 2046000.0  1.0  1.0  5  0  97470924
+[05]  G16  f 43   1190.9 2045998.5  1.0  1.0  5  0  97470927
+[06]  G21  f 36   2068.3 2045997.3  1.0  1.0  5  0  97470914
+[07]  G27  f 43    933.1 2045998.8  1.0  1.0  5  0  97470932
+[16]  B24  1  7  -3921.5 4092009.0  0.1  0.0  1  0      2168
+[17]  B26  1 10  -3052.8 4092008.1  0.1  0.0  1  0      1835
+[18]  B27  1  8  -4401.7 4092011.2 -0.2  0.0  1  0      1670
+[19]  B29  1  7   -548.4 4092001.3 -0.1  0.0  1  0      1503
+[20]  B30  1  7   2992.3 4091992.6 -0.0  0.0  1  0      1337
+[21]  B32  1  7  -2536.3 4092006.0 -0.0  0.0  1  0      1172
+[30]  B21  1  7   4975.1 4091988.2 -0.1  0.0  1  0      2816
+[31]  B23  1  7   -921.9 4092003.2 -0.1  0.0  1  0      2485
+lsq: nits= 2
+$GNGGA,030414.000,3112.7099,N,12136.4336,E,1,06,2.4,31.4,M,,,,0000*26
+$GNRMC,030414.000,A,3112.7099,N,12136.4336,E,0.25,0.00,200519,,*14
+$GPGSA,A,3,07,08,09,16,21,27,,,,,,,3.2,2.4,2.2*32
+$BDGSA,A,3,,,,,,,,,,,,,3.2,2.4,2.2*24
+$GPGSV,2,1,08,26,00,000,32,04,00,000,42,07,27,317,46,08,66,243,44*7D
+$GPGSV,2,2,08,09,31,276,45,16,44,047,43,21,08,040,36,27,71,023,43*74
+$LOGTIM,1,-862.351056,0.000000,0.000000,0.000000,-63.443*35
+EndT:        2
+---00000047--- Acq_st=4 2019-5-20 03:04:14 
+[00]  G26  f 31   1713.8 2045997.8  1.0  1.0  5  0  97471922
+[01]  G04  f 42  -1166.0 2046001.5  1.0  1.0  5 3f  97471922
+[02]  G07  f 46  -3533.9 2046004.6  1.0  1.0  5  0  97471922
+[03]  G08  f 44  -1372.0 2046001.8  1.0  1.0  5  0  97471931
+[04]  G09  f 45     10.6 2046000.0  1.0  1.0  5  0  97471924
+[05]  G16  f 42   1190.8 2045998.4  1.0  1.0  5  0  97471927
+[06]  G21  f 37   2068.5 2045997.3  1.0  1.0  5  0  97471914
+[07]  G27  f 43    933.0 2045998.8  1.0  1.0  5  0  97471932
+[17]  B26  1  7  -2980.4 4092008.3 -0.0  0.0  1  0      2835
+[18]  B27  1  7  -4404.2 4092011.0  0.1  0.0  1  0      2670
+[19]  B29  1  7   -411.4 4092000.6 -0.0  0.0  1  0      2503
+[20]  B30  1  7   2954.5 4091993.0 -0.2  0.0  1  0      2337
+[21]  B32  1  7  -2500.5 4092006.2 -0.0  0.0  1  0      2172
+lsq: nits= 2
+$GNGGA,030415.000,3112.7097,N,12136.4340,E,1,06,2.4,31.2,M,,,,0000*2E
+$GNRMC,030415.000,A,3112.7097,N,12136.4340,E,0.15,0.00,200519,,*19
+$GPGSA,A,3,07,08,09,16,21,27,,,,,,,3.2,2.4,2.2*32
+$BDGSA,A,3,,,,,,,,,,,,,3.2,2.4,2.2*24
+$GPGSV,2,1,08,26,00,000,31,04,00,000,42,07,27,317,46,08,66,243,44*7E
+$GPGSV,2,2,08,09,31,276,45,16,44,047,42,21,08,040,37,27,71,023,43*74
+$LOGTIM,1,-926.217399,0.000000,0.000000,0.000000,-63.540*35
+EndT:        2
+---00000048--- Acq_st=5 2019-5-20 03:04:16 
+[00]  G26  f 32   1713.0 2045997.8  1.0  1.0  5  0  97472922
+[01]  G04  f 43  -1165.2 2046001.5  1.0  1.0  5 3f  97472922
+[02]  G07  f 46  -3533.8 2046004.6  1.0  1.0  5  0  97472922
+[03]  G08  f 44  -1371.7 2046001.8  1.0  1.0  5  0  97472931
+[04]  G09  f 45     11.2 2046000.0  1.0  1.0  5  0  97472924
+[05]  G16  f 43   1190.8 2045998.4  1.0  1.0  5  0  97472927
+[06]  G21  f 36   2068.9 2045997.3  1.0  1.0  5  0  97472914
+[07]  G27  f 42    933.9 2045998.8  1.0  1.0  5  0  97472932
+

@@ -1,0 +1,5319 @@
+FlashID=0x1 0x20 0x18
+BBram_blkflag1: 42b0: bd4f
+FW Ver: 1.30  
+GPS00 Init Dop:  -2755,  8
+GPS01 Init Dop:   5000, 40
+GPS02 Init Dop:   5000, 40
+GPS03 Init Dop:   5000, 40
+GPS04 Init Dop:   5000, 40
+GPS05 Init Dop:   5000, 40
+GPS06 Init Dop:   5000, 40
+GPS07 Init Dop:   5000, 40
+GPS08 Init Dop:   5000, 40
+GPS09 Init Dop:   5000, 40
+GPS10 Init Dop:  -2437,  8
+GPS11 Init Dop:   5000, 40
+GPS12 Init Dop:   5000, 40
+GPS13 Init Dop:   5000, 40
+GPS14 Init Dop:   5000, 40
+GPS15 Init Dop:   5000, 40
+GPS16 Init Dop:   5000, 40
+GPS17 Init Dop:   5000, 40
+GPS18 Init Dop:   2339,  8
+GPS19 Init Dop:   5000, 40
+GPS20 Init Dop:   5000, 40
+GPS21 Init Dop:  -1402,  8
+GPS22 Init Dop:   5000, 40
+GPS23 Init Dop:   5000, 40
+GPS24 Init Dop:   5000, 40
+GPS25 Init Dop:   5000, 40
+GPS26 Init Dop:   5000, 40
+GPS27 Init Dop:    703,  8
+GPS28 Init Dop:   5000, 40
+GPS29 Init Dop:   5000, 40
+GPS30 Init Dop:   5000, 40
+GPS31 Init Dop:   5000, 40
+BDS00 Init Dop:   5000, 40
+BDS01 Init Dop:   5000, 40
+BDS02 Init Dop:   5000, 40
+BDS03 Init Dop:   5000, 40
+BDS04 Init Dop:   5000, 40
+BDS05 Init Dop:   5000, 40
+BDS06 Init Dop:   5000, 40
+BDS07 Init Dop:   -230,  4
+BDS08 Init Dop:   5000, 40
+BDS09 Init Dop:   -265,  4
+BDS10 Init Dop:  -1169,  4
+BDS11 Init Dop:   5000, 40
+BDS12 Init Dop:    112,  4
+BDS13 Init Dop:   5000, 40
+BDS14 Init Dop:   5000, 40
+BDS15 Init Dop:   5000, 40
+BDS16 Init Dop:   5000, 40
+BDS17 Init Dop:   5000, 40
+BDS18 Init Dop:   5000, 40
+BDS19 Init Dop:   5000, 40
+BDS20 Init Dop:  -1504,  4
+BDS21 Init Dop:   5000, 40
+BDS22 Init Dop:   5000, 40
+BDS23 Init Dop:   5000, 40
+BDS24 Init Dop:   5000, 40
+BDS25 Init Dop:   5000, 40
+BDS26 Init Dop:   5000, 40
+BDS27 Init Dop:   1410,  4
+BDS28 Init Dop:   5000, 40
+BDS29 Init Dop:   5000, 40
+BDS30 Init Dop:   5000, 40
+BDS31 Init Dop:   5000, 40
+GPS acq_max:3934
+GPS acq_max:6700
+GPS acq_max:5976
+GPS acq_max:2896
+GPS acq_max:3704
+GPS acq_max:3070
+GPS acq_max:5154
+GPS acq_max:3754
+GPS acq_max:1181
+GPS acq_max:1097
+GPS acq_max:1177
+GPS acq_max:1125
+GPS acq_max:1046
+GPS acq_max:1055
+GPS acq_max:1171
+GPS acq_max:1001
+GPS acq_max:3265
+GPS acq_max:3206
+GPS acq_max:3429
+GPS acq_max:3128
+GPS acq_max:3247
+GPS acq_max:3214
+GPS acq_max:3210
+GPS acq_max:3217
+GPS acq_max:4441
+GPS acq_max:4247
+GPS acq_max:4114
+GPS acq_max:4109
+GPS acq_max:3627
+GPS acq_max:3897
+GPS acq_max:4216
+GPS acq_max:3703
+GPS acq_max:3869
+GPS acq_max:4445
+GPS acq_max:4019
+GPS acq_max:3972
+GPS acq_max:3884
+GPS acq_max:4060
+GPS acq_max:4485
+GPS acq_max:3799
+GPS acq_max:4673
+GPS acq_max:4284
+GPS acq_max:4526
+GPS acq_max:4428
+GPS acq_max:4114
+GPS acq_max:4545
+GPS acq_max:4000
+GPS acq_max:4708
+GPS acq_max:3563
+GPS acq_max:3954
+GPS acq_max:3893
+GPS acq_max:4014
+GPS acq_max:4262
+GPS acq_max:4026
+GPS acq_max:4917
+GPS acq_max:4099
+GPS acq_max:4029
+GPS acq_max:3970
+GPS acq_max:3964
+GPS acq_max:4042
+GPS acq_max:4009
+GPS acq_max:3927
+GPS acq_max:4430
+GPS acq_max:4324
+GPS acq_max:4379
+GPS acq_max:4292
+GPS acq_max:4090
+GPS acq_max:4307
+GPS acq_max:4350
+GPS acq_max:3863
+GPS acq_max:3776
+GPS acq_max:3809
+GPS acq_max:4178
+GPS acq_max:4018
+GPS acq_max:3694
+GPS acq_max:3991
+GPS acq_max:4097
+GPS acq_max:4235
+GPS acq_max:4045
+GPS acq_max:3921
+GPS acq_max:4058
+GPS acq_max:4365
+GPS acq_max:4336
+GPS acq_max:3681
+GPS acq_max:3564
+GPS acq_max:3856
+GPS acq_max:3964
+GPS acq_max:4510
+GPS acq_max:3649
+GPS acq_max:4021
+GPS acq_max:4463
+GPS acq_max:4113
+GPS acq_max:3999
+GPS acq_max:5294
+GPS acq_max:4635
+GPS acq_max:3898
+GPS acq_max:4142
+GPS acq_max:4263
+GPS acq_max:4673
+GPS acq_max:4507
+GPS acq_max:4086
+GPS acq_max:3950
+GPS acq_max:4022
+GPS acq_max:3786
+GPS acq_max:3665
+GPS acq_max:4163
+GPS acq_max:4063
+GPS acq_max:3795
+GPS acq_max:4046
+GPS acq_max:3981
+GPS acq_max:3862
+GPS acq_max:4003
+GPS acq_max:3859
+GPS acq_max:4368
+GPS acq_max:4495
+GPS acq_max:3991
+GPS acq_max:4136
+GPS acq_max:4574
+GPS acq_max:4750
+GPS acq_max:4994
+GPS acq_max:3861
+GPS acq_max:3979
+GPS acq_max:4317
+GPS acq_max:4106
+GPS acq_max:4569
+GPS acq_max:4954
+GPS acq_max:3989
+GPS acq_max:4273
+GPS acq_max:4113
+GPS acq_max:3624
+GPS acq_max:3703
+GPS acq_max:3723
+GPS acq_max:3805
+GPS acq_max:3976
+GPS acq_max:3781
+GPS acq_max:4280
+GPS acq_max:4017
+GPS acq_max:3734
+GPS acq_max:4386
+GPS acq_max:3781
+GPS acq_max:4035
+GPS acq_max:4761
+GPS acq_max:4281
+GPS acq_max:4610
+GPS acq_max:4375
+GPS acq_max:4454
+GPS acq_max:3745
+GPS acq_max:3814
+GPS acq_max:3925
+GPS acq_max:3861
+GPS acq_max:3684
+GPS acq_max:4076
+GPS acq_max:3740
+GPS acq_max:3927
+GPS acq_max:4224
+GPS acq_max:4062
+GPS acq_max:3822
+GPS acq_max:3825
+GPS acq_max:4110
+GPS acq_max:3696
+GPS acq_max:4873
+GPS acq_max:4336
+GPS acq_max:4191
+GPS acq_max:4596
+GPS acq_max:3795
+GPS acq_max:3636
+GPS acq_max:4101
+GPS acq_max:3724
+GPS acq_max:4099
+GPS acq_max:4189
+GPS acq_max:4224
+GPS acq_max:3961
+GPS acq_max:4054
+GPS acq_max:4019
+GPS acq_max:3964
+GPS acq_max:4484
+GPS acq_max:3913
+GPS acq_max:4133
+GPS acq_max:4096
+GPS acq_max:4325
+GPS acq_max:3845
+GPS acq_max:4125
+GPS acq_max:4182
+GPS acq_max:4301
+GPS acq_max:3953
+GPS acq_max:3962
+GPS acq_max:3490
+GPS acq_max:4407
+GPS acq_max:4439
+GPS acq_max:3938
+GPS acq_max:4327
+GPS acq_max:4502
+GPS acq_max:4014
+GPS acq_max:4074
+GPS acq_max:3853
+GPS acq_max:4629
+GPS acq_max:4832
+GPS acq_max:4446
+GPS acq_max:4228
+GPS acq_max:4373
+GPS acq_max:4427
+GPS acq_max:3968
+GPS acq_max:4193
+GPS acq_max:4256
+GPS acq_max:3954
+GPS acq_max:3883
+GPS acq_max:4037
+GPS acq_max:3653
+GPS acq_max:3892
+GPS acq_max:4308
+GPS acq_max:4534
+GPS acq_max:4129
+GPS acq_max:4221
+GPS acq_max:4301
+GPS acq_max:4303
+GPS acq_max:3876
+GPS acq_max:3848
+GPS acq_max:3653
+GPS acq_max:3845
+GPS acq_max:3869
+GPS acq_max:3749
+GPS acq_max:3953
+GPS acq_max:4216
+GPS acq_max:4222
+GPS acq_max:4878
+GPS acq_max:4253
+GPS acq_max:3689
+GPS acq_max:3704
+GPS acq_max:3884
+GPS acq_max:4079
+GPS acq_max:4727
+GPS acq_max:5483
+GPS acq_max:4312
+GPS acq_max:4223
+GPS acq_max:4388
+GPS acq_max:4268
+GPS acq_max:3934
+GPS acq_max:3893
+GPS acq_max:4127
+GPS acq_max:3589
+GPS acq_max:4214
+GPS acq_max:3865
+GPS acq_max:4073
+GPS acq_max:4033
+GPS acq_max:4195
+GPS acq_max:4075
+GPS acq_max:4354
+GPS acq_max:4345
+GPS acq_max:4185
+GPS acq_max:4328
+GPS acq_max:4422
+GPS acq_max:3962
+GPS acq_max:4326
+GPS acq_max:3794
+GPS acq_max:3911
+GPS acq_max:3795
+GPS acq_max:3651
+GPS acq_max:3842
+GPS acq_max:4276
+GPS acq_max:4603
+GPS acq_max:3969
+GPS acq_max:3569
+GPS acq_max:3662
+GPS acq_max:3993
+GPS acq_max:4163
+GPS acq_max:3901
+GPS acq_max:3606
+GPS acq_max:3915
+GPS acq_max:3937
+GPS acq_max:3982
+GPS acq_max:4386
+GPS acq_max:3783
+GPS acq_max:4057
+GPS acq_max:4569
+GPS acq_max:4711
+GPS acq_max:4083
+GPS acq_max:3955
+GPS acq_max:3806
+GPS acq_max:3958
+GPS acq_max:3586
+GPS acq_max:3957
+GPS acq_max:4497
+GPS acq_max:5341
+GPS acq_max:4687
+GPS acq_max:4063
+GPS acq_max:3940
+GPS acq_max:4096
+GPS acq_max:3729
+GPS acq_max:4356
+GPS acq_max:3759
+GPS acq_max:4055
+GPS acq_max:3823
+GPS acq_max:4212
+GPS acq_max:4357
+GPS acq_max:3839
+GPS acq_max:4095
+GPS acq_max:3850
+GPS acq_max:4428
+GPS acq_max:5151
+GPS acq_max:4994
+GPS acq_max:3842
+GPS acq_max:3920
+GPS acq_max:3904
+GPS acq_max:4065
+GPS acq_max:4091
+GPS acq_max:4444
+GPS acq_max:3849
+GPS acq_max:4237
+GPS acq_max:3869
+GPS acq_max:4425
+GPS acq_max:4136
+GPS acq_max:3824
+GPS acq_max:3840
+GPS acq_max:3634
+GPS acq_max:4076
+GPS acq_max:4195
+GPS acq_max:4328
+GPS acq_max:4529
+GPS acq_max:4325
+GPS acq_max:4401
+GPS acq_max:4041
+GPS acq_max:3768
+GPS acq_max:3848
+GPS acq_max:4210
+GPS acq_max:3841
+GPS acq_max:4173
+GPS acq_max:4473
+GPS acq_max:4045
+---00000001--- Acq_st=3 2019-5-25 07:37:26 
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+GPS acq_max:3920
+GPS acq_max:4059
+GPS acq_max:3793
+GPS acq_max:4192
+GPS acq_max:4287
+GPS acq_max:4353
+GPS acq_max:4193
+GPS acq_max:3861
+GPS acq_max:4666
+GPS acq_max:4138
+GPS acq_max:4254
+GPS acq_max:4227
+GPS acq_max:3997
+GPS acq_max:4123
+GPS acq_max:3957
+GPS acq_max:3674
+GPS acq_max:4518
+GPS acq_max:4431
+GPS acq_max:4461
+GPS acq_max:3878
+GPS acq_max:4076
+GPS acq_max:4148
+GPS acq_max:3908
+GPS acq_max:4293
+GPS acq_max:4104
+GPS acq_max:4140
+GPS acq_max:5017
+GPS acq_max:4761
+GPS acq_max:3930
+GPS acq_max:4039
+GPS acq_max:3994
+GPS acq_max:4022
+GPS acq_max:4356
+GPS acq_max:4674
+GPS acq_max:4528
+GPS acq_max:4176
+GPS acq_max:4416
+GPS acq_max:3956
+GPS acq_max:4552
+GPS acq_max:4330
+GPS acq_max:25583
+GPS acq_max:39090
+GPS acq_max:17151
+GPS acq_max:7690
+GPS acq_max:15330
+GPS acq_max:20999
+GPS acq_max:14996
+GPS acq_max:16576
+GPS acq_max:4055
+GPS acq_max:4447
+GPS acq_max:4023
+GPS acq_max:4028
+GPS acq_max:3899
+GPS acq_max:3900
+GPS acq_max:4257
+GPS acq_max:4316
+GPS acq_max:4594
+GPS acq_max:3848
+GPS acq_max:4058
+GPS acq_max:4299
+GPS acq_max:4247
+GPS acq_max:3912
+GPS acq_max:3910
+GPS acq_max:4169
+GPS acq_max:3805
+GPS acq_max:3752
+GPS acq_max:4161
+GPS acq_max:3950
+GPS acq_max:4329
+GPS acq_max:4868
+GPS acq_max:5036
+GPS acq_max:4281
+GPS acq_max:4557
+GPS acq_max:4213
+GPS acq_max:4155
+GPS acq_max:4358
+GPS acq_max:3960
+GPS acq_max:3712
+GPS acq_max:3871
+GPS acq_max:4173
+GPS acq_max:4100
+GPS acq_max:4285
+GPS acq_max:4252
+GPS acq_max:4306
+GPS acq_max:4024
+GPS acq_max:3728
+GPS acq_max:4412
+GPS acq_max:4905
+GPS acq_max:4255
+GPS acq_max:3822
+GPS acq_max:3958
+GPS acq_max:3764
+GPS acq_max:4042
+GPS acq_max:4536
+GPS acq_max:3790
+GPS acq_max:3437
+GPS acq_max:3936
+GPS acq_max:4806
+GPS acq_max:4073
+GPS acq_max:4516
+GPS acq_max:4737
+GPS acq_max:3793
+GPS acq_max:3916
+GPS acq_max:3574
+GPS acq_max:4098
+GPS acq_max:4246
+GPS acq_max:3916
+GPS acq_max:3980
+GPS acq_max:3998
+GPS acq_max:4406
+GPS acq_max:3986
+GPS acq_max:4420
+GPS acq_max:4052
+GPS acq_max:4382
+GPS acq_max:4488
+GPS acq_max:4662
+GPS acq_max:3825
+GPS acq_max:4489
+GPS acq_max:4886
+GPS acq_max:4163
+GPS acq_max:4155
+GPS acq_max:3995
+GPS acq_max:3850
+GPS acq_max:4044
+GPS acq_max:3982
+GPS acq_max:4694
+GPS acq_max:3951
+GPS acq_max:3629
+GPS acq_max:3892
+GPS acq_max:4013
+GPS acq_max:3844
+GPS acq_max:3967
+GPS acq_max:3638
+GPS acq_max:4131
+GPS acq_max:4008
+GPS acq_max:3796
+GPS acq_max:3713
+GPS acq_max:3844
+GPS acq_max:4223
+GPS acq_max:4162
+GPS acq_max:3938
+GPS acq_max:3751
+GPS acq_max:4291
+GPS acq_max:4087
+GPS acq_max:3778
+GPS acq_max:3774
+GPS acq_max:4141
+GPS acq_max:3892
+GPS acq_max:3970
+GPS acq_max:3861
+GPS acq_max:4004
+GPS acq_max:4375
+GPS acq_max:4317
+GPS acq_max:3917
+GPS acq_max:4153
+GPS acq_max:3961
+GPS acq_max:4097
+GPS acq_max:4278
+GPS acq_max:4424
+GPS acq_max:4673
+GPS acq_max:4055
+GPS acq_max:3969
+GPS acq_max:3954
+GPS acq_max:3865
+GPS acq_max:4625
+GPS acq_max:4099
+GPS acq_max:4147
+GPS acq_max:4142
+GPS acq_max:3783
+GPS acq_max:4027
+GPS acq_max:3904
+GPS acq_max:3998
+GPS acq_max:3821
+GPS acq_max:3882
+GPS acq_max:4045
+GPS acq_max:3754
+GPS acq_max:3779
+GPS acq_max:4126
+GPS acq_max:4531
+GPS acq_max:4724
+GPS acq_max:4740
+GPS acq_max:3813
+GPS acq_max:3942
+GPS acq_max:3911
+GPS acq_max:3992
+GPS acq_max:4302
+GPS acq_max:3931
+GPS acq_max:3760
+GPS acq_max:3935
+GPS acq_max:4354
+GPS acq_max:3947
+GPS acq_max:4149
+GPS acq_max:4027
+GPS acq_max:4610
+GPS acq_max:3771
+GPS acq_max:3959
+GPS acq_max:4060
+GPS acq_max:4047
+GPS acq_max:3844
+GPS acq_max:4366
+GPS acq_max:4494
+GPS acq_max:4219
+GPS acq_max:4662
+GPS acq_max:4088
+GPS acq_max:4129
+GPS acq_max:4009
+GPS acq_max:4285
+GPS acq_max:4426
+GPS acq_max:4037
+GPS acq_max:3737
+GPS acq_max:3948
+GPS acq_max:4002
+GPS acq_max:4350
+GPS acq_max:5022
+GPS acq_max:4223
+GPS acq_max:3904
+GPS acq_max:3963
+GPS acq_max:3850
+GPS acq_max:3801
+GPS acq_max:3795
+GPS acq_max:4562
+GPS acq_max:4025
+GPS acq_max:3659
+GPS acq_max:4494
+GPS acq_max:4174
+GPS acq_max:4136
+GPS acq_max:4489
+GPS acq_max:3907
+GPS acq_max:3969
+GPS acq_max:4016
+GPS acq_max:4067
+GPS acq_max:3627
+GPS acq_max:3989
+GPS acq_max:4245
+GPS acq_max:4032
+GPS acq_max:3942
+GPS acq_max:4109
+GPS acq_max:4127
+GPS acq_max:4372
+GPS acq_max:4041
+GPS acq_max:4194
+GPS acq_max:3893
+GPS acq_max:4234
+GPS acq_max:4856
+GPS acq_max:4395
+GPS acq_max:3708
+GPS acq_max:3984
+GPS acq_max:3949
+GPS acq_max:4065
+GPS acq_max:4157
+GPS acq_max:3718
+GPS acq_max:4085
+GPS acq_max:4201
+GPS acq_max:4059
+GPS acq_max:3863
+GPS acq_max:3845
+GPS acq_max:4296
+GPS acq_max:4155
+GPS acq_max:4215
+GPS acq_max:4048
+GPS acq_max:4162
+GPS acq_max:4038
+GPS acq_max:3844
+GPS acq_max:3495
+GPS acq_max:4091
+GPS acq_max:4197
+GPS acq_max:3786
+GPS acq_max:4127
+GPS acq_max:3994
+GPS acq_max:4204
+GPS acq_max:4778
+GPS acq_max:4607
+GPS acq_max:3632
+GPS acq_max:3774
+GPS acq_max:3593
+GPS acq_max:3683
+GPS acq_max:4002
+GPS acq_max:3800
+GPS acq_max:3735
+GPS acq_max:3862
+GPS acq_max:3936
+GPS acq_max:4019
+GPS acq_max:3567
+GPS acq_max:3571
+GPS acq_max:3840
+GPS acq_max:3706
+GPS acq_max:3672
+GPS acq_max:3441
+GPS acq_max:4146
+GPS acq_max:3694
+GPS acq_max:3644
+GPS acq_max:3876
+GPS acq_max:3992
+GPS acq_max:3884
+GPS acq_max:3943
+GPS acq_max:4285
+GPS acq_max:4129
+GPS acq_max:3632
+GPS acq_max:3888
+GPS acq_max:4285
+GPS acq_max:4033
+GPS acq_max:3795
+GPS acq_max:3921
+GPS acq_max:3768
+GPS acq_max:4199
+GPS acq_max:3700
+GPS acq_max:3667
+GPS acq_max:3797
+GPS acq_max:3601
+GPS acq_max:4121
+GPS acq_max:3902
+GPS acq_max:3767
+GPS acq_max:4254
+GPS acq_max:4066
+GPS acq_max:4275
+GPS acq_max:3704
+GPS acq_max:3832
+GPS acq_max:3839
+GPS acq_max:5373
+GPS acq_max:8449
+GPS acq_max:6921
+GPS acq_max:6238
+GPS acq_max:4150
+GPS acq_max:4225
+GPS acq_max:4225
+GPS acq_max:4475
+GPS acq_max:3893
+GPS acq_max:4065
+ch0 satid=17,max_freq = -2750,max_mean = 1982,max_phase = 158,max_value = 8449,acq ok1!
+acq ok1 timeH = 0,timeL = 36532957,freq_stage = 4
+GPS acq_max:3822
+GPS acq_max:6475
+GPS acq_max:3662
+GPS acq_max:4102
+GPS acq_max:3766
+GPS acq_max:3729
+GPS acq_max:4270
+GPS acq_max:4309
+---00000002--- Acq_st=3 2019-5-25 07:37:27 
+[00]  G18  1  7   4474.5 2045997.8  0.0  0.0  1  0         0
+GPS acq_max:3665
+GPS acq_max:4057
+GPS acq_max:4434
+GPS acq_max:3941
+GPS acq_max:3698
+GPS acq_max:3900
+GPS acq_max:3778
+GPS acq_max:3957
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+GPS acq_max:4214
+GPS acq_max:3782
+GPS acq_max:4808
+GPS acq_max:4455
+GPS acq_max:3774
+GPS acq_max:3788
+GPS acq_max:4081
+GPS acq_max:3844
+GPS acq_max:4443
+GPS acq_max:4581
+GPS acq_max:4201
+GPS acq_max:3908
+GPS acq_max:3591
+GPS acq_max:3890
+GPS acq_max:4401
+GPS acq_max:4113
+GPS acq_max:3825
+GPS acq_max:3517
+GPS acq_max:3763
+GPS acq_max:3821
+GPS acq_max:4257
+GPS acq_max:4043
+GPS acq_max:3761
+GPS acq_max:4315
+GPS acq_max:4149
+GPS acq_max:3610
+GPS acq_max:4470
+GPS acq_max:3780
+GPS acq_max:3996
+GPS acq_max:4071
+GPS acq_max:4447
+GPS acq_max:4290
+GPS acq_max:4435
+GPS acq_max:4319
+GPS acq_max:4248
+GPS acq_max:4399
+GPS acq_max:4169
+GPS acq_max:4405
+GPS acq_max:4603
+GPS acq_max:3988
+GPS acq_max:3725
+GPS acq_max:4049
+GPS acq_max:4465
+GPS acq_max:3866
+GPS acq_max:3862
+GPS acq_max:3848
+GPS acq_max:3857
+GPS acq_max:4408
+GPS acq_max:3876
+GPS acq_max:3711
+GPS acq_max:3580
+GPS acq_max:3668
+GPS acq_max:3829
+GPS acq_max:4057
+GPS acq_max:3851
+GPS acq_max:3797
+GPS acq_max:4124
+GPS acq_max:4426
+GPS acq_max:4210
+GPS acq_max:3850
+GPS acq_max:3993
+GPS acq_max:4212
+GPS acq_max:4296
+GPS acq_max:4243
+GPS acq_max:4529
+GPS acq_max:4879
+GPS acq_max:4377
+GPS acq_max:4351
+GPS acq_max:3931
+GPS acq_max:4032
+GPS acq_max:4720
+GPS acq_max:4746
+GPS acq_max:7094
+GPS acq_max:6986
+GPS acq_max:18837
+GPS acq_max:26715
+GPS acq_max:32070
+GPS acq_max:19126
+GPS acq_max:19896
+GPS acq_max:19087
+GPS acq_max:3968
+GPS acq_max:3886
+GPS acq_max:4036
+GPS acq_max:3748
+GPS acq_max:3847
+GPS acq_max:3980
+GPS acq_max:3974
+GPS acq_max:3894
+GPS acq_max:4146
+GPS acq_max:3880
+GPS acq_max:4372
+GPS acq_max:4091
+GPS acq_max:3912
+GPS acq_max:3882
+GPS acq_max:3666
+GPS acq_max:3957
+GPS acq_max:4232
+GPS acq_max:4427
+GPS acq_max:4144
+GPS acq_max:4265
+GPS acq_max:3847
+GPS acq_max:3811
+GPS acq_max:3731
+GPS acq_max:3793
+GPS acq_max:4082
+GPS acq_max:3921
+GPS acq_max:4469
+GPS acq_max:4332
+GPS acq_max:4690
+GPS acq_max:4066
+GPS acq_max:4106
+GPS acq_max:4077
+GPS acq_max:3848
+GPS acq_max:4049
+GPS acq_max:4662
+GPS acq_max:5118
+GPS acq_max:5206
+GPS acq_max:3787
+GPS acq_max:4315
+GPS acq_max:4306
+GPS acq_max:3782
+GPS acq_max:3852
+GPS acq_max:3955
+GPS acq_max:4009
+GPS acq_max:4467
+GPS acq_max:4556
+GPS acq_max:3999
+GPS acq_max:3756
+GPS acq_max:3683
+GPS acq_max:3732
+GPS acq_max:4490
+GPS acq_max:4246
+GPS acq_max:4046
+GPS acq_max:3684
+GPS acq_max:3767
+GPS acq_max:3745
+GPS acq_max:4035
+GPS acq_max:3821
+GPS acq_max:3959
+GPS acq_max:4700
+GPS acq_max:3817
+GPS acq_max:3576
+GPS acq_max:4118
+GPS acq_max:4188
+GPS acq_max:4557
+GPS acq_max:4146
+GPS acq_max:3753
+GPS acq_max:3841
+GPS acq_max:3794
+GPS acq_max:3878
+GPS acq_max:3901
+GPS acq_max:3766
+GPS acq_max:4258
+GPS acq_max:4395
+GPS acq_max:4272
+GPS acq_max:3983
+GPS acq_max:3637
+GPS acq_max:4197
+GPS acq_max:4234
+GPS acq_max:4822
+GPS acq_max:4114
+GPS acq_max:4287
+GPS acq_max:4063
+GPS acq_max:3829
+GPS acq_max:4043
+GPS acq_max:3730
+GPS acq_max:3955
+GPS acq_max:3686
+GPS acq_max:4106
+GPS acq_max:3811
+GPS acq_max:3862
+GPS acq_max:3594
+GPS acq_max:3874
+GPS acq_max:4106
+GPS acq_max:3929
+GPS acq_max:4122
+GPS acq_max:4253
+GPS acq_max:3800
+GPS acq_max:4366
+GPS acq_max:4270
+GPS acq_max:3924
+GPS acq_max:4008
+GPS acq_max:4084
+GPS acq_max:4437
+GPS acq_max:4249
+GPS acq_max:4117
+GPS acq_max:4564
+GPS acq_max:4262
+GPS acq_max:3686
+GPS acq_max:3730
+GPS acq_max:3557
+GPS acq_max:3806
+GPS acq_max:3701
+GPS acq_max:4103
+GPS acq_max:4265
+GPS acq_max:4041
+GPS acq_max:4026
+GPS acq_max:4494
+GPS acq_max:3845
+GPS acq_max:3953
+GPS acq_max:4044
+GPS acq_max:3754
+GPS acq_max:4149
+GPS acq_max:3840
+GPS acq_max:3886
+GPS acq_max:3961
+GPS acq_max:3893
+GPS acq_max:3854
+GPS acq_max:3792
+GPS acq_max:4517
+GPS acq_max:3914
+GPS acq_max:3838
+GPS acq_max:4073
+GPS acq_max:3755
+GPS acq_max:3785
+GPS acq_max:3730
+GPS acq_max:4094
+GPS acq_max:4099
+GPS acq_max:3832
+GPS acq_max:3793
+GPS acq_max:4089
+GPS acq_max:3788
+GPS acq_max:3752
+GPS acq_max:3769
+GPS acq_max:4266
+GPS acq_max:4136
+GPS acq_max:4067
+GPS acq_max:3781
+GPS acq_max:4171
+GPS acq_max:3859
+GPS acq_max:4335
+GPS acq_max:4118
+GPS acq_max:3992
+GPS acq_max:4611
+GPS acq_max:5038
+GPS acq_max:3778
+GPS acq_max:4109
+GPS acq_max:3762
+GPS acq_max:3876
+GPS acq_max:4084
+GPS acq_max:4558
+GPS acq_max:4293
+GPS acq_max:4362
+GPS acq_max:3702
+GPS acq_max:4022
+GPS acq_max:4426
+GPS acq_max:4054
+GPS acq_max:3720
+GPS acq_max:3780
+GPS acq_max:4152
+GPS acq_max:3976
+GPS acq_max:3973
+GPS acq_max:4105
+GPS acq_max:3736
+GPS acq_max:3908
+GPS acq_max:3852
+GPS acq_max:4017
+GPS acq_max:4463
+GPS acq_max:4204
+GPS acq_max:3742
+GPS acq_max:3303
+GPS acq_max:3930
+GPS acq_max:3819
+GPS acq_max:3741
+GPS acq_max:3796
+GPS acq_max:3790
+GPS acq_max:3705
+GPS acq_max:4286
+GPS acq_max:4124
+GPS acq_max:3710
+GPS acq_max:3734
+GPS acq_max:4275
+GPS acq_max:3934
+GPS acq_max:3974
+GPS acq_max:4686
+GPS acq_max:4221
+GPS acq_max:3975
+GPS acq_max:3833
+GPS acq_max:3845
+GPS acq_max:3994
+GPS acq_max:7999
+GPS acq_max:15314
+GPS acq_max:5241
+GPS acq_max:3559
+GPS acq_max:3884
+GPS acq_max:4659
+GPS acq_max:4023
+GPS acq_max:4283
+ch1 satid=27,max_freq = 453,max_mean = 1963,max_phase = 7,max_value = 15314,acq ok1!
+acq ok1 timeH = 0,timeL = 54303112,freq_stage = 3
+GPS acq_max:3848
+GPS acq_max:3706
+GPS acq_max:4185
+GPS acq_max:4267
+GPS acq_max:4503
+GPS acq_max:4294
+GPS acq_max:3649
+GPS acq_max:3905
+GPS acq_max:4230
+GPS acq_max:4131
+GPS acq_max:3945
+GPS acq_max:4690
+GPS acq_max:4476
+GPS acq_max:3951
+GPS acq_max:3981
+GPS acq_max:3927
+GPS acq_max:3969
+GPS acq_max:4307
+GPS acq_max:3985
+GPS acq_max:3922
+GPS acq_max:4013
+GPS acq_max:3936
+GPS acq_max:4577
+GPS acq_max:4148
+GPS acq_max:4063
+GPS acq_max:4122
+GPS acq_max:4276
+GPS acq_max:4381
+GPS acq_max:3928
+GPS acq_max:3753
+GPS acq_max:3719
+GPS acq_max:3912
+GPS acq_max:4388
+GPS acq_max:3907
+GPS acq_max:3923
+GPS acq_max:3792
+GPS acq_max:4036
+GPS acq_max:4716
+GPS acq_max:3885
+GPS acq_max:4064
+GPS acq_max:4067
+GPS acq_max:3589
+GPS acq_max:3644
+GPS acq_max:4229
+GPS acq_max:4069
+GPS acq_max:3803
+GPS acq_max:4086
+GPS acq_max:3629
+---00000003--- Acq_st=3 2019-5-25 07:37:28 
+[00]  G18  1  7   2971.5 2045997.7 -0.2  0.0  1  0         8
+[01]  G28  1  7   -576.5 2046001.2  0.0  0.0  1  0         0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+GPS acq_max:3730
+GPS acq_max:3870
+GPS acq_max:3781
+GPS acq_max:3971
+GPS acq_max:4029
+GPS acq_max:4429
+GPS acq_max:3833
+GPS acq_max:3842
+GPS acq_max:4200
+GPS acq_max:3672
+GPS acq_max:3917
+GPS acq_max:4037
+GPS acq_max:3975
+GPS acq_max:4408
+GPS acq_max:3649
+GPS acq_max:3826
+GPS acq_max:4351
+GPS acq_max:3891
+GPS acq_max:3886
+GPS acq_max:3625
+GPS acq_max:4002
+GPS acq_max:3928
+GPS acq_max:4110
+GPS acq_max:4063
+GPS acq_max:3953
+GPS acq_max:4244
+GPS acq_max:3736
+GPS acq_max:3891
+GPS acq_max:3672
+GPS acq_max:4188
+GPS acq_max:3774
+GPS acq_max:3828
+GPS acq_max:4311
+GPS acq_max:3867
+GPS acq_max:3748
+GPS acq_max:3969
+GPS acq_max:4056
+GPS acq_max:4178
+GPS acq_max:4425
+GPS acq_max:3763
+GPS acq_max:4039
+GPS acq_max:3872
+GPS acq_max:4467
+GPS acq_max:3965
+GPS acq_max:4140
+GPS acq_max:3847
+GPS acq_max:3832
+GPS acq_max:3744
+GPS acq_max:4180
+GPS acq_max:3704
+GPS acq_max:4151
+GPS acq_max:3956
+GPS acq_max:4137
+GPS acq_max:4041
+GPS acq_max:4440
+GPS acq_max:3922
+GPS acq_max:4169
+GPS acq_max:3946
+GPS acq_max:3903
+GPS acq_max:3880
+GPS acq_max:3891
+GPS acq_max:3888
+GPS acq_max:4135
+GPS acq_max:4176
+GPS acq_max:4050
+GPS acq_max:4093
+GPS acq_max:3895
+GPS acq_max:3969
+GPS acq_max:3875
+GPS acq_max:4291
+GPS acq_max:4658
+GPS acq_max:4360
+GPS acq_max:4361
+GPS acq_max:3852
+GPS acq_max:4002
+GPS acq_max:3666
+GPS acq_max:4307
+GPS acq_max:3997
+GPS acq_max:4516
+GPS acq_max:4188
+GPS acq_max:3972
+GPS acq_max:4449
+GPS acq_max:4535
+GPS acq_max:4049
+GPS acq_max:4166
+GPS acq_max:3710
+GPS acq_max:4159
+GPS acq_max:4763
+GPS acq_max:3738
+GPS acq_max:3519
+GPS acq_max:3854
+GPS acq_max:3769
+GPS acq_max:3783
+GPS acq_max:4404
+GPS acq_max:3825
+GPS acq_max:4343
+GPS acq_max:3780
+GPS acq_max:4149
+GPS acq_max:3611
+GPS acq_max:3797
+GPS acq_max:3851
+GPS acq_max:3809
+GPS acq_max:3636
+GPS acq_max:4105
+GPS acq_max:3764
+GPS acq_max:4281
+GPS acq_max:4218
+GPS acq_max:4048
+GPS acq_max:4204
+GPS acq_max:3777
+GPS acq_max:3858
+GPS acq_max:3838
+---00000004--- Acq_st=3 2019-5-25 07:37:29 
+[00]  G18  7  7   3060.1 2045995.8 -0.1 -0.7 20  0         8
+[01]  G28  1 23   -957.4 2046001.6 -0.2  0.0  1  0         7
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+---00000005--- Acq_st=3 2019-5-25 07:37:30 
+[00]  G18  7  7   3062.2 2045996.0  0.0 -1.1 20  0         0
+[01]  G28  7 27   -981.3 2046001.2 -0.4  0.4 10  0         7
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,1,1,01,28,00,000,27*47
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+ch16 satid=47,max_freq = -1919,max_mean = 629,max_phase = 3904,max_value = 3949,acq ok1!
+acq ok1 timeH = 0,timeL = 105756152,freq_stage = 4
+ch17 satid=49,max_freq = 112,max_mean = 849,max_phase = 1530,max_value = 10232,acq ok1!
+acq ok1 timeH = 0,timeL = 111385772,freq_stage = 3
+---00000006--- Acq_st=3 2019-5-25 07:37:31 
+[00]  G18  7  7   3062.9 2045996.2 -0.1 -1.0 20  0         0
+[01]  G28  7 25   -977.6 2046001.2 -0.2 -0.2 10  0        13
+[16]  B11  1  7   1086.4 4091996.6  0.1  0.0  1  0         0
+[17]  B13  1  7   -203.8 4092001.8 -0.0  0.0  1  0         0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,1,1,01,28,00,000,25*45
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+---00000007--- Acq_st=3 2019-5-25 07:37:32 
+[00]  G18  7  7   3067.1 2045995.7  0.0 -1.0 20  0         0
+[01]  G28  7 27   -971.9 2046001.3 -0.5  0.0 10  0        13
+[16]  B11  7 19    922.4 4091997.8  0.2  0.0 20  0       464
+[17]  B13  1  7   -364.4 4092001.2  0.1  0.0  1  0       170
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,1,1,01,28,00,000,27*47
+$BDGSV,1,1,01,11,00,000,19*51
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+---00000008--- Acq_st=3 2019-5-25 07:37:33 
+[00]  G18  7  7   3068.1 2045996.2 -0.0 -1.1 20  0         0
+[01]  G28  7 26   -973.3 2046001.3 -1.0 -0.0 10  0        13
+[16]  B11  7 42    916.0 4091997.7  0.6  1.0  5  0      1463
+[17]  B13  7 35   -366.5 4092001.0  0.3  1.0  5  0      1170
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,1,1,01,28,00,000,26*46
+$BDGSV,1,1,02,11,00,000,42,13,00,000,35*68
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+---00000009--- Acq_st=3 2019-5-25 07:37:34 
+[00]  G18  7  7   3066.7 2045995.7  0.1 -0.9 20  0         0
+[01]  G28  7 27   -969.6 2046001.2 -0.8  0.0 10  0        13
+[16]  B11  7 43    917.9 4091997.6  1.0  1.0  5  0      2463
+[17]  B13  7 42   -364.3 4092000.9  1.0  1.0  5  0      2155
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,1,1,01,28,00,000,27*47
+$BDGSV,1,1,02,11,00,000,43,13,00,000,42*69
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+ch18 satid=64,max_freq = 1410,max_mean = 823,max_phase = 2411,max_value = 17272,acq ok1!
+acq ok1 timeH = 0,timeL = 178768642,freq_stage = 2
+---00000010--- Acq_st=3 2019-5-25 07:37:35 
+[00]  G18  7  7   3071.8 2045996.1 -0.0 -1.0 20  0         0
+[01]  G28  7 27   -966.5 2046001.2 -0.7  0.0 10  0        13
+[16]  B11  7 43    920.4 4091997.6  1.0  1.0  5  0      3463
+[17]  B13  7 42   -361.8 4092000.9  1.0  1.0  5  0      3155
+[18]  B28  1  7  -1654.3 4092005.3  0.1  0.0  1  0         0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,1,1,01,28,00,000,27*47
+$BDGSV,1,1,02,11,00,000,43,13,00,000,42*69
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+---00000011--- Acq_st=7 2019-5-25 07:37:36 
+[01]  G28  7 27   -965.9 2046001.3 -0.9  0.0 10  0        13
+[16]  B11  7 43    920.4 4091997.6  1.0  1.0  5  0      4463
+[17]  B13  7 42   -361.6 4092001.0  1.0  1.0  5  0      4155
+[18]  B28  7 25  -1659.7 4092004.3  0.2  0.0 20  0       661
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,1,1,01,28,00,000,27*47
+$BDGSV,1,1,03,11,00,000,43,13,00,000,42,28,00,000,25*55
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+---00000012--- Acq_st=7 2019-5-25 07:37:37 
+[01]  G28  7 26   -960.3 2046001.2 -0.6 -0.0 10  0        13
+[16]  B11  7 43    925.2 4091997.6  1.0  1.0  5  0      5463
+[17]  B13  7 42   -356.2 4092000.9  1.0  1.0  5  0      5155
+[18]  B28  7 42  -1654.3 4092004.3  1.0  1.0  5  0      1643
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,1,1,01,28,00,000,26*46
+$BDGSV,1,1,03,11,00,000,43,13,00,000,42,28,00,000,42*54
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+---00000013--- Acq_st=7 2019-5-25 07:37:38 
+[01]  G28  7 26   -960.3 2046001.2 -0.8 -0.0 10  0        13
+[16]  B11  7 43    925.1 4091997.6  1.0  1.0  5  0      6463
+[17]  B13  7 42   -356.8 4092000.9  1.0  1.0  5  0      6155
+[18]  B28  7 42  -1655.1 4092004.3  1.0  1.0  5  0      2643
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,1,1,01,28,00,000,26*46
+$BDGSV,1,1,03,11,00,000,43,13,00,000,42,28,00,000,42*54
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+GPS acq_max:4240
+GPS acq_max:3982
+GPS acq_max:4199
+GPS acq_max:4037
+GPS acq_max:4170
+GPS acq_max:4087
+GPS acq_max:4183
+GPS acq_max:4020
+GPS acq_max:4656
+GPS acq_max:3741
+GPS acq_max:3778
+GPS acq_max:4140
+GPS acq_max:4528
+GPS acq_max:3785
+GPS acq_max:3997
+GPS acq_max:3877
+GPS acq_max:3783
+GPS acq_max:3620
+GPS acq_max:3675
+GPS acq_max:4051
+GPS acq_max:3733
+GPS acq_max:3622
+GPS acq_max:3776
+GPS acq_max:4331
+GPS acq_max:3909
+GPS acq_max:4075
+GPS acq_max:4042
+GPS acq_max:3917
+GPS acq_max:3926
+GPS acq_max:8791
+GPS acq_max:11566
+GPS acq_max:10253
+GPS acq_max:8563
+GPS acq_max:4480
+GPS acq_max:4009
+GPS acq_max:4007
+GPS acq_max:3987
+GPS acq_max:4027
+GPS acq_max:3926
+GPS acq_max:3626
+ch0 satid=0,max_freq = -2500,max_mean = 1982,max_phase = 2036,max_value = 11566,acq ok1!
+acq ok1 timeH = 0,timeL = 250602618,freq_stage = 4
+GPS acq_max:3834
+GPS acq_max:4113
+GPS acq_max:3937
+GPS acq_max:3744
+GPS acq_max:4016
+GPS acq_max:4103
+GPS acq_max:4222
+GPS acq_max:3540
+GPS acq_max:3635
+GPS acq_max:4232
+GPS acq_max:3554
+GPS acq_max:3970
+GPS acq_max:3878
+GPS acq_max:4337
+GPS acq_max:4266
+GPS acq_max:4306
+GPS acq_max:3792
+GPS acq_max:4111
+GPS acq_max:4095
+GPS acq_max:3833
+GPS acq_max:3810
+GPS acq_max:4245
+GPS acq_max:4406
+GPS acq_max:3882
+GPS acq_max:3929
+GPS acq_max:4020
+GPS acq_max:4011
+GPS acq_max:4063
+GPS acq_max:4187
+GPS acq_max:3867
+GPS acq_max:4126
+GPS acq_max:4225
+GPS acq_max:4175
+GPS acq_max:3907
+GPS acq_max:3820
+GPS acq_max:4753
+GPS acq_max:4298
+GPS acq_max:3765
+GPS acq_max:3864
+GPS acq_max:3898
+GPS acq_max:3690
+GPS acq_max:3974
+GPS acq_max:3944
+GPS acq_max:4607
+GPS acq_max:4735
+GPS acq_max:3841
+GPS acq_max:3821
+GPS acq_max:3805
+GPS acq_max:4048
+GPS acq_max:4030
+GPS acq_max:4138
+GPS acq_max:3622
+GPS acq_max:4085
+GPS acq_max:3875
+GPS acq_max:4203
+GPS acq_max:3720
+GPS acq_max:3884
+GPS acq_max:4763
+GPS acq_max:4912
+GPS acq_max:4226
+GPS acq_max:3914
+GPS acq_max:3859
+GPS acq_max:4062
+GPS acq_max:3979
+GPS acq_max:4083
+GPS acq_max:3684
+GPS acq_max:3890
+GPS acq_max:4110
+GPS acq_max:4150
+GPS acq_max:4340
+GPS acq_max:4065
+GPS acq_max:3639
+GPS acq_max:3571
+GPS acq_max:4196
+GPS acq_max:3605
+GPS acq_max:4154
+GPS acq_max:3956
+GPS acq_max:4085
+GPS acq_max:4102
+GPS acq_max:3792
+GPS acq_max:4033
+GPS acq_max:3521
+GPS acq_max:3755
+GPS acq_max:3714
+GPS acq_max:3871
+GPS acq_max:3549
+GPS acq_max:3768
+GPS acq_max:3720
+GPS acq_max:4225
+GPS acq_max:3898
+GPS acq_max:3799
+GPS acq_max:3992
+GPS acq_max:4195
+GPS acq_max:4183
+GPS acq_max:3903
+GPS acq_max:3776
+GPS acq_max:4037
+GPS acq_max:3663
+GPS acq_max:4047
+GPS acq_max:3950
+GPS acq_max:4341
+GPS acq_max:3903
+GPS acq_max:3629
+GPS acq_max:3533
+GPS acq_max:3916
+GPS acq_max:4017
+GPS acq_max:4063
+GPS acq_max:4003
+GPS acq_max:4446
+GPS acq_max:4028
+GPS acq_max:3879
+GPS acq_max:3882
+GPS acq_max:3884
+GPS acq_max:3970
+GPS acq_max:3919
+GPS acq_max:3731
+GPS acq_max:4088
+GPS acq_max:4486
+GPS acq_max:4196
+GPS acq_max:4225
+GPS acq_max:4114
+GPS acq_max:3843
+GPS acq_max:4783
+GPS acq_max:4379
+GPS acq_max:4154
+GPS acq_max:3925
+GPS acq_max:3865
+GPS acq_max:4094
+GPS acq_max:4090
+GPS acq_max:4263
+GPS acq_max:3709
+GPS acq_max:3595
+GPS acq_max:4107
+GPS acq_max:4658
+GPS acq_max:4036
+GPS acq_max:3826
+GPS acq_max:4022
+GPS acq_max:4049
+GPS acq_max:3940
+GPS acq_max:4173
+GPS acq_max:4018
+GPS acq_max:4327
+GPS acq_max:3757
+GPS acq_max:3630
+GPS acq_max:4046
+GPS acq_max:3952
+GPS acq_max:3779
+GPS acq_max:3886
+GPS acq_max:4341
+GPS acq_max:4552
+GPS acq_max:3967
+GPS acq_max:4153
+GPS acq_max:3656
+GPS acq_max:3582
+GPS acq_max:3774
+GPS acq_max:3942
+GPS acq_max:4088
+GPS acq_max:3949
+GPS acq_max:3929
+GPS acq_max:3718
+GPS acq_max:3632
+GPS acq_max:4096
+GPS acq_max:3820
+GPS acq_max:3905
+GPS acq_max:3462
+GPS acq_max:3426
+GPS acq_max:3675
+GPS acq_max:3838
+GPS acq_max:4015
+GPS acq_max:4528
+GPS acq_max:4148
+GPS acq_max:4132
+GPS acq_max:3877
+GPS acq_max:4281
+GPS acq_max:3739
+GPS acq_max:3803
+GPS acq_max:4008
+GPS acq_max:3743
+GPS acq_max:4046
+GPS acq_max:3921
+GPS acq_max:3578
+GPS acq_max:3725
+GPS acq_max:3809
+GPS acq_max:4014
+GPS acq_max:3930
+GPS acq_max:3568
+GPS acq_max:3879
+GPS acq_max:3594
+GPS acq_max:3695
+GPS acq_max:3904
+GPS acq_max:3841
+GPS acq_max:3712
+GPS acq_max:3703
+GPS acq_max:3485
+GPS acq_max:4760
+GPS acq_max:4275
+GPS acq_max:3796
+GPS acq_max:4045
+GPS acq_max:3958
+GPS acq_max:3764
+GPS acq_max:3913
+GPS acq_max:4260
+GPS acq_max:3894
+GPS acq_max:3745
+GPS acq_max:3775
+GPS acq_max:4227
+GPS acq_max:4140
+GPS acq_max:3511
+GPS acq_max:3727
+GPS acq_max:3845
+GPS acq_max:4061
+GPS acq_max:4285
+GPS acq_max:3738
+GPS acq_max:4460
+GPS acq_max:4251
+GPS acq_max:4039
+GPS acq_max:3663
+GPS acq_max:3792
+GPS acq_max:3652
+GPS acq_max:3851
+GPS acq_max:3865
+GPS acq_max:3764
+GPS acq_max:3972
+GPS acq_max:3859
+GPS acq_max:3883
+GPS acq_max:3993
+GPS acq_max:3848
+GPS acq_max:3995
+GPS acq_max:3912
+GPS acq_max:3908
+GPS acq_max:4003
+GPS acq_max:3720
+GPS acq_max:4138
+GPS acq_max:3792
+GPS acq_max:4229
+GPS acq_max:4030
+GPS acq_max:3999
+GPS acq_max:4275
+GPS acq_max:4287
+GPS acq_max:4199
+GPS acq_max:3738
+GPS acq_max:4527
+GPS acq_max:3881
+GPS acq_max:3682
+GPS acq_max:3988
+GPS acq_max:3705
+GPS acq_max:3759
+GPS acq_max:3594
+GPS acq_max:3732
+GPS acq_max:4180
+GPS acq_max:3890
+GPS acq_max:4009
+GPS acq_max:4634
+GPS acq_max:4432
+GPS acq_max:3844
+GPS acq_max:3955
+GPS acq_max:4108
+GPS acq_max:3822
+GPS acq_max:3569
+GPS acq_max:3754
+GPS acq_max:3564
+GPS acq_max:3577
+GPS acq_max:3525
+GPS acq_max:3967
+GPS acq_max:4369
+GPS acq_max:3712
+GPS acq_max:3942
+GPS acq_max:3739
+GPS acq_max:4099
+GPS acq_max:3859
+GPS acq_max:4012
+GPS acq_max:3968
+GPS acq_max:4181
+GPS acq_max:3756
+GPS acq_max:3603
+GPS acq_max:4211
+GPS acq_max:4006
+GPS acq_max:3875
+GPS acq_max:3824
+GPS acq_max:3848
+GPS acq_max:4060
+GPS acq_max:4291
+GPS acq_max:4010
+GPS acq_max:4017
+GPS acq_max:4068
+GPS acq_max:4624
+GPS acq_max:4135
+GPS acq_max:4248
+GPS acq_max:4046
+GPS acq_max:3753
+GPS acq_max:4085
+GPS acq_max:4628
+GPS acq_max:4628
+GPS acq_max:4174
+GPS acq_max:4008
+GPS acq_max:3904
+---00000014--- Acq_st=3 2019-5-25 07:37:39 
+[00]  G01  1 25   2510.1 2045997.3  0.1  0.0  1  0         0
+[01]  G28  7 26   -962.2 2046001.2 -1.0 -0.0 10  0        13
+[16]  B11 1f 43    922.5 4091997.6  1.0  1.0  5  0      7463
+[17]  B13 1f 42   -359.3 4092000.9  1.0  1.0  5  0      7155
+[18]  B28 1f 42  -1657.1 4092004.3  1.0  1.0  5  0      3643
+GPS acq_max:4211
+GPS acq_max:4490
+GPS acq_max:5322
+GPS acq_max:3958
+GPS acq_max:3839
+GPS acq_max:3823
+GPS acq_max:4043
+GPS acq_max:3984
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,1,1,01,28,00,000,26*46
+$BDGSV,1,1,03,11,00,000,43,13,00,000,42,28,00,000,42*54
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+GPS acq_max:4115
+GPS acq_max:3903
+GPS acq_max:3840
+GPS acq_max:3822
+GPS acq_max:4019
+GPS acq_max:3887
+GPS acq_max:4258
+GPS acq_max:3805
+GPS acq_max:3772
+GPS acq_max:3720
+GPS acq_max:4110
+GPS acq_max:4171
+GPS acq_max:3858
+GPS acq_max:4019
+GPS acq_max:3806
+GPS acq_max:4483
+GPS acq_max:3888
+GPS acq_max:3846
+GPS acq_max:3714
+GPS acq_max:3868
+GPS acq_max:4061
+GPS acq_max:4145
+GPS acq_max:4169
+GPS acq_max:3826
+GPS acq_max:4304
+GPS acq_max:4076
+GPS acq_max:3761
+GPS acq_max:3877
+GPS acq_max:3824
+GPS acq_max:3606
+GPS acq_max:3629
+GPS acq_max:4069
+GPS acq_max:4008
+GPS acq_max:4015
+GPS acq_max:3947
+GPS acq_max:3974
+GPS acq_max:3875
+GPS acq_max:3909
+GPS acq_max:3803
+GPS acq_max:3992
+GPS acq_max:3957
+GPS acq_max:3918
+GPS acq_max:4296
+GPS acq_max:4278
+GPS acq_max:4091
+GPS acq_max:4329
+GPS acq_max:3788
+GPS acq_max:3604
+GPS acq_max:4323
+GPS acq_max:4126
+GPS acq_max:4322
+GPS acq_max:3928
+GPS acq_max:4008
+GPS acq_max:3953
+GPS acq_max:4308
+GPS acq_max:4577
+GPS acq_max:3854
+GPS acq_max:3760
+GPS acq_max:4121
+GPS acq_max:3891
+GPS acq_max:3640
+GPS acq_max:4137
+GPS acq_max:3872
+GPS acq_max:3694
+GPS acq_max:4040
+GPS acq_max:3821
+GPS acq_max:4170
+GPS acq_max:4390
+GPS acq_max:4186
+GPS acq_max:4314
+GPS acq_max:4082
+GPS acq_max:3738
+GPS acq_max:4167
+GPS acq_max:4012
+GPS acq_max:3803
+GPS acq_max:6737
+GPS acq_max:3892
+GPS acq_max:3831
+GPS acq_max:4061
+GPS acq_max:4494
+GPS acq_max:3803
+GPS acq_max:3854
+GPS acq_max:10408
+GPS acq_max:33086
+GPS acq_max:54485
+GPS acq_max:62019
+GPS acq_max:47768
+GPS acq_max:24731
+GPS acq_max:4656
+GPS acq_max:4243
+GPS acq_max:3942
+GPS acq_max:4564
+GPS acq_max:4037
+GPS acq_max:4533
+GPS acq_max:4390
+GPS acq_max:4137
+ch2 satid=10,max_freq = -2250,max_mean = 1988,max_phase = 1671,max_value = 62019,acq ok1!
+acq ok1 timeH = 0,timeL = 273332110,freq_stage = 4
+GPS acq_max:4654
+GPS acq_max:4104
+GPS acq_max:4267
+GPS acq_max:3759
+GPS acq_max:3752
+GPS acq_max:3940
+GPS acq_max:3933
+GPS acq_max:4224
+GPS acq_max:3742
+GPS acq_max:4424
+GPS acq_max:4001
+GPS acq_max:3843
+GPS acq_max:3802
+GPS acq_max:3772
+GPS acq_max:3831
+GPS acq_max:3881
+GPS acq_max:4243
+GPS acq_max:3911
+GPS acq_max:4403
+GPS acq_max:4127
+GPS acq_max:4547
+GPS acq_max:4233
+GPS acq_max:3945
+GPS acq_max:3677
+GPS acq_max:4226
+GPS acq_max:3932
+GPS acq_max:4007
+GPS acq_max:4428
+GPS acq_max:4313
+GPS acq_max:3537
+GPS acq_max:4074
+GPS acq_max:3879
+GPS acq_max:3795
+GPS acq_max:3815
+GPS acq_max:4361
+GPS acq_max:4425
+GPS acq_max:3973
+GPS acq_max:4000
+GPS acq_max:4110
+GPS acq_max:3640
+GPS acq_max:4074
+GPS acq_max:3860
+GPS acq_max:3691
+GPS acq_max:3917
+GPS acq_max:3735
+GPS acq_max:3895
+GPS acq_max:3877
+GPS acq_max:4314
+GPS acq_max:4027
+GPS acq_max:3957
+GPS acq_max:3878
+GPS acq_max:3963
+GPS acq_max:4118
+GPS acq_max:3955
+GPS acq_max:3696
+GPS acq_max:4399
+GPS acq_max:4272
+GPS acq_max:4080
+GPS acq_max:3775
+GPS acq_max:4299
+GPS acq_max:4053
+GPS acq_max:4231
+GPS acq_max:4653
+GPS acq_max:4681
+GPS acq_max:4421
+GPS acq_max:4323
+GPS acq_max:3955
+GPS acq_max:3913
+GPS acq_max:4041
+GPS acq_max:4193
+GPS acq_max:3920
+GPS acq_max:4267
+GPS acq_max:4154
+GPS acq_max:4342
+GPS acq_max:3868
+GPS acq_max:4089
+GPS acq_max:4114
+GPS acq_max:4346
+GPS acq_max:4023
+GPS acq_max:4139
+GPS acq_max:3857
+GPS acq_max:3684
+GPS acq_max:3964
+GPS acq_max:3986
+GPS acq_max:3654
+GPS acq_max:3873
+GPS acq_max:3874
+GPS acq_max:3876
+GPS acq_max:3828
+GPS acq_max:3602
+GPS acq_max:3911
+GPS acq_max:4314
+GPS acq_max:3842
+GPS acq_max:3678
+GPS acq_max:3747
+GPS acq_max:3868
+GPS acq_max:4102
+GPS acq_max:3752
+GPS acq_max:3941
+GPS acq_max:4025
+GPS acq_max:3511
+GPS acq_max:3907
+GPS acq_max:3711
+GPS acq_max:4208
+GPS acq_max:4298
+GPS acq_max:3978
+GPS acq_max:3752
+GPS acq_max:4358
+GPS acq_max:4038
+GPS acq_max:3835
+GPS acq_max:4330
+GPS acq_max:4243
+GPS acq_max:3939
+GPS acq_max:4267
+GPS acq_max:4069
+GPS acq_max:4954
+GPS acq_max:3957
+GPS acq_max:3748
+GPS acq_max:4225
+GPS acq_max:3964
+GPS acq_max:4166
+GPS acq_max:4529
+GPS acq_max:4520
+GPS acq_max:4418
+GPS acq_max:3948
+GPS acq_max:4280
+GPS acq_max:4266
+GPS acq_max:4121
+GPS acq_max:4132
+GPS acq_max:3800
+GPS acq_max:3840
+GPS acq_max:3946
+GPS acq_max:4032
+GPS acq_max:4210
+GPS acq_max:3873
+GPS acq_max:4133
+GPS acq_max:4175
+GPS acq_max:4346
+GPS acq_max:4222
+GPS acq_max:4473
+GPS acq_max:4187
+GPS acq_max:4069
+GPS acq_max:4244
+GPS acq_max:4354
+GPS acq_max:4084
+GPS acq_max:4057
+GPS acq_max:3868
+GPS acq_max:3926
+GPS acq_max:4055
+GPS acq_max:4036
+GPS acq_max:4195
+GPS acq_max:4220
+GPS acq_max:4207
+GPS acq_max:4159
+GPS acq_max:4183
+GPS acq_max:3771
+GPS acq_max:4193
+GPS acq_max:4125
+GPS acq_max:3889
+GPS acq_max:3808
+GPS acq_max:4484
+GPS acq_max:4308
+GPS acq_max:3907
+GPS acq_max:4236
+GPS acq_max:3753
+GPS acq_max:4096
+GPS acq_max:3770
+GPS acq_max:3914
+GPS acq_max:3860
+GPS acq_max:4261
+GPS acq_max:3767
+GPS acq_max:3875
+GPS acq_max:3783
+GPS acq_max:3939
+GPS acq_max:3644
+GPS acq_max:3752
+GPS acq_max:3819
+GPS acq_max:3837
+GPS acq_max:3613
+GPS acq_max:3770
+GPS acq_max:3906
+GPS acq_max:3911
+GPS acq_max:3721
+GPS acq_max:3641
+GPS acq_max:4063
+GPS acq_max:3969
+GPS acq_max:4215
+GPS acq_max:3646
+GPS acq_max:3869
+GPS acq_max:3866
+GPS acq_max:3893
+GPS acq_max:3972
+GPS acq_max:4211
+GPS acq_max:3971
+GPS acq_max:4000
+GPS acq_max:4299
+GPS acq_max:3728
+GPS acq_max:3831
+GPS acq_max:3735
+GPS acq_max:4034
+GPS acq_max:3712
+GPS acq_max:4174
+GPS acq_max:4418
+GPS acq_max:4447
+GPS acq_max:4083
+GPS acq_max:4460
+GPS acq_max:3804
+GPS acq_max:3850
+GPS acq_max:3888
+GPS acq_max:4213
+GPS acq_max:3749
+GPS acq_max:4014
+GPS acq_max:5026
+GPS acq_max:4731
+GPS acq_max:3874
+GPS acq_max:3778
+GPS acq_max:3935
+GPS acq_max:3753
+GPS acq_max:3982
+GPS acq_max:4137
+GPS acq_max:3720
+GPS acq_max:3746
+GPS acq_max:3981
+GPS acq_max:3895
+GPS acq_max:4203
+GPS acq_max:3905
+GPS acq_max:3923
+GPS acq_max:3660
+GPS acq_max:3933
+GPS acq_max:4071
+GPS acq_max:4363
+GPS acq_max:3904
+---00000015--- Acq_st=3 2019-5-25 07:37:40 
+[00]  G01  7 28   2517.7 2045996.7  0.5  1.0 10  0        19
+[01]  G28  7 27   -959.9 2046001.2 -0.9  0.0 10  0        13
+[02]  G11  1 25   2197.0 2045997.4  0.2  0.0  1  0         0
+[16]  B11 1f 43    923.9 4091997.6  1.0  1.0  5  0 545863703
+[17]  B13 1f 42   -358.4 4092000.9  1.0  1.0  5  0 545863655
+[18]  B28 1f 42  -1655.6 4092004.4  1.0  1.0  5  0 545863703
+GPS acq_max:4191
+GPS acq_max:3937
+GPS acq_max:4120
+GPS acq_max:4572
+GPS acq_max:4468
+GPS acq_max:4410
+GPS acq_max:4176
+GPS acq_max:3930
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,1,1,02,01,00,000,28,28,00,000,27*7F
+$BDGSV,1,1,03,11,00,000,43,13,00,000,42,28,00,000,42*54
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+GPS acq_max:3778
+GPS acq_max:4025
+GPS acq_max:4219
+GPS acq_max:4173
+GPS acq_max:4234
+GPS acq_max:4305
+GPS acq_max:4218
+GPS acq_max:4184
+GPS acq_max:3898
+GPS acq_max:4111
+GPS acq_max:4158
+GPS acq_max:4418
+GPS acq_max:3803
+GPS acq_max:3982
+GPS acq_max:4027
+GPS acq_max:4037
+GPS acq_max:3977
+GPS acq_max:4020
+GPS acq_max:3746
+GPS acq_max:4037
+GPS acq_max:3960
+GPS acq_max:4062
+GPS acq_max:3757
+GPS acq_max:4112
+GPS acq_max:3932
+GPS acq_max:4342
+GPS acq_max:4537
+GPS acq_max:4363
+GPS acq_max:4504
+GPS acq_max:3961
+GPS acq_max:7952
+GPS acq_max:12290
+GPS acq_max:12288
+GPS acq_max:10179
+GPS acq_max:6405
+GPS acq_max:3967
+GPS acq_max:4143
+GPS acq_max:4183
+GPS acq_max:4252
+GPS acq_max:4542
+ch3 satid=17,max_freq = -2750,max_mean = 1999,max_phase = 135,max_value = 12290,acq ok1!
+acq ok1 timeH = 0,timeL = 289242737,freq_stage = 4
+GPS acq_max:3611
+GPS acq_max:4631
+GPS acq_max:4924
+GPS acq_max:4449
+GPS acq_max:3918
+GPS acq_max:4020
+GPS acq_max:3852
+GPS acq_max:5808
+GPS acq_max:13658
+GPS acq_max:21515
+GPS acq_max:24444
+GPS acq_max:18079
+GPS acq_max:8840
+GPS acq_max:4035
+GPS acq_max:4427
+GPS acq_max:4303
+GPS acq_max:3712
+GPS acq_max:3719
+GPS acq_max:3777
+GPS acq_max:3804
+GPS acq_max:3618
+GPS acq_max:3636
+GPS acq_max:3934
+GPS acq_max:3831
+GPS acq_max:4020
+GPS acq_max:4043
+GPS acq_max:3926
+GPS acq_max:3879
+GPS acq_max:3652
+GPS acq_max:4885
+GPS acq_max:4051
+GPS acq_max:3704
+GPS acq_max:4009
+GPS acq_max:3717
+GPS acq_max:4080
+GPS acq_max:3938
+GPS acq_max:3921
+GPS acq_max:3909
+GPS acq_max:4112
+GPS acq_max:4255
+ch4 satid=18,max_freq = 2500,max_mean = 2008,max_phase = 1406,max_value = 24444,acq ok1!
+acq ok1 timeH = 0,timeL = 290614206,freq_stage = 2
+GPS acq_max:4571
+GPS acq_max:4094
+GPS acq_max:3855
+GPS acq_max:4398
+GPS acq_max:3721
+GPS acq_max:4031
+GPS acq_max:3982
+GPS acq_max:3870
+GPS acq_max:4265
+GPS acq_max:4325
+GPS acq_max:3749
+GPS acq_max:3911
+GPS acq_max:3570
+GPS acq_max:4067
+GPS acq_max:3611
+GPS acq_max:3759
+GPS acq_max:3996
+GPS acq_max:4517
+GPS acq_max:3957
+GPS acq_max:3641
+GPS acq_max:3924
+GPS acq_max:4007
+GPS acq_max:4070
+GPS acq_max:4001
+GPS acq_max:4258
+GPS acq_max:3888
+GPS acq_max:4287
+GPS acq_max:4396
+GPS acq_max:4382
+GPS acq_max:3771
+GPS acq_max:3880
+GPS acq_max:3820
+GPS acq_max:4550
+GPS acq_max:4537
+GPS acq_max:4147
+GPS acq_max:4033
+GPS acq_max:4411
+GPS acq_max:4062
+GPS acq_max:3975
+GPS acq_max:3903
+GPS acq_max:4016
+GPS acq_max:4349
+GPS acq_max:4329
+GPS acq_max:3789
+GPS acq_max:4007
+GPS acq_max:3941
+GPS acq_max:3575
+GPS acq_max:4120
+GPS acq_max:3966
+GPS acq_max:3740
+GPS acq_max:3681
+GPS acq_max:3838
+GPS acq_max:3907
+GPS acq_max:3789
+GPS acq_max:4050
+GPS acq_max:4292
+GPS acq_max:4422
+GPS acq_max:3900
+GPS acq_max:3801
+GPS acq_max:3781
+GPS acq_max:4300
+GPS acq_max:4194
+GPS acq_max:4946
+GPS acq_max:4124
+GPS acq_max:3788
+GPS acq_max:3702
+GPS acq_max:4101
+GPS acq_max:4056
+GPS acq_max:3830
+GPS acq_max:4157
+GPS acq_max:4429
+GPS acq_max:4312
+GPS acq_max:4139
+GPS acq_max:3865
+GPS acq_max:4403
+GPS acq_max:4360
+GPS acq_max:5006
+GPS acq_max:4530
+GPS acq_max:3922
+GPS acq_max:4127
+GPS acq_max:3885
+GPS acq_max:3945
+GPS acq_max:4252
+GPS acq_max:4183
+GPS acq_max:4428
+GPS acq_max:4042
+GPS acq_max:4086
+GPS acq_max:3885
+GPS acq_max:4289
+GPS acq_max:3917
+GPS acq_max:3965
+GPS acq_max:4019
+GPS acq_max:4118
+GPS acq_max:3729
+GPS acq_max:3739
+GPS acq_max:3963
+GPS acq_max:4187
+GPS acq_max:3809
+GPS acq_max:4004
+GPS acq_max:4259
+GPS acq_max:3821
+GPS acq_max:4012
+GPS acq_max:10234
+GPS acq_max:29900
+GPS acq_max:46809
+GPS acq_max:50213
+GPS acq_max:36804
+GPS acq_max:18262
+GPS acq_max:4372
+GPS acq_max:3989
+GPS acq_max:4088
+GPS acq_max:3928
+GPS acq_max:3956
+GPS acq_max:3790
+GPS acq_max:3706
+GPS acq_max:4466
+GPS acq_max:4331
+GPS acq_max:3984
+GPS acq_max:3996
+GPS acq_max:3966
+ch5 satid=21,max_freq = -1250,max_mean = 2023,max_phase = 1465,max_value = 50213,acq ok1!
+acq ok1 timeH = 0,timeL = 298334584,freq_stage = 4
+GPS acq_max:4004
+GPS acq_max:4259
+GPS acq_max:4287
+GPS acq_max:4383
+GPS acq_max:4760
+GPS acq_max:4348
+GPS acq_max:4202
+GPS acq_max:4146
+GPS acq_max:4161
+GPS acq_max:3977
+GPS acq_max:4219
+GPS acq_max:4391
+GPS acq_max:3758
+GPS acq_max:4547
+GPS acq_max:4099
+GPS acq_max:4450
+GPS acq_max:4080
+GPS acq_max:3787
+GPS acq_max:4153
+GPS acq_max:3931
+GPS acq_max:3656
+GPS acq_max:3791
+GPS acq_max:4044
+GPS acq_max:3730
+GPS acq_max:4060
+GPS acq_max:3888
+GPS acq_max:4220
+GPS acq_max:4085
+GPS acq_max:4138
+GPS acq_max:4171
+GPS acq_max:4036
+GPS acq_max:4279
+GPS acq_max:4688
+GPS acq_max:4088
+GPS acq_max:4150
+GPS acq_max:3685
+GPS acq_max:3717
+GPS acq_max:3812
+GPS acq_max:3841
+GPS acq_max:3805
+GPS acq_max:4249
+GPS acq_max:4039
+GPS acq_max:3918
+GPS acq_max:4438
+GPS acq_max:4120
+GPS acq_max:4116
+GPS acq_max:4082
+GPS acq_max:3892
+GPS acq_max:4733
+GPS acq_max:4814
+GPS acq_max:4299
+GPS acq_max:3824
+GPS acq_max:4108
+GPS acq_max:4125
+GPS acq_max:3905
+GPS acq_max:4145
+GPS acq_max:3864
+GPS acq_max:4799
+GPS acq_max:3947
+GPS acq_max:3701
+GPS acq_max:4325
+GPS acq_max:4011
+GPS acq_max:4039
+GPS acq_max:3729
+GPS acq_max:4093
+GPS acq_max:3709
+GPS acq_max:4036
+GPS acq_max:4007
+GPS acq_max:3949
+GPS acq_max:4117
+GPS acq_max:3836
+GPS acq_max:3854
+GPS acq_max:3670
+GPS acq_max:3771
+GPS acq_max:4078
+GPS acq_max:3757
+GPS acq_max:3836
+GPS acq_max:3673
+GPS acq_max:4027
+GPS acq_max:4242
+GPS acq_max:3920
+GPS acq_max:3978
+GPS acq_max:3837
+GPS acq_max:4165
+GPS acq_max:4180
+GPS acq_max:4390
+GPS acq_max:4330
+GPS acq_max:3878
+GPS acq_max:3766
+GPS acq_max:3695
+GPS acq_max:3893
+GPS acq_max:3781
+GPS acq_max:4172
+GPS acq_max:4003
+GPS acq_max:3789
+GPS acq_max:4222
+GPS acq_max:4061
+GPS acq_max:3863
+GPS acq_max:4046
+GPS acq_max:3658
+GPS acq_max:4279
+GPS acq_max:4514
+GPS acq_max:3734
+GPS acq_max:3830
+GPS acq_max:4189
+GPS acq_max:3879
+GPS acq_max:4286
+GPS acq_max:3928
+GPS acq_max:3763
+GPS acq_max:4051
+GPS acq_max:4098
+GPS acq_max:3748
+GPS acq_max:3673
+GPS acq_max:3726
+GPS acq_max:4218
+GPS acq_max:4286
+GPS acq_max:4078
+GPS acq_max:4176
+GPS acq_max:3582
+GPS acq_max:3771
+GPS acq_max:4352
+GPS acq_max:3892
+GPS acq_max:4201
+GPS acq_max:4652
+GPS acq_max:4105
+GPS acq_max:3902
+GPS acq_max:3657
+GPS acq_max:3806
+---00000016--- Acq_st=3 2019-5-25 07:37:41 
+[00]  G01  7 35   2513.3 2045996.7  1.0  1.0  5  0         7
+[01]  G28  7 27   -964.5 2046001.2 -1.0  0.0 10  0        13
+[02]  G11  7 26   2196.1 2045997.1  0.5  0.0 20  0        15
+[03]  G18  1  7   2991.7 2045997.0 -0.1  0.0  1  0         0
+[04]  G19  1 24  -2574.5 2046004.3  0.0  0.0  1  0         0
+[05]  G22  1 13   1191.0 2045999.6  0.1  0.0  1  0         0
+[16]  B11 1f 43    920.1 4091997.6  1.0  1.0  5  0 545864703
+[17]  B13 1f 42   -361.2 4092000.9  1.0  1.0  5  0 545864655
+[18]  B28 1f 41  -1659.4 4092004.3  1.0  1.0  5  0 545864703
+GPS acq_max:4306
+GPS acq_max:4306
+GPS acq_max:3996
+GPS acq_max:4279
+GPS acq_max:4055
+GPS acq_max:3918
+GPS acq_max:4416
+GPS acq_max:4360
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,1,1,03,01,00,000,35,28,00,000,27,11,00,000,26*46
+$BDGSV,1,1,03,11,00,000,43,13,00,000,42,28,00,000,41*57
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        1
+GPS acq_max:3962
+GPS acq_max:3811
+GPS acq_max:3864
+GPS acq_max:3772
+GPS acq_max:4065
+GPS acq_max:4037
+GPS acq_max:4037
+GPS acq_max:3892
+GPS acq_max:4148
+GPS acq_max:4250
+GPS acq_max:3896
+GPS acq_max:3964
+GPS acq_max:3865
+GPS acq_max:4244
+GPS acq_max:4396
+GPS acq_max:3866
+GPS acq_max:4249
+GPS acq_max:4239
+GPS acq_max:4265
+GPS acq_max:4339
+GPS acq_max:3875
+GPS acq_max:4227
+GPS acq_max:4442
+GPS acq_max:4185
+GPS acq_max:3911
+GPS acq_max:4447
+GPS acq_max:3800
+GPS acq_max:4125
+GPS acq_max:4125
+GPS acq_max:4119
+GPS acq_max:4024
+GPS acq_max:3847
+GPS acq_max:4263
+GPS acq_max:3933
+GPS acq_max:4171
+GPS acq_max:3748
+GPS acq_max:3681
+GPS acq_max:3954
+GPS acq_max:3715
+GPS acq_max:3700
+GPS acq_max:3751
+GPS acq_max:3898
+GPS acq_max:3584
+GPS acq_max:3876
+GPS acq_max:3960
+GPS acq_max:3854
+GPS acq_max:3550
+GPS acq_max:3537
+GPS acq_max:3744
+GPS acq_max:3668
+GPS acq_max:4004
+GPS acq_max:4221
+GPS acq_max:4051
+GPS acq_max:3802
+GPS acq_max:3872
+GPS acq_max:5217
+GPS acq_max:3905
+GPS acq_max:3584
+GPS acq_max:4128
+GPS acq_max:4146
+GPS acq_max:3923
+GPS acq_max:3959
+GPS acq_max:4002
+GPS acq_max:4077
+GPS acq_max:4088
+GPS acq_max:4657
+GPS acq_max:4171
+GPS acq_max:3975
+GPS acq_max:4134
+GPS acq_max:3847
+GPS acq_max:4171
+GPS acq_max:4229
+GPS acq_max:3826
+GPS acq_max:4237
+GPS acq_max:4782
+GPS acq_max:4071
+GPS acq_max:3950
+GPS acq_max:3837
+GPS acq_max:4289
+GPS acq_max:4182
+GPS acq_max:4166
+GPS acq_max:3969
+GPS acq_max:3849
+GPS acq_max:4221
+GPS acq_max:4290
+GPS acq_max:4001
+GPS acq_max:3946
+GPS acq_max:4209
+GPS acq_max:3899
+GPS acq_max:4049
+GPS acq_max:3966
+GPS acq_max:4145
+GPS acq_max:3912
+GPS acq_max:4048
+GPS acq_max:4667
+GPS acq_max:4031
+GPS acq_max:4157
+GPS acq_max:3826
+GPS acq_max:4014
+GPS acq_max:4157
+GPS acq_max:4226
+GPS acq_max:3908
+GPS acq_max:3914
+GPS acq_max:3756
+GPS acq_max:4353
+GPS acq_max:4222
+GPS acq_max:4025
+GPS acq_max:4001
+GPS acq_max:3848
+GPS acq_max:4089
+GPS acq_max:4024
+GPS acq_max:3983
+GPS acq_max:3690
+GPS acq_max:4224
+GPS acq_max:4000
+GPS acq_max:3947
+GPS acq_max:3946
+GPS acq_max:3910
+GPS acq_max:3974
+GPS acq_max:4160
+GPS acq_max:4005
+GPS acq_max:4142
+GPS acq_max:3741
+GPS acq_max:3802
+GPS acq_max:4074
+GPS acq_max:3895
+GPS acq_max:3796
+GPS acq_max:3793
+GPS acq_max:3642
+GPS acq_max:3851
+GPS acq_max:3756
+GPS acq_max:3881
+GPS acq_max:3757
+GPS acq_max:3893
+GPS acq_max:3631
+GPS acq_max:3962
+GPS acq_max:4264
+GPS acq_max:3823
+GPS acq_max:3961
+GPS acq_max:3927
+GPS acq_max:3812
+GPS acq_max:4021
+GPS acq_max:3890
+GPS acq_max:3924
+GPS acq_max:3611
+GPS acq_max:4700
+GPS acq_max:4614
+GPS acq_max:4581
+GPS acq_max:4101
+GPS acq_max:3801
+GPS acq_max:4179
+GPS acq_max:4181
+GPS acq_max:4434
+GPS acq_max:4102
+GPS acq_max:3880
+GPS acq_max:3782
+GPS acq_max:3770
+GPS acq_max:4204
+GPS acq_max:3818
+GPS acq_max:4340
+GPS acq_max:4128
+GPS acq_max:4099
+GPS acq_max:4402
+GPS acq_max:4162
+GPS acq_max:4410
+GPS acq_max:4591
+GPS acq_max:4294
+GPS acq_max:3880
+GPS acq_max:4105
+GPS acq_max:3890
+GPS acq_max:4042
+GPS acq_max:3831
+GPS acq_max:4096
+GPS acq_max:3846
+GPS acq_max:3789
+GPS acq_max:3892
+GPS acq_max:3913
+GPS acq_max:4420
+GPS acq_max:4004
+GPS acq_max:4030
+GPS acq_max:3990
+GPS acq_max:3887
+GPS acq_max:3830
+GPS acq_max:3946
+GPS acq_max:3913
+GPS acq_max:3789
+GPS acq_max:3879
+GPS acq_max:4054
+GPS acq_max:4415
+GPS acq_max:4053
+GPS acq_max:3733
+GPS acq_max:3711
+GPS acq_max:3736
+GPS acq_max:3939
+GPS acq_max:3551
+GPS acq_max:3653
+GPS acq_max:3925
+GPS acq_max:3699
+GPS acq_max:3758
+GPS acq_max:3683
+GPS acq_max:3859
+GPS acq_max:3957
+GPS acq_max:4145
+GPS acq_max:3927
+GPS acq_max:3927
+GPS acq_max:4052
+GPS acq_max:3838
+GPS acq_max:3800
+GPS acq_max:3868
+GPS acq_max:3865
+GPS acq_max:4166
+GPS acq_max:3885
+GPS acq_max:3855
+GPS acq_max:3851
+GPS acq_max:3534
+GPS acq_max:3961
+GPS acq_max:3892
+GPS acq_max:3976
+GPS acq_max:3758
+GPS acq_max:3564
+GPS acq_max:3806
+GPS acq_max:3749
+GPS acq_max:3926
+GPS acq_max:3969
+---00000017--- Acq_st=3 2019-5-25 07:37:42 
+[00]  G01  7 35   2509.8 2045996.7  1.0  1.1  5  0         7
+[01]  G28  7 26   -967.6 2046001.2 -0.9 -0.0 10  0        13
+[02]  G11  7 42   2192.4 2045997.1  0.8  1.0  5  0         5
+[03]  G18  7 26   3017.6 2045995.9  0.0  0.8 20  0         6
+[04]  G19  7 27  -2586.2 2046003.3  0.4  0.0 20  0         8
+[05]  G22  7 14   1164.9 2045998.4  0.4  0.0 20  0        13
+[16]  B11 1f 43    916.9 4091997.6  1.0  1.0  5  0 545865703
+[17]  B13 1f 42   -364.9 4092000.9  1.0  1.0  5  0 545865655
+[18]  B28 1f 42  -1662.6 4092004.4  1.0  1.0  5  0 545865703
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,06,01,00,000,35,28,00,000,26,11,00,000,42,18,00,000,26*7E
+$GPGSV,2,2,06,19,00,000,27,22,00,000,14*77
+$BDGSV,1,1,03,11,00,000,43,13,00,000,42,28,00,000,42*54
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+---00000018--- Acq_st=3 2019-5-25 07:37:43 
+[00]  G01  f 35   2513.8 2045996.8  1.0  0.9  5  0         7
+[01]  G28  7 27   -963.8 2046001.2 -0.7 -0.0 10  0        13
+[02]  G11  f 43   2195.5 2045997.1  1.0  1.0  5  0         5
+[03]  G18  7 32   3020.9 2045996.0  1.0  0.9  5  0         0
+[04]  G19  7 38  -2582.9 2046003.3  1.0  1.0  5  0         4
+[05]  G22  7 42   1168.8 2045998.4  0.9  1.0  5  0         6
+[16]  B11 1f 43    920.3 4091997.6  1.0  1.0  5  0 545866703
+[17]  B13 1f 42   -361.8 4092000.9  1.0  1.0  5  0 545866655
+[18]  B28 1f 42  -1659.4 4092004.4  1.0  1.0  5  0 545866703
+lsq: nits= 4
+$GNGGA,073743.781,3112.7318,N,12136.4297,E,1,05,3.3,-28.1,M,,,,0000*0B
+$GNRMC,073743.781,A,3112.7318,N,12136.4297,E,0.08,0.00,250519,,*16
+$GPGSA,A,3,01,11,,,,,,,,,,,10.6,3.3,10.1*34
+$BDGSA,A,3,11,13,28,,,,,,,,,,10.6,3.3,10.1*2C
+$GPGSV,2,1,06,01,00,000,35,28,00,000,27,11,00,000,43,18,00,000,32*7B
+$GPGSV,2,2,06,19,00,000,38,22,00,000,42*7A
+$BDGSV,1,1,03,11,00,000,43,13,00,000,42,28,00,000,42*54
+$LOGTIM,3,6647708.883657,6647560.500989,0.000000,0.000000,-62.394*18
+EndT:        0
+ch19 satid=44,max_freq = 0,max_mean = 829,max_phase = 1003,max_value = 4334,acq ok1!
+acq ok1 timeH = 0,timeL = 357986882,freq_stage = 3
+---00000019--- Acq_st=3 2019-5-25 07:37:44 
+[00]  G01  f 34   2511.6 2045996.8  1.0  1.0  5  0 545881707
+[01]  G28  7 27   -965.4 2046001.2 -0.9 -0.0 10  0        13
+[02]  G11  f 42   2193.4 2045997.1  1.0  1.0  5  0 545881705
+[03]  G18  7 33   3019.3 2045996.1  1.0  0.9  5  0         0
+[04]  G19  7 38  -2584.6 2046003.3  1.0  1.0  5  0         4
+[05]  G22  7 42   1167.5 2045998.4  1.0  1.0  5  0         6
+[16]  B11 1f 43    918.3 4091997.6  1.0  1.0  5  0 545867703
+[17]  B13 1f 42   -363.3 4092000.9  1.0  1.0  5  0 545867655
+[18]  B28 1f 41  -1660.7 4092004.4  1.0  1.0  5  0 545867703
+[19]  B08  1  7    -10.9 4092000.6 -0.0  0.0  1  0         0
+lsq: nits= 2
+$GNGGA,073745.000,3112.7322,N,12136.4291,E,1,05,2.9,-28.5,M,,,,0000*03
+$GNRMC,073745.000,A,3112.7322,N,12136.4291,E,0.17,0.00,250519,,*1F
+$GPGSA,A,3,01,11,,,,,,,,,,,3.3,2.9,1.5*3C
+$BDGSA,A,3,11,13,28,,,,,,,,,,3.3,2.9,1.5*24
+$GPGSV,2,1,06,01,00,000,34,28,00,000,27,11,00,000,42,18,00,000,33*7A
+$GPGSV,2,2,06,19,00,000,38,22,00,000,42*7A
+$BDGSV,1,1,03,11,00,000,43,13,00,000,42,28,00,000,41*57
+$LOGTIM,3,-74.534717,-226.864354,0.000000,0.000000,-62.971*21
+EndT:        0
+ch20 satid=46,max_freq = 0,max_mean = 835,max_phase = 1373,max_value = 5795,acq ok1!
+acq ok1 timeH = 0,timeL = 368191180,freq_stage = 3
+---00000020--- Acq_st=3 2019-5-25 07:37:45 
+[00]  G01  f 35   2510.2 2045996.7  1.0  1.0  5  0 545882926
+[01]  G28  7 26   -966.9 2046001.2 -1.0 -0.0 10  0        11
+[02]  G11  f 42   2191.3 2045997.1  1.0  1.0  5  0 545882924
+[03]  G18  7 33   3017.6 2045995.9  1.0  1.0  5  0        19
+[04]  G19  7 39  -2586.9 2046003.3  1.0  1.0  5  0         3
+[05]  G22  7 42   1165.9 2045998.5  1.0  1.0  5  0         5
+[16]  B11 1f 43    916.3 4091997.6  1.0  1.0  5  0 545868922
+[17]  B13 1f 42   -365.5 4092000.9  1.0  1.0  5  0 545868874
+[18]  B28 1f 41  -1663.6 4092004.4  1.0  1.0  5  0 545868921
+[19]  B08  1  7    -16.1 4092000.3  0.1  0.0  1  0       439
+[20]  B10  1  7     11.8 4092001.1  0.1  0.0  1  0         0
+lsq: nits= 2
+$GNGGA,073746.000,3112.7334,N,12136.4285,E,1,05,2.9,-29.8,M,,,,0000*0E
+$GNRMC,073746.000,A,3112.7334,N,12136.4285,E,0.16,0.00,250519,,*1F
+$GPGSA,A,3,01,11,,,,,,,,,,,3.3,2.9,1.5*3C
+$BDGSA,A,3,11,13,28,,,,,,,,,,3.3,2.9,1.5*24
+$GPGSV,2,1,06,01,35,039,35,28,81,292,26,11,28,057,42,18,00,000,33*7E
+$GPGSV,2,2,06,19,26,301,39,22,39,063,42*72
+$BDGSV,2,1,06,11,39,053,43,13,47,263,42,28,38,298,41,08,66,306,00*6C
+$BDGSV,2,2,06,10,70,251,00,21,12,045,00*6F
+$LOGTIM,3,-136.461327,-290.562652,0.000000,0.000000,-62.976*12
+EndT:        0
+---00000021--- Acq_st=3 2019-5-25 07:37:46 
+[00]  G01  f 34   2512.1 2045996.7  1.0  1.0  5  0 545883926
+[01]  G28  7 27   -964.5 2046001.2 -0.8  0.0 10  0        12
+[02]  G11  f 43   2194.0 2045997.1  1.0  1.0  5  0 545883924
+[03]  G18  7 33   3019.8 2045996.0  1.0  0.9  5  0        19
+[04]  G19  7 38  -2584.4 2046003.4  1.0  1.0  5  0         3
+[05]  G22  7 43   1168.4 2045998.5  1.0  1.0  5  0         5
+[16]  B11 1f 43    918.5 4091997.6  1.0  1.0  5  0 545869922
+[17]  B13 1f 42   -363.7 4092000.9  1.0  1.0  5  0 545869874
+[18]  B28 1f 41  -1661.3 4092004.4  1.0  1.0  5  0 545869921
+[19]  B08  7 33    -21.0 4092000.0  0.7  1.0  5  0      1438
+[20]  B10  7 25     15.9 4091999.9  0.3  0.0 20  0       908
+lsq: nits= 2
+$GNGGA,073747.000,3112.7346,N,12136.4280,E,1,05,2.9,-29.8,M,,,,0000*0F
+$GNRMC,073747.000,A,3112.7346,N,12136.4280,E,0.30,0.00,250519,,*1A
+$GPGSA,A,3,01,11,,,,,,,,,,,3.3,2.9,1.5*3C
+$BDGSA,A,3,11,13,28,,,,,,,,,,3.3,2.9,1.5*24
+$GPGSV,2,1,06,01,35,039,34,28,81,292,27,11,28,057,43,18,00,000,33*7F
+$GPGSV,2,2,06,19,26,301,38,22,39,063,43*72
+$BDGSV,2,1,06,11,39,053,43,13,47,263,42,28,38,298,41,08,66,306,33*6C
+$BDGSV,2,2,06,10,70,251,25,21,12,045,00*68
+$LOGTIM,3,-197.183324,-353.057204,0.000000,0.000000,-62.483*1E
+EndT:        0
+ch21 satid=57,max_freq = -1250,max_mean = 808,max_phase = 889,max_value = 13398,acq ok1!
+acq ok1 timeH = 0,timeL = 414618800,freq_stage = 4
+---00000022--- Acq_st=3 2019-5-25 07:37:47 
+[00]  G01  f 35   2517.5 2045996.7  1.0  0.9  5  0 545884925
+[01]  G28  7 26   -959.1 2046001.3 -0.5 -0.0 10  0        12
+[02]  G11  f 42   2199.0 2045997.1  1.0  1.0  5  0 545884924
+[03]  G18  7 34   3023.8 2045996.0  1.0  0.9  5  0        19
+[04]  G19  7 38  -2579.5 2046003.3  1.0  1.0  5  0         3
+[05]  G22  7 42   1174.0 2045998.5  1.0  1.0  5  0         5
+[16]  B11 1f 43    923.3 4091997.6  1.0  1.0  5  0 545870922
+[17]  B13 1f 42   -358.7 4092000.9  1.0  1.0  5  0 545870874
+[18]  B28 1f 41  -1656.5 4092004.3  1.0  1.0  5  0 545870921
+[19]  B08  7 35    -16.1 4092000.0  1.0  1.0  5  0      2438
+[20]  B10  7 36     20.6 4091999.9  1.0  1.0  5  0      1899
+[21]  B21  1  7   1257.9 4091996.4  0.0  0.0  1  0         0
+lsq: nits= 2
+$GNGGA,073748.000,3112.7485,N,12136.4613,E,1,05,3.3,45.4,M,,,,0000*26
+$GNRMC,073748.000,A,3112.7485,N,12136.4613,E,0.09,0.00,250519,,*19
+$GPGSA,A,3,01,11,,,,,,,,,,,10.6,3.3,10.1*34
+$BDGSA,A,3,11,13,28,,,,,,,,,,10.6,3.3,10.1*2C
+$GPGSV,2,1,06,01,35,039,35,28,81,292,26,11,28,057,42,18,00,000,34*79
+$GPGSV,2,2,06,19,26,301,38,22,39,063,42*73
+$BDGSV,2,1,06,11,39,053,43,13,47,263,42,28,38,298,41,08,66,306,35*6A
+$BDGSV,2,2,06,10,70,251,36,21,12,045,00*6A
+$LOGTIM,3,-169.363944,-396.781319,0.000000,0.000000,-61.711*1C
+EndT:        0
+---00000023--- Acq_st=3 2019-5-25 07:37:48 
+[00]  G01  f 35   2516.9 2045996.7  1.0  0.9  5  0 545885925
+[01]  G28  7 26   -957.8 2046001.2 -0.3 -0.2 10  0        12
+[02]  G11  f 42   2198.0 2045997.2  1.0  1.0  5  0 545885924
+[03]  G18  7 34   3022.9 2045996.0  1.0  1.0  5  0        19
+[04]  G19  7 38  -2580.2 2046003.3  1.0  1.0  5  0         3
+[05]  G22  7 42   1173.8 2045998.5  1.0  1.0  5  0         5
+[16]  B11 1f 43    923.0 4091997.6  1.0  1.0  5  0 545871922
+[17]  B13 1f 42   -358.9 4092000.9  1.0  1.0  5  0 545871874
+[18]  B28 1f 41  -1656.6 4092004.4  1.0  1.0  5  0 545871921
+[19]  B08  7 36    -15.8 4092000.0  1.0  1.0  5  0      3438
+[20]  B10  7 36     20.6 4091999.9  1.0  1.0  5  0      2899
+[21]  B21  1  7   1262.1 4091996.6  0.2  0.0  1  0       517
+lsq: nits= 2
+$GNGGA,073749.000,3112.6830,N,12136.4654,E,1,05,3.3,223.2,M,,,,0000*13
+$GNRMC,073749.000,A,3112.6830,N,12136.4654,E,0.81,0.00,250519,,*18
+$GPGSA,A,3,01,11,,,,,,,,,,,10.6,3.3,10.1*34
+$BDGSA,A,3,11,13,28,,,,,,,,,,10.6,3.3,10.1*2C
+$GPGSV,2,1,06,01,35,039,35,28,81,291,26,11,28,057,42,18,00,000,34*7A
+$GPGSV,2,2,06,19,26,301,38,22,39,062,42*72
+$BDGSV,2,1,06,11,39,054,43,13,47,263,42,28,38,299,41,08,66,306,36*6F
+$BDGSV,2,2,06,10,70,251,36,21,12,045,00*6A
+$LOGTIM,3,-198.781908,-396.274480,0.000000,0.000000,-61.565*1B
+EndT:        1
+---00000024--- Acq_st=3 2019-5-25 07:37:49 
+[00]  G01  f 35   2514.4 2045996.7  1.0  0.9  5  0 545886925
+[01]  G28  7 27   -959.9 2046001.2 -1.0  0.0 10  0        12
+[02]  G11  f 43   2195.9 2045997.2  1.0  1.0  5  0 545886924
+[03]  G18  f 33   3021.9 2045996.0  1.0  0.9  5  0        19
+[04]  G19  f 38  -2582.4 2046003.4  1.0  1.0  5  0         3
+[05]  G22  f 42   1172.0 2045998.5  1.0  1.0  5  0         5
+[16]  B11 1f 43    920.4 4091997.6  1.0  1.0  5  0 545872922
+[17]  B13 1f 42   -361.5 4092000.9  1.0  1.0  5  0 545872874
+[18]  B28 1f 41  -1659.4 4092004.3  1.0  1.0  5  0 545872921
+[19]  B08  7 36    -18.6 4092000.1  1.0  1.0  5  0      4438
+[20]  B10  7 36     18.0 4092000.0  1.0  1.0  5  0      3899
+[21]  B21  7 38   1260.0 4091996.7  0.8  1.0  5  0      1514
+lsq: nits= 2
+$GNGGA,073750.000,3112.7079,N,12136.4272,E,1,07,2.2,10.7,M,,,,0000*2A
+$GNRMC,073750.000,A,3112.7079,N,12136.4272,E,2.13,275.97,250519,,*13
+$GPGSA,A,3,01,11,19,22,,,,,,,,,2.5,2.2,1.2*3F
+$BDGSA,A,3,11,13,28,,,,,,,,,,2.5,2.2,1.2*2F
+$GPGSV,2,1,06,01,35,039,35,28,81,291,27,11,28,057,43,18,00,000,33*7D
+$GPGSV,2,2,06,19,26,301,38,22,39,062,42*72
+$BDGSV,2,1,06,11,39,054,43,13,47,263,42,28,38,299,41,08,66,306,36*6F
+$BDGSV,2,2,06,10,70,251,36,21,12,045,38*61
+$LOGTIM,3,-386.896886,-538.805398,0.000000,0.000000,-62.554*19
+EndT:        1
+---00000025--- Acq_st=7 2019-5-25 07:37:50 
+[00]  G01  f 35   2514.0 2045996.8  1.0  1.0  5  0 545887925
+[01]  G28  7 26   -959.7 2046001.1 -0.9 -0.0 10  0        12
+[02]  G11  f 42   2195.3 2045997.1  1.0  1.0  5  0 545887924
+[03]  G18  f 32   3021.8 2045996.1  1.0  1.1  5  0 545887919
+[04]  G19  f 38  -2582.8 2046003.4  1.0  1.0  5  0 545887923
+[05]  G22  f 42   1171.9 2045998.4  1.0  1.0  5  0 545887925
+[16]  B11 1f 43    920.0 4091997.6  1.0  1.0  5  0 545873922
+[17]  B13 1f 42   -362.2 4092001.0  1.0  1.0  5  0 545873874
+[18]  B28 1f 41  -1659.6 4092004.3  1.0  1.0  5  0 545873921
+[19]  B08  7 36    -18.6 4092000.1  1.0  1.0  5  0      5438
+[20]  B10  7 36     17.2 4091999.9  1.0  1.0  5  0      4899
+[21]  B21  7 42   1260.1 4091996.7  1.0  1.0  5  0      2514
+GPS acq_max:4076
+GPS acq_max:4201
+GPS acq_max:4025
+GPS acq_max:4059
+GPS acq_max:4236
+GPS acq_max:4106
+GPS acq_max:3753
+GPS acq_max:4332
+GPS acq_max:3709
+GPS acq_max:3992
+GPS acq_max:3889
+GPS acq_max:3686
+GPS acq_max:3680
+GPS acq_max:3767
+GPS acq_max:3523
+GPS acq_max:4263
+GPS acq_max:3837
+GPS acq_max:4157
+GPS acq_max:3928
+GPS acq_max:3884
+GPS acq_max:3896
+GPS acq_max:3599
+GPS acq_max:3725
+GPS acq_max:4359
+GPS acq_max:3860
+GPS acq_max:4252
+GPS acq_max:3935
+GPS acq_max:3819
+GPS acq_max:4093
+GPS acq_max:3901
+GPS acq_max:3790
+GPS acq_max:4054
+GPS acq_max:4116
+GPS acq_max:4125
+GPS acq_max:4303
+GPS acq_max:4244
+GPS acq_max:3868
+GPS acq_max:5077
+GPS acq_max:4777
+GPS acq_max:4342
+GPS acq_max:4374
+GPS acq_max:3761
+GPS acq_max:4014
+GPS acq_max:3657
+GPS acq_max:4298
+GPS acq_max:4030
+GPS acq_max:4684
+GPS acq_max:4187
+GPS acq_max:4058
+GPS acq_max:4148
+GPS acq_max:4050
+GPS acq_max:3833
+GPS acq_max:4201
+GPS acq_max:4022
+GPS acq_max:3925
+GPS acq_max:4207
+GPS acq_max:5605
+GPS acq_max:7934
+GPS acq_max:8015
+GPS acq_max:5884
+GPS acq_max:3864
+GPS acq_max:3685
+GPS acq_max:3987
+GPS acq_max:3713
+GPS acq_max:3761
+GPS acq_max:4294
+GPS acq_max:4412
+GPS acq_max:4103
+GPS acq_max:3779
+GPS acq_max:3764
+GPS acq_max:3962
+GPS acq_max:3967
+GPS acq_max:3700
+GPS acq_max:3761
+GPS acq_max:4016
+GPS acq_max:3866
+GPS acq_max:4228
+GPS acq_max:4118
+GPS acq_max:4111
+GPS acq_max:4630
+lsq: nits= 2
+$GNGGA,073751.000,3112.7112,N,12136.4298,E,1,07,2.2,8.9,M,,,,0000*14
+$GNRMC,073751.000,A,3112.7112,N,12136.4298,E,0.73,275.97,250519,,*1E
+$GPGSA,A,3,01,11,19,22,,,,,,,,,2.5,2.2,1.2*3F
+$BDGSA,A,3,11,13,28,,,,,,,,,,2.5,2.2,1.2*2F
+$GPGSV,2,1,06,01,35,039,35,28,81,291,26,11,28,057,42,18,00,000,32*7C
+$GPGSV,2,2,06,19,26,301,38,22,39,062,42*72
+$BDGSV,2,1,06,11,39,054,43,13,47,263,42,28,38,299,41,08,66,306,36*6F
+$BDGSV,2,2,06,10,70,251,36,21,12,045,42*6C
+$LOGTIM,3,-445.826560,-597.560416,0.000000,0.000000,-62.087*1E
+EndT:        1
+GPS acq_max:3862
+GPS acq_max:4126
+GPS acq_max:3836
+GPS acq_max:3587
+GPS acq_max:3833
+GPS acq_max:4257
+GPS acq_max:4186
+GPS acq_max:3913
+GPS acq_max:3457
+GPS acq_max:3779
+GPS acq_max:4022
+GPS acq_max:4400
+GPS acq_max:3862
+GPS acq_max:3641
+GPS acq_max:3941
+GPS acq_max:3870
+GPS acq_max:3980
+GPS acq_max:4216
+GPS acq_max:3874
+GPS acq_max:3641
+GPS acq_max:3810
+GPS acq_max:3667
+GPS acq_max:3679
+GPS acq_max:3573
+GPS acq_max:3950
+GPS acq_max:4304
+GPS acq_max:4024
+GPS acq_max:3595
+GPS acq_max:3611
+GPS acq_max:4055
+GPS acq_max:4142
+GPS acq_max:4093
+GPS acq_max:3740
+GPS acq_max:4009
+GPS acq_max:4216
+GPS acq_max:4096
+GPS acq_max:3800
+GPS acq_max:3574
+GPS acq_max:4186
+GPS acq_max:3987
+GPS acq_max:4099
+GPS acq_max:3850
+GPS acq_max:3719
+GPS acq_max:4075
+GPS acq_max:4137
+GPS acq_max:3869
+GPS acq_max:4086
+GPS acq_max:4099
+GPS acq_max:4308
+GPS acq_max:4008
+GPS acq_max:3956
+GPS acq_max:3644
+GPS acq_max:3903
+GPS acq_max:3889
+GPS acq_max:4220
+GPS acq_max:4350
+GPS acq_max:4817
+GPS acq_max:4623
+GPS acq_max:4028
+GPS acq_max:3790
+GPS acq_max:4011
+GPS acq_max:3530
+GPS acq_max:3700
+GPS acq_max:3831
+GPS acq_max:3773
+GPS acq_max:4323
+GPS acq_max:3873
+GPS acq_max:3703
+GPS acq_max:4218
+GPS acq_max:3801
+GPS acq_max:3930
+GPS acq_max:4132
+GPS acq_max:4016
+GPS acq_max:4286
+GPS acq_max:3713
+GPS acq_max:4261
+GPS acq_max:3857
+GPS acq_max:3846
+GPS acq_max:4106
+GPS acq_max:3885
+GPS acq_max:4257
+GPS acq_max:4467
+GPS acq_max:3922
+GPS acq_max:3965
+GPS acq_max:4347
+GPS acq_max:4138
+GPS acq_max:3743
+GPS acq_max:4233
+GPS acq_max:3591
+GPS acq_max:3543
+GPS acq_max:3778
+GPS acq_max:4303
+GPS acq_max:4082
+GPS acq_max:4051
+GPS acq_max:3877
+GPS acq_max:3975
+GPS acq_max:3647
+GPS acq_max:3483
+GPS acq_max:3829
+GPS acq_max:3829
+GPS acq_max:3463
+GPS acq_max:3761
+GPS acq_max:3782
+GPS acq_max:4130
+GPS acq_max:4006
+GPS acq_max:3722
+GPS acq_max:3683
+GPS acq_max:3794
+GPS acq_max:3979
+GPS acq_max:4204
+GPS acq_max:4044
+GPS acq_max:3670
+GPS acq_max:3906
+GPS acq_max:4705
+GPS acq_max:4063
+GPS acq_max:3951
+GPS acq_max:3728
+GPS acq_max:4074
+GPS acq_max:4058
+GPS acq_max:4140
+GPS acq_max:3777
+GPS acq_max:3827
+GPS acq_max:4122
+GPS acq_max:4517
+GPS acq_max:4263
+GPS acq_max:3847
+GPS acq_max:4002
+GPS acq_max:3768
+GPS acq_max:4398
+GPS acq_max:4126
+GPS acq_max:4516
+GPS acq_max:3838
+GPS acq_max:3939
+GPS acq_max:4353
+GPS acq_max:4417
+GPS acq_max:4359
+GPS acq_max:3923
+GPS acq_max:4157
+GPS acq_max:4404
+GPS acq_max:4214
+GPS acq_max:3681
+GPS acq_max:3817
+GPS acq_max:3548
+GPS acq_max:3681
+GPS acq_max:3933
+GPS acq_max:4274
+GPS acq_max:4140
+GPS acq_max:4069
+GPS acq_max:3663
+GPS acq_max:4275
+GPS acq_max:4099
+GPS acq_max:3994
+GPS acq_max:4343
+GPS acq_max:4109
+GPS acq_max:4200
+GPS acq_max:4609
+GPS acq_max:3981
+GPS acq_max:3840
+GPS acq_max:4587
+GPS acq_max:4401
+GPS acq_max:4074
+GPS acq_max:4364
+GPS acq_max:4009
+GPS acq_max:3484
+GPS acq_max:3552
+GPS acq_max:3920
+GPS acq_max:3915
+GPS acq_max:3730
+GPS acq_max:4267
+GPS acq_max:4069
+GPS acq_max:4297
+GPS acq_max:4026
+GPS acq_max:3741
+GPS acq_max:3605
+GPS acq_max:3676
+GPS acq_max:3797
+GPS acq_max:4095
+GPS acq_max:3762
+GPS acq_max:3635
+GPS acq_max:3595
+GPS acq_max:3370
+GPS acq_max:3729
+GPS acq_max:3804
+GPS acq_max:3894
+GPS acq_max:3733
+GPS acq_max:3798
+GPS acq_max:3835
+GPS acq_max:4001
+GPS acq_max:3532
+GPS acq_max:3697
+GPS acq_max:3685
+GPS acq_max:3729
+GPS acq_max:3940
+GPS acq_max:3952
+GPS acq_max:3891
+GPS acq_max:4004
+GPS acq_max:4715
+GPS acq_max:4099
+GPS acq_max:3552
+GPS acq_max:3984
+GPS acq_max:3606
+GPS acq_max:3949
+GPS acq_max:3959
+GPS acq_max:3976
+GPS acq_max:4034
+GPS acq_max:3993
+GPS acq_max:4002
+GPS acq_max:4140
+GPS acq_max:3913
+GPS acq_max:4053
+GPS acq_max:3932
+GPS acq_max:4007
+GPS acq_max:4253
+GPS acq_max:4078
+GPS acq_max:4454
+GPS acq_max:4230
+GPS acq_max:4484
+GPS acq_max:4265
+GPS acq_max:3737
+GPS acq_max:4028
+GPS acq_max:3837
+GPS acq_max:3780
+GPS acq_max:4427
+GPS acq_max:4676
+GPS acq_max:4127
+GPS acq_max:3771
+GPS acq_max:3785
+GPS acq_max:3733
+GPS acq_max:3983
+GPS acq_max:3950
+GPS acq_max:4320
+GPS acq_max:3959
+GPS acq_max:3909
+GPS acq_max:4886
+GPS acq_max:4054
+GPS acq_max:4159
+GPS acq_max:3881
+GPS acq_max:3607
+GPS acq_max:3994
+GPS acq_max:3952
+GPS acq_max:4154
+GPS acq_max:3751
+GPS acq_max:3770
+GPS acq_max:3871
+GPS acq_max:4025
+GPS acq_max:4229
+GPS acq_max:3986
+GPS acq_max:4105
+GPS acq_max:3868
+GPS acq_max:3643
+GPS acq_max:3841
+GPS acq_max:3724
+GPS acq_max:4038
+GPS acq_max:3712
+GPS acq_max:3922
+GPS acq_max:3507
+---00000026--- Acq_st=3 2019-5-25 07:37:51 
+[00]  G01  f 35   2515.4 2045996.8  1.0  1.0  5  0 545888925
+[01]  G28  7 26   -957.8 2046001.2 -0.9 -0.0 10  0        12
+[02]  G11  f 42   2197.1 2045997.1  1.0  0.9  5  0 545888924
+[03]  G18  f 34   3022.4 2045996.1  1.0  0.9  5  0 545888919
+[04]  G19  f 38  -2581.5 2046003.4  1.0  1.0  5  0 545888923
+[05]  G22  f 42   1173.9 2045998.4  1.0  1.0  5  0 545888925
+[16]  B11 1f 43    921.5 4091997.6  1.0  1.0  5  0 545874922
+[17]  B13 1f 43   -360.9 4092000.9  1.0  1.0  5  0 545874874
+[18]  B28 1f 42  -1658.2 4092004.3  1.0  1.0  5  0 545874921
+[19]  B08 1f 36    -17.6 4092000.0  1.0  1.0  5  0      6438
+[20]  B10 1f 37     19.2 4091999.9  1.0  1.0  5  0      5899
+[21]  B21 1f 42   1261.8 4091996.7  1.0  1.0  5  0      3514
+GPS acq_max:4337
+GPS acq_max:4646
+GPS acq_max:3972
+GPS acq_max:4199
+GPS acq_max:4259
+GPS acq_max:4091
+GPS acq_max:3863
+GPS acq_max:4027
+GPS acq_max:4386
+GPS acq_max:4041
+GPS acq_max:4397
+GPS acq_max:4118
+GPS acq_max:4020
+GPS acq_max:3985
+GPS acq_max:3905
+GPS acq_max:3828
+GPS acq_max:4290
+GPS acq_max:3891
+GPS acq_max:3822
+GPS acq_max:3949
+GPS acq_max:4343
+GPS acq_max:4102
+GPS acq_max:4409
+GPS acq_max:4093
+GPS acq_max:4278
+GPS acq_max:3782
+GPS acq_max:4141
+GPS acq_max:4560
+GPS acq_max:4290
+GPS acq_max:4064
+GPS acq_max:3901
+GPS acq_max:3686
+GPS acq_max:4014
+GPS acq_max:4274
+GPS acq_max:4034
+GPS acq_max:4048
+GPS acq_max:4435
+GPS acq_max:3893
+GPS acq_max:3791
+GPS acq_max:3806
+GPS acq_max:3974
+GPS acq_max:4186
+GPS acq_max:3862
+GPS acq_max:4315
+GPS acq_max:3937
+GPS acq_max:4758
+GPS acq_max:4367
+GPS acq_max:4188
+GPS acq_max:3817
+GPS acq_max:4188
+GPS acq_max:4027
+GPS acq_max:4100
+GPS acq_max:3795
+GPS acq_max:3840
+GPS acq_max:3858
+GPS acq_max:3787
+GPS acq_max:4021
+GPS acq_max:4354
+GPS acq_max:3964
+GPS acq_max:3937
+GPS acq_max:4074
+GPS acq_max:4187
+GPS acq_max:3945
+GPS acq_max:4467
+GPS acq_max:4052
+GPS acq_max:5057
+GPS acq_max:4989
+GPS acq_max:4536
+GPS acq_max:4325
+GPS acq_max:4002
+GPS acq_max:3981
+GPS acq_max:3725
+GPS acq_max:3662
+GPS acq_max:3996
+GPS acq_max:3818
+GPS acq_max:3974
+GPS acq_max:3844
+GPS acq_max:3984
+GPS acq_max:4025
+GPS acq_max:3562
+GPS acq_max:3822
+GPS acq_max:4163
+GPS acq_max:4345
+GPS acq_max:3842
+GPS acq_max:3713
+GPS acq_max:3751
+GPS acq_max:3832
+GPS acq_max:4489
+lsq: nits= 2
+$GNGGA,073752.000,3112.7134,N,12136.4328,E,1,10,1.4,-38.7,M,,,,0000*0A
+$GNRMC,073752.000,A,3112.7134,N,12136.4328,E,2.40,273.57,250519,,*1B
+$GPGSA,A,3,01,11,19,22,,,,,,,,,1.6,1.4,0.7*3E
+$BDGSA,A,3,08,10,11,13,21,28,,,,,,,1.6,1.4,0.7*24
+$GPGSV,2,1,06,01,35,039,35,28,81,291,26,11,28,057,42,18,00,000,34*7A
+$GPGSV,2,2,06,19,26,301,38,22,39,062,42*72
+$BDGSV,2,1,07,11,39,054,43,13,47,263,43,28,38,299,42,08,66,306,36*6C
+$BDGSV,2,2,07,10,70,251,37,21,12,045,42,04,35,122,00*5F
+$LOGTIM,3,-531.033217,-690.107136,0.000000,0.000000,-64.257*18
+EndT:        1
+GPS acq_max:4270
+GPS acq_max:4054
+GPS acq_max:4232
+GPS acq_max:4146
+GPS acq_max:4032
+GPS acq_max:4128
+GPS acq_max:4346
+GPS acq_max:4014
+GPS acq_max:3997
+GPS acq_max:4075
+GPS acq_max:4226
+GPS acq_max:3882
+GPS acq_max:4187
+GPS acq_max:4008
+GPS acq_max:3802
+GPS acq_max:4080
+GPS acq_max:3861
+GPS acq_max:3806
+GPS acq_max:3741
+GPS acq_max:3628
+GPS acq_max:3669
+GPS acq_max:5036
+GPS acq_max:4180
+GPS acq_max:4081
+GPS acq_max:4605
+GPS acq_max:4581
+GPS acq_max:4160
+GPS acq_max:3897
+GPS acq_max:3855
+GPS acq_max:4057
+GPS acq_max:4183
+GPS acq_max:4200
+GPS acq_max:4019
+GPS acq_max:4430
+GPS acq_max:3936
+GPS acq_max:3840
+GPS acq_max:3725
+GPS acq_max:3865
+GPS acq_max:4233
+GPS acq_max:4050
+GPS acq_max:4322
+GPS acq_max:3768
+GPS acq_max:3887
+GPS acq_max:3754
+GPS acq_max:3956
+GPS acq_max:4036
+GPS acq_max:3963
+GPS acq_max:3855
+GPS acq_max:4203
+GPS acq_max:4076
+GPS acq_max:3833
+GPS acq_max:3637
+GPS acq_max:3979
+GPS acq_max:3758
+GPS acq_max:3764
+GPS acq_max:4206
+GPS acq_max:3843
+GPS acq_max:4101
+GPS acq_max:4125
+GPS acq_max:3677
+GPS acq_max:3703
+GPS acq_max:3830
+GPS acq_max:4385
+GPS acq_max:4067
+GPS acq_max:3950
+GPS acq_max:3796
+GPS acq_max:4202
+GPS acq_max:4117
+GPS acq_max:3934
+GPS acq_max:3905
+GPS acq_max:4550
+GPS acq_max:4423
+GPS acq_max:3997
+GPS acq_max:3813
+GPS acq_max:3931
+GPS acq_max:3669
+GPS acq_max:3937
+GPS acq_max:3914
+GPS acq_max:4180
+GPS acq_max:4424
+GPS acq_max:4228
+GPS acq_max:3980
+GPS acq_max:4510
+GPS acq_max:3985
+GPS acq_max:3992
+GPS acq_max:4171
+GPS acq_max:4163
+GPS acq_max:4185
+GPS acq_max:4212
+GPS acq_max:3887
+GPS acq_max:3764
+GPS acq_max:3847
+GPS acq_max:3936
+GPS acq_max:4018
+GPS acq_max:4876
+GPS acq_max:3782
+GPS acq_max:3924
+GPS acq_max:4511
+GPS acq_max:4160
+GPS acq_max:3905
+GPS acq_max:3959
+GPS acq_max:4499
+GPS acq_max:4309
+GPS acq_max:4635
+GPS acq_max:3719
+GPS acq_max:3911
+GPS acq_max:4014
+GPS acq_max:4261
+GPS acq_max:4918
+GPS acq_max:4090
+GPS acq_max:4060
+GPS acq_max:3683
+GPS acq_max:4250
+GPS acq_max:3888
+GPS acq_max:3705
+GPS acq_max:4465
+GPS acq_max:4193
+GPS acq_max:4200
+GPS acq_max:4000
+GPS acq_max:3921
+GPS acq_max:3861
+GPS acq_max:3863
+GPS acq_max:3794
+GPS acq_max:3885
+GPS acq_max:3795
+GPS acq_max:4217
+GPS acq_max:3889
+GPS acq_max:3949
+GPS acq_max:3870
+GPS acq_max:4854
+GPS acq_max:3858
+GPS acq_max:3876
+GPS acq_max:3995
+GPS acq_max:4298
+GPS acq_max:4038
+GPS acq_max:3949
+GPS acq_max:4374
+GPS acq_max:4361
+GPS acq_max:4395
+GPS acq_max:3876
+GPS acq_max:3588
+GPS acq_max:3893
+GPS acq_max:3925
+GPS acq_max:3904
+GPS acq_max:4265
+GPS acq_max:4447
+GPS acq_max:3676
+GPS acq_max:3946
+GPS acq_max:4294
+GPS acq_max:5488
+GPS acq_max:4133
+GPS acq_max:3960
+GPS acq_max:3842
+GPS acq_max:4523
+GPS acq_max:4668
+GPS acq_max:4418
+GPS acq_max:4378
+GPS acq_max:4221
+GPS acq_max:3438
+GPS acq_max:3609
+GPS acq_max:3898
+GPS acq_max:3978
+GPS acq_max:4078
+GPS acq_max:3835
+GPS acq_max:4217
+GPS acq_max:4613
+GPS acq_max:4081
+GPS acq_max:4357
+GPS acq_max:4823
+GPS acq_max:4039
+GPS acq_max:3911
+GPS acq_max:3731
+GPS acq_max:4263
+GPS acq_max:3632
+GPS acq_max:4009
+GPS acq_max:3869
+GPS acq_max:4331
+GPS acq_max:4044
+GPS acq_max:4007
+GPS acq_max:3951
+GPS acq_max:4090
+GPS acq_max:4100
+GPS acq_max:3843
+GPS acq_max:4207
+GPS acq_max:4389
+GPS acq_max:4003
+GPS acq_max:3803
+GPS acq_max:3989
+GPS acq_max:4353
+GPS acq_max:3759
+GPS acq_max:3730
+GPS acq_max:4278
+GPS acq_max:3967
+GPS acq_max:3866
+GPS acq_max:3692
+GPS acq_max:3607
+GPS acq_max:3546
+GPS acq_max:3979
+GPS acq_max:4222
+GPS acq_max:3642
+GPS acq_max:3831
+GPS acq_max:3897
+GPS acq_max:3688
+GPS acq_max:4054
+GPS acq_max:3948
+GPS acq_max:4000
+GPS acq_max:4278
+GPS acq_max:4169
+GPS acq_max:4295
+GPS acq_max:3977
+GPS acq_max:4097
+GPS acq_max:3939
+GPS acq_max:3663
+GPS acq_max:3631
+GPS acq_max:4012
+GPS acq_max:4331
+GPS acq_max:4173
+GPS acq_max:4172
+GPS acq_max:3860
+GPS acq_max:3708
+GPS acq_max:4283
+GPS acq_max:3832
+GPS acq_max:4457
+GPS acq_max:4003
+GPS acq_max:3840
+GPS acq_max:4005
+GPS acq_max:3856
+GPS acq_max:4218
+GPS acq_max:4398
+GPS acq_max:4518
+GPS acq_max:4000
+GPS acq_max:3786
+GPS acq_max:4218
+GPS acq_max:3750
+GPS acq_max:3807
+GPS acq_max:4107
+GPS acq_max:4686
+GPS acq_max:4080
+GPS acq_max:4339
+GPS acq_max:4075
+GPS acq_max:3874
+GPS acq_max:3782
+GPS acq_max:3776
+GPS acq_max:4318
+GPS acq_max:4201
+GPS acq_max:4566
+GPS acq_max:4339
+GPS acq_max:3827
+---00000027--- Acq_st=3 2019-5-25 07:37:52 
+[00]  G01  f 35   2518.5 2045996.8  1.0  0.9  5  0 545889925
+[01]  G28  7 26   -953.9 2046001.2 -0.7  0.0 10  0        12
+[02]  G11  f 42   2200.2 2045997.2  1.0  1.0  5  0 545889924
+[03]  G18  f 33   3026.2 2045996.0  1.0  1.0  5  0 545889919
+[04]  G19  f 38  -2578.6 2046003.3  1.0  1.0  5  0 545889923
+[05]  G22  f 42   1177.8 2045998.4  1.0  1.0  5  0 545889925
+[16]  B11 1f 43    924.8 4091997.6  1.0  1.0  5  0 545875922
+[17]  B13 1f 43   -356.9 4092001.0  1.0  1.0  5  0 545875874
+[18]  B28 1f 41  -1654.7 4092004.3  1.0  1.0  5  0 545875921
+[19]  B08 1f 36    -14.3 4092000.0  1.0  1.0  5  0 545875878
+[20]  B10 1f 37     22.3 4091999.9  1.0  1.0  5  0 545875879
+[21]  B21 1f 43   1265.8 4091996.7  1.0  1.0  5  0 545875914
+GPS acq_max:4018
+GPS acq_max:3827
+GPS acq_max:3651
+GPS acq_max:4148
+GPS acq_max:4126
+GPS acq_max:3822
+GPS acq_max:3834
+GPS acq_max:3641
+GPS acq_max:4106
+GPS acq_max:4146
+GPS acq_max:4296
+GPS acq_max:4006
+GPS acq_max:3893
+GPS acq_max:4220
+GPS acq_max:4466
+GPS acq_max:4236
+GPS acq_max:4235
+GPS acq_max:4208
+GPS acq_max:3799
+GPS acq_max:3734
+GPS acq_max:4302
+GPS acq_max:4119
+GPS acq_max:3835
+GPS acq_max:4026
+GPS acq_max:4139
+GPS acq_max:4449
+GPS acq_max:3895
+GPS acq_max:3858
+GPS acq_max:4060
+GPS acq_max:4145
+GPS acq_max:4214
+GPS acq_max:3962
+GPS acq_max:3837
+GPS acq_max:3842
+GPS acq_max:3958
+GPS acq_max:3829
+GPS acq_max:3526
+GPS acq_max:4052
+GPS acq_max:3658
+GPS acq_max:3765
+GPS acq_max:4020
+GPS acq_max:3848
+GPS acq_max:4541
+GPS acq_max:3810
+GPS acq_max:4340
+GPS acq_max:3833
+GPS acq_max:4025
+GPS acq_max:4456
+GPS acq_max:4193
+GPS acq_max:4108
+GPS acq_max:4362
+GPS acq_max:4723
+GPS acq_max:4546
+GPS acq_max:4796
+GPS acq_max:4801
+GPS acq_max:3992
+GPS acq_max:3697
+GPS acq_max:3731
+GPS acq_max:4078
+GPS acq_max:4203
+GPS acq_max:4115
+GPS acq_max:4336
+GPS acq_max:3677
+GPS acq_max:3852
+GPS acq_max:4245
+GPS acq_max:3863
+GPS acq_max:4180
+GPS acq_max:4137
+GPS acq_max:3847
+GPS acq_max:3861
+GPS acq_max:3801
+GPS acq_max:3640
+GPS acq_max:4385
+GPS acq_max:5060
+GPS acq_max:5950
+GPS acq_max:5547
+GPS acq_max:4973
+GPS acq_max:4821
+GPS acq_max:4310
+GPS acq_max:4466
+GPS acq_max:3923
+GPS acq_max:4182
+GPS acq_max:3985
+GPS acq_max:3823
+GPS acq_max:3937
+GPS acq_max:4010
+GPS acq_max:3651
+GPS acq_max:3946
+lsq: nits= 2
+$GNGGA,073753.000,3112.7160,N,12136.4346,E,1,10,1.4,-54.2,M,,,,0000*0D
+$GNRMC,073753.000,A,3112.7160,N,12136.4346,E,3.06,270.73,250519,,*15
+$GPGSA,A,3,01,11,19,22,,,,,,,,,1.6,1.4,0.7*3E
+$BDGSA,A,3,08,10,11,13,21,28,,,,,,,1.6,1.4,0.7*24
+$GPGSV,2,1,06,01,35,039,35,28,81,291,26,11,28,057,42,18,00,000,33*7D
+$GPGSV,2,2,06,19,26,301,38,22,39,062,42*72
+$BDGSV,2,1,07,11,39,054,43,13,47,263,43,28,38,299,41,08,66,306,36*6F
+$BDGSV,2,2,07,10,70,251,37,21,12,045,43,04,35,122,00*5E
+$LOGTIM,3,-598.594273,-759.884245,0.000000,0.000000,-63.983*15
+EndT:        1
+GPS acq_max:3971
+GPS acq_max:4358
+GPS acq_max:3949
+GPS acq_max:4178
+GPS acq_max:4228
+GPS acq_max:3830
+GPS acq_max:3914
+GPS acq_max:4374
+GPS acq_max:4069
+GPS acq_max:4056
+GPS acq_max:4532
+GPS acq_max:4325
+GPS acq_max:3923
+GPS acq_max:5227
+GPS acq_max:5434
+GPS acq_max:5300
+GPS acq_max:3948
+GPS acq_max:4423
+GPS acq_max:4762
+GPS acq_max:4000
+GPS acq_max:3700
+GPS acq_max:4357
+GPS acq_max:4246
+GPS acq_max:4198
+GPS acq_max:3767
+GPS acq_max:3988
+GPS acq_max:4081
+GPS acq_max:3891
+GPS acq_max:3911
+GPS acq_max:4128
+GPS acq_max:5201
+GPS acq_max:4813
+GPS acq_max:4036
+GPS acq_max:4105
+GPS acq_max:3838
+GPS acq_max:4170
+GPS acq_max:4208
+GPS acq_max:4630
+GPS acq_max:3784
+GPS acq_max:3708
+GPS acq_max:3919
+GPS acq_max:4293
+GPS acq_max:3934
+GPS acq_max:4461
+GPS acq_max:4273
+GPS acq_max:4613
+GPS acq_max:3945
+GPS acq_max:4396
+GPS acq_max:3828
+GPS acq_max:4047
+GPS acq_max:4224
+GPS acq_max:3893
+GPS acq_max:4142
+GPS acq_max:4100
+GPS acq_max:4287
+GPS acq_max:4075
+GPS acq_max:3718
+GPS acq_max:3937
+GPS acq_max:4215
+GPS acq_max:3987
+GPS acq_max:4119
+GPS acq_max:4168
+GPS acq_max:4592
+GPS acq_max:4055
+GPS acq_max:4171
+GPS acq_max:4203
+GPS acq_max:4315
+GPS acq_max:4384
+GPS acq_max:4124
+GPS acq_max:4349
+GPS acq_max:4074
+GPS acq_max:4145
+GPS acq_max:4007
+GPS acq_max:4185
+GPS acq_max:4195
+GPS acq_max:3997
+GPS acq_max:3951
+GPS acq_max:3979
+GPS acq_max:4632
+GPS acq_max:3919
+GPS acq_max:4182
+GPS acq_max:4159
+GPS acq_max:3930
+GPS acq_max:4396
+GPS acq_max:4259
+GPS acq_max:4319
+GPS acq_max:4445
+GPS acq_max:3980
+GPS acq_max:3941
+GPS acq_max:4072
+GPS acq_max:4375
+GPS acq_max:3837
+GPS acq_max:4045
+GPS acq_max:4116
+GPS acq_max:3802
+GPS acq_max:3882
+GPS acq_max:4088
+GPS acq_max:3927
+GPS acq_max:4218
+GPS acq_max:3915
+GPS acq_max:3708
+GPS acq_max:3787
+GPS acq_max:4387
+GPS acq_max:4136
+GPS acq_max:4329
+GPS acq_max:4046
+GPS acq_max:3739
+GPS acq_max:4219
+GPS acq_max:4698
+GPS acq_max:4067
+GPS acq_max:4059
+GPS acq_max:4135
+GPS acq_max:4284
+GPS acq_max:3850
+GPS acq_max:3927
+GPS acq_max:4299
+GPS acq_max:4372
+GPS acq_max:4209
+GPS acq_max:3965
+GPS acq_max:3698
+GPS acq_max:3964
+GPS acq_max:4014
+GPS acq_max:4123
+GPS acq_max:4121
+GPS acq_max:4164
+GPS acq_max:3811
+GPS acq_max:3683
+GPS acq_max:3957
+GPS acq_max:3762
+GPS acq_max:4452
+GPS acq_max:4001
+GPS acq_max:4209
+GPS acq_max:4650
+GPS acq_max:4542
+GPS acq_max:3657
+GPS acq_max:3802
+GPS acq_max:3969
+GPS acq_max:3828
+GPS acq_max:4106
+GPS acq_max:3853
+GPS acq_max:4182
+GPS acq_max:3667
+GPS acq_max:4021
+GPS acq_max:4034
+GPS acq_max:3936
+GPS acq_max:4116
+GPS acq_max:4383
+GPS acq_max:4150
+GPS acq_max:3810
+GPS acq_max:3712
+GPS acq_max:3926
+GPS acq_max:3965
+GPS acq_max:3864
+GPS acq_max:3945
+GPS acq_max:4177
+GPS acq_max:4307
+GPS acq_max:4231
+GPS acq_max:4712
+GPS acq_max:4177
+GPS acq_max:3805
+GPS acq_max:4385
+GPS acq_max:4065
+GPS acq_max:3844
+GPS acq_max:4192
+GPS acq_max:3953
+GPS acq_max:3723
+GPS acq_max:4001
+GPS acq_max:3995
+GPS acq_max:4204
+GPS acq_max:3959
+GPS acq_max:4053
+GPS acq_max:3833
+GPS acq_max:3965
+GPS acq_max:4184
+GPS acq_max:4308
+GPS acq_max:3836
+GPS acq_max:4279
+GPS acq_max:4111
+GPS acq_max:4216
+GPS acq_max:3968
+GPS acq_max:4731
+GPS acq_max:4534
+GPS acq_max:3897
+GPS acq_max:3926
+GPS acq_max:4120
+GPS acq_max:4092
+GPS acq_max:4441
+GPS acq_max:4156
+GPS acq_max:3798
+GPS acq_max:4531
+GPS acq_max:4131
+GPS acq_max:3823
+GPS acq_max:4129
+GPS acq_max:4554
+GPS acq_max:4123
+GPS acq_max:4079
+GPS acq_max:4143
+GPS acq_max:4168
+GPS acq_max:3759
+GPS acq_max:3908
+GPS acq_max:3964
+GPS acq_max:3991
+GPS acq_max:4118
+GPS acq_max:4085
+GPS acq_max:4349
+GPS acq_max:3946
+GPS acq_max:4486
+GPS acq_max:4235
+GPS acq_max:4308
+GPS acq_max:3767
+GPS acq_max:3862
+GPS acq_max:3753
+GPS acq_max:4124
+GPS acq_max:3757
+GPS acq_max:4331
+GPS acq_max:4189
+GPS acq_max:4335
+GPS acq_max:4131
+GPS acq_max:4870
+GPS acq_max:4292
+GPS acq_max:3991
+GPS acq_max:3785
+GPS acq_max:3814
+GPS acq_max:4547
+GPS acq_max:3764
+GPS acq_max:4075
+GPS acq_max:4167
+GPS acq_max:3816
+GPS acq_max:4164
+GPS acq_max:3693
+GPS acq_max:3842
+GPS acq_max:4383
+GPS acq_max:4335
+GPS acq_max:4129
+GPS acq_max:3965
+GPS acq_max:4005
+GPS acq_max:3964
+GPS acq_max:4602
+GPS acq_max:4252
+GPS acq_max:4045
+GPS acq_max:4324
+GPS acq_max:3883
+GPS acq_max:3967
+GPS acq_max:4131
+GPS acq_max:4208
+GPS acq_max:4194
+GPS acq_max:4174
+GPS acq_max:4101
+---00000028--- Acq_st=3 2019-5-25 07:37:53 
+[00]  G01  f 35   2519.1 2045996.8  1.0  1.0  5  0 545890925
+[01]  G28  7 27   -953.7 2046001.2 -0.9  0.0 10  0        12
+[02]  G11  f 42   2200.4 2045997.1  1.0  1.0  5  0 545890924
+[03]  G18  f 34   3024.8 2045996.0  1.0  0.9  5  0 545890919
+[04]  G19  f 38  -2578.3 2046003.4  1.0  1.0  5  0 545890923
+[05]  G22  f 42   1178.2 2045998.5  1.0  1.0  5  0 545890925
+[16]  B11 1f 43    924.7 4091997.6  1.0  1.0  5  0 545876922
+[17]  B13 1f 43   -357.2 4092000.9  1.0  1.0  5  0 545876874
+[18]  B28 1f 42  -1654.6 4092004.3  1.0  1.0  5  0 545876921
+[19]  B08 1f 36    -13.5 4092000.1  1.0  1.0  5  0 545876878
+[20]  B10 1f 37     23.0 4091999.9  1.0  1.0  5  0 545876879
+[21]  B21 1f 42   1265.9 4091996.7  1.0  1.0  5  0 545876914
+GPS acq_max:3928
+GPS acq_max:3726
+GPS acq_max:3817
+GPS acq_max:3948
+GPS acq_max:3707
+GPS acq_max:3785
+GPS acq_max:3900
+GPS acq_max:3722
+GPS acq_max:3606
+GPS acq_max:3952
+GPS acq_max:4602
+GPS acq_max:4703
+GPS acq_max:4044
+GPS acq_max:3870
+GPS acq_max:4080
+GPS acq_max:4199
+GPS acq_max:3663
+GPS acq_max:3873
+GPS acq_max:3555
+GPS acq_max:3580
+GPS acq_max:3583
+GPS acq_max:4015
+GPS acq_max:3809
+GPS acq_max:3813
+GPS acq_max:4107
+GPS acq_max:4076
+GPS acq_max:4393
+GPS acq_max:4283
+GPS acq_max:4450
+GPS acq_max:4855
+GPS acq_max:4056
+GPS acq_max:3807
+lsq: nits= 2
+$GNGGA,073754.000,3112.7182,N,12136.4332,E,1,10,1.4,-26.2,M,,,,0000*00
+$GNRMC,073754.000,A,3112.7182,N,12136.4332,E,0.99,270.73,250519,,*18
+$GPGSA,A,3,01,11,19,22,,,,,,,,,1.6,1.4,0.7*3E
+$BDGSA,A,3,08,10,11,13,21,28,,,,,,,1.6,1.4,0.7*24
+$GPGSV,2,1,06,01,35,039,35,28,81,291,27,11,28,057,42,18,00,000,34*7B
+$GPGSV,2,2,06,19,26,301,38,22,39,062,42*72
+$BDGSV,2,1,07,11,39,054,43,13,47,263,43,28,38,299,42,08,66,306,36*6C
+$BDGSV,2,2,07,10,70,251,37,21,12,045,42,04,35,122,00*5F
+$LOGTIM,3,-641.990946,-798.867477,0.000000,0.000000,-62.225*16
+EndT:        1
+---00000029--- Acq_st=3 2019-5-25 07:37:54 
+[00]  G01  f 35   2517.9 2045996.6  1.0  0.9  5  0 545891925
+[01]  G28  7 26   -955.0 2046001.2 -0.9 -0.0 10  0        12
+[02]  G11  f 42   2199.6 2045997.2  1.0  1.0  5  0 545891924
+[03]  G18  f 34   3025.2 2045996.0  1.0  1.0  5  0 545891919
+[04]  G19  f 37  -2578.6 2046003.4  1.0  1.0  5  0 545891923
+[05]  G22  f 42   1178.0 2045998.5  1.0  1.0  5  0 545891925
+[16]  B11 1f 43    923.7 4091997.6  1.0  1.0  5  0 545877922
+[17]  B13 1f 42   -357.9 4092000.9  1.0  1.0  5  0 545877874
+[18]  B28 1f 42  -1655.8 4092004.3  1.0  1.0  5  0 545877921
+[19]  B08 1f 36    -15.4 4092000.1  1.0  1.0  5  0 545877878
+[20]  B10 1f 37     21.8 4091999.9  1.0  1.0  5  0 545877879
+[21]  B21 1f 42   1265.5 4091996.7  1.0  1.0  5  0 545877914
+lsq: nits= 2
+$GNGGA,073755.000,3112.7230,N,12136.4331,E,1,08,1.7,23.4,M,,,,0000*2C
+$GNRMC,073755.000,A,3112.7230,N,12136.4331,E,2.04,86.71,250519,,*2F
+$GPGSA,A,3,01,11,19,22,,,,,,,,,1.8,1.7,0.7*33
+$BDGSA,A,3,08,10,13,21,,,,,,,,,1.8,1.7,0.7*23
+$GPGSV,2,1,06,01,35,039,35,28,81,291,26,11,28,057,42,18,00,000,34*7A
+$GPGSV,2,2,06,19,26,301,37,22,39,062,42*7D
+$BDGSV,2,1,07,11,39,054,43,13,47,263,42,28,38,299,42,08,66,306,36*6D
+$BDGSV,2,2,07,10,70,251,37,21,12,045,42,04,35,122,00*5F
+$LOGTIM,3,-672.621705,-821.561789,0.000000,0.000000,-60.063*1C
+EndT:        1
+---00000030--- Acq_st=3 2019-5-25 07:37:55 
+[00]  G01  f 35   2518.5 2045996.7  1.0  0.9  5  0 545892925
+[01]  G28  7 26   -953.9 2046001.2 -0.9  0.0 10  0        12
+[02]  G11  f 42   2200.5 2045997.1  1.0  1.0  5  0 545892924
+[03]  G18  f 34   3024.6 2045996.0  1.0  1.0  5  0 545892919
+[04]  G19  f 37  -2579.0 2046003.3  1.0  1.0  5  0 545892923
+[05]  G22  f 42   1178.9 2045998.4  1.0  1.0  5  0 545892925
+[16]  B11 1f 43    924.4 4091997.6  1.0  1.0  5  0 545878922
+[17]  B13 1f 42   -357.2 4092000.9  1.0  1.0  5  0 545878874
+[18]  B28 1f 43  -1654.6 4092004.3  1.0  1.0  5  0 545878921
+[19]  B08 1f 36    -14.1 4092000.1  1.0  1.0  5  0 545878878
+[20]  B10 1f 37     23.4 4091999.9  1.0  0.9  5  0 545878879
+[21]  B21 1f 42   1266.7 4091996.7  1.0  1.0  5  0 545878914
+lsq: nits= 2
+$GNGGA,073756.000,3112.7240,N,12136.4334,E,1,09,1.6,30.6,M,,,,0000*2D
+$GNRMC,073756.000,A,3112.7240,N,12136.4334,E,2.34,88.30,250519,,*26
+$GPGSA,A,3,01,11,19,22,,,,,,,,,1.8,1.6,0.7*32
+$BDGSA,A,3,08,10,11,13,21,,,,,,,,1.8,1.6,0.7*22
+$GPGSV,2,1,06,01,35,039,35,28,81,291,26,11,28,057,42,18,00,000,34*7A
+$GPGSV,2,2,06,19,26,301,37,22,39,062,42*7D
+$BDGSV,2,1,07,11,39,054,43,13,47,263,42,28,38,299,43,08,66,306,36*6C
+$BDGSV,2,2,07,10,70,251,37,21,12,045,42,04,35,122,00*5F
+$LOGTIM,3,-729.500447,-877.848813,0.000000,0.000000,-59.935*1F
+EndT:        1
+---00000031--- Acq_st=3 2019-5-25 07:37:56 
+[00]  G01  f 35   2518.6 2045996.7  1.0  1.0  5  0 545893925
+[01]  G28  7 26   -953.4 2046001.2 -0.9 -0.0 10  0        12
+[02]  G11  f 43   2200.0 2045997.2  1.0  1.0  5  0 545893924
+[03]  G18  f 34   3026.0 2045996.1  1.0  1.0  5  0 545893919
+[04]  G19  f 37  -2578.2 2046003.4  1.0  1.0  5  0 545893923
+[05]  G22  f 42   1180.0 2045998.5  1.0  1.0  5  0 545893925
+[16]  B11 1f 43    924.5 4091997.6  1.0  1.0  5  0 545879922
+[17]  B13 1f 42   -357.5 4092000.9  1.0  1.0  5  0 545879874
+[18]  B28 1f 42  -1654.8 4092004.3  1.0  1.0  5  0 545879921
+[19]  B08 1f 36    -14.8 4092000.0  1.0  0.9  5  0 545879878
+[20]  B10 1f 37     23.5 4091999.9  1.0  1.0  5  0 545879879
+[21]  B21 1f 42   1267.0 4091996.7  1.0  1.0  5  0 545879914
+lsq: nits= 2
+$GNGGA,073757.000,3112.7249,N,12136.4338,E,1,09,1.6,36.5,M,,,,0000*2C
+$GNRMC,073757.000,A,3112.7249,N,12136.4338,E,2.69,88.92,250519,,*22
+$GPGSA,A,3,01,11,19,22,,,,,,,,,1.8,1.6,0.7*32
+$BDGSA,A,3,08,10,11,13,21,,,,,,,,1.8,1.6,0.7*22
+$GPGSV,2,1,06,01,35,039,35,28,81,291,26,11,28,057,43,18,00,000,34*7B
+$GPGSV,2,2,06,19,26,301,37,22,39,062,42*7D
+$BDGSV,2,1,07,11,39,054,43,13,47,263,42,28,38,299,42,08,66,306,36*6D
+$BDGSV,2,2,07,10,70,251,37,21,12,045,42,04,35,122,00*5F
+$LOGTIM,3,-787.190968,-935.076294,0.000000,0.000000,-60.034*13
+EndT:        1
+---00000032--- Acq_st=3 2019-5-25 07:37:57 
+[00]  G01  f 35   2519.4 2045996.7  1.0  1.0  5  0 545894925
+[01]  G28  7 27   -952.6 2046001.2 -0.9 -0.0 10  0        12
+[02]  G11  f 43   2200.7 2045997.2  1.0  1.0  5  0 545894924
+[03]  G18  f 34   3025.4 2045996.1  1.0  1.0  5  0 545894919
+[04]  G19  f 36  -2578.0 2046003.3  1.0  1.0  5  0 545894923
+[05]  G22  f 42   1180.6 2045998.5  1.0  1.0  5  0 545894925
+[16]  B11 1f 43    924.5 4091997.6  1.0  1.0  5  0 545880922
+[17]  B13 1f 42   -357.2 4092000.9  1.0  1.0  5  0 545880874
+[18]  B28 1f 43  -1655.0 4092004.3  1.0  1.0  5  0 545880921
+[19]  B08 1f 36    -14.4 4092000.1  1.0  1.0  5  0 545880878
+[20]  B10 1f 37     22.8 4091999.9  1.0  0.9  5  0 545880879
+[21]  B21 1f 43   1267.8 4091996.7  1.0  1.0  5  0 545880914
+lsq: nits= 2
+$GNGGA,073758.000,3112.7270,N,12136.4331,E,1,10,1.4,44.2,M,,,,0000*28
+$GNRMC,073758.000,A,3112.7270,N,12136.4331,E,2.81,90.62,250519,,*2E
+$GPGSA,A,3,01,11,19,22,,,,,,,,,1.6,1.4,0.7*3E
+$BDGSA,A,3,08,10,11,13,21,28,,,,,,,1.6,1.4,0.7*24
+$GPGSV,2,1,06,01,35,039,35,28,81,291,27,11,28,057,43,18,00,000,34*7A
+$GPGSV,2,2,06,19,26,301,36,22,39,062,42*7C
+$BDGSV,2,1,07,11,39,054,43,13,47,263,42,28,38,299,43,08,66,306,36*6C
+$BDGSV,2,2,07,10,70,251,37,21,12,045,43,04,35,122,00*5E
+$LOGTIM,3,-843.500206,-990.791219,0.000000,0.000000,-59.809*12
+EndT:        1
+---00000033--- Acq_st=3 2019-5-25 07:37:58 
+[00]  G01  f 35   2520.4 2045996.8  1.0  0.9  5  0 545895925
+[01]  G28  7 27   -951.8 2046001.2 -0.9  0.0 10  0        12
+[02]  G11  f 43   2201.7 2045997.1  1.0  1.0  5  0 545895924
+[03]  G18  f 35   3025.8 2045996.2  1.0  1.0  5  0 545895919
+[04]  G19  f 36  -2577.2 2046003.3  1.0  0.9  5  0 545895923
+[05]  G22  f 42   1180.9 2045998.4  1.0  1.0  5  0 545895925
+[16]  B11 1f 43    925.2 4091997.6  1.0  1.0  5  0 545881922
+[17]  B13 1f 42   -356.1 4092000.9  1.0  1.0  5  0 545881874
+[18]  B28 1f 43  -1654.1 4092004.3  1.0  1.0  5  0 545881921
+[19]  B08 1f 36    -14.3 4092000.1  1.0  0.9  5  0 545881878
+[20]  B10 1f 37     23.4 4091999.9  1.0  1.0  5  0 545881879
+[21]  B21 1f 42   1268.7 4091996.7  1.0  1.0  5  0 545881914
+lsq: nits= 2
+$GNGGA,073759.000,3112.7284,N,12136.4330,E,1,10,1.4,50.5,M,,,,0000*21
+$GNRMC,073759.000,A,3112.7284,N,12136.4330,E,2.81,91.53,250519,,*26
+$GPGSA,A,3,01,11,19,22,,,,,,,,,1.6,1.4,0.7*3E
+$BDGSA,A,3,08,10,11,13,21,28,,,,,,,1.6,1.4,0.7*24
+$GPGSV,2,1,06,01,35,039,35,28,81,291,27,11,28,057,43,18,00,000,35*7B
+$GPGSV,2,2,06,19,26,301,36,22,39,062,42*7C
+$BDGSV,2,1,07,11,39,054,43,13,47,263,42,28,38,299,43,08,66,306,36*6C
+$BDGSV,2,2,07,10,70,251,37,21,12,045,42,04,35,122,00*5F
+$LOGTIM,3,-900.953501,-1048.046803,0.000000,0.000000,-59.776*28
+EndT:        1
+---00000034--- Acq_st=3 2019-5-25 07:37:59 
+[00]  G01  f 35   2520.6 2045996.8  1.0  0.9  5  0 545896925
+[01]  G28  7 27   -950.8 2046001.2 -0.9  0.0 10  0        12
+[02]  G11  f 42   2201.7 2045997.2  1.0  1.0  5  0 545896924
+[03]  G18  f 34   3026.2 2045996.1  1.0  1.0  5  0 545896919
+[04]  G19  f 37  -2577.2 2046003.3  1.0  1.0  5  0 545896923
+[05]  G22  f 43   1182.5 2045998.4  1.0  1.0  5  0 545896925
+[16]  B11 1f 43    926.0 4091997.6  1.0  1.0  5  0 545882922
+[17]  B13 1f 42   -356.0 4092000.9  1.0  1.0  5  0 545882874
+[18]  B28 1f 43  -1653.4 4092004.3  1.0  1.0  5  0 545882921
+[19]  B08 1f 36    -13.4 4092000.1  1.0  1.0  5  0 545882878
+[20]  B10 1f 37     25.1 4091999.9  1.0  1.0  5  0 545882879
+[21]  B21 1f 42   1269.6 4091996.6  1.0  1.0  5  0 545882914
+lsq: nits= 2
+$GNGGA,073800.000,3112.7294,N,12136.4331,E,1,10,1.4,55.5,M,,,,0000*27
+$GNRMC,073800.000,A,3112.7294,N,12136.4331,E,2.89,90.83,250519,,*21
+$GPGSA,A,3,01,11,19,22,,,,,,,,,1.6,1.4,0.7*3E
+$BDGSA,A,3,08,10,11,13,21,28,,,,,,,1.6,1.4,0.7*24
+$GPGSV,2,1,06,01,35,039,35,28,81,291,27,11,28,057,42,18,00,000,34*7B
+$GPGSV,2,2,06,19,26,301,37,22,39,062,43*7C
+$BDGSV,2,1,07,11,39,054,43,13,47,263,42,28,38,299,43,08,66,306,36*6C
+$BDGSV,2,2,07,10,70,251,37,21,12,045,42,04,35,122,00*5F
+$LOGTIM,3,-959.293943,-1106.208622,0.000000,0.000000,-59.914*2D
+EndT:        1
+---00000035--- Acq_st=3 2019-5-25 07:38:0 
+[00]  G01  f 35   2517.8 2045996.7  1.0  1.0  5  0 545897925
+[01]  G28  7 27   -953.8 2046001.2 -1.0 -0.0 10  0        12
+[02]  G11  f 43   2198.6 2045997.2  1.0  1.0  5  0 545897924
+[03]  G18  f 34   3022.9 2045996.1  1.0  0.9  5  0 545897919
+[04]  G19  f 36  -2580.0 2046003.4  1.0  1.0  5  0 545897923
+[05]  G22  f 43   1179.5 2045998.5  1.0  1.0  5  0 545897925
+[16]  B11 1f 43    922.4 4091997.6  1.0  1.0  5  0 545883922
+[17]  B13 1f 42   -359.0 4092000.9  1.0  1.0  5  0 545883874
+[18]  B28 1f 43  -1656.9 4092004.3  1.0  1.0  5  0 545883921
+[19]  B08 1f 36    -16.9 4092000.0  1.0  1.1  5  0 545883878
+[20]  B10 1f 36     21.3 4091999.9  1.0  1.0  5  0 545883879
+[21]  B21 1f 42   1266.6 4091996.7  1.0  1.0  5  0 545883914
+lsq: nits= 2
+$GNGGA,073801.000,3112.7205,N,12136.4309,E,1,10,1.4,54.0,M,,,,0000*21
+$GNRMC,073801.000,A,3112.7205,N,12136.4309,E,1.43,90.83,250519,,*26
+$GPGSA,A,3,01,11,19,22,,,,,,,,,1.6,1.4,0.7*3E
+$BDGSA,A,3,08,10,11,13,21,28,,,,,,,1.6,1.4,0.7*24
+$GPGSV,2,1,06,01,35,039,35,28,81,291,27,11,28,057,43,18,00,000,34*7A
+$GPGSV,2,2,06,19,26,301,36,22,39,062,43*7D
+$BDGSV,2,1,07,11,39,054,43,13,47,263,42,28,38,299,43,08,66,306,36*6C
+$BDGSV,2,2,07,10,70,251,36,21,12,045,42,04,35,122,00*5E
+$LOGTIM,3,-1031.466963,-1178.959703,0.000000,0.000000,-61.235*12
+EndT:        1
+---00000036--- Acq_st=7 2019-5-25 07:38:1 
+[00]  G01  f 34   2513.6 2045996.8  1.0  1.0  5  0 545898925
+[01]  G28  7 26   -956.5 2046001.2 -1.0 -0.0 10  0        12
+[02]  G11  f 43   2194.0 2045997.1  1.0  1.0  5  0 545898924
+[03]  G18  f 34   3017.8 2045996.1  1.0  0.9  5  0 545898919
+[04]  G19  f 36  -2585.4 2046003.4  1.0  1.0  5  0 545898923
+[05]  G22  f 43   1175.4 2045998.4  1.0  1.0  5  0 545898925
+[16]  B11 1f 43    917.9 4091997.6  1.0  1.0  5  0 545884922
+[17]  B13 1f 42   -363.6 4092001.0  1.0  1.0  5  0 545884874
+[18]  B28 1f 43  -1661.3 4092004.3  1.0  1.0  5  0 545884921
+[19]  B08 1f 37    -20.6 4092000.0  1.0  1.0  5  0 545884878
+[20]  B10 1f 37     16.9 4091999.9  1.0  1.0  5  0 545884879
+[21]  B21 1f 42   1262.4 4091996.7  1.0  1.0  5  0 545884914
+lsq: nits= 2
+$GNGGA,073802.000,3112.7228,N,12136.4319,E,1,08,2.3,55.5,M,,,,0000*25
+$GNRMC,073802.000,A,3112.7228,N,12136.4319,E,2.40,86.61,250519,,*20
+$GPGSA,A,3,01,11,19,22,,,,,,,,,2.4,2.3,0.7*3B
+$BDGSA,A,3,08,10,13,28,,,,,,,,,2.4,2.3,0.7*22
+$GPGSV,2,1,06,01,35,039,34,28,81,291,26,11,28,057,43,18,00,000,34*7A
+$GPGSV,2,2,06,19,26,301,36,22,39,062,43*7D
+$BDGSV,2,1,07,11,39,054,43,13,47,263,42,28,38,299,43,08,66,306,37*6D
+$BDGSV,2,2,07,10,70,251,37,21,12,045,42,04,35,122,00*5F
+$LOGTIM,3,-1090.789475,-1238.215144,0.000000,0.000000,-61.711*13
+EndT:        1
+---00000037--- Acq_st=7 2019-5-25 07:38:2 
+[00]  G01  f 34   2509.1 2045996.7  1.0  0.9  5  0 545899925
+[01]  G28  7 27   -960.2 2046001.1 -1.0  0.0 10  0        12
+[02]  G11  f 43   2190.2 2045997.1  1.0  1.0  5  0 545899924
+[03]  G18  f 34   3013.8 2045996.1  1.0  1.0  5  0 545899919
+[04]  G19  f 36  -2589.4 2046003.4  1.0  0.9  5  0 545899923
+[05]  G22  f 43   1171.7 2045998.5  1.0  1.0  5  0 545899925
+[16]  B11 1f 43    914.3 4091997.6  1.0  1.0  5  0 545885922
+[17]  B13 1f 42   -367.9 4092001.0  1.0  1.0  5  0 545885874
+[18]  B28 1f 44  -1665.1 4092004.4  1.0  1.0  5  0 545885921
+[19]  B08 1f 36    -25.4 4092000.1  1.0  1.0  5  0 545885878
+[20]  B10 1f 37     12.9 4092000.0  1.0  1.0  5  0 545885879
+[21]  B21 1f 42   1258.8 4091996.7  1.0  1.0  5  0 545885914
+GPS acq_max:3739
+GPS acq_max:4467
+GPS acq_max:3851
+GPS acq_max:3923
+GPS acq_max:4556
+GPS acq_max:4658
+GPS acq_max:3906
+GPS acq_max:4085
+GPS acq_max:4054
+GPS acq_max:3999
+GPS acq_max:4349
+GPS acq_max:4009
+GPS acq_max:3836
+GPS acq_max:3949
+GPS acq_max:3848
+GPS acq_max:4001
+GPS acq_max:3796
+GPS acq_max:3892
+GPS acq_max:4188
+GPS acq_max:4095
+GPS acq_max:3626
+GPS acq_max:3826
+GPS acq_max:3932
+GPS acq_max:3920
+GPS acq_max:3849
+GPS acq_max:4049
+GPS acq_max:3889
+GPS acq_max:3602
+GPS acq_max:4278
+GPS acq_max:3976
+GPS acq_max:3881
+GPS acq_max:4124
+GPS acq_max:4081
+GPS acq_max:4023
+GPS acq_max:4099
+GPS acq_max:4254
+GPS acq_max:4434
+GPS acq_max:3944
+GPS acq_max:3839
+GPS acq_max:3896
+GPS acq_max:4091
+GPS acq_max:4429
+GPS acq_max:3775
+GPS acq_max:4193
+GPS acq_max:3983
+GPS acq_max:4042
+GPS acq_max:4350
+GPS acq_max:4150
+GPS acq_max:4510
+GPS acq_max:4397
+GPS acq_max:3813
+GPS acq_max:4228
+GPS acq_max:4099
+GPS acq_max:4010
+GPS acq_max:4107
+GPS acq_max:4073
+GPS acq_max:4885
+GPS acq_max:4227
+GPS acq_max:4294
+GPS acq_max:4177
+GPS acq_max:4176
+GPS acq_max:4125
+GPS acq_max:3804
+GPS acq_max:4510
+GPS acq_max:3960
+GPS acq_max:4079
+GPS acq_max:3831
+GPS acq_max:4119
+GPS acq_max:5061
+GPS acq_max:4225
+GPS acq_max:4192
+GPS acq_max:4197
+GPS acq_max:4313
+GPS acq_max:4120
+GPS acq_max:3799
+GPS acq_max:3917
+GPS acq_max:4150
+GPS acq_max:4229
+GPS acq_max:4362
+GPS acq_max:4583
+GPS acq_max:4095
+GPS acq_max:4120
+GPS acq_max:4400
+GPS acq_max:4012
+GPS acq_max:4601
+GPS acq_max:4328
+GPS acq_max:4012
+GPS acq_max:4027
+lsq: nits= 2
+$GNGGA,073803.000,3112.7248,N,12136.4326,E,1,09,1.8,57.3,M,,,,0000*23
+$GNRMC,073803.000,A,3112.7248,N,12136.4326,E,3.06,89.39,250519,,*2A
+$GPGSA,A,3,01,11,19,22,,,,,,,,,2.0,1.8,0.7*37
+$BDGSA,A,3,08,10,11,13,28,,,,,,,,2.0,1.8,0.7*2E
+$GPGSV,2,1,06,01,35,039,34,28,81,291,27,11,28,057,43,18,00,000,34*7B
+$GPGSV,2,2,06,19,26,301,36,22,39,062,43*7D
+$BDGSV,2,1,07,11,39,054,43,13,47,263,42,28,38,299,44,08,66,306,36*6B
+$BDGSV,2,2,07,10,70,251,37,21,12,045,42,04,35,122,00*5F
+$LOGTIM,3,-1151.056948,-1298.556608,0.000000,0.000000,-62.072*1D
+EndT:        1
+GPS acq_max:5081
+GPS acq_max:4828
+GPS acq_max:3838
+GPS acq_max:4193
+GPS acq_max:3865
+GPS acq_max:4475
+GPS acq_max:4128
+GPS acq_max:4538
+GPS acq_max:4357
+GPS acq_max:3897
+GPS acq_max:4436
+GPS acq_max:4180
+GPS acq_max:4574
+GPS acq_max:4418
+GPS acq_max:4754
+GPS acq_max:4146
+GPS acq_max:4142
+GPS acq_max:4321
+GPS acq_max:4259
+GPS acq_max:4413
+GPS acq_max:4471
+GPS acq_max:4063
+GPS acq_max:3880
+GPS acq_max:3796
+GPS acq_max:4271
+GPS acq_max:3918
+GPS acq_max:4185
+GPS acq_max:4077
+GPS acq_max:4571
+GPS acq_max:4224
+GPS acq_max:4437
+GPS acq_max:4150
+GPS acq_max:4008
+GPS acq_max:3808
+GPS acq_max:4064
+GPS acq_max:4171
+GPS acq_max:4059
+GPS acq_max:4432
+GPS acq_max:4194
+GPS acq_max:4127
+GPS acq_max:3973
+GPS acq_max:4509
+GPS acq_max:4247
+GPS acq_max:4037
+GPS acq_max:4153
+GPS acq_max:4212
+GPS acq_max:3819
+GPS acq_max:4213
+GPS acq_max:4184
+GPS acq_max:3876
+GPS acq_max:4646
+GPS acq_max:4487
+GPS acq_max:5215
+GPS acq_max:4763
+GPS acq_max:3902
+GPS acq_max:4086
+GPS acq_max:4623
+GPS acq_max:4501
+GPS acq_max:4698
+GPS acq_max:3942
+GPS acq_max:3827
+GPS acq_max:3861
+GPS acq_max:3997
+GPS acq_max:4385
+GPS acq_max:4150
+GPS acq_max:4225
+GPS acq_max:4292
+GPS acq_max:4741
+GPS acq_max:4210
+GPS acq_max:4345
+GPS acq_max:4272
+GPS acq_max:4700
+GPS acq_max:4024
+GPS acq_max:4519
+GPS acq_max:4109
+GPS acq_max:4378
+GPS acq_max:3805
+GPS acq_max:4122
+GPS acq_max:3920
+GPS acq_max:4064
+GPS acq_max:4651
+GPS acq_max:4463
+GPS acq_max:3984
+GPS acq_max:4030
+GPS acq_max:4621
+GPS acq_max:4573
+GPS acq_max:4142
+GPS acq_max:4077
+GPS acq_max:3842
+GPS acq_max:3821
+GPS acq_max:3983
+GPS acq_max:4053
+GPS acq_max:3988
+GPS acq_max:3904
+GPS acq_max:3961
+GPS acq_max:4132
+GPS acq_max:3797
+GPS acq_max:4045
+GPS acq_max:4571
+GPS acq_max:4605
+GPS acq_max:4014
+GPS acq_max:4663
+GPS acq_max:4048
+GPS acq_max:4200
+GPS acq_max:4080
+GPS acq_max:3732
+GPS acq_max:4115
+GPS acq_max:4015
+GPS acq_max:4201
+GPS acq_max:4457
+GPS acq_max:3919
+GPS acq_max:3809
+GPS acq_max:4027
+GPS acq_max:4347
+GPS acq_max:4129
+GPS acq_max:4049
+GPS acq_max:4095
+GPS acq_max:3644
+GPS acq_max:4000
+GPS acq_max:3714
+GPS acq_max:4245
+GPS acq_max:4392
+GPS acq_max:4759
+GPS acq_max:3991
+GPS acq_max:4138
+GPS acq_max:4273
+GPS acq_max:4089
+GPS acq_max:3969
+GPS acq_max:3931
+GPS acq_max:4142
+GPS acq_max:4183
+GPS acq_max:3911
+GPS acq_max:3968
+GPS acq_max:4257
+GPS acq_max:4008
+GPS acq_max:3590
+GPS acq_max:4164
+GPS acq_max:3725
+GPS acq_max:4098
+GPS acq_max:4201
+GPS acq_max:4250
+GPS acq_max:4103
+GPS acq_max:3646
+GPS acq_max:3886
+GPS acq_max:4136
+GPS acq_max:3935
+GPS acq_max:4059
+GPS acq_max:4127
+GPS acq_max:4394
+GPS acq_max:4360
+GPS acq_max:4140
+GPS acq_max:4790
+GPS acq_max:3940
+GPS acq_max:3958
+GPS acq_max:4054
+GPS acq_max:3927
+GPS acq_max:3700
+GPS acq_max:3921
+GPS acq_max:3893
+GPS acq_max:3697
+GPS acq_max:3851
+GPS acq_max:3721
+GPS acq_max:4397
+GPS acq_max:4101
+GPS acq_max:3948
+GPS acq_max:4040
+GPS acq_max:4353
+GPS acq_max:3806
+GPS acq_max:4185
+GPS acq_max:3979
+GPS acq_max:4122
+GPS acq_max:3915
+GPS acq_max:3740
+GPS acq_max:4032
+GPS acq_max:3838
+GPS acq_max:4008
+GPS acq_max:3959
+GPS acq_max:3626
+GPS acq_max:3652
+GPS acq_max:4025
+GPS acq_max:4133
+GPS acq_max:4127
+GPS acq_max:3714
+GPS acq_max:4309
+GPS acq_max:3700
+GPS acq_max:4034
+GPS acq_max:4581
+GPS acq_max:3993
+GPS acq_max:3996
+GPS acq_max:3857
+GPS acq_max:4272
+GPS acq_max:3965
+GPS acq_max:3948
+GPS acq_max:4195
+GPS acq_max:3950
+GPS acq_max:4273
+GPS acq_max:4091
+GPS acq_max:3946
+GPS acq_max:4194
+GPS acq_max:3661
+GPS acq_max:4390
+GPS acq_max:3804
+GPS acq_max:3850
+GPS acq_max:4107
+GPS acq_max:4217
+GPS acq_max:3932
+GPS acq_max:4014
+GPS acq_max:4010
+GPS acq_max:4273
+GPS acq_max:4425
+GPS acq_max:3900
+GPS acq_max:4511
+GPS acq_max:4369
+GPS acq_max:4229
+GPS acq_max:3973
+GPS acq_max:3781
+GPS acq_max:3878
+GPS acq_max:4272
+GPS acq_max:5182
+GPS acq_max:4652
+GPS acq_max:3841
+GPS acq_max:3925
+GPS acq_max:4372
+GPS acq_max:5091
+GPS acq_max:3764
+GPS acq_max:3795
+GPS acq_max:4193
+GPS acq_max:3880
+GPS acq_max:3939
+GPS acq_max:4275
+GPS acq_max:4026
+GPS acq_max:3789
+GPS acq_max:3799
+GPS acq_max:3833
+GPS acq_max:4465
+GPS acq_max:4122
+GPS acq_max:4433
+GPS acq_max:4238
+GPS acq_max:4106
+GPS acq_max:3967
+GPS acq_max:4272
+GPS acq_max:4118
+GPS acq_max:4046
+GPS acq_max:4085
+GPS acq_max:4458
+GPS acq_max:3710
+GPS acq_max:3934
+GPS acq_max:4127
+---00000038--- Acq_st=3 2019-5-25 07:38:3 
+[00]  G01  f 35   2509.5 2045996.7  1.0  0.9  5  0 545900925
+[01]  G28  7 27   -959.2 2046001.2 -0.9  0.0 10  0        12
+[02]  G11  f 42   2190.1 2045997.1  1.0  1.0  5  0 545900924
+[03]  G18  f 34   3014.3 2045996.0  1.0  1.0  5  0 545900919
+[04]  G19  f 35  -2589.3 2046003.4  1.0  1.0  5  0 545900923
+[05]  G22  f 43   1172.9 2045998.5  1.0  1.0  5  0 545900925
+[16]  B11 1f 43    914.8 4091997.6  1.0  1.0  5  0 545886922
+[17]  B13 1f 42   -367.2 4092001.0  1.0  1.0  5  0 545886874
+[18]  B28 1f 43  -1664.6 4092004.3  1.0  1.0  5  0 545886921
+[19]  B08 1f 36    -25.1 4092000.1  1.0  1.0  5  0 545886878
+[20]  B10 1f 37     13.9 4091999.9  1.0  0.9  5  0 545886879
+[21]  B21 1f 42   1259.4 4091996.7  1.0  1.0  5  0 545886914
+GPS acq_max:4550
+GPS acq_max:4565
+GPS acq_max:3973
+GPS acq_max:3796
+GPS acq_max:4026
+GPS acq_max:4793
+GPS acq_max:4806
+GPS acq_max:4284
+GPS acq_max:4221
+GPS acq_max:4749
+GPS acq_max:3988
+GPS acq_max:4295
+GPS acq_max:4178
+GPS acq_max:3967
+GPS acq_max:3999
+GPS acq_max:4545
+GPS acq_max:3872
+GPS acq_max:3778
+GPS acq_max:3852
+GPS acq_max:4104
+GPS acq_max:3915
+GPS acq_max:4319
+GPS acq_max:3919
+GPS acq_max:3875
+GPS acq_max:4138
+GPS acq_max:4007
+GPS acq_max:3946
+GPS acq_max:4090
+GPS acq_max:4318
+GPS acq_max:3636
+GPS acq_max:4229
+GPS acq_max:4330
+GPS acq_max:3804
+GPS acq_max:3824
+GPS acq_max:3841
+GPS acq_max:3893
+GPS acq_max:4077
+GPS acq_max:4009
+GPS acq_max:3953
+GPS acq_max:3836
+GPS acq_max:4249
+GPS acq_max:4108
+GPS acq_max:4416
+GPS acq_max:3904
+GPS acq_max:4129
+GPS acq_max:4308
+GPS acq_max:4120
+GPS acq_max:4187
+GPS acq_max:4528
+GPS acq_max:3790
+GPS acq_max:4225
+GPS acq_max:3635
+GPS acq_max:4090
+GPS acq_max:4507
+GPS acq_max:3955
+GPS acq_max:4607
+GPS acq_max:3962
+GPS acq_max:4108
+GPS acq_max:3916
+GPS acq_max:4374
+GPS acq_max:4042
+GPS acq_max:4223
+GPS acq_max:4507
+GPS acq_max:3676
+GPS acq_max:3869
+GPS acq_max:3902
+GPS acq_max:4195
+GPS acq_max:4342
+GPS acq_max:4267
+GPS acq_max:4173
+GPS acq_max:4029
+GPS acq_max:4234
+GPS acq_max:3928
+GPS acq_max:3728
+GPS acq_max:3902
+GPS acq_max:4090
+GPS acq_max:4034
+GPS acq_max:4202
+GPS acq_max:4063
+GPS acq_max:4071
+GPS acq_max:4088
+GPS acq_max:4192
+GPS acq_max:3989
+GPS acq_max:3766
+GPS acq_max:4052
+GPS acq_max:3649
+GPS acq_max:3776
+GPS acq_max:3891
+lsq: nits= 2
+$GNGGA,073804.000,3112.7262,N,12136.4326,E,1,10,1.4,59.9,M,,,,0000*2C
+$GNRMC,073804.000,A,3112.7262,N,12136.4326,E,2.87,91.42,250519,,*28
+$GPGSA,A,3,01,11,19,22,,,,,,,,,1.6,1.4,0.7*3E
+$BDGSA,A,3,08,10,11,13,21,28,,,,,,,1.6,1.4,0.7*24
+$GPGSV,2,1,06,01,35,039,35,28,81,291,27,11,28,057,42,18,00,000,34*7B
+$GPGSV,2,2,06,19,26,301,35,22,39,062,43*7E
+$BDGSV,2,1,07,11,39,054,43,13,47,263,42,28,38,299,43,08,66,306,36*6C
+$BDGSV,2,2,07,10,70,251,37,21,12,045,42,04,35,122,00*5F
+$LOGTIM,3,-1211.820890,-1359.339971,0.000000,0.000000,-62.142*17
+EndT:        1
+GPS acq_max:4736
+GPS acq_max:3977
+GPS acq_max:4709
+GPS acq_max:5259
+GPS acq_max:4516
+GPS acq_max:3966
+GPS acq_max:3746
+GPS acq_max:4275
+GPS acq_max:4064
+GPS acq_max:3789
+GPS acq_max:3930
+GPS acq_max:4463
+GPS acq_max:4326
+GPS acq_max:3812
+GPS acq_max:4194
+GPS acq_max:4046
+GPS acq_max:4300
+GPS acq_max:3662
+GPS acq_max:3869
+GPS acq_max:4451
+GPS acq_max:4153
+GPS acq_max:4120
+GPS acq_max:4028
+GPS acq_max:3950
+GPS acq_max:3840
+GPS acq_max:4739
+GPS acq_max:4063
+GPS acq_max:3593
+GPS acq_max:3991
+GPS acq_max:3795
+GPS acq_max:3578
+GPS acq_max:3919
+GPS acq_max:3978
+GPS acq_max:4141
+GPS acq_max:3950
+GPS acq_max:3897
+GPS acq_max:3994
+GPS acq_max:3799
+GPS acq_max:3966
+GPS acq_max:3990
+GPS acq_max:4303
+GPS acq_max:4378
+GPS acq_max:4009
+GPS acq_max:4006
+GPS acq_max:4802
+GPS acq_max:4759
+GPS acq_max:3708
+GPS acq_max:4349
+GPS acq_max:4363
+GPS acq_max:4295
+GPS acq_max:4101
+GPS acq_max:4118
+GPS acq_max:4287
+GPS acq_max:3924
+GPS acq_max:3882
+GPS acq_max:4065
+GPS acq_max:3887
+GPS acq_max:4356
+GPS acq_max:4247
+GPS acq_max:4021
+GPS acq_max:3784
+GPS acq_max:3855
+GPS acq_max:3945
+GPS acq_max:4171
+GPS acq_max:4129
+GPS acq_max:4512
+GPS acq_max:3981
+GPS acq_max:3945
+GPS acq_max:4150
+GPS acq_max:4021
+GPS acq_max:4048
+GPS acq_max:4467
+GPS acq_max:3933
+GPS acq_max:4085
+GPS acq_max:4494
+GPS acq_max:3856
+GPS acq_max:4119
+GPS acq_max:4327
+GPS acq_max:3961
+GPS acq_max:4092
+GPS acq_max:3963
+GPS acq_max:3792
+GPS acq_max:3667
+GPS acq_max:3974
+GPS acq_max:4202
+GPS acq_max:4257
+GPS acq_max:4149
+GPS acq_max:4127
+GPS acq_max:3947
+GPS acq_max:3965
+GPS acq_max:4392
+GPS acq_max:3756
+GPS acq_max:3771
+GPS acq_max:4085
+GPS acq_max:4094
+GPS acq_max:4497
+GPS acq_max:4386
+GPS acq_max:3771
+GPS acq_max:4032
+GPS acq_max:4189
+GPS acq_max:3702
+GPS acq_max:3954
+GPS acq_max:3832
+GPS acq_max:3641
+GPS acq_max:4041
+GPS acq_max:4001
+GPS acq_max:3860
+GPS acq_max:4050
+GPS acq_max:4114
+GPS acq_max:3767
+GPS acq_max:4149
+GPS acq_max:4032
+GPS acq_max:3974
+GPS acq_max:4254
+GPS acq_max:3935
+GPS acq_max:4170
+GPS acq_max:3862
+GPS acq_max:3785
+GPS acq_max:3989
+GPS acq_max:3880
+GPS acq_max:4546
+GPS acq_max:4056
+GPS acq_max:3735
+GPS acq_max:4062
+GPS acq_max:3675
+GPS acq_max:3918
+GPS acq_max:4140
+GPS acq_max:3797
+GPS acq_max:4382
+GPS acq_max:4215
+GPS acq_max:4441
+GPS acq_max:3891
+GPS acq_max:4007
+GPS acq_max:3913
+GPS acq_max:4068
+GPS acq_max:4497
+GPS acq_max:4408
+GPS acq_max:4431
+GPS acq_max:4397
+GPS acq_max:4484
+GPS acq_max:4599
+GPS acq_max:4090
+GPS acq_max:4043
+GPS acq_max:4787
+GPS acq_max:4820
+GPS acq_max:4187
+GPS acq_max:4149
+GPS acq_max:5687
+GPS acq_max:7952
+GPS acq_max:8444
+GPS acq_max:5605
+GPS acq_max:3727
+GPS acq_max:3658
+GPS acq_max:3761
+GPS acq_max:4091
+GPS acq_max:4309
+GPS acq_max:3898
+GPS acq_max:3925
+GPS acq_max:3678
+GPS acq_max:3757
+GPS acq_max:4245
+GPS acq_max:3885
+GPS acq_max:3925
+GPS acq_max:4031
+GPS acq_max:4080
+GPS acq_max:4055
+GPS acq_max:3895
+GPS acq_max:4893
+GPS acq_max:3900
+GPS acq_max:4229
+GPS acq_max:4690
+GPS acq_max:4086
+GPS acq_max:3807
+GPS acq_max:3762
+GPS acq_max:3784
+GPS acq_max:3806
+ch6 satid=16,max_freq = 1750,max_mean = 2002,max_phase = 675,max_value = 8444,acq ok1!
+acq ok1 timeH = 0,timeL = 741645938,freq_stage = 2
+GPS acq_max:3920
+GPS acq_max:3837
+GPS acq_max:3914
+GPS acq_max:3908
+GPS acq_max:4238
+GPS acq_max:4194
+GPS acq_max:3828
+GPS acq_max:3687
+GPS acq_max:3561
+GPS acq_max:3778
+GPS acq_max:4498
+GPS acq_max:4310
+GPS acq_max:4143
+GPS acq_max:3921
+GPS acq_max:3696
+GPS acq_max:3989
+GPS acq_max:3725
+GPS acq_max:4203
+GPS acq_max:4022
+GPS acq_max:3845
+GPS acq_max:3698
+GPS acq_max:3622
+GPS acq_max:3447
+GPS acq_max:3684
+GPS acq_max:4414
+GPS acq_max:4147
+GPS acq_max:4221
+GPS acq_max:3818
+GPS acq_max:3980
+GPS acq_max:4502
+GPS acq_max:4173
+GPS acq_max:3939
+GPS acq_max:4088
+GPS acq_max:3883
+GPS acq_max:3799
+GPS acq_max:3850
+GPS acq_max:4097
+GPS acq_max:4134
+GPS acq_max:3989
+GPS acq_max:3935
+GPS acq_max:4110
+GPS acq_max:4467
+GPS acq_max:4244
+GPS acq_max:4290
+GPS acq_max:4077
+GPS acq_max:3760
+GPS acq_max:3880
+GPS acq_max:4206
+GPS acq_max:4079
+GPS acq_max:4049
+GPS acq_max:3934
+GPS acq_max:4148
+GPS acq_max:3747
+GPS acq_max:4501
+GPS acq_max:4386
+GPS acq_max:3925
+GPS acq_max:4351
+GPS acq_max:3906
+GPS acq_max:3752
+GPS acq_max:4341
+GPS acq_max:3858
+GPS acq_max:4334
+GPS acq_max:4526
+GPS acq_max:4468
+GPS acq_max:4146
+GPS acq_max:3892
+GPS acq_max:4071
+GPS acq_max:4054
+GPS acq_max:3954
+GPS acq_max:4091
+GPS acq_max:4262
+GPS acq_max:4201
+---00000039--- Acq_st=3 2019-5-25 07:38:4 
+[00]  G01  f 35   2512.0 2045996.7  1.0  0.9  5  0 545901925
+[01]  G28  7 26   -957.5 2046001.2 -0.9 -0.0 10  0        12
+[02]  G11  f 43   2191.7 2045997.1  1.0  1.0  5  0 545901924
+[03]  G18  f 34   3015.4 2045996.1  1.0  1.0  5  0 545901919
+[04]  G19  f 35  -2588.1 2046003.4  1.0  1.0  5  0 545901923
+[05]  G22  f 42   1174.5 2045998.5  1.0  1.0  5  0 545901925
+[06]  G17  1  7  -1762.9 2046002.8  0.1  0.0  1  0         0
+[16]  B11 1f 44    915.6 4091997.6  1.0  1.0  5  0 545887922
+[17]  B13 1f 42   -366.4 4092001.0  1.0  1.0  5  0 545887874
+[18]  B28 1f 43  -1663.7 4092004.3  1.0  1.0  5  0 545887921
+[19]  B08 1f 36    -23.2 4092000.0  1.0  1.0  5  0 545887878
+[20]  B10 1f 37     14.9 4091999.9  1.0  1.0  5  0 545887879
+[21]  B21 1f 42   1261.1 4091996.6  1.0  1.0  5  0 545887914
+GPS acq_max:3956
+GPS acq_max:4669
+GPS acq_max:4003
+GPS acq_max:3920
+GPS acq_max:3772
+GPS acq_max:4047
+GPS acq_max:4224
+GPS acq_max:4075
+GPS acq_max:4019
+GPS acq_max:4130
+GPS acq_max:4604
+GPS acq_max:4491
+GPS acq_max:3912
+GPS acq_max:3799
+GPS acq_max:3897
+GPS acq_max:3774
+GPS acq_max:4255
+GPS acq_max:4478
+GPS acq_max:3776
+GPS acq_max:3707
+GPS acq_max:3936
+GPS acq_max:4097
+GPS acq_max:3836
+GPS acq_max:3901
+GPS acq_max:4590
+GPS acq_max:3863
+GPS acq_max:3869
+GPS acq_max:3622
+GPS acq_max:3700
+GPS acq_max:3761
+GPS acq_max:3637
+GPS acq_max:4346
+GPS acq_max:4056
+GPS acq_max:4219
+GPS acq_max:4806
+GPS acq_max:4117
+GPS acq_max:4161
+GPS acq_max:4344
+GPS acq_max:4123
+GPS acq_max:4010
+GPS acq_max:4027
+GPS acq_max:3755
+GPS acq_max:3924
+GPS acq_max:3905
+GPS acq_max:3867
+GPS acq_max:3813
+GPS acq_max:4135
+GPS acq_max:4916
+GPS acq_max:4122
+GPS acq_max:4087
+GPS acq_max:4253
+GPS acq_max:4575
+GPS acq_max:4111
+GPS acq_max:4120
+GPS acq_max:3901
+GPS acq_max:3800
+GPS acq_max:3875
+GPS acq_max:4257
+GPS acq_max:4227
+GPS acq_max:3941
+GPS acq_max:3909
+GPS acq_max:3957
+GPS acq_max:4172
+GPS acq_max:3980
+GPS acq_max:4560
+GPS acq_max:4307
+GPS acq_max:4086
+GPS acq_max:4094
+GPS acq_max:4587
+GPS acq_max:4247
+GPS acq_max:4248
+GPS acq_max:4594
+GPS acq_max:3815
+GPS acq_max:4383
+GPS acq_max:4250
+GPS acq_max:4016
+GPS acq_max:4045
+GPS acq_max:3709
+GPS acq_max:3793
+GPS acq_max:4196
+GPS acq_max:4871
+GPS acq_max:4034
+GPS acq_max:3899
+GPS acq_max:4294
+GPS acq_max:4100
+GPS acq_max:3999
+GPS acq_max:4351
+GPS acq_max:4181
+GPS acq_max:4655
+GPS acq_max:4186
+GPS acq_max:4505
+GPS acq_max:4398
+GPS acq_max:3893
+GPS acq_max:3894
+GPS acq_max:4152
+GPS acq_max:3854
+lsq: nits= 2
+$GNGGA,073805.000,3112.7273,N,12136.4328,E,1,10,1.4,61.5,M,,,,0000*24
+$GNRMC,073805.000,A,3112.7273,N,12136.4328,E,2.49,93.99,250519,,*21
+$GPGSA,A,3,01,11,19,22,,,,,,,,,1.6,1.4,0.7*3E
+$BDGSA,A,3,08,10,11,13,21,28,,,,,,,1.6,1.4,0.7*24
+$GPGSV,2,1,06,01,35,039,35,28,81,291,26,11,28,057,43,18,00,000,34*7B
+$GPGSV,2,2,06,19,26,301,35,22,39,062,42*7F
+$BDGSV,2,1,07,11,39,054,44,13,47,263,42,28,38,299,43,08,66,306,36*6B
+$BDGSV,2,2,07,10,70,251,37,21,12,045,42,04,35,122,00*5F
+$LOGTIM,3,-1273.173003,-1420.698542,0.000000,0.000000,-62.074*11
+EndT:        1
+GPS acq_max:4116
+GPS acq_max:4190
+GPS acq_max:3899
+GPS acq_max:4048
+GPS acq_max:3659
+GPS acq_max:4321
+GPS acq_max:4181
+GPS acq_max:4201
+GPS acq_max:3847
+GPS acq_max:3632
+GPS acq_max:4157
+GPS acq_max:3882
+GPS acq_max:3721
+GPS acq_max:3756
+GPS acq_max:4255
+GPS acq_max:3712
+GPS acq_max:4427
+GPS acq_max:4395
+GPS acq_max:4199
+GPS acq_max:4196
+GPS acq_max:5026
+GPS acq_max:4779
+GPS acq_max:3882
+GPS acq_max:4035
+GPS acq_max:3683
+GPS acq_max:4154
+GPS acq_max:4964
+GPS acq_max:4000
+GPS acq_max:4048
+GPS acq_max:3776
+GPS acq_max:3899
+GPS acq_max:4451
+GPS acq_max:3905
+GPS acq_max:4462
+GPS acq_max:4828
+GPS acq_max:5110
+GPS acq_max:3826
+GPS acq_max:4201
+GPS acq_max:4065
+GPS acq_max:3899
+GPS acq_max:3990
+GPS acq_max:4857
+GPS acq_max:4945
+GPS acq_max:4484
+GPS acq_max:4204
+GPS acq_max:4672
+GPS acq_max:3817
+GPS acq_max:3970
+GPS acq_max:3765
+GPS acq_max:3754
+GPS acq_max:3726
+GPS acq_max:4307
+GPS acq_max:4132
+GPS acq_max:4200
+GPS acq_max:3787
+GPS acq_max:4642
+GPS acq_max:3922
+GPS acq_max:3807
+GPS acq_max:3805
+GPS acq_max:4031
+GPS acq_max:3579
+GPS acq_max:3768
+GPS acq_max:3783
+GPS acq_max:3790
+GPS acq_max:3794
+GPS acq_max:4203
+GPS acq_max:3831
+GPS acq_max:4056
+GPS acq_max:3798
+GPS acq_max:3619
+GPS acq_max:4224
+GPS acq_max:4533
+GPS acq_max:3956
+GPS acq_max:3932
+GPS acq_max:3926
+GPS acq_max:3749
+GPS acq_max:3928
+GPS acq_max:3705
+GPS acq_max:3963
+GPS acq_max:3925
+GPS acq_max:3848
+GPS acq_max:4298
+GPS acq_max:4255
+GPS acq_max:4055
+GPS acq_max:3797
+GPS acq_max:3837
+GPS acq_max:3916
+GPS acq_max:3808
+GPS acq_max:4012
+GPS acq_max:4508
+GPS acq_max:4523
+GPS acq_max:3796
+GPS acq_max:3613
+GPS acq_max:4023
+GPS acq_max:4075
+GPS acq_max:3891
+GPS acq_max:4355
+GPS acq_max:3781
+GPS acq_max:4114
+GPS acq_max:3761
+GPS acq_max:4039
+GPS acq_max:3873
+GPS acq_max:3916
+GPS acq_max:4569
+GPS acq_max:4516
+GPS acq_max:4215
+GPS acq_max:4000
+GPS acq_max:4172
+GPS acq_max:4102
+GPS acq_max:3833
+GPS acq_max:4163
+GPS acq_max:3823
+GPS acq_max:3685
+GPS acq_max:3906
+GPS acq_max:4635
+GPS acq_max:3920
+GPS acq_max:3781
+GPS acq_max:4256
+GPS acq_max:3941
+GPS acq_max:4340
+GPS acq_max:3974
+GPS acq_max:4133
+GPS acq_max:3921
+GPS acq_max:3642
+GPS acq_max:4292
+GPS acq_max:4090
+GPS acq_max:3778
+GPS acq_max:3904
+GPS acq_max:4041
+GPS acq_max:4578
+GPS acq_max:4154
+GPS acq_max:3543
+GPS acq_max:3871
+GPS acq_max:3970
+GPS acq_max:3974
+GPS acq_max:3926
+GPS acq_max:4100
+GPS acq_max:3724
+GPS acq_max:3723
+GPS acq_max:4092
+GPS acq_max:4103
+GPS acq_max:4413
+GPS acq_max:4349
+GPS acq_max:4063
+GPS acq_max:4174
+GPS acq_max:4760
+GPS acq_max:4504
+GPS acq_max:4041
+GPS acq_max:3805
+GPS acq_max:4153
+GPS acq_max:4623
+GPS acq_max:4256
+GPS acq_max:3557
+GPS acq_max:4092
+GPS acq_max:3700
+GPS acq_max:3784
+GPS acq_max:3894
+GPS acq_max:3893
+GPS acq_max:3855
+GPS acq_max:4026
+GPS acq_max:4136
+GPS acq_max:3700
+GPS acq_max:4143
+GPS acq_max:4044
+GPS acq_max:4027
+GPS acq_max:3732
+GPS acq_max:3925
+GPS acq_max:3745
+GPS acq_max:3797
+GPS acq_max:3945
+GPS acq_max:3811
+GPS acq_max:3986
+GPS acq_max:4165
+GPS acq_max:3903
+GPS acq_max:3919
+GPS acq_max:4221
+GPS acq_max:3804
+GPS acq_max:3850
+GPS acq_max:4143
+GPS acq_max:4798
+GPS acq_max:4173
+GPS acq_max:4082
+GPS acq_max:3717
+GPS acq_max:3693
+GPS acq_max:4281
+GPS acq_max:4215
+GPS acq_max:3682
+GPS acq_max:3829
+GPS acq_max:3760
+GPS acq_max:3995
+GPS acq_max:3873
+GPS acq_max:4150
+GPS acq_max:3994
+GPS acq_max:4514
+GPS acq_max:4482
+GPS acq_max:4366
+GPS acq_max:4343
+GPS acq_max:4368
+GPS acq_max:3759
+GPS acq_max:4141
+GPS acq_max:4187
+GPS acq_max:4178
+GPS acq_max:4223
+GPS acq_max:4089
+GPS acq_max:3868
+GPS acq_max:3735
+GPS acq_max:3764
+GPS acq_max:3721
+GPS acq_max:4122
+GPS acq_max:4126
+GPS acq_max:4022
+GPS acq_max:3943
+GPS acq_max:3856
+GPS acq_max:3814
+GPS acq_max:4005
+GPS acq_max:4833
+GPS acq_max:4100
+GPS acq_max:4059
+GPS acq_max:4031
+GPS acq_max:3982
+GPS acq_max:4067
+GPS acq_max:3862
+GPS acq_max:3745
+GPS acq_max:3821
+GPS acq_max:4245
+GPS acq_max:3538
+GPS acq_max:3991
+GPS acq_max:4083
+GPS acq_max:4161
+GPS acq_max:3849
+GPS acq_max:3980
+GPS acq_max:3792
+GPS acq_max:4079
+GPS acq_max:4141
+GPS acq_max:4284
+GPS acq_max:3949
+GPS acq_max:4302
+GPS acq_max:4334
+GPS acq_max:4070
+GPS acq_max:3983
+---00000040--- Acq_st=3 2019-5-25 07:38:5 
+[00]  G01  f 35   2513.3 2045996.7  1.0  1.0  5  0 545902925
+[01]  G28  7 27   -954.6 2046001.2 -0.8 -0.0 10  0        12
+[02]  G11  f 43   2194.1 2045997.1  1.0  1.0  5  0 545902924
+[03]  G18  f 34   3017.4 2045996.0  1.0  0.9  5  0 545902919
+[04]  G19  f 36  -2585.3 2046003.4  1.0  1.0  5  0 545902923
+[05]  G22  f 43   1177.8 2045998.5  1.0  1.0  5  0 545902925
+[06]  G17  1 23  -1813.0 2046003.1 -0.0  0.0  1  0        16
+[16]  B11 1f 43    918.4 4091997.6  1.0  1.0  5  0 545888922
+[17]  B13 1f 42   -363.2 4092000.9  1.0  1.0  5  0 545888874
+[18]  B28 1f 43  -1661.0 4092004.3  1.0  1.0  5  0 545888921
+[19]  B08 1f 36    -20.1 4092000.0  1.0  1.0  5  0 545888878
+[20]  B10 1f 37     17.7 4092000.0  1.0  1.0  5  0 545888879
+[21]  B21 1f 42   1264.2 4091996.7  1.0  1.0  5  0 545888914
+GPS acq_max:3870
+GPS acq_max:3788
+GPS acq_max:4112
+GPS acq_max:4497
+GPS acq_max:4402
+GPS acq_max:3900
+GPS acq_max:4230
+GPS acq_max:3943
+GPS acq_max:4228
+GPS acq_max:3896
+GPS acq_max:3998
+GPS acq_max:4318
+GPS acq_max:4334
+GPS acq_max:3738
+GPS acq_max:4493
+GPS acq_max:3872
+GPS acq_max:4145
+GPS acq_max:4480
+GPS acq_max:3932
+GPS acq_max:4058
+GPS acq_max:4010
+GPS acq_max:3957
+GPS acq_max:4715
+GPS acq_max:4321
+GPS acq_max:3870
+GPS acq_max:3808
+GPS acq_max:3831
+GPS acq_max:3885
+GPS acq_max:3563
+GPS acq_max:3739
+GPS acq_max:4028
+GPS acq_max:4047
+lsq: nits= 2
+$GNGGA,073806.000,3112.7283,N,12136.4332,E,1,10,1.4,63.7,M,,,,0000*23
+$GNRMC,073806.000,A,3112.7283,N,12136.4332,E,1.95,92.38,250519,,*2E
+$GPGSA,A,3,01,11,19,22,,,,,,,,,1.6,1.4,0.7*3E
+$BDGSA,A,3,08,10,11,13,21,28,,,,,,,1.6,1.4,0.7*24
+$GPGSV,2,1,06,01,35,039,35,28,81,291,27,11,28,057,43,18,00,000,34*7A
+$GPGSV,2,2,06,19,26,301,36,22,39,062,43*7D
+$BDGSV,2,1,07,11,39,054,43,13,47,263,42,28,38,299,43,08,66,306,36*6C
+$BDGSV,2,2,07,10,70,251,37,21,12,045,42,04,35,122,00*5F
+$LOGTIM,3,-1333.786267,-1481.304301,0.000000,0.000000,-61.885*17
+EndT:        1
+---00000041--- Acq_st=3 2019-5-25 07:38:6 
+[00]  G01  f 35   2514.3 2045996.7  1.0  1.0  5  0 545903925
+[01]  G28  7 27   -952.9 2046001.1 -0.8 -0.0 10  0        12
+[02]  G11  f 43   2195.6 2045997.1  1.0  1.0  5  0 545903924
+[03]  G18  f 32   3018.1 2045996.1  1.0  0.9  5  0 545903919
+[04]  G19  f 36  -2583.9 2046003.4  1.0  1.0  5  0 545903923
+[05]  G22  f 42   1178.8 2045998.5  1.0  1.0  5  0 545903925
+[06]  G17  7 31  -1806.9 2046002.4  0.5  1.1  5  0         6
+[16]  B11 1f 43    919.2 4091997.6  1.0  1.0  5  0 545889922
+[17]  B13 1f 42   -362.7 4092000.9  1.0  1.0  5  0 545889874
+[18]  B28 1f 44  -1659.9 4092004.4  1.0  1.0  5  0 545889921
+[19]  B08 1f 36    -20.1 4092000.0  1.0  1.0  5  0 545889878
+[20]  B10 1f 37     18.7 4092000.0  1.0  1.0  5  0 545889879
+[21]  B21 1f 41   1265.7 4091996.7  1.0  1.0  5  0 545889914
+lsq: nits= 2
+$GNGGA,073807.000,3112.7307,N,12136.4337,E,1,10,1.4,70.1,M,,,,0000*2E
+$GNRMC,073807.000,A,3112.7307,N,12136.4337,E,2.17,91.07,250519,,*21
+$GPGSA,A,3,01,11,19,22,,,,,,,,,1.6,1.4,0.7*3E
+$BDGSA,A,3,08,10,11,13,21,28,,,,,,,1.6,1.4,0.7*24
+$GPGSV,2,1,07,01,35,039,35,28,81,291,27,11,28,057,43,18,00,000,32*7D
+$GPGSV,2,2,07,19,26,301,36,22,39,062,42,17,00,000,31*49
+$BDGSV,2,1,07,11,39,054,43,13,47,263,42,28,38,299,44,08,66,306,36*6B
+$BDGSV,2,2,07,10,70,251,37,21,12,045,41,04,35,122,00*5C
+$LOGTIM,3,-1390.913298,-1538.301605,0.000000,0.000000,-61.683*13
+EndT:        1
+

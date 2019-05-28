@@ -1,0 +1,1645 @@
+FlashID=0x1 0x20 0x18
+BBram_blkflag1: 3f64: c09b
+FW Ver: 1.30  
+GPS00 Init Dop:   5000, 40
+GPS01 Init Dop:   5000, 40
+GPS02 Init Dop:   5000, 40
+GPS03 Init Dop:   5000, 40
+GPS04 Init Dop:   5000, 40
+GPS05 Init Dop:   5000, 40
+GPS06 Init Dop:   5000, 40
+GPS07 Init Dop:   5000, 40
+GPS08 Init Dop:   5000, 40
+GPS09 Init Dop:   5000, 40
+GPS10 Init Dop:   5000, 40
+GPS11 Init Dop:   5000, 40
+GPS12 Init Dop:   5000, 40
+GPS13 Init Dop:   5000, 40
+GPS14 Init Dop:   5000, 40
+GPS15 Init Dop:   5000, 40
+GPS16 Init Dop:   5000, 40
+GPS17 Init Dop:   5000, 40
+GPS18 Init Dop:   5000, 40
+GPS19 Init Dop:   5000, 40
+GPS20 Init Dop:   5000, 40
+GPS21 Init Dop:   5000, 40
+GPS22 Init Dop:   5000, 40
+GPS23 Init Dop:   5000, 40
+GPS24 Init Dop:   5000, 40
+GPS25 Init Dop:   5000, 40
+GPS26 Init Dop:   5000, 40
+GPS27 Init Dop:   5000, 40
+GPS28 Init Dop:   5000, 40
+GPS29 Init Dop:   5000, 40
+GPS30 Init Dop:   5000, 40
+GPS31 Init Dop:   5000, 40
+BDS00 Init Dop:   5000, 40
+BDS01 Init Dop:   5000, 40
+BDS02 Init Dop:   5000, 40
+BDS03 Init Dop:   5000, 40
+BDS04 Init Dop:   5000, 40
+BDS05 Init Dop:   5000, 40
+BDS06 Init Dop:   5000, 40
+BDS07 Init Dop:   5000, 40
+BDS08 Init Dop:   5000, 40
+BDS09 Init Dop:   5000, 40
+BDS10 Init Dop:   5000, 40
+BDS11 Init Dop:   5000, 40
+BDS12 Init Dop:   5000, 40
+BDS13 Init Dop:   5000, 40
+BDS14 Init Dop:   5000, 40
+BDS15 Init Dop:   5000, 40
+BDS16 Init Dop:   5000, 40
+BDS17 Init Dop:   5000, 40
+BDS18 Init Dop:   5000, 40
+BDS19 Init Dop:   5000, 40
+BDS20 Init Dop:   5000, 40
+BDS21 Init Dop:   5000, 40
+BDS22 Init Dop:   5000, 40
+BDS23 Init Dop:   5000, 40
+BDS24 Init Dop:   5000, 40
+BDS25 Init Dop:   5000, 40
+BDS26 Init Dop:   5000, 40
+BDS27 Init Dop:   5000, 40
+BDS28 Init Dop:   5000, 40
+BDS29 Init Dop:   5000, 40
+BDS30 Init Dop:   5000, 40
+BDS31 Init Dop:   5000, 40
+good luck!
+timeH = 0,timeL = 20229285
+timeH = 0,timeL = 20680661
+timeH = 0,timeL = 21131380
+timeH = 0,timeL = 21582118
+timeH = 0,timeL = 22032854
+sat0 = 4461 1210 1773 -1750
+timeH = 0,timeL = 22502182
+timeH = 0,timeL = 22953550
+timeH = 0,timeL = 23404306
+timeH = 0,timeL = 23855044
+timeH = 0,timeL = 24305801
+sat1 = 43451 851 4382 1000
+ch0 satid=1,max_freq = 1000,max_mean = 4382,max_phase = 851,max_value = 43451,acq ok1!
+acq ok1 timeH = 0,timeL = 23404306,freq_stage = 3
+timeH = 0,timeL = 24775146
+timeH = 0,timeL = 25226522
+timeH = 0,timeL = 25677261
+timeH = 0,timeL = 26128008
+timeH = 0,timeL = 26578774
+sat2 = 18187 345 6779 -3250
+timeH = 0,timeL = 27048093
+timeH = 0,timeL = 27499469
+timeH = 0,timeL = 27950216
+timeH = 0,timeL = 28400972
+timeH = 0,timeL = 28851720
+sat3 = 89537 644 6777 -1250
+ch1 satid=3,max_freq = -1250,max_mean = 6777,max_phase = 644,max_value = 89537,acq ok1!
+acq ok1 timeH = 0,timeL = 28400972,freq_stage = 4
+timeH = 0,timeL = 29321046
+timeH = 0,timeL = 29772405
+timeH = 0,timeL = 30223152
+timeH = 0,timeL = 30673918
+timeH = 0,timeL = 31124674
+sat4 = 328050 818 6754 1250
+ch2 satid=4,max_freq = 1250,max_mean = 6754,max_phase = 818,max_value = 328050,acq ok1!
+acq ok1 timeH = 0,timeL = 29772405,freq_stage = 2
+timeH = 0,timeL = 31594002
+timeH = 0,timeL = 32045378
+timeH = 0,timeL = 32496125
+timeH = 0,timeL = 32946862
+timeH = 0,timeL = 33397620
+sat5 = 81055 1177 6744 -750
+ch3 satid=5,max_freq = -750,max_mean = 6744,max_phase = 1177,max_value = 81055,acq ok1!
+acq ok1 timeH = 0,timeL = 32496125,freq_stage = 3
+timeH = 0,timeL = 33866946
+timeH = 0,timeL = 34318322
+timeH = 0,timeL = 34769061
+timeH = 0,timeL = 35219808
+timeH = 0,timeL = 35670556
+sat6 = 16385 1338 6830 3750
+timeH = 0,timeL = 36139882
+timeH = 0,timeL = 36591258
+timeH = 0,timeL = 37042025
+timeH = 0,timeL = 37492744
+timeH = 0,timeL = 37943520
+sat7 = 17713 221 6629 5000
+timeH = 0,timeL = 38412838
+---00000001--- Acq_st=3 2019-5-20 12:33:7 
+[00]  G02  1 17  -1407.6 2046002.4  0.1  0.0  1  0         0
+[01]  G04  1 25   1227.9 2045999.6  0.1  0.0  1  0         0
+[02]  G05  1 25  -1241.7 2046003.0 -0.0  0.0  1  0         0
+[03]  G06  1 19    746.1 2046001.7 -0.0  0.0  1  0         0
+timeH = 0,timeL = 38864214
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+timeH = 0,timeL = 39314998
+timeH = 0,timeL = 39765737
+timeH = 0,timeL = 40216474
+sat8 = 84424 480 6771 -2250
+ch4 satid=8,max_freq = -2250,max_mean = 6771,max_phase = 480,max_value = 84424,acq ok1!
+acq ok1 timeH = 0,timeL = 39765737,freq_stage = 4
+timeH = 0,timeL = 40685802
+timeH = 0,timeL = 41137169
+timeH = 0,timeL = 41587916
+timeH = 0,timeL = 42038662
+timeH = 0,timeL = 42489429
+sat9 = 17849 375 6878 3000
+timeH = 0,timeL = 42958738
+timeH = 0,timeL = 43410105
+timeH = 0,timeL = 43860870
+timeH = 0,timeL = 44311618
+timeH = 0,timeL = 44762374
+sat10 = 17081 1266 6800 4750
+timeH = 0,timeL = 45231684
+timeH = 0,timeL = 45683069
+timeH = 0,timeL = 46133816
+timeH = 0,timeL = 46584573
+timeH = 0,timeL = 47035329
+sat11 = 68119 997 6754 -1750
+ch5 satid=11,max_freq = -1750,max_mean = 6754,max_phase = 997,max_value = 68119,acq ok1!
+acq ok1 timeH = 0,timeL = 46584573,freq_stage = 4
+timeH = 0,timeL = 47504648
+timeH = 0,timeL = 47956033
+timeH = 0,timeL = 48406770
+timeH = 0,timeL = 48857518
+timeH = 0,timeL = 49308274
+sat12 = 16196 1849 6769 -1000
+timeH = 0,timeL = 49777584
+timeH = 0,timeL = 50228960
+timeH = 0,timeL = 50679716
+timeH = 0,timeL = 51130473
+timeH = 0,timeL = 51581229
+sat13 = 18389 709 6918 2500
+timeH = 0,timeL = 52050529
+timeH = 0,timeL = 52501905
+timeH = 0,timeL = 52952662
+timeH = 0,timeL = 53403409
+timeH = 0,timeL = 53854165
+sat14 = 17429 1157 6843 2500
+timeH = 0,timeL = 54323484
+timeH = 0,timeL = 54774860
+timeH = 0,timeL = 55225616
+timeH = 0,timeL = 55676373
+timeH = 0,timeL = 56127120
+sat15 = 16160 856 6683 4250
+timeH = 0,timeL = 56596429
+timeH = 0,timeL = 57047805
+timeH = 0,timeL = 57498562
+timeH = 0,timeL = 57949309
+---00000002--- Acq_st=3 2019-5-20 12:33:8 
+[00]  G02  7 27  -1416.0 2046001.8  0.3  0.0 10  0        15
+[01]  G04  7 22   1234.7 2045998.3  0.3  0.0 20  0        18
+[02]  G05  7 16  -1244.8 2046001.6  0.3  0.0 20  0         0
+[03]  G06  1 30    758.9 2045998.9  0.1  0.0  1  0         1
+[04]  G09  1 28   2252.4 2045997.5 -0.0  0.0  1  0         0
+[05]  G12  1 25   1740.2 2045999.3  0.2  0.0  1  0         0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,1,1,03,02,00,000,27,04,00,000,22,05,00,000,16*4B
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+timeH = 0,timeL = 58400065
+sat16 = 17204 1735 6741 -750
+timeH = 0,timeL = 58869393
+timeH = 0,timeL = 59320769
+timeH = 0,timeL = 59771516
+timeH = 0,timeL = 60222264
+timeH = 0,timeL = 60673001
+sat17 = 16815 1263 6707 3000
+timeH = 0,timeL = 61142329
+timeH = 0,timeL = 61593705
+timeH = 0,timeL = 62044462
+timeH = 0,timeL = 62495200
+timeH = 0,timeL = 62945956
+sat18 = 17299 1518 6723 -1250
+timeH = 0,timeL = 63415284
+timeH = 0,timeL = 63866650
+timeH = 0,timeL = 64317416
+timeH = 0,timeL = 64768173
+timeH = 0,timeL = 65218920
+sat19 = 16734 2017 6789 250
+timeH = 0,timeL = 65688220
+timeH = 0,timeL = 66139614
+timeH = 0,timeL = 66590362
+timeH = 0,timeL = 67041109
+timeH = 0,timeL = 67491856
+sat20 = 17095 152 6879 750
+timeH = 0,timeL = 67961174
+timeH = 0,timeL = 68412560
+timeH = 0,timeL = 68863306
+timeH = 0,timeL = 69314054
+timeH = 0,timeL = 69764820
+sat21 = 17330 1720 6664 4000
+timeH = 0,timeL = 70234129
+timeH = 0,timeL = 70685505
+timeH = 0,timeL = 71136252
+timeH = 0,timeL = 71587000
+timeH = 0,timeL = 72037746
+sat22 = 18274 532 6768 -1750
+timeH = 0,timeL = 72507074
+timeH = 0,timeL = 72958450
+timeH = 0,timeL = 73409198
+timeH = 0,timeL = 73859954
+timeH = 0,timeL = 74310720
+sat23 = 16660 1750 6812 2500
+timeH = 0,timeL = 74780020
+timeH = 0,timeL = 75231386
+timeH = 0,timeL = 75682142
+timeH = 0,timeL = 76132900
+timeH = 0,timeL = 76583646
+sat24 = 109123 1263 6714 -250
+ch6 satid=24,max_freq = -250,max_mean = 6714,max_phase = 1263,max_value = 109123,acq ok1!
+acq ok1 timeH = 0,timeL = 75682142,freq_stage = 3
+timeH = 0,timeL = 77052984
+---00000003--- Acq_st=3 2019-5-20 12:33:9 
+[00]  G02  7 40  -1417.2 2046001.8  1.0  1.0  5  0        17
+[01]  G04  7 41   1233.9 2045998.4  0.9  1.0  5  0        15
+[02]  G05  7 47  -1246.0 2046001.6  1.0  1.0  5  0        18
+[03]  G06  7 38    757.4 2045998.9  1.0  1.0  5  0         1
+[04]  G09  7 30   2240.9 2045996.9  0.5  1.0  5  0         6
+[05]  G12  7 24   1733.8 2045997.6  0.3  0.0 20  0        11
+[06]  G25  1  7   5197.2 2046001.4  0.0  0.0  1  0         0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,06,02,00,000,40,04,00,000,41,05,00,000,47,06,00,000,38*70
+$GPGSV,2,2,06,09,00,000,30,12,00,000,24*70
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+timeH = 0,timeL = 77504360
+timeH = 0,timeL = 77955117
+timeH = 0,timeL = 78405873
+timeH = 0,timeL = 78856610
+sat25 = 17465 1597 6821 5000
+timeH = 0,timeL = 79325929
+timeH = 0,timeL = 79777286
+timeH = 0,timeL = 80228053
+timeH = 0,timeL = 80678800
+timeH = 0,timeL = 81129546
+sat26 = 17443 1616 6698 4750
+timeH = 0,timeL = 81598865
+timeH = 0,timeL = 82050232
+timeH = 0,timeL = 82500998
+timeH = 0,timeL = 82951764
+timeH = 0,timeL = 83402492
+sat27 = 20308 869 6726 -1500
+timeH = 0,timeL = 83871830
+timeH = 0,timeL = 84323186
+timeH = 0,timeL = 84773934
+timeH = 0,timeL = 85224700
+timeH = 0,timeL = 85675446
+sat28 = 401272 128 6852 3750
+ch5 satid=28,max_freq = 3750,max_mean = 6852,max_phase = 128,max_value = 401272,acq ok1!
+acq ok1 timeH = 0,timeL = 83871830,freq_stage = 1
+timeH = 0,timeL = 86144774
+timeH = 0,timeL = 86596160
+timeH = 0,timeL = 87046906
+timeH = 0,timeL = 87497654
+timeH = 0,timeL = 87948421
+sat29 = 17491 1304 6673 -2000
+timeH = 0,timeL = 88417720
+timeH = 0,timeL = 88869086
+timeH = 0,timeL = 89319853
+timeH = 0,timeL = 89770600
+timeH = 0,timeL = 90221346
+sat30 = 19951 1649 6797 750
+timeH = 0,timeL = 90690666
+timeH = 0,timeL = 91142042
+timeH = 0,timeL = 91592789
+timeH = 0,timeL = 92043554
+timeH = 0,timeL = 92494302
+sat31 = 17920 652 6794 -2750
+timeH = 0,timeL = 92982776
+timeH = 0,timeL = 93280730
+timeH = 0,timeL = 93578038
+timeH = 0,timeL = 93875346
+timeH = 0,timeL = 94172644
+timeH = 0,timeL = 94469938
+timeH = 0,timeL = 94767258
+timeH = 0,timeL = 95064557
+timeH = 0,timeL = 95361874
+timeH = 0,timeL = 95659168
+sat37 = 1405 1361 268 -1750
+ch16 satid=37,max_freq = -1750,max_mean = 268,max_phase = 1361,max_value = 1405,acq ok1!
+acq ok1 timeH = 0,timeL = 94767258,freq_stage = 4
+timeH = 0,timeL = 95975028
+timeH = 0,timeL = 96272973
+---00000004--- Acq_st=3 2019-5-20 12:33:10 
+[00]  G02  7 41  -1416.3 2046001.8  1.0  1.0  5  0        17
+[01]  G04  7 41   1235.1 2045998.3  1.0  1.0  5  0        15
+[02]  G05  7 46  -1244.8 2046001.6  1.0  1.0  5  0        18
+[03]  G06  7 41    758.3 2045998.9  1.0  1.0  5  0        16
+[04]  G09  7 39   2243.0 2045997.0  1.0  1.0  5  0        11
+[05]  G29  1 25  -3799.4 2046006.0 -0.1  0.0  1  0         8
+[06]  G25  1 27    384.0 2045999.8 -0.2  0.0  1  0        12
+[16]  B01  1 10   4225.1 4091995.3 -0.0  0.0  1  0         0
+timeH = 0,timeL = 96570286
+timeH = 0,timeL = 96867593
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,05,02,00,000,41,04,00,000,41,05,00,000,46,06,00,000,41*7D
+$GPGSV,2,2,05,09,00,000,39*4F
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+timeH = 0,timeL = 97164910
+timeH = 0,timeL = 97462222
+timeH = 0,timeL = 97759492
+timeH = 0,timeL = 98056814
+timeH = 0,timeL = 98354112
+timeH = 0,timeL = 98651429
+sat38 = 1837 2629 299 -1750
+ch17 satid=38,max_freq = -1750,max_mean = 299,max_phase = 2629,max_value = 1837,acq ok1!
+acq ok1 timeH = 0,timeL = 97759492,freq_stage = 4
+timeH = 0,timeL = 98967266
+timeH = 0,timeL = 99265221
+timeH = 0,timeL = 99562509
+timeH = 0,timeL = 99859822
+timeH = 0,timeL = 100157134
+timeH = 0,timeL = 100454454
+timeH = 0,timeL = 100751754
+timeH = 0,timeL = 101049046
+timeH = 0,timeL = 101346350
+timeH = 0,timeL = 101643662
+sat39 = 1743 181 286 -4750
+ch18 satid=39,max_freq = -4750,max_mean = 286,max_phase = 181,max_value = 1743,acq ok1!
+acq ok1 timeH = 0,timeL = 101643662,freq_stage = 5
+timeH = 0,timeL = 101959508
+timeH = 0,timeL = 102257458
+timeH = 0,timeL = 102554766
+timeH = 0,timeL = 102852064
+timeH = 0,timeL = 103149376
+timeH = 0,timeL = 103446684
+timeH = 0,timeL = 103743977
+timeH = 0,timeL = 104041285
+timeH = 0,timeL = 104338602
+timeH = 0,timeL = 104635886
+sat40 = 1519 3194 277 -4750
+ch19 satid=40,max_freq = -4750,max_mean = 277,max_phase = 3194,max_value = 1519,acq ok1!
+acq ok1 timeH = 0,timeL = 104635886,freq_stage = 5
+timeH = 0,timeL = 104951741
+timeH = 0,timeL = 105249696
+timeH = 0,timeL = 105546998
+timeH = 0,timeL = 105844306
+timeH = 0,timeL = 106141622
+timeH = 0,timeL = 106438908
+timeH = 0,timeL = 106736220
+timeH = 0,timeL = 107033518
+timeH = 0,timeL = 107330840
+timeH = 0,timeL = 107628133
+sat41 = 1816 1308 323 1250
+ch20 satid=41,max_freq = 1250,max_mean = 323,max_phase = 1308,max_value = 1816,acq ok1!
+acq ok1 timeH = 0,timeL = 105844306,freq_stage = 2
+timeH = 0,timeL = 107943984
+timeH = 0,timeL = 108241929
+timeH = 0,timeL = 108539241
+timeH = 0,timeL = 108836530
+timeH = 0,timeL = 109133846
+timeH = 0,timeL = 109431145
+timeH = 0,timeL = 109728453
+timeH = 0,timeL = 110025765
+timeH = 0,timeL = 110323077
+timeH = 0,timeL = 110620380
+sat42 = 1536 1562 273 1250
+ch21 satid=42,max_freq = 1250,max_mean = 273,max_phase = 1562,max_value = 1536,acq ok1!
+acq ok1 timeH = 0,timeL = 108836530,freq_stage = 2
+timeH = 0,timeL = 110936217
+timeH = 0,timeL = 111234176
+timeH = 0,timeL = 111531478
+timeH = 0,timeL = 111828790
+timeH = 0,timeL = 112126090
+timeH = 0,timeL = 112423397
+timeH = 0,timeL = 112720694
+timeH = 0,timeL = 113018012
+timeH = 0,timeL = 113315320
+timeH = 0,timeL = 113612613
+sat43 = 1384 738 256 -3750
+ch22 satid=43,max_freq = -3750,max_mean = 256,max_phase = 738,max_value = 1384,acq ok1!
+acq ok1 timeH = 0,timeL = 113315320,freq_stage = 5
+timeH = 0,timeL = 113928454
+timeH = 0,timeL = 114226409
+timeH = 0,timeL = 114523702
+timeH = 0,timeL = 114821014
+timeH = 0,timeL = 115118322
+timeH = 0,timeL = 115415626
+---00000005--- Acq_st=3 2019-5-20 12:33:11 
+[00]  G02  7 41  -1415.2 2046001.8  1.0  1.0  5  0        17
+[01]  G04  7 41   1236.3 2045998.4  1.0  1.0  5  0        15
+[02]  G05  7 46  -1243.2 2046001.6  1.0  1.0  5  0        18
+[03]  G06  7 41    759.2 2045998.9  1.0  1.0  5  0        16
+[04]  G09  7 40   2244.7 2045997.0  1.0  1.0  5  0        11
+[05]  G29  7 23  -3796.5 2046004.9  0.2  0.0 20  0        19
+[06]  G25  7 32    383.1 2045999.4  0.5  1.0  5  0        12
+[16]  B01  1 10   1788.1 4091995.4  0.1  0.0  1  0        46
+[17]  B02  1 10   1650.4 4091995.6 -0.1  0.0  1  0         0
+[18]  B03  1 10   4675.5 4091987.9 -0.0  0.0  1  0         0
+[19]  B04  1 10   4793.9 4091988.2  0.0  0.0  1  0         0
+[20]  B05  1 10  -1405.6 4092003.5  0.1  0.0  1  0         0
+[21]  B06  1  7  -1190.0 4092003.0 -0.0  0.0  1  0         0
+[22]  B07  1  7   3845.6 4091990.9 -0.0  0.0  1  0         0
+timeH = 0,timeL = 115712928
+timeH = 0,timeL = 116010258
+timeH = 0,timeL = 116307558
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,02,00,000,41,04,00,000,41,05,00,000,46,06,00,000,41*7F
+$GPGSV,2,2,07,09,00,000,40,29,00,000,23,25,00,000,32*4F
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        1
+timeH = 0,timeL = 116604865
+sat44 = 2790 2289 288 1250
+ch23 satid=44,max_freq = 1250,max_mean = 288,max_phase = 2289,max_value = 2790,acq ok1!
+acq ok1 timeH = 0,timeL = 114821014,freq_stage = 2
+timeH = 0,timeL = 116920697
+timeH = 0,timeL = 117218657
+timeH = 0,timeL = 117515950
+timeH = 0,timeL = 117813266
+timeH = 0,timeL = 118110546
+timeH = 0,timeL = 118407858
+timeH = 0,timeL = 118705185
+timeH = 0,timeL = 119002482
+timeH = 0,timeL = 119299790
+timeH = 0,timeL = 119597089
+sat45 = 1500 1073 276 4250
+ch24 satid=45,max_freq = 4250,max_mean = 276,max_phase = 1073,max_value = 1500,acq ok1!
+acq ok1 timeH = 0,timeL = 116920697,freq_stage = 1
+timeH = 0,timeL = 119912930
+timeH = 0,timeL = 120210890
+timeH = 0,timeL = 120508193
+timeH = 0,timeL = 120805494
+timeH = 0,timeL = 121102802
+timeH = 0,timeL = 121400092
+timeH = 0,timeL = 121697413
+timeH = 0,timeL = 121994716
+timeH = 0,timeL = 122292024
+timeH = 0,timeL = 122589322
+sat46 = 1413 1122 269 -2750
+ch25 satid=46,max_freq = -2750,max_mean = 269,max_phase = 1122,max_value = 1413,acq ok1!
+acq ok1 timeH = 0,timeL = 121994716,freq_stage = 4
+timeH = 0,timeL = 122905168
+timeH = 0,timeL = 123203128
+timeH = 0,timeL = 123500421
+timeH = 0,timeL = 123797714
+timeH = 0,timeL = 124095036
+timeH = 0,timeL = 124392348
+timeH = 0,timeL = 124689632
+timeH = 0,timeL = 124986949
+timeH = 0,timeL = 125284248
+timeH = 0,timeL = 125581546
+sat47 = 1456 1885 267 -750
+ch26 satid=47,max_freq = -750,max_mean = 267,max_phase = 1885,max_value = 1456,acq ok1!
+acq ok1 timeH = 0,timeL = 124392348,freq_stage = 3
+timeH = 0,timeL = 125897401
+timeH = 0,timeL = 126195356
+timeH = 0,timeL = 126492668
+timeH = 0,timeL = 126789957
+timeH = 0,timeL = 127087269
+timeH = 0,timeL = 127384566
+timeH = 0,timeL = 127681894
+timeH = 0,timeL = 127979192
+timeH = 0,timeL = 128276490
+timeH = 0,timeL = 128573806
+sat48 = 1836 2962 293 3250
+ch27 satid=48,max_freq = 3250,max_mean = 293,max_phase = 2962,max_value = 1836,acq ok1!
+acq ok1 timeH = 0,timeL = 126195356,freq_stage = 1
+timeH = 0,timeL = 128889642
+timeH = 0,timeL = 129187594
+timeH = 0,timeL = 129484897
+timeH = 0,timeL = 129782204
+timeH = 0,timeL = 130079498
+timeH = 0,timeL = 130376818
+timeH = 0,timeL = 130674126
+timeH = 0,timeL = 130971420
+timeH = 0,timeL = 131268718
+timeH = 0,timeL = 131566040
+sat49 = 1948 2521 333 3250
+ch28 satid=49,max_freq = 3250,max_mean = 333,max_phase = 2521,max_value = 1948,acq ok1!
+acq ok1 timeH = 0,timeL = 129187594,freq_stage = 1
+timeH = 0,timeL = 131881881
+timeH = 0,timeL = 132179822
+timeH = 0,timeL = 132477134
+timeH = 0,timeL = 132774433
+timeH = 0,timeL = 133071745
+timeH = 0,timeL = 133369048
+timeH = 0,timeL = 133666350
+timeH = 0,timeL = 133963662
+timeH = 0,timeL = 134260956
+timeH = 0,timeL = 134558278
+sat50 = 1840 2270 309 1250
+ch29 satid=50,max_freq = 1250,max_mean = 309,max_phase = 2270,max_value = 1840,acq ok1!
+acq ok1 timeH = 0,timeL = 132774433,freq_stage = 2
+---00000006--- Acq_st=3 2019-5-20 12:33:12 
+[00]  G02  7 41  -1415.4 2046001.8  1.0  1.0  5  0        17
+[01]  G04  7 41   1236.5 2045998.3  1.0  1.0  5  0        15
+[02]  G05  7 47  -1243.4 2046001.6  1.0  1.0  5  0        18
+[03]  G06  7 41    759.2 2045999.0  1.0  1.0  5  0        16
+[04]  G09  7 40   2245.0 2045997.0  1.0  1.0  5  0        11
+[05]  G29  7 48  -3796.7 2046004.9  1.0  1.0  5  0         6
+[06]  G25  7 41    383.0 2045999.5  1.0  1.0  5  0         5
+[16]  B01  1 10   1788.3 4091997.3 -0.1  0.0  1  0      1046
+[17]  B02  1 10   1666.0 4091996.3 -0.3  0.0  1  0       891
+[18]  B03  1 10   4715.9 4091988.9  0.3  0.0  1  0       735
+[19]  B04  1 10   4645.3 4091988.9 -0.1  0.0  1  0       578
+[20]  B05  1 10  -1350.2 4092003.4 -0.1  0.0  1  0       423
+[21]  B06  1  7   -856.5 4092003.8  0.1  0.0  1  0       267
+[22]  B07  1  7   3821.5 4091991.2 -0.1  0.0  1  0       111
+[23]  B08  1  7  -1338.0 4092002.7 -0.0  0.0  1  0         0
+[24]  B09  1  7  -4267.3 4092010.7 -0.0  0.0  1  0         0
+[25]  B10  1  7   2524.9 4091992.6 -0.0  0.0  1  0         0
+[26]  B11  1  7    748.3 4091999.0 -0.0  0.0  1  0         0
+[27]  B12  1  7  -3257.1 4092008.0  0.1  0.0  1  0         0
+[28]  B13  1  7  -3342.3 4092007.8  0.0  0.0  1  0         0
+[29]  B14  1  0  10836.7 4092003.0  0.0  0.0  1  0         0
+timeH = 0,timeL = 134874118
+timeH = 0,timeL = 135172088
+timeH = 0,timeL = 135469382
+timeH = 0,timeL = 135766689
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,02,00,000,41,04,00,000,41,05,00,000,47,06,00,000,41*7E
+$GPGSV,2,2,07,09,00,000,40,29,00,000,48,25,00,000,41*46
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+timeH = 0,timeL = 136063982
+timeH = 0,timeL = 136361300
+timeH = 0,timeL = 136658588
+timeH = 0,timeL = 136955896
+timeH = 0,timeL = 137253208
+timeH = 0,timeL = 137550502
+sat51 = 1734 856 287 -3750
+ch30 satid=51,max_freq = -3750,max_mean = 287,max_phase = 856,max_value = 1734,acq ok1!
+acq ok1 timeH = 0,timeL = 137253208,freq_stage = 5
+timeH = 0,timeL = 137866352
+timeH = 0,timeL = 138164298
+timeH = 0,timeL = 138461614
+timeH = 0,timeL = 138758926
+timeH = 0,timeL = 139056216
+timeH = 0,timeL = 139353528
+timeH = 0,timeL = 139650821
+timeH = 0,timeL = 139948124
+timeH = 0,timeL = 140245446
+timeH = 0,timeL = 140542758
+sat52 = 1603 1854 290 2250
+ch31 satid=52,max_freq = 2250,max_mean = 290,max_phase = 1854,max_value = 1603,acq ok1!
+acq ok1 timeH = 0,timeL = 138461614,freq_stage = 2
+---00000007--- Acq_st=6 2019-5-20 12:33:13 
+[00]  G02  7 41  -1415.5 2046001.8  1.0  1.0  5  0        17
+[01]  G04  7 41   1236.7 2045998.4  1.0  1.0  5  0        15
+[02]  G05  7 47  -1243.2 2046001.6  1.0  1.0  5  0        18
+[03]  G06  7 41    759.0 2045999.0  1.0  1.0  5  0        16
+[04]  G09  7 41   2244.7 2045997.0  1.0  1.0  5  0        11
+[05]  G29  7 48  -3796.8 2046004.9  1.0  1.0  5  0         6
+[06]  G25  7 42    383.3 2045999.5  1.0  1.0  5  0         5
+[16]  B01  1 10   1697.7 4091997.9  0.0  0.0  1  0      2046
+[17]  B02  1 10   1715.7 4091996.5  0.1  0.0  1  0      1891
+[18]  B03  1 10   4601.7 4091988.4 -0.1  0.0  1  0      1735
+[19]  B04  1 10   4727.7 4091987.0 -0.0  0.0  1  0      1578
+[20]  B05  1 10  -1339.4 4092003.9 -0.1  0.0  1  0      1423
+[21]  B06  1  7   -781.7 4092002.8  0.0  0.0  1  0      1267
+[22]  B07  1  7   3942.8 4091990.9 -0.1  0.0  1  0      1111
+[23]  B08  1  9  -1398.6 4092003.0 -0.0  0.0  1  0       955
+[24]  B09  1  7  -4446.9 4092011.1  0.0  0.0  1  0       800
+[25]  B10  1  7   2450.9 4091993.2 -0.1  0.0  1  0       644
+[26]  B11  1  7    599.1 4091998.8  0.1  0.0  1  0       488
+[27]  B12  1  7  -3309.4 4092007.9  0.1  0.0  1  0       332
+[28]  B13  1  7  -3318.0 4092008.1 -0.0  0.0  1  0       176
+[29]  B14  1  7  -1281.6 4092003.2 -0.1  0.0  1  0        20
+[30]  B15  1  7   3689.6 4091991.4  0.1  0.0  1  0         0
+[31]  B16  1  7  -2308.5 4092005.5  0.0  0.0  1  0         0
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,02,00,000,41,04,00,000,41,05,00,000,47,06,00,000,41*7E
+$GPGSV,2,2,07,09,00,000,41,29,00,000,48,25,00,000,42*44
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+timeH = 0,timeL = 159406594
+timeH = 0,timeL = 159704586
+timeH = 0,timeL = 160001876
+timeH = 0,timeL = 160299188
+timeH = 0,timeL = 160596477
+timeH = 0,timeL = 160893798
+timeH = 0,timeL = 161191092
+timeH = 0,timeL = 161488409
+timeH = 0,timeL = 161785693
+timeH = 0,timeL = 162083024
+sat53 = 1744 3843 282 -750
+ch16 satid=53,max_freq = -750,max_mean = 282,max_phase = 3843,max_value = 1744,acq ok1!
+acq ok1 timeH = 0,timeL = 160893798,freq_stage = 3
+timeH = 0,timeL = 162398846
+timeH = 0,timeL = 162696792
+timeH = 0,timeL = 162994109
+timeH = 0,timeL = 163291410
+timeH = 0,timeL = 163588718
+timeH = 0,timeL = 163886017
+timeH = 0,timeL = 164183334
+timeH = 0,timeL = 164480642
+timeH = 0,timeL = 164777934
+timeH = 0,timeL = 165075246
+sat54 = 1823 275 301 -4750
+ch17 satid=54,max_freq = -4750,max_mean = 301,max_phase = 275,max_value = 1823,acq ok1!
+acq ok1 timeH = 0,timeL = 165075246,freq_stage = 5
+timeH = 0,timeL = 165391084
+timeH = 0,timeL = 165689044
+timeH = 0,timeL = 165986342
+timeH = 0,timeL = 166283645
+timeH = 0,timeL = 166580952
+timeH = 0,timeL = 166878260
+timeH = 0,timeL = 167175548
+timeH = 0,timeL = 167472870
+timeH = 0,timeL = 167770178
+timeH = 0,timeL = 168067476
+sat55 = 1593 941 289 -2750
+ch18 satid=55,max_freq = -2750,max_mean = 289,max_phase = 941,max_value = 1593,acq ok1!
+acq ok1 timeH = 0,timeL = 167472870,freq_stage = 4
+timeH = 0,timeL = 168383322
+timeH = 0,timeL = 168681272
+timeH = 0,timeL = 168978584
+timeH = 0,timeL = 169275882
+timeH = 0,timeL = 169573190
+timeH = 0,timeL = 169870493
+timeH = 0,timeL = 170167810
+timeH = 0,timeL = 170465113
+timeH = 0,timeL = 170762420
+timeH = 0,timeL = 171059709
+sat56 = 1561 3393 288 1750
+ch19 satid=56,max_freq = 1750,max_mean = 288,max_phase = 3393,max_value = 1561,acq ok1!
+acq ok1 timeH = 0,timeL = 169275882,freq_stage = 2
+timeH = 0,timeL = 171375554
+timeH = 0,timeL = 171673518
+timeH = 0,timeL = 171970822
+timeH = 0,timeL = 172268120
+timeH = 0,timeL = 172565422
+timeH = 0,timeL = 172862740
+timeH = 0,timeL = 173160042
+---00000008--- Acq_st=3 2019-5-20 12:33:14 
+[00]  G02  7 41  -1414.4 2046001.9  1.0  1.0  5  0        17
+[01]  G04  7 41   1239.1 2045998.4  1.0  1.0  5  0        15
+[02]  G05  7 46  -1241.8 2046001.6  1.0  1.0  5  0        18
+[03]  G06  7 40    761.1 2045999.0  1.0  1.0  5  0        16
+[04]  G09  7 41   2246.2 2045997.1  1.0  1.0  5  0        11
+[05]  G29  7 48  -3795.7 2046004.9  1.0  1.0  5  0         6
+[06]  G25  7 42    384.5 2045999.5  1.0  1.0  5  0         5
+[16]  B17  1  7    868.9 4091999.2 -0.0  0.0  1  0      3046
+[17]  B18  1  7   4738.2 4091988.0  0.0  0.0  1  0      2891
+[18]  B19  1  7   2785.6 4091992.8 -0.0  0.0  1  0      2735
+[19]  B20  1  7  -1704.7 4092003.8  0.0  0.0  1  0      2578
+[21]  B06  1  9   -800.9 4092003.0 -0.1  0.0  1  0      2267
+[22]  B07  1  7   3844.2 4091991.3 -0.2  0.0  1  0      2111
+[23]  B08  1  7  -1266.2 4092002.9  0.0  0.0  1  0      1955
+[24]  B09  1  7  -4285.4 4092010.7 -0.1  0.0  1  0      1800
+[25]  B10  1  7   2579.6 4091993.5 -0.1  0.0  1  0      1644
+[26]  B11  1  7    727.8 4091999.2  0.1  0.0  1  0      1488
+[27]  B12  1 10  -3328.6 4092008.5 -0.0  0.0  1  0      1332
+[28]  B13  1  7  -3424.2 4092008.3 -0.1  0.0  1  0      1176
+[29]  B14  1  7  -1344.8 4092003.0  0.0  0.0  1  0      1020
+[30]  B15  1 11   3697.3 4091991.0  0.2  0.0  1  0       864
+[31]  B16  1  9  -2370.3 4092004.9 -0.1  0.0  1  0       709
+timeH = 0,timeL = 173457416
+timeH = 0,timeL = 173754672
+timeH = 0,timeL = 174051970
+sat57 = 6184 2277 255 -2250
+ch20 satid=57,max_freq = -2250,max_mean = 255,max_phase = 2277,max_value = 6184,acq ok1!
+acq ok1 timeH = 0,timeL = 173457416,freq_stage = 4
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,02,00,000,41,04,00,000,41,05,00,000,46,06,00,000,40*7E
+$GPGSV,2,2,07,09,00,000,41,29,00,000,48,25,00,000,42*44
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+timeH = 0,timeL = 174367797
+timeH = 0,timeL = 174665762
+timeH = 0,timeL = 174963069
+timeH = 0,timeL = 175260344
+timeH = 0,timeL = 175557665
+timeH = 0,timeL = 175854964
+timeH = 0,timeL = 176152270
+timeH = 0,timeL = 176449582
+timeH = 0,timeL = 176746877
+timeH = 0,timeL = 177044198
+sat58 = 1437 3759 257 250
+ch21 satid=58,max_freq = 250,max_mean = 257,max_phase = 3759,max_value = 1437,acq ok1!
+acq ok1 timeH = 0,timeL = 175557665,freq_stage = 3
+timeH = 0,timeL = 177360034
+timeH = 0,timeL = 177657981
+timeH = 0,timeL = 177955288
+timeH = 0,timeL = 178252582
+timeH = 0,timeL = 178549889
+timeH = 0,timeL = 178847220
+timeH = 0,timeL = 179144504
+timeH = 0,timeL = 179441812
+timeH = 0,timeL = 179739129
+timeH = 0,timeL = 180036426
+sat59 = 1719 3355 295 250
+ch22 satid=59,max_freq = 250,max_mean = 295,max_phase = 3355,max_value = 1719,acq ok1!
+acq ok1 timeH = 0,timeL = 178549889,freq_stage = 3
+timeH = 0,timeL = 180352268
+timeH = 0,timeL = 180650209
+timeH = 0,timeL = 180947517
+timeH = 0,timeL = 181244834
+timeH = 0,timeL = 181542132
+timeH = 0,timeL = 181839444
+timeH = 0,timeL = 182136733
+timeH = 0,timeL = 182434054
+timeH = 0,timeL = 182731362
+timeH = 0,timeL = 183028660
+sat60 = 1500 2008 278 4250
+ch23 satid=60,max_freq = 4250,max_mean = 278,max_phase = 2008,max_value = 1500,acq ok1!
+acq ok1 timeH = 0,timeL = 180352268,freq_stage = 1
+timeH = 0,timeL = 183344510
+timeH = 0,timeL = 183642452
+timeH = 0,timeL = 183939764
+timeH = 0,timeL = 184237057
+timeH = 0,timeL = 184534378
+timeH = 0,timeL = 184831682
+timeH = 0,timeL = 185128974
+timeH = 0,timeL = 185426282
+timeH = 0,timeL = 185723576
+timeH = 0,timeL = 186020902
+sat61 = 1316 2128 252 -2750
+ch24 satid=61,max_freq = -2750,max_mean = 252,max_phase = 2128,max_value = 1316,acq ok1!
+acq ok1 timeH = 0,timeL = 185426282,freq_stage = 4
+timeH = 0,timeL = 186336744
+timeH = 0,timeL = 186634698
+timeH = 0,timeL = 186931997
+timeH = 0,timeL = 187229304
+timeH = 0,timeL = 187526602
+timeH = 0,timeL = 187823910
+timeH = 0,timeL = 188121222
+timeH = 0,timeL = 188418510
+timeH = 0,timeL = 188715828
+timeH = 0,timeL = 189013126
+sat62 = 1483 2924 270 3250
+ch25 satid=62,max_freq = 3250,max_mean = 270,max_phase = 2924,max_value = 1483,acq ok1!
+acq ok1 timeH = 0,timeL = 186634698,freq_stage = 1
+timeH = 0,timeL = 189328981
+timeH = 0,timeL = 189626922
+timeH = 0,timeL = 189924221
+timeH = 0,timeL = 190221522
+timeH = 0,timeL = 190518850
+timeH = 0,timeL = 190816153
+timeH = 0,timeL = 191113460
+timeH = 0,timeL = 191410754
+timeH = 0,timeL = 191708066
+timeH = 0,timeL = 192005350
+sat63 = 1482 3462 283 2250
+ch26 satid=63,max_freq = 2250,max_mean = 283,max_phase = 3462,max_value = 1482,acq ok1!
+acq ok1 timeH = 0,timeL = 189924221,freq_stage = 2
+timeH = 0,timeL = 192321218
+---00000009--- Acq_st=3 2019-5-20 12:33:15 
+[00]  G02  f 41  -1413.6 2046001.8  1.0  1.0  5  0        17
+[01]  G04  f 41   1239.7 2045998.4  1.0  1.0  5  0        15
+[02]  G05  f 46  -1240.8 2046001.6  1.0  1.0  5  0        18
+[03]  G06  f 41    761.7 2045999.0  1.0  1.0  5  0        16
+[04]  G09  f 41   2246.9 2045997.1  1.0  1.0  5  0        11
+[05]  G29  f 48  -3794.5 2046004.9  1.0  1.0  5  0         6
+[06]  G25  f 42    385.8 2045999.5  1.0  1.0  5  0         5
+[16]  B17  1  7    642.8 4091999.0 -0.1  0.0  1  0       587
+[17]  B18  1  7   4701.7 4091988.1 -0.0  0.0  1  0       431
+[18]  B19  1  8   2692.7 4091993.0  0.1  0.0  1  0       275
+[19]  B20  1  7  -1827.7 4092003.8 -0.1  0.0  1  0       120
+[20]  B21  1  7   2348.4 4091994.9  0.0  0.0  1  0      2423
+[21]  B22  1  7   -274.2 4091999.9  0.0  0.0  1  0      3267
+[22]  B23  1  7   -297.4 4092000.1  0.1  0.0  1  0      3111
+[23]  B24  1  7  -4203.2 4092010.9  0.1  0.0  1  0      2955
+[24]  B25  1  7   2745.8 4091992.9  0.0  0.0  1  0      2800
+[25]  B26  1  7  -3219.4 4092008.0 -0.0  0.0  1  0      2644
+[26]  B27  1  7   -915.4 4092005.0  0.0  0.0  1  0      2488
+[28]  B13  1  8  -3357.0 4092007.9  0.2  0.0  1  0      2176
+[29]  B14  1  7  -1307.5 4092002.6  0.2  0.0  1  0      2020
+[30]  B15  1  8   3717.8 4091991.2  0.1  0.0  1  0      1864
+[31]  B16  1  7  -2503.5 4092004.9 -0.1  0.0  1  0      1709
+timeH = 0,timeL = 192619170
+timeH = 0,timeL = 192916496
+timeH = 0,timeL = 193213785
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,02,00,000,41,04,00,000,41,05,00,000,46,06,00,000,41*7F
+$GPGSV,2,2,07,09,00,000,41,29,00,000,48,25,00,000,42*44
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+timeH = 0,timeL = 193511082
+timeH = 0,timeL = 193808404
+timeH = 0,timeL = 194105684
+timeH = 0,timeL = 194402996
+timeH = 0,timeL = 194700304
+timeH = 0,timeL = 194997597
+sat64 = 1996 1984 312 -4750
+ch27 satid=64,max_freq = -4750,max_mean = 312,max_phase = 1984,max_value = 1996,acq ok1!
+acq ok1 timeH = 0,timeL = 194997597,freq_stage = 5
+timeH = 0,timeL = 195313462
+timeH = 0,timeL = 195611398
+timeH = 0,timeL = 195908710
+timeH = 0,timeL = 196206004
+timeH = 0,timeL = 196503316
+timeH = 0,timeL = 196800614
+timeH = 0,timeL = 197097926
+timeH = 0,timeL = 197395238
+timeH = 0,timeL = 197692532
+timeH = 0,timeL = 197989844
+sat65 = 1593 2789 299 -3750
+ch28 satid=65,max_freq = -3750,max_mean = 299,max_phase = 2789,max_value = 1593,acq ok1!
+acq ok1 timeH = 0,timeL = 197692532,freq_stage = 5
+timeH = 0,timeL = 198305694
+timeH = 0,timeL = 198603636
+timeH = 0,timeL = 198900938
+timeH = 0,timeL = 199198256
+timeH = 0,timeL = 199495544
+timeH = 0,timeL = 199792857
+timeH = 0,timeL = 200090169
+timeH = 0,timeL = 200387472
+timeH = 0,timeL = 200684778
+timeH = 0,timeL = 200982086
+sat66 = 1491 3280 281 -1750
+ch29 satid=66,max_freq = -1750,max_mean = 281,max_phase = 3280,max_value = 1491,acq ok1!
+acq ok1 timeH = 0,timeL = 200090169,freq_stage = 4
+timeH = 0,timeL = 201297937
+timeH = 0,timeL = 201595874
+timeH = 0,timeL = 201893181
+timeH = 0,timeL = 202190484
+timeH = 0,timeL = 202487796
+timeH = 0,timeL = 202785098
+timeH = 0,timeL = 203082406
+timeH = 0,timeL = 203379700
+timeH = 0,timeL = 203677002
+timeH = 0,timeL = 203974310
+sat67 = 1567 1610 273 4250
+ch30 satid=67,max_freq = 4250,max_mean = 273,max_phase = 1610,max_value = 1567,acq ok1!
+acq ok1 timeH = 0,timeL = 201297937,freq_stage = 1
+timeH = 0,timeL = 204290170
+timeH = 0,timeL = 204588116
+timeH = 0,timeL = 204885418
+timeH = 0,timeL = 205182722
+timeH = 0,timeL = 205480025
+timeH = 0,timeL = 205777326
+timeH = 0,timeL = 206074634
+timeH = 0,timeL = 206371942
+timeH = 0,timeL = 206669254
+timeH = 0,timeL = 206966558
+sat68 = 1678 3970 304 -1750
+ch31 satid=68,max_freq = -1750,max_mean = 304,max_phase = 3970,max_value = 1678,acq ok1!
+acq ok1 timeH = 0,timeL = 206074634,freq_stage = 4
+---00000010--- Acq_st=7 2019-5-20 12:33:16 
+[00]  G02  f 42  -1410.8 2046001.9  1.0  1.0  5  0 131612077
+[01]  G04  f 41   1243.4 2045998.4  1.0  1.0  5  0 131612075
+[02]  G05  f 46  -1238.0 2046001.6  1.0  1.0  5  0 131612078
+[03]  G06  f 41    764.8 2045999.0  1.0  1.0  5  0 131612076
+[04]  G09  f 41   2250.0 2045997.1  1.0  1.0  5  0 131612071
+[05]  G29  f 47  -3791.9 2046004.9  1.0  1.0  5  0 131612066
+[06]  G25  f 42    388.6 2045999.5  1.0  1.0  5  0 131612065
+[16]  B17  1  7    931.5 4091999.3  0.1  0.0  1  0      1587
+[17]  B18  1  7   4725.8 4091988.0  0.0  0.0  1  0      1431
+[18]  B19  1 10   2754.4 4091992.8 -0.1  0.0  1  0      1275
+[19]  B20  1  7  -1792.9 4092004.4 -0.0  0.0  1  0      1120
+[20]  B21  1  7   2380.1 4091995.0  0.0  0.0  1  0       963
+[21]  B22  1  8   -274.0 4092000.3 -0.0  0.0  1  0       807
+[22]  B23  1  7   -330.7 4092000.4 -0.1  0.0  1  0       652
+[23]  B24  1  7  -4392.4 4092011.5  0.1  0.0  1  0       496
+[24]  B25  1  7   2621.9 4091993.0  0.2  0.0  1  0       340
+[25]  B26  1  7  -3236.1 4092007.6 -0.0  0.0  1  0       185
+[26]  B27  1  7  -2069.7 4092004.6  0.2  0.0  1  0        28
+[27]  B28  1  7   4842.7 4091987.9 -0.0  0.0  1  0      2332
+[28]  B29  1  7   3795.1 4091990.6  0.1  0.0  1  0      3176
+[29]  B30  1  7   1623.5 4091996.2 -0.0  0.0  1  0      3020
+[30]  B31  1  7  -4146.0 4092010.8  0.1  0.0  1  0      2864
+[31]  B32  1  7   1763.9 4091995.9  0.1  0.0  1  0      2709
+timeH = 0,timeL = 211828286
+timeH = 0,timeL = 212279718
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,02,00,000,42,04,00,000,41,05,00,000,46,06,00,000,41*7C
+$GPGSV,2,2,07,09,00,000,41,29,00,000,47,25,00,000,42*4B
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+timeH = 0,timeL = 212730448
+timeH = 0,timeL = 213181194
+timeH = 0,timeL = 213631942
+sat0 = 16440 741 6691 -4000
+timeH = 0,timeL = 214101222
+timeH = 0,timeL = 214552626
+timeH = 0,timeL = 215003374
+timeH = 0,timeL = 215454140
+timeH = 0,timeL = 215904878
+sat2 = 18670 164 6775 750
+timeH = 0,timeL = 216374168
+timeH = 0,timeL = 216825573
+timeH = 0,timeL = 217276329
+timeH = 0,timeL = 217727076
+timeH = 0,timeL = 218177833
+sat6 = 17574 884 6837 -2250
+timeH = 0,timeL = 218647114
+timeH = 0,timeL = 219098537
+timeH = 0,timeL = 219549284
+timeH = 0,timeL = 220000022
+timeH = 0,timeL = 220450769
+sat7 = 16934 667 6672 2750
+timeH = 0,timeL = 220920069
+timeH = 0,timeL = 221371473
+timeH = 0,timeL = 221822229
+timeH = 0,timeL = 222272966
+timeH = 0,timeL = 222723742
+sat9 = 17793 2000 6872 -3000
+timeH = 0,timeL = 223193022
+timeH = 0,timeL = 223644418
+timeH = 0,timeL = 224095184
+timeH = 0,timeL = 224545930
+timeH = 0,timeL = 224996688
+sat10 = 16190 1016 6766 4250
+timeH = 0,timeL = 225465969
+timeH = 0,timeL = 225917390
+timeH = 0,timeL = 226368129
+timeH = 0,timeL = 226818877
+timeH = 0,timeL = 227269633
+sat11 = 91144 502 6794 -1750
+ch7 satid=11,max_freq = -1750,max_mean = 6794,max_phase = 502,max_value = 91144,acq ok1!
+acq ok1 timeH = 0,timeL = 226818877,freq_stage = 4
+timeH = 0,timeL = 227738933
+timeH = 0,timeL = 228190326
+timeH = 0,timeL = 228641074
+timeH = 0,timeL = 229091841
+timeH = 0,timeL = 229542588
+sat12 = 16536 561 6759 -1000
+timeH = 0,timeL = 230011869
+timeH = 0,timeL = 230463262
+---00000011--- Acq_st=3 2019-5-20 12:33:17 
+[00]  G02  f 43  -1409.3 2046001.8  1.0  1.0  5  0 131613077
+[01]  G04  f 41   1245.0 2045998.4  1.0  1.0  5  0 131613075
+[02]  G05  f 46  -1236.0 2046001.6  1.0  1.0  5  0 131613078
+[03]  G06  f 41    766.4 2045999.0  1.0  1.0  5  0 131613076
+[04]  G09  f 41   2252.4 2045997.0  1.0  1.0  5  0 131613071
+[05]  G29  f 47  -3790.5 2046004.9  1.0  1.0  5  0 131613066
+[06]  G25  f 42    390.7 2045999.5  1.0  1.0  5  0 131613065
+[07]  G12  1 16   1757.1 2045999.8  0.0  0.0  1  0         0
+[18]  B19  1  7   2996.1 4091992.9 -0.1  0.0  1  0      2275
+[19]  B20  1  7  -1781.8 4092004.0 -0.0  0.0  1  0      2120
+[20]  B21  1  7   2457.2 4091994.7 -0.2  0.0  1  0      1963
+[21]  B22  1  7   -272.9 4092000.1  0.0  0.0  1  0      1807
+[22]  B23  1  7   -337.8 4092000.1  0.2  0.0  1  0      1652
+[23]  B24  1  7  -4300.2 4092010.9 -0.0  0.0  1  0      1496
+[24]  B25  1 12   2851.5 4091992.7 -0.1  0.0  1  0      1340
+[25]  B26  1  7  -3358.0 4092007.9  0.0  0.0  1  0      1185
+[26]  B27  1  7  -1836.8 4092004.9 -0.1  0.0  1  0      1028
+[27]  B28  1  7   4704.0 4091988.1  0.1  0.0  1  0       872
+[28]  B29  1  8   4071.9 4091991.2  0.1  0.0  1  0       717
+[29]  B30  1  7   1585.1 4091995.9 -0.2  0.0  1  0       561
+[30]  B31  1 11  -4410.7 4092011.3  0.2  0.0  1  0       405
+[31]  B32  1  7   1665.3 4091996.2  0.1  0.0  1  0       249
+timeH = 0,timeL = 230914020
+timeH = 0,timeL = 231364805
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,02,00,000,43,04,00,000,41,05,00,000,46,06,00,000,41*7D
+$GPGSV,2,2,07,09,00,000,41,29,00,000,47,25,00,000,42*4B
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+timeH = 0,timeL = 231815542
+sat13 = 18267 1867 6919 -1500
+timeH = 0,timeL = 232284822
+timeH = 0,timeL = 232736209
+timeH = 0,timeL = 233186965
+timeH = 0,timeL = 233637722
+timeH = 0,timeL = 234088478
+sat14 = 17511 375 6816 1250
+timeH = 0,timeL = 234557769
+timeH = 0,timeL = 235009182
+timeH = 0,timeL = 235459920
+timeH = 0,timeL = 235910666
+timeH = 0,timeL = 236361424
+sat15 = 16758 939 6702 4500
+timeH = 0,timeL = 236830705
+timeH = 0,timeL = 237282118
+timeH = 0,timeL = 237732865
+timeH = 0,timeL = 238183613
+timeH = 0,timeL = 238634378
+sat16 = 16222 908 6737 -3000
+timeH = 0,timeL = 239103658
+timeH = 0,timeL = 239555064
+timeH = 0,timeL = 240005810
+timeH = 0,timeL = 240456577
+timeH = 0,timeL = 240907324
+sat17 = 15901 1852 6712 3500
+timeH = 0,timeL = 241376605
+timeH = 0,timeL = 241828018
+timeH = 0,timeL = 242278766
+timeH = 0,timeL = 242729522
+timeH = 0,timeL = 243180269
+sat18 = 18056 874 6792 0
+timeH = 0,timeL = 243649550
+timeH = 0,timeL = 244100964
+timeH = 0,timeL = 244551710
+timeH = 0,timeL = 245002466
+timeH = 0,timeL = 245453205
+sat19 = 15523 1090 6731 1250
+timeH = 0,timeL = 245922505
+timeH = 0,timeL = 246373900
+timeH = 0,timeL = 246824656
+timeH = 0,timeL = 247275413
+timeH = 0,timeL = 247726169
+sat20 = 19324 2027 6851 1000
+timeH = 0,timeL = 248195460
+timeH = 0,timeL = 248646845
+timeH = 0,timeL = 249097592
+timeH = 0,timeL = 249548358
+---00000012--- Acq_st=3 2019-5-20 12:33:18 
+[00]  G02  f 43  -1408.4 2046001.8  1.0  1.0  5  0 131614077
+[01]  G04  f 41   1246.1 2045998.4  1.0  1.0  5  0 131614075
+[02]  G05  f 46  -1235.0 2046001.6  1.0  1.0  5  0 131614078
+[03]  G06  f 41    767.3 2045999.1  1.0  1.0  5  0 131614076
+[04]  G09  f 41   2253.0 2045997.1  1.0  1.0  5  0 131614071
+[05]  G29  f 47  -3789.4 2046004.9  1.0  1.0  5  0 131614066
+[06]  G25  f 42    391.9 2045999.5  1.0  1.0  5  0 131614065
+[25]  B26  1  7  -3331.0 4092008.0 -0.0  0.0  1  0      2185
+[26]  B27  1  7  -1855.4 4092005.4 -0.0  0.0  1  0      2028
+[27]  B28  1  7   4680.5 4091988.1  0.0  0.0  1  0      1872
+[28]  B29  1  7   4205.3 4091991.3  0.0  0.0  1  0      1717
+[29]  B30  1  7   1689.5 4091996.7 -0.0  0.0  1  0      1561
+[30]  B31  1  7  -4491.1 4092010.9  0.2  0.0  1  0      1405
+[31]  B32  1 11   1705.8 4091996.5  0.1  0.0  1  0      1249
+timeH = 0,timeL = 249999124
+sat21 = 15229 1380 6634 -4500
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,02,00,000,43,04,00,000,41,05,00,000,46,06,00,000,41*7D
+$GPGSV,2,2,07,09,00,000,41,29,00,000,47,25,00,000,42*4B
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+timeH = 0,timeL = 250468414
+timeH = 0,timeL = 250919818
+timeH = 0,timeL = 251370556
+timeH = 0,timeL = 251821313
+timeH = 0,timeL = 252272060
+sat22 = 17644 1715 6775 0
+timeH = 0,timeL = 252741360
+timeH = 0,timeL = 253192754
+timeH = 0,timeL = 253643502
+timeH = 0,timeL = 254094249
+timeH = 0,timeL = 254544996
+sat23 = 16925 735 6858 3750
+timeH = 0,timeL = 255014305
+timeH = 0,timeL = 255465700
+timeH = 0,timeL = 255916456
+timeH = 0,timeL = 256367204
+timeH = 0,timeL = 256817950
+sat25 = 16213 1070 6807 4500
+timeH = 0,timeL = 257287250
+timeH = 0,timeL = 257738654
+timeH = 0,timeL = 258189410
+timeH = 0,timeL = 258640158
+timeH = 0,timeL = 259090906
+sat26 = 16946 635 6752 250
+timeH = 0,timeL = 259560196
+timeH = 0,timeL = 260011590
+timeH = 0,timeL = 260462346
+timeH = 0,timeL = 260913104
+timeH = 0,timeL = 261363850
+sat27 = 16437 1330 6686 -3000
+timeH = 0,timeL = 261833150
+timeH = 0,timeL = 262284545
+timeH = 0,timeL = 262735302
+timeH = 0,timeL = 263186040
+timeH = 0,timeL = 263636796
+sat29 = 18167 1696 6698 -3500
+timeH = 0,timeL = 264106096
+timeH = 0,timeL = 264557490
+timeH = 0,timeL = 265008257
+timeH = 0,timeL = 265459004
+timeH = 0,timeL = 265909742
+sat30 = 17018 534 6705 3750
+timeH = 0,timeL = 266379050
+timeH = 0,timeL = 266830436
+timeH = 0,timeL = 267281202
+timeH = 0,timeL = 267731940
+timeH = 0,timeL = 268182686
+sat31 = 17910 406 6734 -2250
+timeH = 0,timeL = 268671152
+timeH = 0,timeL = 268969134
+---00000013--- Acq_st=3 2019-5-20 12:33:19 
+[00]  G02  f 43  -1407.7 2046001.8  1.0  1.0  5  0 131615077
+[01]  G04  f 42   1247.1 2045998.4  1.0  1.0  5  0 131615075
+[02]  G05  f 46  -1234.1 2046001.6  1.0  1.0  5  0 131615078
+[03]  G06  f 40    768.1 2045999.0  1.0  1.0  5  0 131615076
+[04]  G09  f 40   2254.3 2045997.1  1.0  0.9  5  0 131615071
+[05]  G29  f 47  -3788.7 2046004.9  1.0  1.0  5  0 131615066
+[06]  G25  f 42    392.8 2045999.5  1.0  1.0  5  0 131615065
+[31]  B32  1  7   1673.5 4091995.7 -0.1  0.0  1  0      2249
+timeH = 0,timeL = 269266424
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,02,00,000,43,04,00,000,42,05,00,000,46,06,00,000,40*7F
+$GPGSV,2,2,07,09,00,000,40,29,00,000,47,25,00,000,42*4A
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        1
+timeH = 0,timeL = 269563746
+timeH = 0,timeL = 269861062
+timeH = 0,timeL = 270158350
+timeH = 0,timeL = 270455658
+timeH = 0,timeL = 270752970
+timeH = 0,timeL = 271050250
+timeH = 0,timeL = 271347562
+sat37 = 1649 643 268 3250
+ch16 satid=37,max_freq = 3250,max_mean = 268,max_phase = 643,max_value = 1649,acq ok1!
+acq ok1 timeH = 0,timeL = 268969134,freq_stage = 1
+timeH = 0,timeL = 271663404
+timeH = 0,timeL = 271961358
+timeH = 0,timeL = 272258670
+timeH = 0,timeL = 272555984
+timeH = 0,timeL = 272853282
+timeH = 0,timeL = 273150594
+timeH = 0,timeL = 273447886
+timeH = 0,timeL = 273745186
+timeH = 0,timeL = 274042498
+timeH = 0,timeL = 274339810
+sat38 = 1690 3870 296 -4750
+ch17 satid=38,max_freq = -4750,max_mean = 296,max_phase = 3870,max_value = 1690,acq ok1!
+acq ok1 timeH = 0,timeL = 274339810,freq_stage = 5
+timeH = 0,timeL = 274655646
+timeH = 0,timeL = 274953586
+timeH = 0,timeL = 275250900
+timeH = 0,timeL = 275548206
+timeH = 0,timeL = 275845524
+timeH = 0,timeL = 276142813
+timeH = 0,timeL = 276440125
+timeH = 0,timeL = 276737428
+timeH = 0,timeL = 277034730
+timeH = 0,timeL = 277332042
+sat39 = 1492 272 286 4250
+ch18 satid=39,max_freq = 4250,max_mean = 286,max_phase = 272,max_value = 1492,acq ok1!
+acq ok1 timeH = 0,timeL = 274655646,freq_stage = 1
+timeH = 0,timeL = 277647880
+timeH = 0,timeL = 277945821
+timeH = 0,timeL = 278243137
+timeH = 0,timeL = 278540450
+timeH = 0,timeL = 278837757
+timeH = 0,timeL = 279135060
+timeH = 0,timeL = 279432362
+timeH = 0,timeL = 279729680
+timeH = 0,timeL = 280026982
+timeH = 0,timeL = 280324276
+sat40 = 1464 1939 276 -4750
+ch19 satid=40,max_freq = -4750,max_mean = 276,max_phase = 1939,max_value = 1464,acq ok1!
+acq ok1 timeH = 0,timeL = 280324276,freq_stage = 5
+timeH = 0,timeL = 280640117
+timeH = 0,timeL = 280938082
+timeH = 0,timeL = 281235385
+timeH = 0,timeL = 281532688
+timeH = 0,timeL = 281829972
+timeH = 0,timeL = 282127302
+timeH = 0,timeL = 282424601
+timeH = 0,timeL = 282721894
+timeH = 0,timeL = 283019216
+timeH = 0,timeL = 283316528
+sat41 = 1821 1461 318 250
+ch20 satid=41,max_freq = 250,max_mean = 318,max_phase = 1461,max_value = 1821,acq ok1!
+acq ok1 timeH = 0,timeL = 281829972,freq_stage = 3
+timeH = 0,timeL = 283632360
+timeH = 0,timeL = 283930314
+timeH = 0,timeL = 284227626
+timeH = 0,timeL = 284524916
+timeH = 0,timeL = 284822238
+timeH = 0,timeL = 285119536
+timeH = 0,timeL = 285416853
+timeH = 0,timeL = 285714141
+timeH = 0,timeL = 286011454
+timeH = 0,timeL = 286308766
+sat42 = 1626 881 274 1250
+ch21 satid=42,max_freq = 1250,max_mean = 274,max_phase = 881,max_value = 1626,acq ok1!
+acq ok1 timeH = 0,timeL = 284524916,freq_stage = 2
+timeH = 0,timeL = 286624593
+timeH = 0,timeL = 286922557
+timeH = 0,timeL = 287219870
+timeH = 0,timeL = 287517154
+timeH = 0,timeL = 287814466
+timeH = 0,timeL = 288111758
+---00000014--- Acq_st=3 2019-5-20 12:33:20 
+[00]  G02  f 43  -1406.4 2046001.8  1.0  1.0  5  0 131616077
+[01]  G04  f 41   1248.9 2045998.4  1.0  1.0  5  0 131616075
+[02]  G05  f 46  -1232.9 2046001.6  1.0  1.0  5  0 131616078
+[03]  G06  f 41    769.2 2045999.0  1.0  1.0  5  0 131616076
+[04]  G09  f 41   2255.4 2045997.1  1.0  1.0  5  0 131616071
+[05]  G29  f 47  -3787.7 2046004.9  1.0  1.0  5  0 131616066
+[06]  G25  f 42    394.3 2045999.5  1.0  1.0  5  0 131616065
+[16]  B01  1 10  -3324.6 4092007.9 -0.1  0.0  1  0      2587
+[17]  B02  1 10   4714.5 4091988.7 -0.1  0.0  1  0      2431
+[18]  B03  1 10  -4240.0 4092011.2 -0.0  0.0  1  0      3275
+[19]  B04  1 10   4755.4 4091989.3  0.0  0.0  1  0      3120
+[20]  B05  1 10   -287.9 4092000.5 -0.1  0.0  1  0      2963
+[21]  B06  1  7  -1226.5 4092003.2 -0.0  0.0  1  0      2807
+timeH = 0,timeL = 288409076
+timeH = 0,timeL = 288706406
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,02,00,000,43,04,00,000,41,05,00,000,46,06,00,000,41*7D
+$GPGSV,2,2,07,09,00,000,41,29,00,000,47,25,00,000,42*4B
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+timeH = 0,timeL = 289003696
+timeH = 0,timeL = 289301018
+sat43 = 1344 1214 258 -750
+ch22 satid=43,max_freq = -750,max_mean = 258,max_phase = 1214,max_value = 1344,acq ok1!
+acq ok1 timeH = 0,timeL = 288111758,freq_stage = 3
+timeH = 0,timeL = 289616834
+timeH = 0,timeL = 289914790
+timeH = 0,timeL = 290212093
+timeH = 0,timeL = 290509410
+timeH = 0,timeL = 290806713
+timeH = 0,timeL = 291104016
+timeH = 0,timeL = 291401324
+timeH = 0,timeL = 291698617
+timeH = 0,timeL = 291995938
+timeH = 0,timeL = 292293232
+sat44 = 4210 353 290 250
+ch23 satid=44,max_freq = 250,max_mean = 290,max_phase = 353,max_value = 4210,acq ok1!
+acq ok1 timeH = 0,timeL = 290806713,freq_stage = 3
+timeH = 0,timeL = 292609073
+timeH = 0,timeL = 292907024
+timeH = 0,timeL = 293204326
+timeH = 0,timeL = 293501642
+timeH = 0,timeL = 293798932
+timeH = 0,timeL = 294096254
+timeH = 0,timeL = 294393552
+timeH = 0,timeL = 294690858
+timeH = 0,timeL = 294988172
+timeH = 0,timeL = 295285470
+sat45 = 1698 3903 277 3250
+ch24 satid=45,max_freq = 3250,max_mean = 277,max_phase = 3903,max_value = 1698,acq ok1!
+acq ok1 timeH = 0,timeL = 292907024,freq_stage = 1
+timeH = 0,timeL = 295601310
+timeH = 0,timeL = 295899266
+timeH = 0,timeL = 296196569
+timeH = 0,timeL = 296493881
+timeH = 0,timeL = 296791174
+timeH = 0,timeL = 297088492
+timeH = 0,timeL = 297385794
+timeH = 0,timeL = 297683102
+timeH = 0,timeL = 297980405
+timeH = 0,timeL = 298277689
+sat46 = 1393 2047 276 -4750
+ch25 satid=46,max_freq = -4750,max_mean = 276,max_phase = 2047,max_value = 1393,acq ok1!
+acq ok1 timeH = 0,timeL = 298277689,freq_stage = 5
+timeH = 0,timeL = 298593544
+timeH = 0,timeL = 298891498
+timeH = 0,timeL = 299188810
+timeH = 0,timeL = 299486124
+timeH = 0,timeL = 299783417
+timeH = 0,timeL = 300080714
+timeH = 0,timeL = 300378032
+timeH = 0,timeL = 300675334
+timeH = 0,timeL = 300972638
+timeH = 0,timeL = 301269945
+sat47 = 1643 3981 269 250
+ch26 satid=47,max_freq = 250,max_mean = 269,max_phase = 3981,max_value = 1643,acq ok1!
+acq ok1 timeH = 0,timeL = 299783417,freq_stage = 3
+timeH = 0,timeL = 301585782
+timeH = 0,timeL = 301883737
+timeH = 0,timeL = 302181049
+timeH = 0,timeL = 302478342
+timeH = 0,timeL = 302775660
+timeH = 0,timeL = 303072948
+timeH = 0,timeL = 303370270
+timeH = 0,timeL = 303667578
+timeH = 0,timeL = 303964880
+timeH = 0,timeL = 304262169
+sat48 = 1682 3206 294 -1750
+ch27 satid=48,max_freq = -1750,max_mean = 294,max_phase = 3206,max_value = 1682,acq ok1!
+acq ok1 timeH = 0,timeL = 303370270,freq_stage = 4
+timeH = 0,timeL = 304578020
+timeH = 0,timeL = 304875970
+timeH = 0,timeL = 305173282
+timeH = 0,timeL = 305470576
+timeH = 0,timeL = 305767893
+timeH = 0,timeL = 306065205
+timeH = 0,timeL = 306362494
+timeH = 0,timeL = 306659797
+timeH = 0,timeL = 306957109
+timeH = 0,timeL = 307254406
+sat49 = 1920 2314 325 4250
+ch28 satid=49,max_freq = 4250,max_mean = 325,max_phase = 2314,max_value = 1920,acq ok1!
+acq ok1 timeH = 0,timeL = 304578020,freq_stage = 1
+---00000015--- Acq_st=3 2019-5-20 12:33:21 
+[00]  G02  f 43  -1407.1 2046001.8  1.0  1.0  5  0 131617077
+[01]  G04  f 41   1248.6 2045998.4  1.0  1.0  5  0 131617075
+[02]  G05  f 46  -1233.7 2046001.6  1.0  1.0  5  0 131617078
+[03]  G06  f 41    768.1 2045999.0  1.0  1.0  5  0 131617076
+[04]  G09  f 41   2254.7 2045997.1  1.0  1.0  5  0 131617071
+[05]  G29  f 47  -3788.7 2046004.9  1.0  1.0  5  0 131617066
+[06]  G25  f 42    394.0 2045999.5  1.0  1.0  5  0 131617065
+[16]  B01  1 10  -3261.7 4092007.1  0.0  0.0  1  0       896
+[17]  B02  1 10   4675.9 4091988.5  0.1  0.0  1  0       741
+[18]  B03  1 10  -4305.2 4092012.2 -0.0  0.0  1  0       584
+[19]  B04  1 10   4678.7 4091987.6 -0.1  0.0  1  0       428
+[20]  B05  1 10   -259.2 4092000.7  0.0  0.0  1  0       273
+[21]  B06  1  7  -1203.4 4092002.9  0.1  0.0  1  0       117
+[22]  B07  1  7    645.9 4091999.0 -0.1  0.0  1  0      2652
+[23]  B08  1  7   -159.1 4092000.1  0.1  0.0  1  0      2496
+[24]  B09  1  7  -3094.7 4092008.3 -0.0  0.0  1  0      2340
+[25]  B10  1  7   4897.4 4091988.0 -0.0  0.0  1  0      3185
+[26]  B11  1  7   -353.8 4091999.8  0.0  0.0  1  0      3028
+[27]  B12  1  7   1724.6 4091996.2  0.0  0.0  1  0      2872
+[28]  B13  1  7   2591.9 4092011.0  0.0  0.0  1  0      2717
+timeH = 0,timeL = 307570253
+timeH = 0,timeL = 307868230
+timeH = 0,timeL = 308165534
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,02,00,000,43,04,00,000,41,05,00,000,46,06,00,000,41*7D
+$GPGSV,2,2,07,09,00,000,41,29,00,000,47,25,00,000,42*4B
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+timeH = 0,timeL = 308462832
+timeH = 0,timeL = 308760145
+timeH = 0,timeL = 309057446
+timeH = 0,timeL = 309354726
+timeH = 0,timeL = 309652038
+timeH = 0,timeL = 309949350
+timeH = 0,timeL = 310246658
+sat50 = 1702 4024 307 -250
+ch29 satid=50,max_freq = -250,max_mean = 307,max_phase = 4024,max_value = 1702,acq ok1!
+acq ok1 timeH = 0,timeL = 309057446,freq_stage = 3
+timeH = 0,timeL = 310562494
+timeH = 0,timeL = 310860454
+timeH = 0,timeL = 311157758
+timeH = 0,timeL = 311455061
+timeH = 0,timeL = 311752354
+timeH = 0,timeL = 312049670
+timeH = 0,timeL = 312346974
+timeH = 0,timeL = 312644282
+timeH = 0,timeL = 312941566
+timeH = 0,timeL = 313238892
+sat51 = 1558 826 289 -750
+ch30 satid=51,max_freq = -750,max_mean = 289,max_phase = 826,max_value = 1558,acq ok1!
+acq ok1 timeH = 0,timeL = 312049670,freq_stage = 3
+timeH = 0,timeL = 313554733
+timeH = 0,timeL = 313852682
+timeH = 0,timeL = 314149990
+timeH = 0,timeL = 314447302
+timeH = 0,timeL = 314744606
+timeH = 0,timeL = 315041894
+timeH = 0,timeL = 315339212
+timeH = 0,timeL = 315636518
+timeH = 0,timeL = 315933822
+timeH = 0,timeL = 316231125
+sat52 = 1643 550 292 -1750
+ch31 satid=52,max_freq = -1750,max_mean = 292,max_phase = 550,max_value = 1643,acq ok1!
+acq ok1 timeH = 0,timeL = 315339212,freq_stage = 4
+---00000016--- Acq_st=6 2019-5-20 12:33:22 
+[00]  G02  f 44  -1409.9 2046001.8  1.0  1.0  5  0 131618077
+[01]  G04  f 41   1246.4 2045998.4  1.0  1.0  5  0 131618075
+[02]  G05  f 46  -1236.0 2046001.6  1.0  1.0  5  0 131618078
+[03]  G06  f 40    765.7 2045999.0  1.0  1.0  5  0 131618076
+[04]  G09  f 41   2252.5 2045997.1  1.0  1.0  5  0 131618071
+[05]  G29  f 47  -3791.2 2046004.9  1.0  1.0  5  0 131618066
+[06]  G25  f 42    391.5 2045999.5  1.0  1.0  5  0 131618065
+[16]  B01  1 10  -3324.6 4092009.6  0.2  0.0  1  0      1896
+[17]  B02  1 10   4686.2 4091988.2 -0.2  0.0  1  0      1741
+[18]  B03  1 10  -4292.5 4092012.1  0.0  0.0  1  0      1584
+[19]  B04  1 10   4614.2 4091989.4 -0.0  0.0  1  0      1428
+[20]  B05  1 10   -323.4 4092000.8 -0.0  0.0  1  0      1273
+[21]  B06  1  7  -1342.4 4092003.2  0.1  0.0  1  0      1117
+[22]  B07  1  7    496.4 4091999.3  0.1  0.0  1  0       961
+[23]  B08  1  7    -31.8 4092000.4  0.0  0.0  1  0       805
+[24]  B09  1  7  -2800.6 4092007.8  0.1  0.0  1  0       649
+[25]  B10  1  7   5135.1 4091988.3  0.1  0.0  1  0       493
+[26]  B11  1  7   -664.8 4092000.0  0.0  0.0  1  0       337
+[27]  B12  1  7   1595.3 4091995.8 -0.0  0.0  1  0       182
+[28]  B13  1  7  -4317.9 4092010.8  0.0  0.0  1  0        26
+[29]  B14  1  7    227.8 4092000.2 -0.0  0.0  1  0      2561
+[30]  B15  1  7    796.5 4091998.9  0.0  0.0  1  0      2405
+[31]  B16  1  7   1740.1 4091996.5  0.0  0.0  1  0      3249
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,02,00,000,44,04,00,000,41,05,00,000,46,06,00,000,40*7B
+$GPGSV,2,2,07,09,00,000,41,29,00,000,47,25,00,000,42*4B
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+timeH = 0,timeL = 335075794
+timeH = 0,timeL = 335373782
+timeH = 0,timeL = 335671074
+timeH = 0,timeL = 335968382
+timeH = 0,timeL = 336265690
+timeH = 0,timeL = 336562989
+timeH = 0,timeL = 336860296
+timeH = 0,timeL = 337157608
+timeH = 0,timeL = 337454916
+timeH = 0,timeL = 337752209
+sat67 = 1658 427 273 4250
+ch16 satid=67,max_freq = 4250,max_mean = 273,max_phase = 427,max_value = 1658,acq ok1!
+acq ok1 timeH = 0,timeL = 335075794,freq_stage = 1
+timeH = 0,timeL = 338068050
+timeH = 0,timeL = 338366010
+timeH = 0,timeL = 338663308
+timeH = 0,timeL = 338960610
+timeH = 0,timeL = 339257918
+timeH = 0,timeL = 339555230
+timeH = 0,timeL = 339852529
+timeH = 0,timeL = 340149832
+timeH = 0,timeL = 340447149
+timeH = 0,timeL = 340744442
+sat68 = 1657 1151 306 2250
+ch17 satid=68,max_freq = 2250,max_mean = 306,max_phase = 1151,max_value = 1657,acq ok1!
+acq ok1 timeH = 0,timeL = 338663308,freq_stage = 2
+---00000017--- Acq_st=7 2019-5-20 12:33:23 
+[00]  G02  f 44  -1410.5 2046001.8  1.0  1.0  5  0 131619077
+[01]  G04  f 40   1246.1 2045998.4  1.0  1.0  5  0 131619075
+[02]  G05  f 46  -1236.4 2046001.6  1.0  1.0  5  0 131619078
+[03]  G06  f 40    765.7 2045999.0  1.0  1.0  5  0 131619076
+[04]  G09  f 41   2252.2 2045997.1  1.0  1.0  5  0 131619071
+[05]  G29  f 47  -3791.8 2046004.9  1.0  1.0  5  0 131619066
+[06]  G25  f 41    391.3 2045999.5  1.0  1.0  5  0 131619065
+[16]  B31  1  7  -4141.0 4092010.9  0.2  0.0  1  0      2896
+[17]  B32  1  7  -2225.5 4092005.1 -0.0  0.0  1  0      2741
+[20]  B05  1 10   -338.7 4092000.3  0.0  0.0  1  0      2273
+[21]  B06  1  7  -1465.5 4092003.3  0.1  0.0  1  0      2117
+[22]  B07  1  7    560.4 4091999.5  0.1  0.0  1  0      1961
+[23]  B08  1  7   -172.6 4091999.8  0.1  0.0  1  0      1805
+[24]  B09  1  7  -2775.2 4092007.9 -0.1  0.0  1  0      1649
+[25]  B10  1  7   5286.0 4091988.3  0.0  0.0  1  0      1493
+[26]  B11  1  7   -762.0 4092000.5 -0.1  0.0  1  0      1337
+[27]  B12  1  7   1652.2 4091995.9  0.1  0.0  1  0      1182
+[28]  B13  1  7  -4318.2 4092010.9  0.2  0.0  1  0      1026
+[29]  B14  1  7    215.6 4091999.9  0.0  0.0  1  0       870
+[30]  B15  1  8    842.9 4091998.8 -0.1  0.0  1  0       714
+[31]  B16  1  7   1703.3 4091995.7 -0.1  0.0  1  0       558
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,02,00,000,44,04,00,000,40,05,00,000,46,06,00,000,40*7A
+$GPGSV,2,2,07,09,00,000,41,29,00,000,47,25,00,000,41*48
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        1
+---00000018--- Acq_st=7 2019-5-20 12:33:24 
+[00]  G02  f 44  -1410.9 2046001.8  1.0  1.0  5  0 131620077
+[01]  G04  f 40   1245.7 2045998.4  1.0  1.0  5  0 131620075
+[02]  G05  f 46  -1236.7 2046001.6  1.0  1.0  5  0 131620078
+[03]  G06  f 40    765.1 2045999.0  1.0  1.0  5  0 131620076
+[04]  G09  f 41   2252.1 2045997.1  1.0  1.0  5  0 131620071
+[05]  G29  f 47  -3792.2 2046004.9  1.0  1.0  5  0 131620066
+[06]  G25  f 42    390.9 2045999.5  1.0  1.0  5  0 131620065
+[16]  B31  1  7  -3939.5 4092010.8  0.1  0.0  1  0       437
+[17]  B32  1 11  -2290.4 4092005.4  0.1  0.0  1  0       282
+[27]  B12  1  7   1697.7 4091996.5  0.1  0.0  1  0      2182
+[28]  B13  1  7  -4293.7 4092011.0 -0.0  0.0  1  0      2026
+[29]  B14  1  7     58.0 4091999.9 -0.0  0.0  1  0      1870
+[30]  B15  1  7    698.7 4091999.0  0.0  0.0  1  0      1714
+[31]  B16  1  7   1507.1 4091996.1  0.0  0.0  1  0      1558
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,02,00,000,44,04,00,000,40,05,00,000,46,06,00,000,40*7A
+$GPGSV,2,2,07,09,00,000,41,29,00,000,47,25,00,000,42*4B
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+---00000019--- Acq_st=7 2019-5-20 12:33:25 
+[00]  G02  f 43  -1410.8 2046001.8  1.0  1.0  5  0 131621077
+[01]  G04  f 39   1247.1 2045998.4  1.0  1.0  5  0 131621075
+[02]  G05  f 45  -1235.9 2046001.6  1.0  1.0  5  0 131621078
+[03]  G06  f 40    765.6 2045999.0  1.0  1.0  5  0 131621076
+[04]  G09  f 41   2252.6 2045997.1  1.0  1.0  5  0 131621071
+[05]  G29  f 47  -3791.6 2046004.9  1.0  1.0  5  0 131621066
+[06]  G25  f 42    391.7 2045999.5  1.0  1.0  5  0 131621065
+[16]  B31  1  8  -4137.6 4092011.5 -0.0  0.0  1  0      1437
+[17]  B32  1  7  -2344.3 4092005.1 -0.1  0.0  1  0      1282
+timeH = 0,timeL = 384361382
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,02,00,000,43,04,00,000,39,05,00,000,45,06,00,000,40*70
+$GPGSV,2,2,07,09,00,000,41,29,00,000,47,25,00,000,42*4B
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+timeH = 0,timeL = 384812805
+timeH = 0,timeL = 385263533
+timeH = 0,timeL = 385714290
+timeH = 0,timeL = 386165046
+sat0 = 16320 1858 6665 -3250
+timeH = 0,timeL = 386634318
+timeH = 0,timeL = 387085730
+timeH = 0,timeL = 387536488
+timeH = 0,timeL = 387987226
+timeH = 0,timeL = 388437973
+sat2 = 16485 1606 6772 3500
+timeH = 0,timeL = 388907273
+timeH = 0,timeL = 389358677
+timeH = 0,timeL = 389809424
+timeH = 0,timeL = 390260181
+timeH = 0,timeL = 390710928
+sat6 = 17744 1555 6824 -500
+timeH = 0,timeL = 391180226
+timeH = 0,timeL = 391631613
+timeH = 0,timeL = 392082388
+timeH = 0,timeL = 392533126
+timeH = 0,timeL = 392983882
+sat7 = 16244 1045 6642 -4000
+timeH = 0,timeL = 393453162
+timeH = 0,timeL = 393904566
+timeH = 0,timeL = 394355342
+timeH = 0,timeL = 394806081
+timeH = 0,timeL = 395256818
+sat9 = 16826 1383 6819 -4750
+timeH = 0,timeL = 395726109
+timeH = 0,timeL = 396177532
+timeH = 0,timeL = 396628269
+timeH = 0,timeL = 397079017
+timeH = 0,timeL = 397529782
+sat10 = 16324 1739 6714 1000
+timeH = 0,timeL = 397999062
+timeH = 0,timeL = 398450468
+timeH = 0,timeL = 398901214
+timeH = 0,timeL = 399351981
+timeH = 0,timeL = 399802728
+sat11 = 91158 224 6779 -1750
+ch7 satid=11,max_freq = -1750,max_mean = 6779,max_phase = 224,max_value = 91158,acq ok1!
+acq ok1 timeH = 0,timeL = 399351981,freq_stage = 4
+timeH = 0,timeL = 400272028
+timeH = 0,timeL = 400723422
+timeH = 0,timeL = 401174160
+timeH = 0,timeL = 401624934
+timeH = 0,timeL = 402075682
+sat12 = 17374 867 6756 1750
+timeH = 0,timeL = 402544964
+timeH = 0,timeL = 402996368
+---00000020--- Acq_st=3 2019-5-20 12:33:26 
+[00]  G02  f 43  -1411.1 2046001.9  1.0  1.0  5  0 131622077
+[01]  G04  f 40   1246.4 2045998.4  1.0  1.0  5  0 131622075
+[02]  G05  f 45  -1236.3 2046001.6  1.0  1.0  5  0 131622078
+[03]  G06  f 40    765.5 2045999.0  1.0  1.0  5  0 131622076
+[04]  G09  f 41   2252.1 2045997.0  1.0  1.0  5  0 131622071
+[05]  G29  f 47  -3792.3 2046004.9  1.0  1.0  5  0 131622066
+[06]  G25  f 42    391.6 2045999.5  1.0  1.0  5  0 131622065
+[07]  G12  1  7   1744.5 2045999.9 -0.0  0.0  1  0         4
+[17]  B32  1  7  -2292.5 4092004.8 -0.2  0.0  1  0      2282
+timeH = 0,timeL = 403447114
+$GNGGA,000000.000,,,,,0,00,,,M,,,,0000*2B
+$GNRMC,000000.000,A,,,,,,,000000,,*26
+$GPGSA,A,1,,,,,,,,,,,,,,,*1E
+$BDGSA,A,1,,,,,,,,,,,,,,,*0F
+$GPGSV,2,1,07,02,00,000,43,04,00,000,40,05,00,000,45,06,00,000,40*7E
+$GPGSV,2,2,07,09,00,000,41,29,00,000,47,25,00,000,42*4B
+$LOGTIM,0,0.000000,0.000000,0.000000,0.000000,0.000*0A
+EndT:        0
+timeH = 0,timeL = 403897909
+timeH = 0,timeL = 404348656
+sat13 = 17641 1838 6941 4000
+timeH = 0,timeL = 404817918
+timeH = 0,timeL = 405269322
+timeH = 0,timeL = 405720078
+timeH = 0,timeL = 406170826
+timeH = 0,timeL = 406621554
+sat14 = 17088 888 6821 4000
+timeH = 0,timeL = 407090854
+timeH = 0,timeL = 407542258
+timeH = 0,timeL = 407993024
+timeH = 0,timeL = 408443770
+timeH = 0,timeL = 408894528
+sat15 = 17679 342 6722 1750
+timeH = 0,timeL = 409363809
+timeH = 0,timeL = 409815213
+timeH = 0,timeL = 410265970
+timeH = 0,timeL = 410716717
+timeH = 0,timeL = 411167464
+sat16 = 18494 1324 6735 -1000
+timeH = 0,timeL = 411636764
+timeH = 0,timeL = 412088158
+timeH = 0,timeL = 412538914
+timeH = 0,timeL = 412989672
+timeH = 0,timeL = 413440418
+sat17 = 17730 1137 6657 -1000
+timeH = 0,timeL = 413909709
+timeH = 0,timeL = 414361104
+timeH = 0,timeL = 414811860
+timeH = 0,timeL = 415262598
+timeH = 0,timeL = 415713364
+sat18 = 17737 1603 6720 4750
+
